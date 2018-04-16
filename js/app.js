@@ -62,6 +62,13 @@ window.onload = function() {
                     return false;
                 }
             },
+            isRequirementStarted: function(requirement) {
+                if (requirement.current > 0) {
+                    return true;
+                } else {
+                    return false;
+                }
+            },
             areAllRequirementsComplete: function(mission) {
                 var complete = true;
                 var requirements = mission.requirements;

@@ -1,0 +1,11 @@
+[v-cloak] {
+    display: none;
+}
+.mission-card .card-body {
+    padding: .5em !important;
+}
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}

@@ -29,12 +29,18 @@
             <b-row v-for="mission in activeMissions" :key="mission.value">
                 <b-col>
                     <b-card bg-variant="light" class="mb-2 mission-card">
-                        <div class="w-25 float-left"><span class="m-0 vcenter"><strong>{{ mission.label }}</strong></span></div>
-                        <div class="w-75 float-right">
-                            <b-btn v-for="requirement in mission.requirements" :key="requirement.name" v-bind:class="{'mr-2' : true, 'btn-success' : isRequirementComplete(requirement), 'btn-warning' : (isRequirementStarted(requirement) && !isRequirementComplete(requirement))}" size="sm"  v-on:click="requirementIncrease(requirement)">{{ requirement.name }} {{ requirement.current }}/{{ requirement.goal }}</b-btn>
-                            <b-btn  v-bind:class="{'float-right' : true, 'btn-success' : areAllRequirementsComplete(mission)}" size="sm" v-bind:disabled="!areAllRequirementsComplete(mission)" v-on:click="removeActiveMission(activeMissions, mission)">&nbsp;<i class="octicon octicon-check"></i> </b-btn>
-                            <b-btn  v-bind:class="{'float-right' : true, 'btn-danger' : true, 'mr-2' : true}" size="sm" v-on:click="requirementResetAll(mission)">&nbsp;<i class="octicon octicon-sync"></i> </b-btn>
-                        </div>
+                        <b-row>
+                            <b-col>
+                                <span class="m-0 mb-1"><strong>{{ mission.label }}</strong></span>
+                            </b-col>
+                        </b-row>
+                        <b-row>
+                            <b-col>
+                                <b-btn v-for="requirement in mission.requirements" :key="requirement.name" v-bind:class="{'mr-2' : true, 'btn-success' : isRequirementComplete(requirement), 'btn-warning' : (isRequirementStarted(requirement) && !isRequirementComplete(requirement))}" size="sm"  v-on:click="requirementIncrease(requirement)">{{ requirement.name }} {{ requirement.current }}/{{ requirement.goal }}</b-btn>
+                                <b-btn  v-bind:class="{'float-right' : true, 'btn-success' : areAllRequirementsComplete(mission)}" size="sm" v-bind:disabled="!areAllRequirementsComplete(mission)" v-on:click="removeActiveMission(activeMissions, mission)">&nbsp;<i class="octicon octicon-check"></i> </b-btn>
+                                <b-btn  v-bind:class="{'float-right' : true, 'btn-danger' : true, 'mr-2' : true}" size="sm" v-on:click="requirementResetAll(mission)">&nbsp;<i class="octicon octicon-sync"></i> </b-btn>
+                            </b-col>
+                        </b-row>
                     </b-card>
                 </b-col>
             </b-row>

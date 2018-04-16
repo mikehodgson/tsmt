@@ -1,11 +1,19 @@
 var vm = '';
 
+function sortByName(a,b) {
+    if (a.label < b.label)
+        return -1;
+    if (a.label > b.label)
+        return 1;
+    return 0;
+  }
+
 window.onload = function() {
     Vue.component('v-select', VueSelect.VueSelect);
     vm = new Vue({
         el: '#app',
         data: {
-            missions: _DEFAULT_MISSION_DATA,
+            missions: _DEFAULT_MISSION_DATA.sort(sortByName),
             activeMissions: [],
             selectedMission: null
         },

@@ -33,8 +33,9 @@
             <b-row v-for="mission in activeMissions" :key="mission.value">
                 <b-col>
                     <b-card bg-variant="light" :header="mission.label" header-tag="header" class="mb-3">
-                        <b-btn v-for="requirement in mission.requirements" :key="requirement.name" v-bind:class="{'mr-2' : true, 'btn-success' : isRequirementComplete(requirement)}" size="sm" v-on:click="requirementIncrease(requirement)">{{ requirement.name }} {{ requirement.current }} / {{ requirement.goal }}</b-btn>
+                        <b-btn v-for="requirement in mission.requirements" :key="requirement.name" v-bind:class="{'mr-2' : true, 'btn-success' : isRequirementComplete(requirement)}" size="sm"  v-on:click="requirementIncrease(requirement)">{{ requirement.name }} {{ requirement.current }} / {{ requirement.goal }}</b-btn>
                         <b-btn  v-bind:class="{'float-right' : true, 'btn-success' : areAllRequirementsComplete(mission)}" size="sm" v-bind:disabled="!areAllRequirementsComplete(mission)" v-on:click="removeActiveMission(activeMissions, mission)">&nbsp;<i class="octicon octicon-check"></i> </b-btn>
+                        <b-btn  v-bind:class="{'float-right' : true, 'btn-danger' : true, 'mr-2' : true}" size="sm" v-on:click="requirementResetAll(mission)">&nbsp;<i class="octicon octicon-sync"></i> </b-btn>
                     </b-card>
                 </b-col>
             </b-row>

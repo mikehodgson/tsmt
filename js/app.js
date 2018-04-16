@@ -46,6 +46,15 @@ window.onload = function() {
                 if (requirement.current < requirement.goal) 
                     requirement.current += 1;
             },
+            requirementReset: function(requirement) {
+                requirement.current = 0;
+            },
+            requirementResetAll: function(mission) {
+                var requirements = mission.requirements;
+                for (let i=0; i < requirements.length; i++) {
+                    requirements[i].current = 0;
+                }
+            },
             isRequirementComplete: function(requirement) {
                 if (requirement.current >= requirement.goal) {
                     return true;

@@ -19,7 +19,7 @@
 <body>
     <div id="app" v-cloak>
         <b-container fluid>
-            <b-row>
+            <b-row v-if="activeMissions.length == 0">
                 <b-col>
                     <b-card title="Welcome" class="mb-2 mt-3">
                         <p class="card-text">Welcome to The Show Mission Tracker. This site uses cookies and local storage to save your settings. Click the Add Mission button to get started.</p>
@@ -28,21 +28,21 @@
             </b-row>
             <b-row v-for="mission in activeMissions" :key="mission.value">
                 <b-col>
-                    <b-card bg-variant="light" :header="mission.label" class="mb-2 mission-card">
+                    <b-card bg-variant="light" :header="mission.label" class="mt-2 mission-card">
                         <b-btn v-for="requirement in mission.requirements" :key="requirement.name" v-bind:class="{'mr-2' : true, 'btn-success' : isRequirementComplete(requirement), 'btn-warning' : (isRequirementStarted(requirement) && !isRequirementComplete(requirement))}" size="sm"  v-on:click="requirementIncrease(requirement)">{{ requirement.name }} {{ requirement.current }}/{{ requirement.goal }}</b-btn>
                         <b-btn  v-bind:class="{'float-right' : true, 'btn-success' : areAllRequirementsComplete(mission)}" size="sm" v-bind:disabled="!areAllRequirementsComplete(mission)" v-on:click="removeActiveMission(activeMissions, mission)">&nbsp;<i class="octicon octicon-check"></i> </b-btn>
                         <b-btn  v-bind:class="{'float-right' : true, 'btn-danger' : true, 'mr-2' : true}" size="sm" v-on:click="requirementResetAll(mission)">&nbsp;<i class="octicon octicon-sync"></i> </b-btn>
                     </b-card>
                 </b-col>
             </b-row>
-            <b-row class="mb-2">
+            <b-row class="mb-2 mt-2">
                 <b-col>
                     <b-btn v-b-modal="'addModal'" class="w-100" size="lg" variant="primary">Add Mission</b-btn>
                 </b-col>
             </b-row>
             <b-row class="mb-2" v-if="(activeMissions.length > 0)">
                 <b-col>
-                    <b-btn class="w-100" size="lg" variant="secondary" v-on:click="clearActiveMissions()">Clear Missions</b-btn>
+                    <b-btn class="w-100" size="lg" variant="secondary" v-on:click="clearActiveMissions()">Clear All Missions</b-btn>
                 </b-col>
             </b-row>
             <b-row id="pageFooter">

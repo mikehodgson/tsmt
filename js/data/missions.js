@@ -218,11 +218,11 @@ var _DEFAULT_MISSION_DATA = [{
     value: 15,
     label: "Jackie Robinson - 83 HW",
     requirements: [{
-        name: "DBL",
+        name: "2B",
         goal: 1,
         current: 0
     }, {
-        name: "TRP",
+        name: "3B",
         goal: 1,
         current: 0
     }]
@@ -244,7 +244,7 @@ var _DEFAULT_MISSION_DATA = [{
         goal: 203,
         current: 0
     }, {
-        name: "DBL",
+        name: "2B",
         goal: 38,
         current: 0
     }, {
@@ -264,7 +264,7 @@ var _DEFAULT_MISSION_DATA = [{
         goal: 704,
         current: 0
     }, {
-        name: "TRP",
+        name: "3B",
         goal: 12,
         current: 0
     }]
@@ -273,7 +273,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 18,
     label: "Mike Piazza - 69 IV",
     requirements: [{
-        name: "DBL",
+        name: "2B",
         goal: 10,
         current: 0
     }]
@@ -282,7 +282,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 19,
     label: "Mike Piazza - Catchers",
     requirements: [{
-        name: "DBL",
+        name: "2B",
         goal: 32,
         current: 0
     }, {
@@ -308,7 +308,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 21,
     label: "Ken Griffey Jr - 72 IV",
     requirements: [{
-        name: "DBL",
+        name: "2B",
         goal: 1,
         current: 0
     }, {
@@ -325,7 +325,7 @@ var _DEFAULT_MISSION_DATA = [{
         goal: 125,
         current: 0
     }, {
-        name: "DBL",
+        name: "2B",
         goal: 25,
         current: 0
     }, {
@@ -345,7 +345,7 @@ var _DEFAULT_MISSION_DATA = [{
         goal: 400,
         current: 0
     }, {
-        name: "TRP",
+        name: "3B",
         goal: 5,
         current: 0
     }]
@@ -407,7 +407,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 28,
     label: "Bob Gibson - STL Cardinal pitchers",
     requirements: [{
-        name: "SAVES",
+        name: "S",
         goal: 7,
         current: 0
     }]
@@ -416,7 +416,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 29,
     label: "Cal Ripken Jr - 78 IV",
     requirements: [{
-        name: "DBL",
+        name: "2B",
         goal: 25,
         current: 0
     }]
@@ -425,7 +425,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 30,
     label: "Cal Ripken Jr - Shortstops",
     requirements: [{
-        name: "DBL",
+        name: "2B",
         goal: 47,
         current: 0
     }]
@@ -434,7 +434,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 31,
     label: "Chipper Jones - 79 RC",
     requirements: [{
-        name: "DBL",
+        name: "2B",
         goal: 2,
         current: 0
     }, {
@@ -451,7 +451,7 @@ var _DEFAULT_MISSION_DATA = [{
         goal: 181,
         current: 0
     }, {
-        name: "DBL",
+        name: "2B",
         goal: 41,
         current: 0
     }, {
@@ -478,10 +478,14 @@ var _DEFAULT_MISSION_DATA = [{
 },
 {
     value: 33,
-    label: "Tom Seaver - Flashback Starting Pitche",
+    label: "Tom Seaver - Flashback Starting Pitcher",
     requirements: [{
         name: "IP",
         goal: 168,
+        current: 0
+    },{
+        name: "CG",
+        goal: 21,
         current: 0
     }]
 },
@@ -515,7 +519,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 36,
     label: "Billy Wagner - left-handed pitchers",
     requirements: [{
-        name: "SAVES",
+        name: "S",
         goal: 75,
         current: 0
     }]
@@ -524,7 +528,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 37,
     label: "Billy Wagner - left-handed pitchers",
     requirements: [{
-        name: "HOLDS",
+        name: "HO",
         goal: 200,
         current: 0
     }]
@@ -546,7 +550,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 40,
     label: "Rich Gossage - 70 RL",
     requirements: [{
-        name: "SAVES",
+        name: "S",
         goal: 25,
         current: 0
     }]
@@ -555,7 +559,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 41,
     label: "Rich Gossage - right-handed pitchers",
     requirements: [{
-        name: "SAVES",
+        name: "S",
         goal: 75,
         current: 0
     }]
@@ -564,7 +568,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 42,
     label: "Rich Gossage - right-handed pitchers",
     requirements: [{
-        name: "HOLDS",
+        name: "HO",
         goal: 200,
         current: 0
     }]
@@ -590,7 +594,7 @@ var _DEFAULT_MISSION_DATA = [{
         goal: 20,
         current: 0
     }, {
-        name: "DBL",
+        name: "2B",
         goal: 7,
         current: 0
     }, {
@@ -809,7 +813,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 65,
     label: "Hanley Ramirez - Shortstops",
     requirements: [{
-        name: "DBL",
+        name: "2B",
         goal: 15,
         current: 0
     }]
@@ -822,7 +826,7 @@ var _DEFAULT_MISSION_DATA = [{
         goal: 2,
         current: 0
     }, {
-        name: "DBL",
+        name: "2B",
         goal: 1,
         current: 0
     }, {
@@ -844,7 +848,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 68,
     label: "Joe Torre - 89 HW",
     requirements: [{
-        name: "DBL",
+        name: "2B",
         goal: 15,
         current: 0
     }]
@@ -926,7 +930,7 @@ var _DEFAULT_MISSION_DATA = [{
         goal: 10,
         current: 0
     }, {
-        name: "SAVES",
+        name: "S",
         goal: 10,
         current: 0
     }]
@@ -953,7 +957,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 77,
     label: "Lee Smith - Pitchers",
     requirements: [{
-        name: "SAVES",
+        name: "S",
         goal: 47,
         current: 0
     }]
@@ -984,7 +988,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 80,
     label: "Ryan Hanigan - 79 BO",
     requirements: [{
-        name: "DBL",
+        name: "2B",
         goal: 1,
         current: 0
     }, {
@@ -1018,7 +1022,7 @@ var _DEFAULT_MISSION_DATA = [{
         goal: 2,
         current: 0
     }, {
-        name: "DBL",
+        name: "2B",
         goal: 1,
         current: 0
     }, {
@@ -1262,7 +1266,7 @@ var _DEFAULT_MISSION_DATA = [{
         goal: 3,
         current: 0
     }, {
-        name: "DBL",
+        name: "2B",
         goal: 2,
         current: 0
     }]
@@ -1271,7 +1275,7 @@ var _DEFAULT_MISSION_DATA = [{
     value: 104,
     label: "Matthew Joyce - 78 AS",
     requirements: [{
-        name: "DBL",
+        name: "2B",
         goal: 5,
         current: 0
     }, {
@@ -1459,7 +1463,7 @@ var _DEFAULT_MISSION_DATA = [{
         goal: 30,
         current: 0
     }, {
-        name: "HOLDS",
+        name: "HO",
         goal: 5,
         current: 0
     }]
@@ -1468,11 +1472,11 @@ var _DEFAULT_MISSION_DATA = [{
     value: 118,
     label: "Chad Qualls - 78 IV",
     requirements: [{
-        name: "HOLDS",
+        name: "HO",
         goal: 4,
         current: 0
     }, {
-        name: "SAVES",
+        name: "S",
         goal: 1,
         current: 0
     }]
@@ -1485,7 +1489,7 @@ var _DEFAULT_MISSION_DATA = [{
         goal: 9,
         current: 0
     }, {
-        name: "SAVES",
+        name: "S",
         goal: 6,
         current: 0
     }]

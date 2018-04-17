@@ -89,7 +89,7 @@ window.onload = function() {
             },
             removeActiveMission: function(arr, obj) {
                 for (let i=0; i < arr.length; i++) {
-                    if (arr[i].value = obj.value) {
+                    if (arr[i].value == obj.value) {
                         arr.splice(i, 1);
                         break;
                     }

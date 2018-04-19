@@ -24,7 +24,7 @@ window.onload = function() {
             this.saveActiveMissions();
         },
         methods: {
-            handleOK (evt) {
+            handleOK: function(evt) {
                 if (this.selectedMission != null) {
                     if (!this.hasActiveMission(this.activeMissions, this.selectedMission)) {
                         this.activeMissions.push(this.selectedMission);

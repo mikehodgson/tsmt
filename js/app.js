@@ -43,7 +43,7 @@ window.onload = function() {
             saveActiveMissions: function(data) {
                 localStorage.setItem('activeMissions', JSON.stringify(this.activeMissions));
             },
-            hasActiveMission(arr, obj) {
+            hasActiveMission: function(arr, obj) {
                 if (arr.filter(function(e) { return e.value === obj.value; }).length > 0) {
                     return true;
                 } else {

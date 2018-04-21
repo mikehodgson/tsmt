@@ -17,7 +17,7 @@ function Mission(missionData) {
     this.requirements = missionData.requirements.map(function(r) { return new Requirement(r); });
     this.label = function() {
         var _this = this;
-        return _this.player + ' (' + _this.rating + '/' + _this.series + ') - ' + _this.program;
+        return _this.player + ' (' + _this.rating + '/' + _this.series + ') - ' + _this.program_type + ' - ' + _this.program;
     };
 }
 

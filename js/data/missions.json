@@ -1,0 +1,152 @@
+{
+    "version": "1.1.0",
+    "types":
+    [
+        "Team Epic",
+        "Conquest",
+        "Conquest Extreme",
+        "Catcher",
+        "First Basemen",
+        "Second Basemen",
+        "Third Basemen",
+        "Shortstops",
+        "Left Fielders",
+        "Center Fielders",
+        "Right Fielders",
+        "Starting Pitchers",
+        "Relief Pitchers",
+        "Closing Pitchers",
+        "Immortals",
+        "Career Arcs"
+    ],
+    "durations":
+    [
+        "Single Game",
+        "Multi-Game"
+    ],
+    "series":
+    [
+        "Default",
+        "Live",
+        "Rookie",
+        "Breakout",
+        "Impact Veteran",
+        "All-Star",
+        "Hardware",
+        "Postseason",
+        "Monthly Awards",
+        "Future Stars"
+    ],
+    "teams":
+    [
+        "Orioles",
+        "Red Sox",
+        "Yankees",
+        "Rays",
+        "Blue Jays",
+        "White Sox",
+        "Indians",
+        "Tigers",
+        "Royals",
+        "Twins",
+        "Astros",
+        "Angels",
+        "Athletics",
+        "Mariners",
+        "Rangers",
+        "Braves",
+        "Marlins",
+        "Mets",
+        "Phillies",
+        "Nationals",
+        "Cubs",
+        "Reds",
+        "Brewers",
+        "Pirates",
+        "Cardinals",
+        "Diamondbacks",
+        "Rockies",
+        "Dodgers",
+        "Padres",
+        "Giants"
+    ],
+    "positions": [
+        "SP",
+        "RP",
+        "CP",
+        "C",
+        "1B",
+        "2B",
+        "3B",
+        "SS",
+        "LF",
+        "CF",
+        "RF"
+    ],
+    "missions":
+    [
+        {
+            "id" : 1,
+            "player" : "George Brett",
+            "rating" : 74,
+            "series" : "Rookie",
+            "duration" : "Single Game",
+            "team" : "Royals",
+            "position" : "3B",
+            "type" : "Conquest",
+            "requirements":
+            [
+                {
+                    "type" : "H",
+                    "goal" : 2
+                },
+                {
+                    "type" : "2B",
+                    "goal" : 1
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "player" : "J.D. Martinez",
+            "rating" : 72,
+            "series" : "Rookie",
+            "duration" : "Single Game",
+            "team" : "Astros",
+            "position" : "LF",
+            "type" : "Conquest",
+            "requirements":
+            [
+                {
+                    "type" : "H",
+                    "goal" : 2
+                },
+                {
+                    "type" : "RBI",
+                    "goal" : 2
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "player" : "Wade Davis",
+            "rating" : 72,
+            "series" : "Rookie",
+            "duration" : "Single Game",
+            "team" : "Rays",
+            "position" : "SP",
+            "type" : "Conquest",
+            "requirements":
+            [
+                {
+                    "type" : "IP",
+                    "goal" : 2
+                },
+                {
+                    "type" : "K",
+                    "goal" : 3
+                }
+            ]
+        }
+    ]
+}

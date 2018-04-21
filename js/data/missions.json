@@ -94,6 +94,7 @@
             "team" : "Royals",
             "position" : "3B",
             "type" : "Conquest",
+            "program": "Conquest",
             "requirements":
             [
                 {
@@ -115,6 +116,7 @@
             "team" : "Astros",
             "position" : "LF",
             "type" : "Conquest",
+            "program": "Conquest",
             "requirements":
             [
                 {
@@ -136,6 +138,7 @@
             "team" : "Rays",
             "position" : "SP",
             "type" : "Conquest",
+            "program": "Conquest",
             "requirements":
             [
                 {

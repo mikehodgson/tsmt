@@ -22,7 +22,7 @@ function copyRecordFromDefault(recordID) {
 function copyRequirementsFromDefault(recordID) {
     var records = vm.$data.missions;
     var newRequirements = records.filter(function(e) { return e.id === recordID; })[0].requirements.map(function(oldRequirement) {
-        return {"type" : oldRequirement.type, "goal" : oldRequirement.goal, "current" : 0};
+        return new Requirement(oldRequirement);
     });
     return newRequirements;
 }
@@ -30,7 +30,7 @@ function copyRequirementsFromDefault(recordID) {
 function updateRequirements(requirementsArray) {
     var newRequirements = [];
     newRequirements = requirementsArray.map(function(oldRequirement) {
-        return {"type" : oldRequirement.name, "goal" : oldRequirement.goal, "current" : oldRequirement.current || 0};
+        return new Requirement(oldRequirement);
     });
     return newRequirements;
 }
@@ -39,7 +39,7 @@ function updateRecords(recordArray) {
     // Update old format records, because I'm a nice guy
     var newRecords = [];
     newRecords = recordArray.map(function(oldRecord) {
-        if (typeof oldRecord.type == 'undefined') {
+        if (typeof oldRecord.program_type == 'undefined') {
             var newRecord = copyRecordFromDefault(oldRecord.value);
             newRecord.requirements = updateRequirements(oldRecord.requirements);
             return newRecord;
@@ -65,7 +65,7 @@ window.onload = function() {
         created : function() {
             var _this = this;
             jQuery.getJSON('js/data/missions.json', function(json) {
-                _this.missions = json.missions;
+                _this.missions = getMissionsFromData(json.missions);
                 _this.defaults = json;
             });
         },
@@ -89,7 +89,7 @@ window.onload = function() {
             getActiveMissions: function() {
                 var data = localStorage.getItem('activeMissions');
                 if (data != null) {
-                    data = updateRecords(JSON.parse(data));
+                    data = getMissionsFromData(updateRecords(JSON.parse(data)));
                     return data;
                 } else {
                     return [];

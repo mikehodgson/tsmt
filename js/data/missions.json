@@ -1,6 +1,6 @@
 {
     "version": "1.1.0",
-    "types":
+    "program_types":
     [
         "Team Epic",
         "Conquest",
@@ -93,16 +93,16 @@
             "duration" : "Single Game",
             "team" : "Royals",
             "position" : "3B",
-            "type" : "Conquest",
+            "program_type" : "Conquest",
             "program": "Conquest",
             "requirements":
             [
                 {
-                    "type" : "H",
+                    "requirement_type" : "H",
                     "goal" : 2
                 },
                 {
-                    "type" : "2B",
+                    "requirement_type" : "2B",
                     "goal" : 1
                 }
             ]
@@ -115,16 +115,16 @@
             "duration" : "Single Game",
             "team" : "Astros",
             "position" : "LF",
-            "type" : "Conquest",
+            "program_type" : "Conquest",
             "program": "Conquest",
             "requirements":
             [
                 {
-                    "type" : "H",
+                    "requirement_type" : "H",
                     "goal" : 2
                 },
                 {
-                    "type" : "RBI",
+                    "requirement_type" : "RBI",
                     "goal" : 2
                 }
             ]
@@ -137,16 +137,16 @@
             "duration" : "Single Game",
             "team" : "Rays",
             "position" : "SP",
-            "type" : "Conquest",
+            "program_type" : "Conquest",
             "program": "Conquest",
             "requirements":
             [
                 {
-                    "type" : "IP",
+                    "requirement_type" : "IP",
                     "goal" : 2
                 },
                 {
-                    "type" : "K",
+                    "requirement_type" : "K",
                     "goal" : 3
                 }
             ]

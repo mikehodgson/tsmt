@@ -19,6 +19,13 @@
 <body>
     <div id="app" v-cloak>
         <b-container fluid>
+            <b-row v-if="activeMissions.length == 0">
+                <b-col>
+                    <b-card title="Welcome" class="mb-2 mt-3">
+                            <p class="card-text">Welcome to The Show Mission Tracker. This app uses cookies and local storage to save your settings. Click the <strong>Add Mission</strong> button to get started.</p>
+                    </b-card>
+                </b-col>
+            </b-row>
             <b-row v-for="mission in activeMissions" :key="mission.value">
                 <b-col>
                     <b-card bg-variant="light" class="mt-2 mission-card">

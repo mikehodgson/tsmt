@@ -30,7 +30,7 @@
             <b-row v-for="mission in activeMissions" :key="mission.value">
                 <b-col>
                     <b-card bg-variant="light" class="mt-2 mission-card">
-                        <span slot="header" class="float-left">{{ mission.label() }}</span>
+                        <span slot="header" class="float-left">{{ mission.label }}</span>
                         <b-btn v-for="requirement in mission.requirements" :key="requirement.requirement_type" :class="{'mr-2' : true, 'btn-success' : isRequirementComplete(requirement), 'btn-warning' : (isRequirementStarted(requirement) && !isRequirementComplete(requirement))}" size="sm"  @click="requirementIncrease(requirement)">
                             {{ requirement.requirement_type }} {{ requirement.current }}/{{ requirement.goal }}
                         </b-btn>
@@ -69,7 +69,7 @@
 
         <b-modal id="addModal" size="lg" title="Add Mission" @ok="handleOK">
             <b-form-row>
-                <v-select :options="missions" label="player" id="missionSelect" v-model="selectedMission" placeholder="Select a player mission..." class="w-100"></v-select>
+                <v-select :options="missions" value="id" label="label" id="missionSelect" v-model="selectedMission" placeholder="Select a player mission..." class="w-100"></v-select>
             </b-form-row>
         </b-modal>
     </div>

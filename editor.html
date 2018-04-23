@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>The Show Mission Tracker</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/font/octicons.min.css" type="text/css">
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.0/css/bootstrap.min.css"/>
+    <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-vue@2.0.0-rc.8/dist/bootstrap-vue.min.css"/>
+    <link type="text/css" rel="stylesheet" href="css/app.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.26.0/polyfill.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-vue@2.0.0-rc.8/dist/bootstrap-vue.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue-select/2.4.0/vue-select.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/model/Mission.js"></script>
+    <script src="js/editor.js"></script>
+</head>
+<body>
+    <div id="app" v-cloak>
+        <b-container fluid class="align-items-center">
+            <b-row class="mb-3 mt-2 text-center">
+                <b-col class="w-100">
+                    <b-btn class="w-25" size="lg" variant="primary" @click="addRow">
+                        Add Mission
+                    </b-btn>
+                    <b-btn class="w-25" size="lg" variant="secondary" @click="exportMissions">
+                        Export Data
+                    </b-btn>
+                </b-col>
+            </b-row>
+            <b-row class="text-center" ref="exportArea">
+                <b-col class="w-100">
+                    <textarea style="height: 100px;" class="w-75 m-3" :value="exportData" align="center"></textarea>
+                </b-col>
+            </b-row>
+            <table class="mb-3 mt-3 table w-75 table-bordered table-striped table-hover table-sm" align="center">
+                <thead class="thead-light">
+                    <tr>
+                        <th>ID</th>
+                        <th>Player</th>
+                        <th>Rating</th>
+                        <th>Series</th>
+                        <th>Team</th>
+                        <th>Duration</th>
+                        <th>Program Type</th>
+                        <th>Program Name</th>
+                        <th>Requirements</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="mission in missions" @click="editRow(mission)">
+                        <td>{{ mission.id }}</td>
+                        <td>{{ mission.player }}</td>
+                        <td>{{ mission.rating }}</td>
+                        <td>{{ mission.series }}</td>
+                        <td>{{ mission.team }}</td>
+                        <td>{{ mission.duration }}</td>
+                        <td>{{ mission.program_type }}</td>
+                        <td>{{ mission.program }}</td>
+                        <td>{{ mission.requirements.length }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </b-container>
+
+        <b-modal ref="addModal" id="addModal" size="lg" title="Edit/Add Mission" @ok="rowSaved">
+            <b-form class="m-3">
+                <h5>Program Description</h5>
+                <div class="row">
+                    <div class="col">
+                        <b-form-group label="ID">
+                            <b-input type="text" v-model="selectedMission.id"></b-input>
+                        </b-form-group>
+                    </div>
+                    <div class="col">
+                        <b-form-group label="Player Name">
+                            <b-input type="text" v-model="selectedMission.player"></b-input>
+                        </b-form-group>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <b-form-group label="Rating">
+                            <b-input type="text" v-model="selectedMission.rating"></b-input>
+                        </b-form-group>
+                    </div>
+                    <div class="col">
+                        <b-form-group label="Series">
+                            <v-select :options="settings.series" v-model="selectedMission.series" placeholder="Select a series..." class="w-100"></v-select>
+                        </b-form-group>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <b-form-group label="Team">
+                            <v-select :options="settings.teams" v-model="selectedMission.team" placeholder="Select a team..." class="w-100"></v-select>
+                        </b-form-group>
+                    </div>
+                    <div class="col">
+                        <b-form-group label="Position">
+                            <v-select :options="settings.prositions" v-model="selectedMission.position" placeholder="Select a player position..." class="w-100"></v-select>
+                        </b-form-group>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <b-form-group label="Program Type">
+                            <v-select :options="settings.program_types" v-model="selectedMission.program_type" placeholder="Select a player mission..." class="w-100"></v-select>
+                        </b-form-group>
+                    </div>
+                    <div class="col">
+                        <b-form-group label="Program">
+                            <b-input type="text" v-model="selectedMission.program"></b-input>
+                        </b-form-group>
+                    </div>
+                </div>
+                <h5>Requirements</h5>
+                <div class="mb-3 row" v-for="requirement in selectedMission.requirements">
+                    <div class="col">
+                        <b-input type="text" v-model="requirement.requirement_type"></b-input>
+                    </div>
+                    <div class="col">
+                        <b-btn class="float-right" variant="danger" @click="removeRequirement(requirement)"><i class="octicon octicon-x"></i></b-btn>
+                        <b-input class="float-left w-75" type="text" v-model="requirement.goal"></b-input>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <b-btn class="w-25" size="sm" variant="primary" @click="addRequirement">
+                            Add Requirement
+                        </b-btn>
+                    </div>
+                </div>
+            </b-form>
+        </b-modal>
+    </div>
+</body>
+</html>

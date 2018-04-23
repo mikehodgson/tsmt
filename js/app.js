@@ -58,15 +58,18 @@ window.onload = function() {
         el: '#app',
         data: {
             missions: [],
-            defaults: null,
+            defaults: {version: "0.0.0", missions: [], program_types: [], durations: [], series: [], teams: [], positions: []},
             activeMissions: [],
-            selectedMission: null
+            selectedMission: null,
+            filteredMissions: [],
+            selectedFilter: null
         },
         created : function() {
             var _this = this;
             jQuery.getJSON('js/data/missions.json', function(json) {
-                _this.missions = getMissionsFromData(json.missions);
-                _this.defaults = json;
+                _this.$data.missions = getMissionsFromData(json.missions);
+                _this.$data.defaults = json;
+                _this.$data.filteredMissions = _this.$data.missions;
             });
         },
         mounted : function() {
@@ -74,6 +77,11 @@ window.onload = function() {
         },
         updated : function() {
             this.saveActiveMissions();
+        },
+        watch: {
+            selectedFilter: function(newVal) {
+                this.updateFilter(newVal);
+            }
         },
         methods: {
             handleOK: function(evt) {
@@ -87,7 +95,7 @@ window.onload = function() {
                 }
             },
             getActiveMissions: function() {
-                var data = localStorage.getItem('activeMissions');
+                var data = localStorage.getItem('CurrentActiveMissions');
                 if (data != null) {
                     data = getMissionsFromData(updateRecords(JSON.parse(data)));
                     return data;
@@ -96,7 +104,7 @@ window.onload = function() {
                 }
             },
             saveActiveMissions: function(data) {
-                localStorage.setItem('activeMissions', JSON.stringify(this.activeMissions));
+                localStorage.setItem('CurrentActiveMissions', JSON.stringify(this.activeMissions));
             },
             hasActiveMission: function(arr, obj) {
                 if (arr.filter(function(e) { return e.id === obj.id; }).length > 0) {
@@ -152,6 +160,14 @@ window.onload = function() {
             },
             clearActiveMissions: function() {
                 this.activeMissions = [];
+            },
+            updateFilter: function(selectedOption) {
+                console.log(selectedOption);
+                if (selectedOption != null) {
+                    this.$data.filteredMissions = this.$data.missions.filter(function(e) { return e.program_type === selectedOption; });
+                } else {
+                    this.$data.filteredMissions = this.$data.missions;
+                }
             }
         }
     });

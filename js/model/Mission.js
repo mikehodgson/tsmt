@@ -23,3 +23,9 @@ function Mission(missionData) {
 function getMissionsFromData(missionsData) {
     return missionsData.map(function(md) { return new Mission(md); });
 }
+
+function createEmptyMission(nextID) {
+    var newMission = new Mission({"requirements" : []});
+    newMission.id = nextID;
+    return newMission;
+}

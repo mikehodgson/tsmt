@@ -31,6 +31,7 @@
                 <b-col>
                     <b-card bg-variant="light" class="mt-2 mission-card">
                         <span slot="header" class="float-left">{{ mission.label }}</span>
+                        <span slot="header" class="float-right">{{ mission.duration }}</span>
                         <b-btn v-for="requirement in mission.requirements" :key="requirement.requirement_type" :class="{'mr-2' : true, 'btn-success' : isRequirementComplete(requirement), 'btn-warning' : (isRequirementStarted(requirement) && !isRequirementComplete(requirement))}" size="sm"  @click="requirementIncrease(requirement)">
                             {{ requirement.requirement_type }} {{ requirement.current }}/{{ requirement.goal }}
                         </b-btn>
@@ -61,7 +62,8 @@
                 <b-col>
                     <p class="text-center">
                         Application created by <a href="https://twitter.com/mhodgson">Mike Hodgson</a> (<a href="https://github.com/mikehodgson/tsmt">github</a>). MLB The Show is &copy; 2018 Sony Interactive Entertainment LLC.<br/>
-                        Find this app useful? <a href="https://paypal.me/mhodgson">Send a tip</a> to cover hosting and development cost!
+                        Find this app useful? <a href="https://paypal.me/mhodgson">Send a tip</a> to cover hosting and development cost!<br>
+                        version {{ defaults.version }}
                     </p>
                 </b-col>
             </b-row>
@@ -69,7 +71,8 @@
 
         <b-modal id="addModal" size="lg" title="Add Mission" @ok="handleOK">
             <b-form-row>
-                <v-select :options="missions" value="id" label="label" id="missionSelect" v-model="selectedMission" placeholder="Select a player mission..." class="w-100"></v-select>
+                <v-select :options="defaults.program_types" v-model="selectedFilter" placeholder="Select a program type..." class="w-100 mb-3" @select="updateFilter" :value.sync="selectedFilter"></v-select>
+                <v-select :options="filteredMissions" value="id" label="label" id="missionSelect" v-model="selectedMission" placeholder="Select a player mission..." class="w-100"></v-select>
             </b-form-row>
         </b-modal>
     </div>

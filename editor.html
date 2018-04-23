@@ -12,7 +12,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.26.0/polyfill.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap-vue@2.0.0-rc.8/dist/bootstrap-vue.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue-select/2.4.0/vue-select.js"></script>
+    <script src="js/vue-select.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="js/model/Mission.js"></script>
     <script src="js/editor.min.js"></script>
@@ -50,7 +50,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr v-for="mission in missions" @click="editRow(mission)">
+                    <tr v-for="mission in missions" v-bind:key="mission.id" @click="editRow(mission)">
                         <td>{{ mission.id }}</td>
                         <td>{{ mission.player }}</td>
                         <td>{{ mission.rating }}</td>
@@ -115,7 +115,12 @@
                             <b-input type="text" v-model="selectedMission.program"></b-input>
                         </b-form-group>
                     </div>
-                </div>
+                    <div class="col">
+                            <b-form-group label="Duration">
+                                <v-select :options="settings.durations" v-model="selectedMission.duration" placeholder="Duration..." class="w-100"></v-select>
+                            </b-form-group>
+                        </div>
+                    </div>
                 <h5>Requirements</h5>
                 <div class="mb-3 row" v-for="requirement in selectedMission.requirements">
                     <div class="col">

@@ -68,6 +68,9 @@ window.onload = function() {
                 localStorage.setItem('editMissionSavePoint', JSON.stringify(this.$data.missions));
             },
             rowSaved: function() {
+                if (this.$data.selectedMission.id == this.getNextID()) {
+                    this.$data.missions.push(this.$data.selectedMission);
+                }
                 this.updateSavePoint();
             }
         }

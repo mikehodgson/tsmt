@@ -29,19 +29,31 @@
             </b-row>
             <b-row v-for="mission in activeMissions" :key="mission.value">
                 <b-col>
-                    <b-card bg-variant="light" class="mt-2 mission-card">
-                        <span slot="header" class="float-left">{{ mission.label }}</span>
-                        <span slot="header" class="float-right">{{ mission.duration }}</span>
-                        <b-btn v-for="requirement in mission.requirements" :key="requirement.requirement_type" :class="{'mr-2' : true, 'btn-success' : isRequirementComplete(requirement), 'btn-warning' : (isRequirementStarted(requirement) && !isRequirementComplete(requirement))}" size="sm"  @click="requirementIncrease(requirement)">
-                            {{ requirement.requirement_type }} {{ requirement.current }}/{{ requirement.goal }}
-                        </b-btn>
-                        <b-btn :class="{'ml-2': true, 'float-right' : true, 'btn-success' : areAllRequirementsComplete(mission), 'btn-danger' : !areAllRequirementsComplete(mission)}" size="sm" @click="removeActiveMission(activeMissions, mission)">
-                            &nbsp;<i :class="{'octicon' : true, 'octicon-check' : areAllRequirementsComplete(mission), 'octicon-x': !areAllRequirementsComplete(mission)}"></i>
-                        </b-btn>
-                        <b-btn :class="{'float-right' : true, 'btn-danger' : true}" size="sm" @click="requirementResetAll(mission)">
-                            &nbsp;<i class="octicon octicon-sync"></i>
-                        </b-btn>
-                    </b-card>
+                    <div class="card">
+                        <div class="card-header text-truncate">
+                            <div class="row">
+                                <div class="col-75 text-truncate w-75">{{ mission.label }}</div>
+                                <div class="col-25 w-25 text-right">{{ mission.duration }}</div>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-75 w-75">
+                                    <b-btn v-for="requirement in mission.requirements" :key="requirement.requirement_type" :class="{'mb-1' : true, 'mr-2' : true, 'btn-success' : isRequirementComplete(requirement), 'btn-warning' : (isRequirementStarted(requirement) && !isRequirementComplete(requirement))}" size="sm"  @click="requirementIncrease(requirement)">
+                                        {{ requirement.requirement_type }} {{ requirement.current }}/{{ requirement.goal }}
+                                    </b-btn>
+                                </div>
+                                <div class="col-25 w-25 text-right">
+                                    <b-btn :class="{'ml-2': true, 'float-right' : true, 'btn-success' : areAllRequirementsComplete(mission), 'btn-danger' : !areAllRequirementsComplete(mission)}" size="sm" @click="removeActiveMission(activeMissions, mission)">
+                                        &nbsp;<i :class="{'octicon' : true, 'octicon-check' : areAllRequirementsComplete(mission), 'octicon-x': !areAllRequirementsComplete(mission)}"></i>
+                                    </b-btn>
+                                    <b-btn :class="{'float-right' : true, 'btn-danger' : true}" size="sm" @click="requirementResetAll(mission)">
+                                        &nbsp;<i class="octicon octicon-sync"></i>
+                                    </b-btn>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </b-col>
             </b-row>
             <b-row class="mb-3 mt-2">

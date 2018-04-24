@@ -1,7 +1,6 @@
 {
     "version": "1.1.0",
-    "program_types":
-    [
+    "program_types": [
         "Team Epic",
         "Conquest",
         "Conquest Extreme",
@@ -19,13 +18,11 @@
         "Immortals",
         "Career Arcs"
     ],
-    "durations":
-    [
+    "durations": [
         "Single Game",
         "Multi-Game"
     ],
-    "series":
-    [
+    "series": [
         "Default",
         "Live",
         "Rookie",
@@ -37,8 +34,7 @@
         "Monthly Awards",
         "Future Stars"
     ],
-    "teams":
-    [
+    "teams": [
         "Orioles",
         "Red Sox",
         "Yankees",
@@ -83,9 +79,7 @@
         "CF",
         "RF"
     ],
-    "missions": 
-[
-    {
+    "missions": [{
         "id": 1,
         "player": "George Brett",
         "rating": 74,
@@ -95,21 +89,17 @@
         "position": "3B",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "2B",
-                "goal": 1,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": 1,
+            "current": 0
+        }],
         "label": "George Brett (74/Rookie) - Conquest - Conquest Part 1"
-    },
-    {
+    }, {
         "id": 2,
         "player": "J.D. Martinez",
         "rating": 72,
@@ -119,21 +109,17 @@
         "position": "LF",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 2,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 2,
+            "current": 0
+        }],
         "label": "J.D. Martinez (72/Rookie) - Conquest - Conquest Part 1"
-    },
-    {
+    }, {
         "id": 3,
         "player": "Wade Davis",
         "rating": 72,
@@ -143,21 +129,17 @@
         "position": "SP",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 3,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 3,
+            "current": 0
+        }],
         "label": "Wade Davis (72/Rookie) - Conquest - Conquest Part 1"
-    },
-    {
+    }, {
         "id": 4,
         "player": "Shawn Green",
         "rating": "76",
@@ -167,21 +149,17 @@
         "position": "",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "SB",
-                "goal": 1,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": 1,
+            "current": 0
+        }],
         "label": "Shawn Green (76/Rookie) - Conquest - Conquest Part 1"
-    },
-    {
+    }, {
         "id": 5,
         "player": "Harold Baines",
         "rating": "68",
@@ -191,21 +169,17 @@
         "position": "",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "PO",
-                "goal": 2,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "PO",
+            "goal": 2,
+            "current": 0
+        }],
         "label": "Harold Baines (68/Rookie) - Conquest - Conquest Part 1"
-    },
-    {
+    }, {
         "id": 6,
         "player": "Brad Ziegler",
         "rating": "70",
@@ -215,21 +189,17 @@
         "position": "",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
-        "requirements": [
-            {
-                "requirement_type": "HO",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 2,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "HO",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 2,
+            "current": 0
+        }],
         "label": "Brad Ziegler (70/Impact Veteran) - Conquest - Conquest Part 1"
-    },
-    {
+    }, {
         "id": 7,
         "player": "Dale Murphy",
         "rating": "74",
@@ -239,26 +209,21 @@
         "position": "C",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "SB",
-                "goal": 1,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": 1,
+            "current": 0
+        }],
         "label": "Dale Murphy (74/Rookie) - Conquest - Conquest Part 1"
-    },
-    {
+    }, {
         "id": 8,
         "player": "Henderson Alvarez",
         "rating": "76",
@@ -268,21 +233,17 @@
         "position": "SP",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "IP",
-                "goal": 3,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 3,
+            "current": 0
+        }],
         "label": "Henderson Alvarez (76/All-Star) - Conquest - Conquest Part 1"
-    },
-    {
+    }, {
         "id": 9,
         "player": "Eric Karros",
         "rating": "74",
@@ -292,21 +253,17 @@
         "position": "",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 1,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 1,
+            "current": 0
+        }],
         "label": "Eric Karros (74/Impact Veteran) - Conquest - Conquest Part 1"
-    },
-    {
+    }, {
         "id": 10,
         "player": "Bill Mazeroski",
         "rating": "72",
@@ -316,26 +273,21 @@
         "position": "",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "PO",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "A",
-                "goal": 1,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "PO",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "A",
+            "goal": 1,
+            "current": 0
+        }],
         "label": "Bill Mazeroski (72/Rookie) - Conquest - Conquest Part 1"
-    },
-    {
+    }, {
         "id": 11,
         "player": "Matt Kemp",
         "rating": "74",
@@ -345,21 +297,17 @@
         "position": "",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "SB",
-                "goal": 1,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": 1,
+            "current": 0
+        }],
         "label": "Matt Kemp (74/Rookie) - Conquest - Conquest Part 1"
-    },
-    {
+    }, {
         "id": 12,
         "player": "Brandon Crawford",
         "rating": "69",
@@ -369,21 +317,17 @@
         "position": "",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "A",
-                "goal": 2,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "A",
+            "goal": 2,
+            "current": 0
+        }],
         "label": "Brandon Crawford (69/Rookie) - Conquest - Conquest Part 1"
-    },
-    {
+    }, {
         "id": 13,
         "player": "Babe Ruth",
         "rating": "77",
@@ -393,21 +337,17 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Babe Ruth",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 3,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Babe Ruth (77/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 3,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Babe Ruth (77/Rookie) - Immortals - Babe Ruth"
+    }, {
         "id": 14,
         "player": "Babe Ruth",
         "rating": "77",
@@ -417,21 +357,17 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Babe Ruth",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 8,
-                "current": 0
-            },
-            {
-                "requirement_type": "SO",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Babe Ruth (77/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 8,
+            "current": 0
+        }, {
+            "requirement_type": "SO",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Babe Ruth (77/Rookie) - Immortals - Babe Ruth"
+    }, {
         "id": 15,
         "player": "Jackie Robinson",
         "rating": "83",
@@ -441,21 +377,17 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Jackie Robinson",
-        "requirements": [
-            {
-                "requirement_type": "2B",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "3B",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Jackie Robinson (83/Hardware) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Jackie Robinson (83/Hardware) - Immortals - Jackie Robinson"
+    }, {
         "id": 16,
         "player": "Jackie Robinson",
         "rating": "",
@@ -465,65 +397,53 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Jackie Robinson",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 10,
-                "current": 0
-            }
-        ],
-        "label": "Jackie Robinson (/All-Star) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 10,
+            "current": 0
+        }],
+        "label": "Jackie Robinson (/All-Star) - Immortals - Jackie Robinson"
+    }, {
         "id": 17,
         "player": "Los Angeles Dodgers Players",
         "rating": "",
-        "series": null,
+        "series": "",
         "duration": "Multi-Game",
         "team": "Dodgers",
         "position": "",
         "program_type": "Immortals",
         "program": "Jackie Robinson",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 203,
-                "current": 0
-            },
-            {
-                "requirement_type": "2B",
-                "goal": 38,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 124,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 16,
-                "current": 0
-            },
-            {
-                "requirement_type": "SB",
-                "goal": 37,
-                "current": 0
-            },
-            {
-                "requirement_type": "TPA",
-                "goal": 704,
-                "current": 0
-            },
-            {
-                "requirement_type": "3B",
-                "goal": 12,
-                "current": 0
-            }
-        ],
-        "label": "Jackie Robinson (/players) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 203,
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": 38,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 124,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 16,
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": 37,
+            "current": 0
+        }, {
+            "requirement_type": "TPA",
+            "goal": 704,
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": 12,
+            "current": 0
+        }],
+        "label": "Los Angeles Dodgers Players (/) - Immortals - Jackie Robinson"
+    }, {
         "id": 18,
         "player": "Mike Piazza",
         "rating": "69",
@@ -533,64 +453,53 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Mike Piazza",
-        "requirements": [
-            {
-                "requirement_type": "2B",
-                "goal": 10,
-                "current": 0
-            }
-        ],
-        "label": "Mike Piazza (69/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": 10,
+            "current": 0
+        }],
+        "label": "Mike Piazza (69/Impact Veteran) - Immortals - Mike Piazza"
+    }, {
         "id": 19,
         "player": "Any Catchers",
         "rating": "",
-        "series": null,
+        "series": "",
         "duration": "Multi-Game",
         "team": "",
         "position": "",
         "program_type": "Immortals",
         "program": "Mike Piazza",
-        "requirements": [
-            {
-                "requirement_type": "2B",
-                "goal": 32,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 124,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 40,
-                "current": 0
-            }
-        ],
-        "label": "Mike Piazza (/Catchers) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": 32,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 124,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 40,
+            "current": 0
+        }],
+        "label": "Any Catchers (/) - Immortals - Mike Piazza"
+    }, {
         "id": 20,
         "player": "Any First Basemen",
         "rating": "",
-        "series": null,
+        "series": "",
         "duration": "Multi-Game",
         "team": "",
         "position": "",
         "program_type": "Immortals",
         "program": "Albert Pujols",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 212,
-                "current": 0
-            }
-        ],
-        "label": "Albert Pujols (/basemen) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 212,
+            "current": 0
+        }],
+        "label": "Any First Basemen (/) - Immortals - Albert Pujols"
+    }, {
         "id": 21,
         "player": "Ken Griffey Jr.",
         "rating": "72",
@@ -600,89 +509,73 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Ken Griffey Jr.",
-        "requirements": [
-            {
-                "requirement_type": "2B",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "BB",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Ken Griffey Jr (72/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "BB",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Ken Griffey Jr. (72/Impact Veteran) - Immortals - Ken Griffey Jr."
+    }, {
         "id": 22,
         "player": "Ken Griffey Jr.",
         "rating": "",
-        "series": null,
+        "series": "",
         "duration": "Multi-Game",
         "team": "",
         "position": "",
         "program_type": "Immortals",
         "program": "Ken Griffey Jr.",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 125,
-                "current": 0
-            },
-            {
-                "requirement_type": "2B",
-                "goal": 25,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 100,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 90,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 40,
-                "current": 0
-            },
-            {
-                "requirement_type": "TPA",
-                "goal": 400,
-                "current": 0
-            },
-            {
-                "requirement_type": "3B",
-                "goal": 5,
-                "current": 0
-            }
-        ],
-        "label": "Ken Griffey Jr (/Jr) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 125,
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": 25,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 100,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 90,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 40,
+            "current": 0
+        }, {
+            "requirement_type": "TPA",
+            "goal": 400,
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": 5,
+            "current": 0
+        }],
+        "label": "Ken Griffey Jr. (/) - Immortals - Ken Griffey Jr."
+    }, {
         "id": 23,
         "player": "Ken Griffey Jr.",
         "rating": "",
-        "series": null,
+        "series": "",
         "duration": "Multi-Game",
         "team": "",
         "position": "",
         "program_type": "Immortals",
         "program": "Ken Griffey Jr.",
-        "requirements": [
-            {
-                "requirement_type": "SB",
-                "goal": 24,
-                "current": 0
-            }
-        ],
-        "label": "Ken Griffey Jr (/Jr) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "SB",
+            "goal": 24,
+            "current": 0
+        }],
+        "label": "Ken Griffey Jr. (/) - Immortals - Ken Griffey Jr."
+    }, {
         "id": 24,
         "player": "Ken Griffey Jr",
         "rating": "79",
@@ -692,21 +585,17 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Ken Griffey Jr.",
-        "requirements": [
-            {
-                "requirement_type": "RBI",
-                "goal": 3,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Ken Griffey Jr (79/All-Star) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "RBI",
+            "goal": 3,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Ken Griffey Jr (79/All-Star) - Immortals - Ken Griffey Jr."
+    }, {
         "id": 25,
         "player": "Bob Gibson",
         "rating": "73",
@@ -716,59 +605,49 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Bob Gibson",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 10,
-                "current": 0
-            }
-        ],
-        "label": "Bob Gibson (73/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 10,
+            "current": 0
+        }],
+        "label": "Bob Gibson (73/Rookie) - Immortals - Bob Gibson"
+    }, {
         "id": 26,
         "player": "Bob Gibson",
         "rating": "",
-        "series": null,
+        "series": "",
         "duration": "Multi-Game",
         "team": "Cardinals",
         "position": "",
         "program_type": "Immortals",
         "program": "Bob Gibson",
-        "requirements": [
-            {
-                "requirement_type": "K",
-                "goal": 274,
-                "current": 0
-            }
-        ],
-        "label": "Bob Gibson (/Breakout) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": 274,
+            "current": 0
+        }],
+        "label": "Bob Gibson (/) - Immortals - Bob Gibson"
+    }, {
         "id": 27,
         "player": "Any Legend SP",
         "rating": "",
-        "series": null,
+        "series": "",
         "duration": "Multi-Game",
         "team": "",
         "position": "",
         "program_type": "Immortals",
         "program": "Bob Gibson",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 314,
-                "current": 0
-            }
-        ],
-        "label": "Bob Gibson (/Pitchers) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 314,
+            "current": 0
+        }],
+        "label": "Any Legend SP (/) - Immortals - Bob Gibson"
+    }, {
         "id": 28,
         "player": "Any Cardinals RP/CP",
         "rating": "",
@@ -778,16 +657,13 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Bob Gibson",
-        "requirements": [
-            {
-                "requirement_type": "S",
-                "goal": 7,
-                "current": 0
-            }
-        ],
-        "label": "Bob Gibson (/pitchers) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "S",
+            "goal": 7,
+            "current": 0
+        }],
+        "label": "Any Cardinals RP/CP (/pitchers) - Immortals - Bob Gibson"
+    }, {
         "id": 29,
         "player": "Cal Ripken Jr.",
         "rating": "78",
@@ -797,35 +673,29 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Cal Ripken Jr.",
-        "requirements": [
-            {
-                "requirement_type": "2B",
-                "goal": 25,
-                "current": 0
-            }
-        ],
-        "label": "Cal Ripken Jr (78/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": 25,
+            "current": 0
+        }],
+        "label": "Cal Ripken Jr. (78/Impact Veteran) - Immortals - Cal Ripken Jr."
+    }, {
         "id": 30,
         "player": "Any Shortstop",
         "rating": "",
-        "series": null,
+        "series": "",
         "duration": "Multi-Game",
         "team": "",
         "position": "",
         "program_type": "Immortals",
         "program": "Cal Ripken Jr.",
-        "requirements": [
-            {
-                "requirement_type": "2B",
-                "goal": 47,
-                "current": 0
-            }
-        ],
-        "label": "Cal Ripken Jr (/Shortstops) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": 47,
+            "current": 0
+        }],
+        "label": "Any Shortstop (/) - Immortals - Cal Ripken Jr."
+    }, {
         "id": 31,
         "player": "Chipper Jones",
         "rating": "79",
@@ -835,70 +705,57 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Chipper Jones",
-        "requirements": [
-            {
-                "requirement_type": "2B",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Chipper Jones (79/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Chipper Jones (79/Rookie) - Immortals - Chipper Jones"
+    }, {
         "id": 32,
         "player": "Any Legend Players",
         "rating": "",
-        "series": null,
+        "series": "",
         "duration": "Multi-Game",
-        "team": null,
-        "position": null,
+        "team": "",
+        "position": "",
         "program_type": "Immortals",
         "program": "Chipper Jones",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 181,
-                "current": 0
-            },
-            {
-                "requirement_type": "2B",
-                "goal": 41,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 110,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 116,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 45,
-                "current": 0
-            },
-            {
-                "requirement_type": "SB",
-                "goal": 25,
-                "current": 0
-            },
-            {
-                "requirement_type": "TPA",
-                "goal": 700,
-                "current": 0
-            }
-        ],
-        "label": "Chipper Jones (/players) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 181,
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": 41,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 110,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 116,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 45,
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": 25,
+            "current": 0
+        }, {
+            "requirement_type": "TPA",
+            "goal": 700,
+            "current": 0
+        }],
+        "label": "Any Legend Players (/) - Immortals - Chipper Jones"
+    }, {
         "id": 33,
         "player": "Any Flashback SP",
         "rating": "",
@@ -908,21 +765,17 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Tom Seaver",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 168,
-                "current": 0
-            },
-            {
-                "requirement_type": "CG",
-                "goal": 21,
-                "current": 0
-            }
-        ],
-        "label": "Tom Seaver (/Pitcher) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 168,
+            "current": 0
+        }, {
+            "requirement_type": "CG",
+            "goal": 21,
+            "current": 0
+        }],
+        "label": "Any Flashback SP (/Default) - Immortals - Tom Seaver"
+    }, {
         "id": 34,
         "player": "Nolan Ryan",
         "rating": "83",
@@ -932,26 +785,21 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Nolan Ryan",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "IP",
-                "goal": 4,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 4,
-                "current": 0
-            }
-        ],
-        "label": "Nolan Ryan (83/Postseason) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 4,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 4,
+            "current": 0
+        }],
+        "label": "Nolan Ryan (83/Postseason) - Immortals - Nolan Ryan"
+    }, {
         "id": 35,
         "player": "Any Starting Pitcher",
         "rating": "",
@@ -961,16 +809,13 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Nolan Ryan",
-        "requirements": [
-            {
-                "requirement_type": "K",
-                "goal": 383,
-                "current": 0
-            }
-        ],
-        "label": "Nolan Ryan (/Pitchers) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": 383,
+            "current": 0
+        }],
+        "label": "Any Starting Pitcher (/Default) - Immortals - Nolan Ryan"
+    }, {
         "id": 36,
         "player": "Any Left-Handed RP/CP",
         "rating": "",
@@ -980,16 +825,13 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Billy Wagner",
-        "requirements": [
-            {
-                "requirement_type": "S",
-                "goal": 75,
-                "current": 0
-            }
-        ],
-        "label": "Billy Wagner (/pitchers) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "S",
+            "goal": 75,
+            "current": 0
+        }],
+        "label": "Any Left-Handed RP/CP (/Default) - Immortals - Billy Wagner"
+    }, {
         "id": 37,
         "player": "Any Left-Handed RP/CP",
         "rating": "",
@@ -999,16 +841,13 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Billy Wagner",
-        "requirements": [
-            {
-                "requirement_type": "HO",
-                "goal": 200,
-                "current": 0
-            }
-        ],
-        "label": "Billy Wagner (/pitchers) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "HO",
+            "goal": 200,
+            "current": 0
+        }],
+        "label": "Any Left-Handed RP/CP (/Default) - Immortals - Billy Wagner"
+    }, {
         "id": 39,
         "player": "Rich Gossage",
         "rating": "70",
@@ -1018,21 +857,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Rich Gossage",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "IP",
-                "goal": 4,
-                "current": 0
-            }
-        ],
-        "label": "Rich Gossage (70/RL) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 4,
+            "current": 0
+        }],
+        "label": "Rich Gossage (70/Rookie) - Career Arcs - Rich Gossage"
+    }, {
         "id": 40,
         "player": "Rich Gossage",
         "rating": "70",
@@ -1042,16 +877,13 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Rich Gossage",
-        "requirements": [
-            {
-                "requirement_type": "S",
-                "goal": 25,
-                "current": 0
-            }
-        ],
-        "label": "Rich Gossage (70/RL) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "S",
+            "goal": 25,
+            "current": 0
+        }],
+        "label": "Rich Gossage (70/Rookie) - Immortals - Rich Gossage"
+    }, {
         "id": 41,
         "player": "Any Right-Handed RP/CP",
         "rating": "",
@@ -1061,16 +893,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Rich Gossage",
-        "requirements": [
-            {
-                "requirement_type": "S",
-                "goal": 75,
-                "current": 0
-            }
-        ],
-        "label": "Rich Gossage (/pitchers) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "S",
+            "goal": 75,
+            "current": 0
+        }],
+        "label": "Any Right-Handed RP/CP (/Default) - Career Arcs - Rich Gossage"
+    }, {
         "id": 42,
         "player": "Any Right-Handed RP/CP",
         "rating": "",
@@ -1080,16 +909,13 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Rich Gossage",
-        "requirements": [
-            {
-                "requirement_type": "HO",
-                "goal": 200,
-                "current": 0
-            }
-        ],
-        "label": "Rich Gossage (/pitchers) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "HO",
+            "goal": 200,
+            "current": 0
+        }],
+        "label": "Any Right-Handed RP/CP (/Default) - Immortals - Rich Gossage"
+    }, {
         "id": 43,
         "player": "Billy Williams",
         "rating": "76",
@@ -1099,21 +925,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Billy Williams",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Billy Williams (76/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Billy Williams (76/Impact Veteran) - Career Arcs - Billy Williams"
+    }, {
         "id": 44,
         "player": "Billy Williams",
         "rating": "82",
@@ -1123,41 +945,33 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Billy Williams",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 20,
-                "current": 0
-            },
-            {
-                "requirement_type": "2B",
-                "goal": 7,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 15,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 10,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 3,
-                "current": 0
-            },
-            {
-                "requirement_type": "TPA",
-                "goal": 75,
-                "current": 0
-            }
-        ],
-        "label": "Billy Williams (82/Hardware) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 20,
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": 7,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 15,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 10,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 3,
+            "current": 0
+        }, {
+            "requirement_type": "TPA",
+            "goal": 75,
+            "current": 0
+        }],
+        "label": "Billy Williams (82/Hardware) - Career Arcs - Billy Williams"
+    }, {
         "id": 45,
         "player": "Any Legend Left Fielders",
         "rating": "",
@@ -1167,16 +981,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Billy Williams",
-        "requirements": [
-            {
-                "requirement_type": "HR",
-                "goal": 10,
-                "current": 0
-            }
-        ],
-        "label": "Billy Williams (/Fielders) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": 10,
+            "current": 0
+        }],
+        "label": "Any Legend Left Fielders (/Fielders) - Career Arcs - Billy Williams"
+    }, {
         "id": 46,
         "player": "Chase Utley",
         "rating": "72",
@@ -1186,16 +997,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Chase Utley",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 3,
-                "current": 0
-            }
-        ],
-        "label": "Chase Utley (72/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 3,
+            "current": 0
+        }],
+        "label": "Chase Utley (72/Rookie) - Career Arcs - Chase Utley"
+    }, {
         "id": 47,
         "player": "Any Second Basemen",
         "rating": "",
@@ -1205,21 +1013,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Chase Utley",
-        "requirements": [
-            {
-                "requirement_type": "RBI",
-                "goal": 15,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 23,
-                "current": 0
-            }
-        ],
-        "label": "Chase Utley (/Basemen) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "RBI",
+            "goal": 15,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 23,
+            "current": 0
+        }],
+        "label": "Any Second Basemen (/Default) - Career Arcs - Chase Utley"
+    }, {
         "id": 48,
         "player": "Gary Carter",
         "rating": "78",
@@ -1229,16 +1033,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Gary Carter",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 15,
-                "current": 0
-            }
-        ],
-        "label": "Gary Carter (78/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 15,
+            "current": 0
+        }],
+        "label": "Gary Carter (78/Rookie) - Career Arcs - Gary Carter"
+    }, {
         "id": 49,
         "player": "Gary Carter",
         "rating": "84",
@@ -1248,40 +1049,33 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Gary Carter",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Gary Carter (84/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Gary Carter (84/Impact Veteran) - Career Arcs - Gary Carter"
+    }, {
         "id": 50,
         "player": "Any Catchers",
         "rating": "",
-        "series": null,
+        "series": "",
         "duration": "Multi-Game",
         "team": "",
         "position": "",
         "program_type": "Career Arcs",
         "program": "Gary Carter",
-        "requirements": [
-            {
-                "requirement_type": "RBI",
-                "goal": 30,
-                "current": 0
-            }
-        ],
-        "label": "Gary Carter (/Catchers) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "RBI",
+            "goal": 30,
+            "current": 0
+        }],
+        "label": "Any Catchers (/) - Career Arcs - Gary Carter"
+    }, {
         "id": 51,
         "player": "Paul Molitor",
         "rating": "74",
@@ -1291,21 +1085,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Paul Molitor",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Paul Molitor (74/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Paul Molitor (74/Impact Veteran) - Career Arcs - Paul Molitor"
+    }, {
         "id": 52,
         "player": "Paul Molitor",
         "rating": "78",
@@ -1315,21 +1105,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Paul Molitor",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "SB",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Paul Molitor (78/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Paul Molitor (78/Rookie) - Career Arcs - Paul Molitor"
+    }, {
         "id": 53,
         "player": "Paul Molitor",
         "rating": "",
@@ -1339,21 +1125,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Paul Molitor",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 35,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 20,
-                "current": 0
-            }
-        ],
-        "label": "Paul Molitor (/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 35,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 20,
+            "current": 0
+        }],
+        "label": "Paul Molitor (/Impact Veteran) - Career Arcs - Paul Molitor"
+    }, {
         "id": 54,
         "player": "Larry Doby",
         "rating": "76",
@@ -1363,16 +1145,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Larry Doby",
-        "requirements": [
-            {
-                "requirement_type": "RBI",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Larry Doby (76/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "RBI",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Larry Doby (76/Impact Veteran) - Career Arcs - Larry Doby"
+    }, {
         "id": 55,
         "player": "Larry Doby",
         "rating": "80",
@@ -1382,16 +1161,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Larry Doby",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 15,
-                "current": 0
-            }
-        ],
-        "label": "Larry Doby (80/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 15,
+            "current": 0
+        }],
+        "label": "Larry Doby (80/Rookie) - Career Arcs - Larry Doby"
+    }, {
         "id": 56,
         "player": "Larry Doby",
         "rating": "80",
@@ -1401,16 +1177,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Larry Doby",
-        "requirements": [
-            {
-                "requirement_type": "HR",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Larry Doby (80/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Larry Doby (80/Rookie) - Career Arcs - Larry Doby"
+    }, {
         "id": 57,
         "player": "Any All-Star Outfielders",
         "rating": "",
@@ -1420,16 +1193,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Larry Doby",
-        "requirements": [
-            {
-                "requirement_type": "HR",
-                "goal": 25,
-                "current": 0
-            }
-        ],
-        "label": "Larry Doby (/Outfielders) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": 25,
+            "current": 0
+        }],
+        "label": "Any All-Star Outfielders (/All-Star) - Career Arcs - Larry Doby"
+    }, {
         "id": 58,
         "player": "Don Sutton",
         "rating": "72",
@@ -1439,21 +1209,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Don Sutton",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 7,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 7,
-                "current": 0
-            }
-        ],
-        "label": "Don Sutton (72/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 7,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 7,
+            "current": 0
+        }],
+        "label": "Don Sutton (72/Impact Veteran) - Career Arcs - Don Sutton"
+    }, {
         "id": 59,
         "player": "Don Sutton",
         "rating": "84",
@@ -1463,21 +1229,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Don Sutton",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 10,
-                "current": 0
-            }
-        ],
-        "label": "Don Sutton (84/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 10,
+            "current": 0
+        }],
+        "label": "Don Sutton (84/Rookie) - Career Arcs - Don Sutton"
+    }, {
         "id": 60,
         "player": "Any Rookie SP",
         "rating": "",
@@ -1487,35 +1249,29 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Don Sutton",
-        "requirements": [
-            {
-                "requirement_type": "K",
-                "goal": 48,
-                "current": 0
-            }
-        ],
-        "label": "Don Sutton (/FB) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": 48,
+            "current": 0
+        }],
+        "label": "Any Rookie SP (/Rookie) - Career Arcs - Don Sutton"
+    }, {
         "id": 63,
         "player": "Hanley Ramirez",
         "rating": "82",
-        "series": null,
+        "series": "",
         "duration": "Single Game",
         "team": "",
         "position": "",
         "program_type": "Career Arcs",
         "program": "Hanley Ramirez",
-        "requirements": [
-            {
-                "requirement_type": "SB",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Hanley Ramirez (82/FB) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "SB",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Hanley Ramirez (82/) - Career Arcs - Hanley Ramirez"
+    }, {
         "id": 64,
         "player": "Hanley Ramirez",
         "rating": "88",
@@ -1525,21 +1281,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Hanley Ramirez",
-        "requirements": [
-            {
-                "requirement_type": "RBI",
-                "goal": 3,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Hanley Ramirez (88/All-Star) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "RBI",
+            "goal": 3,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Hanley Ramirez (88/All-Star) - Career Arcs - Hanley Ramirez"
+    }, {
         "id": 65,
         "player": "Any Shortstops",
         "rating": "",
@@ -1549,16 +1301,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Hanley Ramirez",
-        "requirements": [
-            {
-                "requirement_type": "2B",
-                "goal": 15,
-                "current": 0
-            }
-        ],
-        "label": "Hanley Ramirez (/Shortstops) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": 15,
+            "current": 0
+        }],
+        "label": "Any Shortstops (/Default) - Career Arcs - Hanley Ramirez"
+    }, {
         "id": 66,
         "player": "Joe Torre",
         "rating": "74",
@@ -1568,26 +1317,21 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Joe Torre",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "2B",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Joe Torre (74/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Joe Torre (74/Impact Veteran) - Career Arcs - Joe Torre"
+    }, {
         "id": 67,
         "player": "Joe Torre",
         "rating": "79",
@@ -1597,16 +1341,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Joe Torre",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 15,
-                "current": 0
-            }
-        ],
-        "label": "Joe Torre (79/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 15,
+            "current": 0
+        }],
+        "label": "Joe Torre (79/Rookie) - Career Arcs - Joe Torre"
+    }, {
         "id": 68,
         "player": "Joe Torre",
         "rating": "89",
@@ -1616,16 +1357,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Joe Torre",
-        "requirements": [
-            {
-                "requirement_type": "2B",
-                "goal": 15,
-                "current": 0
-            }
-        ],
-        "label": "Joe Torre (89/Hardware) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": 15,
+            "current": 0
+        }],
+        "label": "Joe Torre (89/Hardware) - Career Arcs - Joe Torre"
+    }, {
         "id": 69,
         "player": "Any Cardinals Players",
         "rating": "",
@@ -1635,21 +1373,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Joe Torre",
-        "requirements": [
-            {
-                "requirement_type": "RBI",
-                "goal": 4,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Joe Torre (/Cardinals) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "RBI",
+            "goal": 4,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Any Cardinals Players (/Default) - Career Arcs - Joe Torre"
+    }, {
         "id": 70,
         "player": "Jack Morris",
         "rating": "61",
@@ -1659,21 +1393,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Jack Morris",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "IP",
-                "goal": 5,
-                "current": 0
-            }
-        ],
-        "label": "Jack Morris (61/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 5,
+            "current": 0
+        }],
+        "label": "Jack Morris (61/Rookie) - Career Arcs - Jack Morris"
+    }, {
         "id": 71,
         "player": "Bret Saberhagen",
         "rating": "77",
@@ -1683,26 +1413,21 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Bret Saberhagen",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "IP",
-                "goal": 6,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 5,
-                "current": 0
-            }
-        ],
-        "label": "Bret Saberhagen (77/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 6,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 5,
+            "current": 0
+        }],
+        "label": "Bret Saberhagen (77/Rookie) - Career Arcs - Bret Saberhagen"
+    }, {
         "id": 72,
         "player": "Bret Saberhagen",
         "rating": "83",
@@ -1712,21 +1437,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Bret Saberhagen",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 3,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 15,
-                "current": 0
-            }
-        ],
-        "label": "Bret Saberhagen (83/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 3,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 15,
+            "current": 0
+        }],
+        "label": "Bret Saberhagen (83/Impact Veteran) - Career Arcs - Bret Saberhagen"
+    }, {
         "id": 73,
         "player": "Any SP from Royals, Mets, Rockies or Red Sox",
         "rating": "",
@@ -1736,16 +1457,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Bret Saberhagen",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 23,
-                "current": 0
-            }
-        ],
-        "label": "Bret Saberhagen (/) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 23,
+            "current": 0
+        }],
+        "label": "Any SP from Royals, Mets, Rockies or Red Sox (/Default) - Career Arcs - Bret Saberhagen"
+    }, {
         "id": 74,
         "player": "Lee Smith",
         "rating": "68",
@@ -1755,26 +1473,21 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Lee Smith",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 10,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 10,
-                "current": 0
-            },
-            {
-                "requirement_type": "S",
-                "goal": 10,
-                "current": 0
-            }
-        ],
-        "label": "Lee Smith (68/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 10,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 10,
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": 10,
+            "current": 0
+        }],
+        "label": "Lee Smith (68/Impact Veteran) - Career Arcs - Lee Smith"
+    }, {
         "id": 75,
         "player": "Lee Smith",
         "rating": "75",
@@ -1784,16 +1497,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Lee Smith",
-        "requirements": [
-            {
-                "requirement_type": "K",
-                "goal": 50,
-                "current": 0
-            }
-        ],
-        "label": "Lee Smith (75/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": 50,
+            "current": 0
+        }],
+        "label": "Lee Smith (75/Rookie) - Career Arcs - Lee Smith"
+    }, {
         "id": 76,
         "player": "Lee Smith",
         "rating": "85",
@@ -1803,16 +1513,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Lee Smith",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 72,
-                "current": 0
-            }
-        ],
-        "label": "Lee Smith (85/All-Star) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 72,
+            "current": 0
+        }],
+        "label": "Lee Smith (85/All-Star) - Career Arcs - Lee Smith"
+    }, {
         "id": 77,
         "player": "Any RP or CP",
         "rating": "",
@@ -1822,16 +1529,13 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Lee Smith",
-        "requirements": [
-            {
-                "requirement_type": "S",
-                "goal": 47,
-                "current": 0
-            }
-        ],
-        "label": "Lee Smith (/Pitchers) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "S",
+            "goal": 47,
+            "current": 0
+        }],
+        "label": "Any RP or CP (/Default) - Career Arcs - Lee Smith"
+    }, {
         "id": 78,
         "player": "Trevor Hoffman",
         "rating": "72",
@@ -1841,21 +1545,17 @@
         "position": "",
         "program_type": "Career Arcs",
         "program": "Hoffman",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 20,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 10,
-                "current": 0
-            }
-        ],
-        "label": "Trevor Hoffman (72/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 20,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 10,
+            "current": 0
+        }],
+        "label": "Trevor Hoffman (72/Rookie) - Career Arcs - Hoffman"
+    }, {
         "id": 79,
         "player": "Derek Norris",
         "rating": "74",
@@ -1865,16 +1565,13 @@
         "position": "",
         "program_type": "Catcher",
         "program": "Norris",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Derek Norris (74/All-Star) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Derek Norris (74/All-Star) - Catcher - Norris"
+    }, {
         "id": 80,
         "player": "Ryan Hanigan",
         "rating": "79",
@@ -1884,21 +1581,17 @@
         "position": "",
         "program_type": "Catcher",
         "program": "Hanigan",
-        "requirements": [
-            {
-                "requirement_type": "2B",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Ryan Hanigan (79/Breakout) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Ryan Hanigan (79/Breakout) - Catcher - Hanigan"
+    }, {
         "id": 81,
         "player": "Jarod Saltalamacchia",
         "rating": "75",
@@ -1908,26 +1601,21 @@
         "position": "",
         "program_type": "Catcher",
         "program": "Saltalamacchia",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 3,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Jarod Saltalamacchia (75/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 3,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Jarod Saltalamacchia (75/Impact Veteran) - Catcher - Saltalamacchia"
+    }, {
         "id": 82,
         "player": "Kennys Vargas",
         "rating": "71",
@@ -1937,26 +1625,21 @@
         "position": "",
         "program_type": "First Basemen",
         "program": "Vargas",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "2B",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Kennys Vargas (71/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Kennys Vargas (71/Rookie) - First Basemen - Vargas"
+    }, {
         "id": 83,
         "player": "Chris Carter",
         "rating": "74",
@@ -1966,21 +1649,17 @@
         "position": "",
         "program_type": "First Basemen",
         "program": "Carter",
-        "requirements": [
-            {
-                "requirement_type": "RBI",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "BB",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Chris Carter (74/Breakout) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "RBI",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "BB",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Chris Carter (74/Breakout) - First Basemen - Carter"
+    }, {
         "id": 84,
         "player": "Sean Rodriguez",
         "rating": "78",
@@ -1990,21 +1669,17 @@
         "position": "",
         "program_type": "First Basemen",
         "program": "Rodriguez",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Sean Rodriguez (78/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Sean Rodriguez (78/Impact Veteran) - First Basemen - Rodriguez"
+    }, {
         "id": 85,
         "player": "Lucas Duda",
         "rating": "75",
@@ -2014,21 +1689,17 @@
         "position": "",
         "program_type": "First Basemen",
         "program": "Duda",
-        "requirements": [
-            {
-                "requirement_type": "RBI",
-                "goal": 3,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Lucas Duda (75/Breakout) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "RBI",
+            "goal": 3,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Lucas Duda (75/Breakout) - First Basemen - Duda"
+    }, {
         "id": 86,
         "player": "Brock Holt",
         "rating": "72",
@@ -2038,21 +1709,17 @@
         "position": "",
         "program_type": "Second Basemen",
         "program": "Holt",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Brock Holt (72/All-Star) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Brock Holt (72/All-Star) - Second Basemen - Holt"
+    }, {
         "id": 87,
         "player": "Neil Walker",
         "rating": "74",
@@ -2062,16 +1729,13 @@
         "position": "",
         "program_type": "Second Basemen",
         "program": "Walker",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 4,
-                "current": 0
-            }
-        ],
-        "label": "Neil Walker (74/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 4,
+            "current": 0
+        }],
+        "label": "Neil Walker (74/Rookie) - Second Basemen - Walker"
+    }, {
         "id": 88,
         "player": "Danny Espinosa",
         "rating": "76",
@@ -2081,21 +1745,17 @@
         "position": "",
         "program_type": "Second Basemen",
         "program": "Espinosa",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 3,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Danny Espinosa (76/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 3,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Danny Espinosa (76/Rookie) - Second Basemen - Espinosa"
+    }, {
         "id": 89,
         "player": "Darwin Barney",
         "rating": "78",
@@ -2105,16 +1765,13 @@
         "position": "",
         "program_type": "Second Basemen",
         "program": "Barney",
-        "requirements": [
-            {
-                "requirement_type": "A",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Darwin Barney (78/Breakout) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "A",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Darwin Barney (78/Breakout) - Second Basemen - Barney"
+    }, {
         "id": 90,
         "player": "Trevor Plouffe",
         "rating": "74",
@@ -2124,21 +1781,17 @@
         "position": "",
         "program_type": "Third Basemen",
         "program": "Plouffe",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Trevor Plouffe (74/Breakout) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Trevor Plouffe (74/Breakout) - Third Basemen - Plouffe"
+    }, {
         "id": 91,
         "player": "Pedro Alvarez",
         "rating": "78",
@@ -2148,21 +1801,17 @@
         "position": "",
         "program_type": "Third Basemen",
         "program": "Alvarez",
-        "requirements": [
-            {
-                "requirement_type": "RBI",
-                "goal": 7,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 3,
-                "current": 0
-            }
-        ],
-        "label": "Pedro Alvarez (78/Postseason) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "RBI",
+            "goal": 7,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 3,
+            "current": 0
+        }],
+        "label": "Pedro Alvarez (78/Postseason) - Third Basemen - Alvarez"
+    }, {
         "id": 92,
         "player": "Gordon Beckham",
         "rating": "78",
@@ -2172,21 +1821,17 @@
         "position": "",
         "program_type": "Third Basemen",
         "program": "Beckham",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Tim Beckham (78/Rookie) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Gordon Beckham (78/Rookie) - Third Basemen - Beckham"
+    }, {
         "id": 93,
         "player": "Mario Mendoza",
         "rating": "63",
@@ -2196,16 +1841,13 @@
         "position": "",
         "program_type": "Shortstops",
         "program": "Mendoza",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Mario Mendoza (63/Impact Veteran) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Mario Mendoza (63/Impact Veteran) - Shortstops - Mendoza"
+    }, {
         "id": 94,
         "player": "Brad Miller",
         "rating": "72",
@@ -2215,21 +1857,17 @@
         "position": "",
         "program_type": "Shortstops",
         "program": "Miller",
-        "requirements": [
-            {
-                "requirement_type": "RBI",
-                "goal": 3,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 1,
-                "current": 0
-            }
-        ],
-        "label": "Brad Miller (72/Breakout) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "RBI",
+            "goal": 3,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 1,
+            "current": 0
+        }],
+        "label": "Brad Miller (72/Breakout) - Shortstops - Miller"
+    }, {
         "id": 95,
         "player": "Emilio Bonifacio",
         "rating": "78",
@@ -2239,21 +1877,17 @@
         "position": "",
         "program_type": "Shortstops",
         "program": "Bonifacio",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "SB",
-                "goal": 2,
-                "current": 0
-            }
-        ],
-        "label": "Emilio Bonifacio (78/Breakout) -  - "
-    },
-    {
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": 2,
+            "current": 0
+        }],
+        "label": "Emilio Bonifacio (78/Breakout) - Shortstops - Bonifacio"
+    }, {
         "id": 96,
         "player": "Chris Heisey",
         "rating": "74",
@@ -2263,21 +1897,17 @@
         "position": "",
         "program_type": "Left Fielders",
         "program": "Heisey",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 1,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 1,
+            "current": 0
+        }],
         "label": "Chris Heisey (74/Breakout) - Left Fielders - Heisey"
-    },
-    {
+    }, {
         "id": 98,
         "player": "Seth Smith",
         "rating": "78",
@@ -2287,16 +1917,13 @@
         "position": "",
         "program_type": "Left Fielders",
         "program": "Smith",
-        "requirements": [
-            {
-                "requirement_type": "HR",
-                "goal": 3,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": 3,
+            "current": 0
+        }],
         "label": "Seth Smith (78/Rookie) - Left Fielders - Smith"
-    },
-    {
+    }, {
         "id": 99,
         "player": "Michael Saunders",
         "rating": "74",
@@ -2306,16 +1933,13 @@
         "position": "",
         "program_type": "Center Fielders",
         "program": "Saunders",
-        "requirements": [
-            {
-                "requirement_type": "RBI",
-                "goal": 2,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "RBI",
+            "goal": 2,
+            "current": 0
+        }],
         "label": "Michael Saunders (74/Breakout) - Center Fielders - Saunders"
-    },
-    {
+    }, {
         "id": 100,
         "player": "Alejandro De Aza",
         "rating": "77",
@@ -2325,21 +1949,17 @@
         "position": "",
         "program_type": "Center Fielders",
         "program": "De Aza",
-        "requirements": [
-            {
-                "requirement_type": "BB",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "SB",
-                "goal": 1,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "BB",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": 1,
+            "current": 0
+        }],
         "label": "Alejandro De Aza (77/Breakout) - Center Fielders - De Aza"
-    },
-    {
+    }, {
         "id": 101,
         "player": "Danny Santana",
         "rating": "77",
@@ -2349,21 +1969,17 @@
         "position": "",
         "program_type": "Center Fielders",
         "program": "Santana",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 1,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 1,
+            "current": 0
+        }],
         "label": "Danny Santana (77/Rookie) - Center Fielders - Santana"
-    },
-    {
+    }, {
         "id": 102,
         "player": "Drew Stubbs",
         "rating": "79",
@@ -2373,21 +1989,17 @@
         "position": "",
         "program_type": "Center Fielders",
         "program": "Stubbs",
-        "requirements": [
-            {
-                "requirement_type": "HR",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "SB",
-                "goal": 1,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": 1,
+            "current": 0
+        }],
         "label": "Drew Stubbs (79/Breakout) - Center Fielders - Stubbs"
-    },
-    {
+    }, {
         "id": 103,
         "player": "Daniel Nava",
         "rating": "73",
@@ -2397,21 +2009,17 @@
         "position": "",
         "program_type": "Right Fielders",
         "program": "Nava",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 3,
-                "current": 0
-            },
-            {
-                "requirement_type": "2B",
-                "goal": 2,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 3,
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": 2,
+            "current": 0
+        }],
         "label": "Daniel Nava (73/Breakout) - Right Fielders - Nava"
-    },
-    {
+    }, {
         "id": 104,
         "player": "Matthew Joyce",
         "rating": "78",
@@ -2421,21 +2029,17 @@
         "position": "",
         "program_type": "Right Fielders",
         "program": "Joyce",
-        "requirements": [
-            {
-                "requirement_type": "2B",
-                "goal": 5,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 21,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": 5,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 21,
+            "current": 0
+        }],
         "label": "Matthew Joyce (78/All-Star) - Right Fielders - Joyce"
-    },
-    {
+    }, {
         "id": 105,
         "player": "Mike Pelfrey",
         "rating": "70",
@@ -2445,26 +2049,21 @@
         "position": "",
         "program_type": "Starting Pitchers",
         "program": "Pelfrey",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "IP",
-                "goal": 7,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 5,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 7,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 5,
+            "current": 0
+        }],
         "label": "Mike Pelfrey (70/Impact Veteran) - Starting Pitchers - Pelfrey"
-    },
-    {
+    }, {
         "id": 106,
         "player": "Chris Volstad",
         "rating": "72",
@@ -2474,21 +2073,17 @@
         "position": "",
         "program_type": "Starting Pitchers",
         "program": "Volstad",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 6,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 6,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 6,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 6,
+            "current": 0
+        }],
         "label": "Chris Volstad (72/Rookie) - Starting Pitchers - Volstad"
-    },
-    {
+    }, {
         "id": 107,
         "player": "Ivan Nova",
         "rating": "72",
@@ -2498,26 +2093,21 @@
         "position": "",
         "program_type": "Starting Pitchers",
         "program": "Nova",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "IP",
-                "goal": 7,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 6,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 7,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 6,
+            "current": 0
+        }],
         "label": "Ivan Nova (72/Rookie) - Starting Pitchers - Nova"
-    },
-    {
+    }, {
         "id": 108,
         "player": "Jamie Garcia",
         "rating": "73",
@@ -2527,26 +2117,21 @@
         "position": "",
         "program_type": "Starting Pitchers",
         "program": "Garcia",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "IP",
-                "goal": 7,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 7,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 7,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 7,
+            "current": 0
+        }],
         "label": "Jamie Garcia (73/Rookie) - Starting Pitchers - Garcia"
-    },
-    {
+    }, {
         "id": 109,
         "player": "Brett Anderson",
         "rating": "76",
@@ -2556,26 +2141,21 @@
         "position": "",
         "program_type": "Starting Pitchers",
         "program": "Anderson",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "IP",
-                "goal": 6,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 8,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 6,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 8,
+            "current": 0
+        }],
         "label": "Brett Anderson (76/Rookie) - Starting Pitchers - Anderson"
-    },
-    {
+    }, {
         "id": 110,
         "player": "Shane Greene",
         "rating": "76",
@@ -2585,21 +2165,17 @@
         "position": "",
         "program_type": "Starting Pitchers",
         "program": "Greene",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 6,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 6,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 6,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 6,
+            "current": 0
+        }],
         "label": "Shane Greene (76/Rookie) - Starting Pitchers - Greene"
-    },
-    {
+    }, {
         "id": 111,
         "player": "Trevor Cahill",
         "rating": "77",
@@ -2609,26 +2185,21 @@
         "position": "",
         "program_type": "Starting Pitchers",
         "program": "Cahill",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "IP",
-                "goal": 5,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 4,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 5,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 4,
+            "current": 0
+        }],
         "label": "Trevor Cahill (77/All-Star) - Starting Pitchers - Cahill"
-    },
-    {
+    }, {
         "id": 113,
         "player": "Bud Norris",
         "rating": "78",
@@ -2638,26 +2209,21 @@
         "position": "",
         "program_type": "Starting Pitchers",
         "program": "Norris",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "IP",
-                "goal": 7,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 5,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 7,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 5,
+            "current": 0
+        }],
         "label": "Bud Norris (78/Impact Veteran) - Starting Pitchers - Norris"
-    },
-    {
+    }, {
         "id": 114,
         "player": "Tony Cingrani",
         "rating": "79",
@@ -2667,21 +2233,17 @@
         "position": "",
         "program_type": "Starting Pitchers",
         "program": "Cingrani",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 7,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 9,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 7,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 9,
+            "current": 0
+        }],
         "label": "Tony Cingrani (79/Rookie) - Starting Pitchers - Cingrani"
-    },
-    {
+    }, {
         "id": 115,
         "player": "Craig Breslow",
         "rating": "71",
@@ -2691,26 +2253,21 @@
         "position": "",
         "program_type": "Relief Pitchers",
         "program": "Breslow",
-        "requirements": [
-            {
-                "requirement_type": "W",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "IP",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 2,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 2,
+            "current": 0
+        }],
         "label": "Craig Breslow (71/Impact Veteran) - Relief Pitchers - Breslow"
-    },
-    {
+    }, {
         "id": 116,
         "player": "Mike Dunn",
         "rating": "75",
@@ -2720,21 +2277,17 @@
         "position": "",
         "program_type": "Relief Pitchers",
         "program": "Dunn",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 3,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 3,
+            "current": 0
+        }],
         "label": "Mike Dunn (75/Breakout) - Relief Pitchers - Dunn"
-    },
-    {
+    }, {
         "id": 117,
         "player": "Al Alburquerque",
         "rating": "77",
@@ -2744,21 +2297,17 @@
         "position": "",
         "program_type": "Relief Pitchers",
         "program": "Albuquerque",
-        "requirements": [
-            {
-                "requirement_type": "K",
-                "goal": 30,
-                "current": 0
-            },
-            {
-                "requirement_type": "HO",
-                "goal": 5,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": 30,
+            "current": 0
+        }, {
+            "requirement_type": "HO",
+            "goal": 5,
+            "current": 0
+        }],
         "label": "Al Alburquerque (77/Rookie) - Relief Pitchers - Albuquerque"
-    },
-    {
+    }, {
         "id": 118,
         "player": "Chad Qualls",
         "rating": "78",
@@ -2768,21 +2317,17 @@
         "position": "",
         "program_type": "Relief Pitchers",
         "program": "Qualls",
-        "requirements": [
-            {
-                "requirement_type": "HO",
-                "goal": 4,
-                "current": 0
-            },
-            {
-                "requirement_type": "S",
-                "goal": 1,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "HO",
+            "goal": 4,
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": 1,
+            "current": 0
+        }],
         "label": "Chad Qualls (78/Impact Veteran) - Relief Pitchers - Qualls"
-    },
-    {
+    }, {
         "id": 119,
         "player": "Guerra",
         "rating": "72",
@@ -2792,21 +2337,17 @@
         "position": "",
         "program_type": "Closing Pitchers",
         "program": "Guerra",
-        "requirements": [
-            {
-                "requirement_type": "K",
-                "goal": 9,
-                "current": 0
-            },
-            {
-                "requirement_type": "S",
-                "goal": 6,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": 9,
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": 6,
+            "current": 0
+        }],
         "label": "Guerra (72/Rookie) - Closing Pitchers - Guerra"
-    },
-    {
+    }, {
         "id": 120,
         "player": "Danny Farquhar",
         "rating": "78",
@@ -2816,21 +2357,17 @@
         "position": "",
         "program_type": "Closing Pitchers",
         "program": "Farquhar",
-        "requirements": [
-            {
-                "requirement_type": "IP",
-                "goal": 2,
-                "current": 0
-            },
-            {
-                "requirement_type": "K",
-                "goal": 5,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 5,
+            "current": 0
+        }],
         "label": "Danny Farquhar (78/Rookie) - Closing Pitchers - Farquhar"
-    },
-    {
+    }, {
         "id": 121,
         "player": "Babe Ruth",
         "rating": "68",
@@ -2840,41 +2377,33 @@
         "position": "",
         "program_type": "Immortals",
         "program": "Babe Ruth",
-        "requirements": [
-            {
-                "requirement_type": "H",
-                "goal": 15,
-                "current": 0
-            },
-            {
-                "requirement_type": "RBI",
-                "goal": 15,
-                "current": 0
-            },
-            {
-                "requirement_type": "BB",
-                "goal": 5,
-                "current": 0
-            },
-            {
-                "requirement_type": "R",
-                "goal": 5,
-                "current": 0
-            },
-            {
-                "requirement_type": "HR",
-                "goal": 1,
-                "current": 0
-            },
-            {
-                "requirement_type": "TPA",
-                "goal": 90,
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 15,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 15,
+            "current": 0
+        }, {
+            "requirement_type": "BB",
+            "goal": 5,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": 5,
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": 1,
+            "current": 0
+        }, {
+            "requirement_type": "TPA",
+            "goal": 90,
+            "current": 0
+        }],
         "label": "Babe Ruth (68/Impact Veteran) - Immortals - Babe Ruth"
-    },
-    {
+    }, {
         "id": 122,
         "player": "Ryan Raburn",
         "rating": "",
@@ -2884,14 +2413,2051 @@
         "position": "",
         "program_type": "Left Fielders",
         "program": "Raburn",
-        "requirements": [
-            {
-                "requirement_type": "HR",
-                "goal": "1",
-                "current": 0
-            }
-        ],
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": "Ryan Raburn (/Rookie) - Left Fielders - Raburn"
+    }, {
+        "id": 123,
+        "player": "Baltimore Orioles Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Orioles",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Baltimore Orioles",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
         "label": " (/) -  - "
-    }
-]
+    }, {
+        "id": 124,
+        "player": "Baltimore Orioles Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Orioles",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Baltimore Orioles",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 125,
+        "player": "Boston Red Sox Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Red Sox",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Boston Red Sox",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 126,
+        "player": "Boston Red Sox Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Red Sox",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Boston Red Sox",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 127,
+        "player": "New York Yankees Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Yankees",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "New York Yankees",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 128,
+        "player": "New York Yankees Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Yankees",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "New York Yankees",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 129,
+        "player": "Tampa Bay Rays Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Rays",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Tampa Bay Rays",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 130,
+        "player": "Tampa Bay Rays Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Rays",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Tampa Bay Rays",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 131,
+        "player": "Toronto Blue Jays Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Blue Jays",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Toronto Blue Jays",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 132,
+        "player": "Toronto Blue Jays Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Blue Jays",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Toronto Blue Jays",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 133,
+        "player": "Chicago White Sox Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "White Sox",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Chicago White Sox",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 134,
+        "player": "Chicago White Sox Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "White Sox",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Chicago White Sox",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 135,
+        "player": "Cleveland Indians Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Indians",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Cleveland Indians",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 136,
+        "player": "Cleveland Indians Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Indians",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Cleveland Indians",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 137,
+        "player": "Detroit Tigers Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Tigers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Detroit Tigers",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 138,
+        "player": "Detroit Tigers Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Tigers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Detroit Tigers",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 139,
+        "player": "Kansas City Royals Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Royals",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Kansas City Royals",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 140,
+        "player": "Kansas City Royals Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Royals",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Kansas City Royals",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 141,
+        "player": "Minnesota Twins Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Twins",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Minnesota Twins",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 142,
+        "player": "Minnesota Twins Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Twins",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Minnesota Twins",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 143,
+        "player": "Los Angeles Angels Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Angels",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Los Angeles Angels",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 144,
+        "player": "Los Angeles Angels Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Angels",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Los Angeles Angels",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 145,
+        "player": "Oakland Athletics Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Athletics",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Oakland Athletics",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 146,
+        "player": "Oakland Athletics",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Athletics",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Oakland Athletics",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 147,
+        "player": "Seattle Mariners Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Mariners",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Seattle Mariners",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 148,
+        "player": "Seattle Mariners Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Mariners",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Seattle Mariners",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 149,
+        "player": "Texas Rangers Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Rangers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Texas Rangers",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 150,
+        "player": "Texas Rangers Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Rangers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Texas Rangers",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 151,
+        "player": "Houston Astros Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Astros",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Houston Astros",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 152,
+        "player": "Houston Astros Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Astros",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Houston Astros",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 153,
+        "player": "Atlanta Braves Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Braves",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Atlanta Braves",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 154,
+        "player": "Atlanta Braves Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Braves",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Atlanta Braves",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 155,
+        "player": "Miami Marlins Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Marlins",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Miami Marlins",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 156,
+        "player": "Miami Marlins Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Marlins",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Miami Marlins",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 157,
+        "player": "Washington Nationals Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Nationals",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Washington Nationals",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 158,
+        "player": "Washington Nationals Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Nationals",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Washington Nationals",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 159,
+        "player": "New York Mets Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Mets",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "New York Mets",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 160,
+        "player": "New York Mets Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Mets",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "New York Mets",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 161,
+        "player": "Philadelphia Phillies Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Phillies",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Philadelphia Phillies",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 162,
+        "player": "Philadelphia Phillies Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Phillies",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Philadelphia Phillies",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 163,
+        "player": "Chicago Cubs Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Cubs",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Chicago Cubs",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 164,
+        "player": "Chicago Cubs Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Cubs",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Chicago Cubs",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 165,
+        "player": "Cincinnati Reds Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Reds",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Cincinnati Reds",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 166,
+        "player": "Cincinnati Reds Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Reds",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Cincinnati Reds",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 167,
+        "player": "Milwaukee Brewers Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Brewers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Milwaukee Brewers",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 168,
+        "player": "Milwaukee Brewers Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Brewers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Milwaukee Brewers",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 169,
+        "player": "Pittsburgh Pirates Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Pirates",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Pittsburgh Pirates",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 170,
+        "player": "Pittsburgh Pirates Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Pirates",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Pittsburgh Pirates",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 171,
+        "player": "St. Louis Cardinals Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Cardinals",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "St. Louis Cardinals",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 172,
+        "player": "St. Louis Cardinals Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Cardinals",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "St. Louis Cardinals",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 173,
+        "player": "Arizona Diamondbacks Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Diamondbacks",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Arizona Diamondbacks",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 174,
+        "player": "Arizona Diamondbacks Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Diamondbacks",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Arizona Diamondbacks",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 175,
+        "player": "Colorado Rockies Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Rockies",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Colorado Rockies",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 176,
+        "player": "Colorado Rockies Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Rockies",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Colorado Rockies",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 177,
+        "player": "Los Angeles Dodgers Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Dodgers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Los Angeles Dodgers",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 178,
+        "player": "Los Angeles Dodgers Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Dodgers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Los Angeles Dodgers",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 179,
+        "player": "San Diego Padres Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Padres",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "San Diego Padres",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 180,
+        "player": "San Diego Padres Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Padres",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "San Diego Padres",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 181,
+        "player": "San Francisco Giants Hitting",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Giants",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "San Francisco Giants",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "500",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }, {
+        "id": 174,
+        "player": "San Francisco Giants Pitching",
+        "rating": "",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Giants",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "San Francisco Giants",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "200",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "160",
+            "current": 0
+        }, {
+            "requirement_type": "S",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " (/) -  - "
+    }]
 }

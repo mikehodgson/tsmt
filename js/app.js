@@ -66,14 +66,19 @@ window.onload = function() {
         },
         created : function() {
             var _this = this;
-            jQuery.getJSON('js/data/missions.json', function(json) {
-                _this.$data.missions = getMissionsFromData(json.missions);
-                _this.$data.defaults = json;
-                _this.$data.filteredMissions = _this.$data.missions;
+            jQuery.ajax({
+                url: 'js/data/missions.json',
+                dataType: 'json',
+                async: false,
+                success: function(data) {
+                    _this.$data.missions = getMissionsFromData(data.missions);
+                    _this.$data.defaults = data;
+                    _this.$data.filteredMissions = _this.$data.missions;
+                }
             });
         },
         mounted : function() {
-            this.activeMissions = this.getActiveMissions();
+            this.$data.activeMissions = this.getActiveMissions();
         },
         updated : function() {
             this.saveActiveMissions();
@@ -95,10 +100,15 @@ window.onload = function() {
                 }
             },
             getActiveMissions: function() {
+                var _this = this;
                 var data = localStorage.getItem('CurrentActiveMissions');
-                if (data != null) {
+                if ((data != null) && (JSON.parse(data).length > 0)) {
                     data = getMissionsFromData(updateRecords(JSON.parse(data)));
                     return data;
+                } else if (localStorage.getItem('activeMissions') != null) {
+                    // we have some old records to update!
+                    console.log('-- old data found!');
+                    return upgradeOldData(JSON.parse(localStorage.getItem('activeMissions')));
                 } else {
                     return [];
                 }

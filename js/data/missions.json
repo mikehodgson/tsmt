@@ -442,7 +442,7 @@
             "goal": 12,
             "current": 0
         }],
-        "label": "Los Angeles Dodgers Players (/) - Immortals - Jackie Robinson"
+        "label": "Los Angeles Dodgers Players - Immortals - Jackie Robinson"
     }, {
         "id": 18,
         "player": "Mike Piazza",
@@ -482,7 +482,7 @@
             "goal": 40,
             "current": 0
         }],
-        "label": "Any Catchers (/) - Immortals - Mike Piazza"
+        "label": "Any Catchers - Immortals - Mike Piazza"
     }, {
         "id": 20,
         "player": "Any First Basemen",
@@ -498,7 +498,7 @@
             "goal": 212,
             "current": 0
         }],
-        "label": "Any First Basemen (/) - Immortals - Albert Pujols"
+        "label": "Any First Basemen - Immortals - Albert Pujols"
     }, {
         "id": 21,
         "player": "Ken Griffey Jr.",
@@ -558,7 +558,7 @@
             "goal": 5,
             "current": 0
         }],
-        "label": "Ken Griffey Jr. (/) - Immortals - Ken Griffey Jr."
+        "label": "Ken Griffey Jr. - Immortals - Ken Griffey Jr."
     }, {
         "id": 23,
         "player": "Ken Griffey Jr.",
@@ -574,7 +574,7 @@
             "goal": 24,
             "current": 0
         }],
-        "label": "Ken Griffey Jr. (/) - Immortals - Ken Griffey Jr."
+        "label": "Ken Griffey Jr. - Immortals - Ken Griffey Jr."
     }, {
         "id": 24,
         "player": "Ken Griffey Jr",
@@ -630,7 +630,7 @@
             "goal": 274,
             "current": 0
         }],
-        "label": "Bob Gibson (/) - Immortals - Bob Gibson"
+        "label": "Bob Gibson - Immortals - Bob Gibson"
     }, {
         "id": 27,
         "player": "Any Legend SP",
@@ -646,7 +646,7 @@
             "goal": 314,
             "current": 0
         }],
-        "label": "Any Legend SP (/) - Immortals - Bob Gibson"
+        "label": "Any Legend SP - Immortals - Bob Gibson"
     }, {
         "id": 28,
         "player": "Any Cardinals RP/CP",
@@ -694,7 +694,7 @@
             "goal": 47,
             "current": 0
         }],
-        "label": "Any Shortstop (/) - Immortals - Cal Ripken Jr."
+        "label": "Any Shortstop - Immortals - Cal Ripken Jr."
     }, {
         "id": 31,
         "player": "Chipper Jones",
@@ -754,7 +754,7 @@
             "goal": 700,
             "current": 0
         }],
-        "label": "Any Legend Players (/) - Immortals - Chipper Jones"
+        "label": "Any Legend Players - Immortals - Chipper Jones"
     }, {
         "id": 33,
         "player": "Any Flashback SP",
@@ -855,7 +855,7 @@
         "duration": "Single Game",
         "team": "",
         "position": "",
-        "program_type": "Immortals",
+        "program_type": "Career Arcs",
         "program": "Rich Gossage",
         "requirements": [{
             "requirement_type": "W",
@@ -1074,7 +1074,7 @@
             "goal": 30,
             "current": 0
         }],
-        "label": "Any Catchers (/) - Career Arcs - Gary Carter"
+        "label": "Any Catchers - Career Arcs - Gary Carter"
     }, {
         "id": 51,
         "player": "Paul Molitor",
@@ -1196,6 +1196,14 @@
         "requirements": [{
             "requirement_type": "HR",
             "goal": 25,
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "110",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "102",
             "current": 0
         }],
         "label": "Any All-Star Outfielders (/All-Star) - Career Arcs - Larry Doby"
@@ -2458,7 +2466,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Baltimore Orioles Hitting (/) - Team Epic - Baltimore Orioles"
+        "label": "Baltimore Orioles Hitting - Team Epic - Baltimore Orioles"
     }, {
         "id": 124,
         "player": "Baltimore Orioles Pitching",
@@ -2486,7 +2494,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Baltimore Orioles Pitching (/) - Team Epic - Baltimore Orioles"
+        "label": "Baltimore Orioles Pitching - Team Epic - Baltimore Orioles"
     }, {
         "id": 125,
         "player": "Boston Red Sox Hitting",
@@ -2526,7 +2534,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Boston Red Sox Hitting (/) - Team Epic - Boston Red Sox"
+        "label": "Boston Red Sox Hitting - Team Epic - Boston Red Sox"
     }, {
         "id": 126,
         "player": "Boston Red Sox Pitching",
@@ -2554,7 +2562,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Boston Red Sox Pitching (/) - Team Epic - Boston Red Sox"
+        "label": "Boston Red Sox Pitching - Team Epic - Boston Red Sox"
     }, {
         "id": 127,
         "player": "New York Yankees Hitting",
@@ -2594,7 +2602,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "New York Yankees Hitting (/) - Team Epic - New York Yankees"
+        "label": "New York Yankees Hitting - Team Epic - New York Yankees"
     }, {
         "id": 128,
         "player": "New York Yankees Pitching",
@@ -2622,7 +2630,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "New York Yankees Pitching (/) - Team Epic - New York Yankees"
+        "label": "New York Yankees Pitching - Team Epic - New York Yankees"
     }, {
         "id": 129,
         "player": "Tampa Bay Rays Hitting",
@@ -2662,7 +2670,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Tampa Bay Rays Hitting (/) - Team Epic - Tampa Bay Rays"
+        "label": "Tampa Bay Rays Hitting - Team Epic - Tampa Bay Rays"
     }, {
         "id": 130,
         "player": "Tampa Bay Rays Pitching",
@@ -2690,7 +2698,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Tampa Bay Rays Pitching (/) - Team Epic - Tampa Bay Rays"
+        "label": "Tampa Bay Rays Pitching - Team Epic - Tampa Bay Rays"
     }, {
         "id": 131,
         "player": "Toronto Blue Jays Hitting",
@@ -2730,7 +2738,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Toronto Blue Jays Hitting (/) - Team Epic - Toronto Blue Jays"
+        "label": "Toronto Blue Jays Hitting - Team Epic - Toronto Blue Jays"
     }, {
         "id": 132,
         "player": "Toronto Blue Jays Pitching",
@@ -2758,7 +2766,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Toronto Blue Jays Pitching (/) - Team Epic - Toronto Blue Jays"
+        "label": "Toronto Blue Jays Pitching - Team Epic - Toronto Blue Jays"
     }, {
         "id": 133,
         "player": "Chicago White Sox Hitting",
@@ -2798,7 +2806,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Chicago White Sox Hitting (/) - Team Epic - Chicago White Sox"
+        "label": "Chicago White Sox Hitting - Team Epic - Chicago White Sox"
     }, {
         "id": 134,
         "player": "Chicago White Sox Pitching",
@@ -2826,7 +2834,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Chicago White Sox Pitching (/) - Team Epic - Chicago White Sox"
+        "label": "Chicago White Sox Pitching - Team Epic - Chicago White Sox"
     }, {
         "id": 135,
         "player": "Cleveland Indians Hitting",
@@ -2866,7 +2874,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Cleveland Indians Hitting (/) - Team Epic - Cleveland Indians"
+        "label": "Cleveland Indians Hitting - Team Epic - Cleveland Indians"
     }, {
         "id": 136,
         "player": "Cleveland Indians Pitching",
@@ -2894,7 +2902,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Cleveland Indians Pitching (/) - Team Epic - Cleveland Indians"
+        "label": "Cleveland Indians Pitching - Team Epic - Cleveland Indians"
     }, {
         "id": 137,
         "player": "Detroit Tigers Hitting",
@@ -2934,7 +2942,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Detroit Tigers Hitting (/) - Team Epic - Detroit Tigers"
+        "label": "Detroit Tigers Hitting - Team Epic - Detroit Tigers"
     }, {
         "id": 138,
         "player": "Detroit Tigers Pitching",
@@ -2962,7 +2970,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Detroit Tigers Pitching (/) - Team Epic - Detroit Tigers"
+        "label": "Detroit Tigers Pitching - Team Epic - Detroit Tigers"
     }, {
         "id": 139,
         "player": "Kansas City Royals Hitting",
@@ -3002,7 +3010,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Kansas City Royals Hitting (/) - Team Epic - Kansas City Royals"
+        "label": "Kansas City Royals Hitting - Team Epic - Kansas City Royals"
     }, {
         "id": 140,
         "player": "Kansas City Royals Pitching",
@@ -3030,7 +3038,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Kansas City Royals Pitching (/) - Team Epic - Kansas City Royals"
+        "label": "Kansas City Royals Pitching - Team Epic - Kansas City Royals"
     }, {
         "id": 141,
         "player": "Minnesota Twins Hitting",
@@ -3070,7 +3078,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Minnesota Twins Hitting (/) - Team Epic - Minnesota Twins"
+        "label": "Minnesota Twins Hitting - Team Epic - Minnesota Twins"
     }, {
         "id": 142,
         "player": "Minnesota Twins Pitching",
@@ -3098,7 +3106,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Minnesota Twins Pitching (/) - Team Epic - Minnesota Twins"
+        "label": "Minnesota Twins Pitching - Team Epic - Minnesota Twins"
     }, {
         "id": 143,
         "player": "Los Angeles Angels Hitting",
@@ -3138,7 +3146,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Los Angeles Angels Hitting (/) - Team Epic - Los Angeles Angels"
+        "label": "Los Angeles Angels Hitting - Team Epic - Los Angeles Angels"
     }, {
         "id": 144,
         "player": "Los Angeles Angels Pitching",
@@ -3166,7 +3174,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Los Angeles Angels Pitching (/) - Team Epic - Los Angeles Angels"
+        "label": "Los Angeles Angels Pitching - Team Epic - Los Angeles Angels"
     }, {
         "id": 145,
         "player": "Oakland Athletics Hitting",
@@ -3206,7 +3214,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Oakland Athletics Hitting (/) - Team Epic - Oakland Athletics"
+        "label": "Oakland Athletics Hitting - Team Epic - Oakland Athletics"
     }, {
         "id": 146,
         "player": "Oakland Athletics",
@@ -3234,7 +3242,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Oakland Athletics (/) - Team Epic - Oakland Athletics"
+        "label": "Oakland Athletics - Team Epic - Oakland Athletics"
     }, {
         "id": 147,
         "player": "Seattle Mariners Hitting",
@@ -3274,7 +3282,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Seattle Mariners Hitting (/) - Team Epic - Seattle Mariners"
+        "label": "Seattle Mariners Hitting - Team Epic - Seattle Mariners"
     }, {
         "id": 148,
         "player": "Seattle Mariners Pitching",
@@ -3302,7 +3310,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Seattle Mariners Pitching (/) - Team Epic - Seattle Mariners"
+        "label": "Seattle Mariners Pitching - Team Epic - Seattle Mariners"
     }, {
         "id": 149,
         "player": "Texas Rangers Hitting",
@@ -3342,7 +3350,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Texas Rangers Hitting (/) - Team Epic - Texas Rangers"
+        "label": "Texas Rangers Hitting - Team Epic - Texas Rangers"
     }, {
         "id": 150,
         "player": "Texas Rangers Pitching",
@@ -3370,7 +3378,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Texas Rangers Pitching (/) - Team Epic - Texas Rangers"
+        "label": "Texas Rangers Pitching - Team Epic - Texas Rangers"
     }, {
         "id": 151,
         "player": "Houston Astros Hitting",
@@ -3410,7 +3418,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Houston Astros Hitting (/) - Team Epic - Houston Astros"
+        "label": "Houston Astros Hitting - Team Epic - Houston Astros"
     }, {
         "id": 152,
         "player": "Houston Astros Pitching",
@@ -3438,7 +3446,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Houston Astros Pitching (/) - Team Epic - Houston Astros"
+        "label": "Houston Astros Pitching - Team Epic - Houston Astros"
     }, {
         "id": 153,
         "player": "Atlanta Braves Hitting",
@@ -3478,7 +3486,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Atlanta Braves Hitting (/) - Team Epic - Atlanta Braves"
+        "label": "Atlanta Braves Hitting - Team Epic - Atlanta Braves"
     }, {
         "id": 154,
         "player": "Atlanta Braves Pitching",
@@ -3506,7 +3514,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Atlanta Braves Pitching (/) - Team Epic - Atlanta Braves"
+        "label": "Atlanta Braves Pitching - Team Epic - Atlanta Braves"
     }, {
         "id": 155,
         "player": "Miami Marlins Hitting",
@@ -3546,7 +3554,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Miami Marlins Hitting (/) - Team Epic - Miami Marlins"
+        "label": "Miami Marlins Hitting - Team Epic - Miami Marlins"
     }, {
         "id": 156,
         "player": "Miami Marlins Pitching",
@@ -3574,7 +3582,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Miami Marlins Pitching (/) - Team Epic - Miami Marlins"
+        "label": "Miami Marlins Pitching - Team Epic - Miami Marlins"
     }, {
         "id": 157,
         "player": "Washington Nationals Hitting",
@@ -3614,7 +3622,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Washington Nationals Hitting (/) - Team Epic - Washington Nationals"
+        "label": "Washington Nationals Hitting - Team Epic - Washington Nationals"
     }, {
         "id": 158,
         "player": "Washington Nationals Pitching",
@@ -3642,7 +3650,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Washington Nationals Pitching (/) - Team Epic - Washington Nationals"
+        "label": "Washington Nationals Pitching - Team Epic - Washington Nationals"
     }, {
         "id": 159,
         "player": "New York Mets Hitting",
@@ -3682,7 +3690,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "New York Mets Hitting (/) - Team Epic - New York Mets"
+        "label": "New York Mets Hitting - Team Epic - New York Mets"
     }, {
         "id": 160,
         "player": "New York Mets Pitching",
@@ -3710,7 +3718,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "New York Mets Pitching (/) - Team Epic - New York Mets"
+        "label": "New York Mets Pitching - Team Epic - New York Mets"
     }, {
         "id": 161,
         "player": "Philadelphia Phillies Hitting",
@@ -3750,7 +3758,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Philadelphia Phillies Hitting (/) - Team Epic - Philadelphia Phillies"
+        "label": "Philadelphia Phillies Hitting - Team Epic - Philadelphia Phillies"
     }, {
         "id": 162,
         "player": "Philadelphia Phillies Pitching",
@@ -3778,7 +3786,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Philadelphia Phillies Pitching (/) - Team Epic - Philadelphia Phillies"
+        "label": "Philadelphia Phillies Pitching - Team Epic - Philadelphia Phillies"
     }, {
         "id": 163,
         "player": "Chicago Cubs Hitting",
@@ -3818,7 +3826,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Chicago Cubs Hitting (/) - Team Epic - Chicago Cubs"
+        "label": "Chicago Cubs Hitting - Team Epic - Chicago Cubs"
     }, {
         "id": 164,
         "player": "Chicago Cubs Pitching",
@@ -3846,7 +3854,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Chicago Cubs Pitching (/) - Team Epic - Chicago Cubs"
+        "label": "Chicago Cubs Pitching - Team Epic - Chicago Cubs"
     }, {
         "id": 165,
         "player": "Cincinnati Reds Hitting",
@@ -3886,7 +3894,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Cincinnati Reds Hitting (/) - Team Epic - Cincinnati Reds"
+        "label": "Cincinnati Reds Hitting - Team Epic - Cincinnati Reds"
     }, {
         "id": 166,
         "player": "Cincinnati Reds Pitching",
@@ -3914,7 +3922,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Cincinnati Reds Pitching (/) - Team Epic - Cincinnati Reds"
+        "label": "Cincinnati Reds Pitching - Team Epic - Cincinnati Reds"
     }, {
         "id": 167,
         "player": "Milwaukee Brewers Hitting",
@@ -3954,7 +3962,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Milwaukee Brewers Hitting (/) - Team Epic - Milwaukee Brewers"
+        "label": "Milwaukee Brewers Hitting - Team Epic - Milwaukee Brewers"
     }, {
         "id": 168,
         "player": "Milwaukee Brewers Pitching",
@@ -3982,7 +3990,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Milwaukee Brewers Pitching (/) - Team Epic - Milwaukee Brewers"
+        "label": "Milwaukee Brewers Pitching - Team Epic - Milwaukee Brewers"
     }, {
         "id": 169,
         "player": "Pittsburgh Pirates Hitting",
@@ -4022,7 +4030,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Pittsburgh Pirates Hitting (/) - Team Epic - Pittsburgh Pirates"
+        "label": "Pittsburgh Pirates Hitting - Team Epic - Pittsburgh Pirates"
     }, {
         "id": 170,
         "player": "Pittsburgh Pirates Pitching",
@@ -4050,7 +4058,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Pittsburgh Pirates Pitching (/) - Team Epic - Pittsburgh Pirates"
+        "label": "Pittsburgh Pirates Pitching - Team Epic - Pittsburgh Pirates"
     }, {
         "id": 171,
         "player": "St. Louis Cardinals Hitting",
@@ -4090,7 +4098,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "St. Louis Cardinals Hitting (/) - Team Epic - St. Louis Cardinals"
+        "label": "St. Louis Cardinals Hitting - Team Epic - St. Louis Cardinals"
     }, {
         "id": 172,
         "player": "St. Louis Cardinals Pitching",
@@ -4118,7 +4126,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "St. Louis Cardinals Pitching (/) - Team Epic - St. Louis Cardinals"
+        "label": "St. Louis Cardinals Pitching - Team Epic - St. Louis Cardinals"
     }, {
         "id": 173,
         "player": "Arizona Diamondbacks Hitting",
@@ -4158,7 +4166,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Arizona Diamondbacks Hitting (/) - Team Epic - Arizona Diamondbacks"
+        "label": "Arizona Diamondbacks Hitting - Team Epic - Arizona Diamondbacks"
     }, {
         "id": 174,
         "player": "Arizona Diamondbacks Pitching",
@@ -4186,7 +4194,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Arizona Diamondbacks Pitching (/) - Team Epic - Arizona Diamondbacks"
+        "label": "Arizona Diamondbacks Pitching - Team Epic - Arizona Diamondbacks"
     }, {
         "id": 175,
         "player": "Colorado Rockies Hitting",
@@ -4226,7 +4234,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Colorado Rockies Hitting (/) - Team Epic - Colorado Rockies"
+        "label": "Colorado Rockies Hitting - Team Epic - Colorado Rockies"
     }, {
         "id": 176,
         "player": "Colorado Rockies Pitching",
@@ -4254,7 +4262,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Colorado Rockies Pitching (/) - Team Epic - Colorado Rockies"
+        "label": "Colorado Rockies Pitching - Team Epic - Colorado Rockies"
     }, {
         "id": 177,
         "player": "Los Angeles Dodgers Hitting",
@@ -4294,7 +4302,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Los Angeles Dodgers Hitting (/) - Team Epic - Los Angeles Dodgers"
+        "label": "Los Angeles Dodgers Hitting - Team Epic - Los Angeles Dodgers"
     }, {
         "id": 178,
         "player": "Los Angeles Dodgers Pitching",
@@ -4322,7 +4330,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Los Angeles Dodgers Pitching (/) - Team Epic - Los Angeles Dodgers"
+        "label": "Los Angeles Dodgers Pitching - Team Epic - Los Angeles Dodgers"
     }, {
         "id": 179,
         "player": "San Diego Padres Hitting",
@@ -4362,7 +4370,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "San Diego Padres Hitting (/) - Team Epic - San Diego Padres"
+        "label": "San Diego Padres Hitting - Team Epic - San Diego Padres"
     }, {
         "id": 180,
         "player": "San Diego Padres Pitching",
@@ -4390,7 +4398,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "San Diego Padres Pitching (/) - Team Epic - San Diego Padres"
+        "label": "San Diego Padres Pitching - Team Epic - San Diego Padres"
     }, {
         "id": 181,
         "player": "San Francisco Giants Hitting",
@@ -4430,7 +4438,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "San Francisco Giants Hitting (/) - Team Epic - San Francisco Giants"
+        "label": "San Francisco Giants Hitting - Team Epic - San Francisco Giants"
     }, {
         "id": 182,
         "player": "San Francisco Giants Pitching",
@@ -4458,7 +4466,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "San Francisco Giants Pitching (/) - Team Epic - San Francisco Giants"
+        "label": "San Francisco Giants Pitching - Team Epic - San Francisco Giants"
     }, {
         "id": 183,
         "player": "Jim Palmer",
@@ -4478,7 +4486,7 @@
             "goal": "10",
             "current": 0
         }],
-        "label": " (/) -  - "
+        "label": "Jim Palmer (/Rookie) - Team Epic - Baltimore Orioles"
     }, {
         "id": 184,
         "player": "Jon Lester",
@@ -4494,7 +4502,7 @@
             "goal": "12",
             "current": 0
         }],
-        "label": " (/) -  - "
+        "label": "Jon Lester (/Rookie) - Team Epic - Boston Red Sox"
     }, {
         "id": 185,
         "player": "Luis Severino",
@@ -4514,7 +4522,7 @@
             "goal": "6",
             "current": 0
         }],
-        "label": " (/) -  - "
+        "label": "Luis Severino (/Rookie) - Team Epic - New York Yankees"
     }, {
         "id": 186,
         "player": "John Jason",
@@ -4530,7 +4538,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": " (/) -  - "
+        "label": "John Jason (/Rookie) - Team Epic - Tampa Bay Rays"
     }, {
         "id": 187,
         "player": "Eric Thames",
@@ -4546,6 +4554,694 @@
             "goal": "1",
             "current": 0
         }],
-        "label": " (/) -  - "
+        "label": "Eric Thames (/Rookie) - Team Epic - Toronto Blue Jays"
+    }, {
+        "id": 188,
+        "player": "Jose Quintana",
+        "rating": "68",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "White Sox",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Chicago White Sox",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "5",
+            "current": 0
+        }],
+        "label": "Jose Quintana (68/Rookie) - Team Epic - Chicago White Sox"
+    }, {
+        "id": 189,
+        "player": "Corey Kluber",
+        "rating": "71",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Indians",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Cleveland Indians",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": "Corey Kluber (71/Rookie) - Team Epic - Cleveland Indians"
+    }, {
+        "id": 190,
+        "player": "Edwin Jackson",
+        "rating": "77",
+        "series": "All-Star",
+        "duration": "Multi-Game",
+        "team": "Tigers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Detroit Tigers",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "15",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "10",
+            "current": 0
+        }],
+        "label": "Edwin Jackson (77/All-Star) - Team Epic - Detroit Tigers"
+    }, {
+        "id": 191,
+        "player": "Mike Moustakas",
+        "rating": "68",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Royals",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Kansas City Royals",
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": "Mike Moustakas (68/Rookie) - Team Epic - Kansas City Royals"
+    }, {
+        "id": 192,
+        "player": "Danny Valencia",
+        "rating": "76",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Twins",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Minnesota Twins",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": "Danny Valencia (76/Rookie) - Team Epic - Minnesota Twins"
+    }, {
+        "id": 193,
+        "player": "Jim Edmonds",
+        "rating": "74",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Angels",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Los Angeles Angels",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": "Jim Edmonds (74/Rookie) - Team Epic - Los Angeles Angels"
+    }, {
+        "id": 194,
+        "player": "Carlos Gonzalez",
+        "rating": "72",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Athletics",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Oakland Athletics",
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": "Carlos Gonzalez (72/Rookie) - Team Epic - Oakland Athletics"
+    }, {
+        "id": 195,
+        "player": "Ketel Marte",
+        "rating": "75",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Mariners",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Seattle Mariners",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "5",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": "Ketel Marte (75/Rookie) - Team Epic - Seattle Mariners"
+    }, {
+        "id": 196,
+        "player": "Derek Holland",
+        "rating": "76",
+        "series": "Breakout",
+        "duration": "Multi-Game",
+        "team": "Rangers",
+        "position": "",
+        "program_type": "",
+        "program": "Texas Rangers",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "7",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": "Derek Holland (76/Breakout) -  - Texas Rangers"
+    }, {
+        "id": 197,
+        "player": "Jose Altuve",
+        "rating": "74",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Astros",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Houston Astros",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": "Jose Altuve (74/Rookie) - Team Epic - Houston Astros"
+    }, {
+        "id": 198,
+        "player": "Bruce Sutter",
+        "rating": "70",
+        "series": "Impact Veteran",
+        "duration": "Multi-Game",
+        "team": "Braves",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Atlanta Braves",
+        "requirements": [{
+            "requirement_type": "S",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 199,
+        "player": "Marcell Ozuna",
+        "rating": "74",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Marlins",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Miami Marlins",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 200,
+        "player": "Anthony Rendon",
+        "rating": "72",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Nationals",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Washington Nationals",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "H",
+            "goal": "5",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "2",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 201,
+        "player": "Justin Turner",
+        "rating": "68",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Mets",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "New York Mets",
+        "requirements": [{
+            "requirement_type": "R",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 202,
+        "player": "Vance Worley",
+        "rating": "78",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Phillies",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Philadelphia Phillies",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "10",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 203,
+        "player": "Ryne Sandberg",
+        "rating": "77",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Cubs",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Chicago Cubs",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 204,
+        "player": "Tony Perez",
+        "rating": "72",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Reds",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Cincinnati Reds",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 205,
+        "player": "Lorenzo Cain",
+        "rating": "76",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Brewers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Milwaukee Brewers",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "5",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 206,
+        "player": "Jeff Locke",
+        "rating": "70",
+        "series": "All-Star",
+        "duration": "Multi-Game",
+        "team": "Pirates",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Pittsburgh Pirates",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "6",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 207,
+        "player": "Yadier Molina",
+        "rating": "78",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Cardinals",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "St. Louis Cardinals",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 208,
+        "player": "Josh Collmenter",
+        "rating": "72",
+        "series": "Impact Veteran",
+        "duration": "Multi-Game",
+        "team": "Diamondbacks",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Arizona Diamondbacks",
+        "requirements": [{
+            "requirement_type": "HO",
+            "goal": "2",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "10",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 209,
+        "player": "Charlie Blackmon",
+        "rating": "68",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Rockies",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Colorado Rockies",
+        "requirements": [{
+            "requirement_type": "R",
+            "goal": "1",
+            "current": 0
+        }, {
+            "requirement_type": "H",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 210,
+        "player": "Clayton Kershaw",
+        "rating": "71",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Dodgers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Los Angeles Dodgers",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "2",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 211,
+        "player": "Andrew Cashner",
+        "rating": "78",
+        "series": "Breakout",
+        "duration": "Multi-Game",
+        "team": "Padres",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "San Diego Padres",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "7",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "6",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 212,
+        "player": "Santiago Casilla",
+        "rating": "76",
+        "series": "Breakout",
+        "duration": "Multi-Game",
+        "team": "Giants",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "San Diego Padres",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "8",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 213,
+        "player": "Jim Johnson",
+        "rating": "75",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Orioles",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Baltimore Orioles",
+        "requirements": [{
+            "requirement_type": "S",
+            "goal": "4",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 214,
+        "player": "Will Middlebrooks",
+        "rating": "78",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Red Sox",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Boston Red Sox",
+        "requirements": [{
+            "requirement_type": "AB",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "H",
+            "goal": "5",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 215,
+        "player": "Whitey Ford",
+        "rating": "78",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Yankees",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "New York Yankees",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "10",
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 216,
+        "player": "Logan Forsythe",
+        "rating": "77",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Rays",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Tampa Bay Rays",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "6",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 217,
+        "player": "Brandon Morrow",
+        "rating": "79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Blue Jays",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Toronto Blue Jays",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "2",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 218,
+        "player": "Chris Sale",
+        "rating": "79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "White Sox",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Chicago White Sox",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "20",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 219,
+        "player": "Joe Carter",
+        "rating": "78",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Indians",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Cleveland Indians",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "5",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 220,
+        "player": "Al Kaline",
+        "rating": "78",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Tigers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Detroit Tigers",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "5",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "4",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 221,
+        "player": "Johnny Damon",
+        "rating": "77",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Royals",
+        "position": "",
+        "program_type": "",
+        "program": "Kansas City Royals",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "5",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "5",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 222,
+        "player": "Denard Span",
+        "rating": "78",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Twins",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Minnesota Twins",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "7",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 223,
+        "player": "Rod Carew",
+        "rating": "76",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Angels",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Los Angeles Angels",
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": "1",
+            "current": 0
+        }, {
+            "requirement_type": "H",
+            "goal": "5",
+            "current": 0
+        }],
+        "label": " -  - "
     }]
 }

@@ -62,7 +62,8 @@ window.onload = function() {
             activeMissions: [],
             selectedMission: null,
             filteredMissions: [],
-            selectedFilter: null
+            selectedFilter: null,
+            selectedTeam: null
         },
         created : function() {
             var _this = this;
@@ -85,7 +86,13 @@ window.onload = function() {
         },
         watch: {
             selectedFilter: function(newVal) {
-                this.updateFilter(newVal);
+                if (newVal != 'Team Epic') {
+                    this.$data.selectedTeam = null;
+                }
+                this.updateProgramFilter(newVal);
+            },
+            selectedTeam: function(newVal) {
+                this.updateTeamFilter(newVal);
             }
         },
         methods: {
@@ -171,12 +178,23 @@ window.onload = function() {
             clearActiveMissions: function() {
                 this.activeMissions = [];
             },
-            updateFilter: function(selectedOption) {
-                console.log(selectedOption);
-                if (selectedOption != null) {
-                    this.$data.filteredMissions = this.$data.missions.filter(function(e) { return e.program_type === selectedOption; });
-                } else {
-                    this.$data.filteredMissions = this.$data.missions;
+            updateProgramFilter: function(selectedOption) {
+                this.updateFilter();
+            },
+            updateTeamFilter: function(selectedOption) {
+                this.updateFilter();
+            },
+            updateFilter: function() {
+                var _this = this;
+                _this.$data.filteredMissions = _this.$data.missions;
+                _this.$data.selectedMission = null;
+                if (_this.$data.selectedFilter != null) {
+                    console.log("program type filter");
+                    _this.$data.filteredMissions = _this.$data.filteredMissions.filter(function(e) { return e.program_type === _this.$data.selectedFilter; });
+                }
+                if (_this.$data.selectedTeam != null) {
+                    console.log("team filter");
+                    _this.$data.filteredMissions = _this.$data.filteredMissions.filter(function(e) { return e.team === _this.$data.selectedTeam; });
                 }
             }
         }

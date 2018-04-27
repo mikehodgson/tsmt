@@ -5243,5 +5243,393 @@
             "current": 0
         }],
         "label": " -  - "
+    }, {
+        "id": 224,
+        "player": "Tommy Milone",
+        "rating": "75",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Athletics",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Oakland Athletics",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "2",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 225,
+        "player": "Roenis Elias",
+        "rating": "76",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Mariners",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Seattle Mariners",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "15",
+            "current": 0
+        }, {
+            "requirement_type": "W",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 226,
+        "player": "Ian Kinsler",
+        "rating": "78",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Rangers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Texas Rangers",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "7",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 227,
+        "player": "Jeff Bagwell",
+        "rating": "77",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Astros",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Houston Astros",
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": "2",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 228,
+        "player": "Evan Gattis",
+        "rating": "76",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Braves",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Atlanta Braves",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "5",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 229,
+        "player": "Miguel Cabrera",
+        "rating": "75",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Marlins",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Miami Marlins",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "10",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 230,
+        "player": "Craig Stammen",
+        "rating": "75",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Nationals",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Washington Nationals",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "7",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "7",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 231,
+        "player": "Zack Wheeler",
+        "rating": "78",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Mets",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "New York Mets",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "2",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 232,
+        "player": "Ben Revere",
+        "rating": "79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Phillies",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Philadelphia Phillies",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "10",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "3",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 233,
+        "player": "Ernie Banks",
+        "rating": "78",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Cubs",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Chicago Cubs",
+        "requirements": [{
+            "requirement_type": "PA",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "H",
+            "goal": "5",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 234,
+        "player": "Raisel Iglesias",
+        "rating": "81",
+        "series": "Rookie",
+        "duration": "Multi-Game",
+        "team": "Reds",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Cincinnati Reds",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "2",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 235,
+        "player": "Wily Peralta",
+        "rating": "77",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Brewers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Milwaukee Brewers",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "12",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "10",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 236,
+        "player": "Francisco Cervelli",
+        "rating": "78",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Pirates",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Pittsburgh Pirates",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "10",
+            "current": 0
+        }, {
+            "requirement_type": "2B",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 237,
+        "player": "Troy Percival",
+        "rating": "79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Cardinals",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "St. Louis Cardinals",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "7",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "10",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 238,
+        "player": "Paul Goldschmidt",
+        "rating": "75",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Diamondbacks",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Arizona Diamondbacks",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "8",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 239,
+        "player": "Rex Brothers",
+        "rating": "75",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Rockies",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Colorado Rockies",
+        "requirements": [{
+            "requirement_type": "S",
+            "goal": "4",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 240,
+        "player": "Dee Gordon",
+        "rating": "73",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Dodgers",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "Los Angeles Dodgers",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "20",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 241,
+        "player": "Tony Gwynn",
+        "rating": "79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Padres",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "San Diego Padres",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "6",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "2",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": " -  - "
+    }, {
+        "id": 242,
+        "player": "Matt Duffy",
+        "rating": "78",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "Giants",
+        "position": "",
+        "program_type": "Team Epic",
+        "program": "San Francisco Giants",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "7",
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": " -  - "
     }]
 }

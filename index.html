@@ -47,8 +47,11 @@
                                     <b-btn :class="{'ml-2': true, 'float-right' : true, 'btn-success' : areAllRequirementsComplete(mission), 'btn-danger' : !areAllRequirementsComplete(mission)}" size="md" @click="removeActiveMission(activeMissions, mission)">
                                         &nbsp;<i :class="{'octicon' : true, 'octicon-check' : areAllRequirementsComplete(mission), 'octicon-x': !areAllRequirementsComplete(mission)}"></i>
                                     </b-btn>
-                                    <b-btn :class="{'float-right' : true, 'btn-danger' : true}" size="md" @click="requirementResetAll(mission)">
+                                    <b-btn :class="{'ml-2': true, 'float-right' : true, 'btn-danger' : true}" size="md" @click="requirementResetAll(mission)">
                                         &nbsp;<i class="octicon octicon-sync"></i>
+                                    </b-btn>
+                                    <b-btn :class="{'float-right' : true, 'btn-secondary' : true}" size="md" @click="editMission(mission)">
+                                        &nbsp;<i class="octicon octicon-pencil"></i>
                                     </b-btn>
                                 </div>
                             </div>
@@ -86,6 +89,23 @@
                 <v-select v-if="selectedFilter == 'Team Epic'" :options="defaults.teams" v-model="selectedTeam" placeholder="Select a team..." class="w-100 mb-3" @select="updateTeamFilter" :value.sync="selectedTeam"></v-select>
                 <v-select :options="filteredMissions" value="id" label="label" id="missionSelect" v-model="selectedMission" placeholder="Select a player mission..." class="w-100"></v-select>
             </b-form-row>
+        </b-modal>
+
+        <b-modal ref="editModal" id="editModal" size="lg" :title="editingMission.label" @ok="handleEditOK">
+            <b-form class="m-3">
+                <h5>Requirements</h5>
+                <div class="mb-3 row" v-for="requirement in editingMission.requirements">
+                    <div class="col-25 w-25">
+                        {{ requirement.requirement_type }}
+                    </div>
+                    <div class="col-25 w-25">
+                        {{ requirement.goal }}
+                    </div>
+                    <div class="col-50 w-50">
+                        <b-input class="float-left w-100" type="text" v-model="requirement.current"></b-input>
+                    </div>
+                </div>
+            </b-form>
         </b-modal>
     </div>
 </body>

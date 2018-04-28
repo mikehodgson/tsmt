@@ -60,6 +60,7 @@ window.onload = function() {
             missions: [],
             defaults: {version: "0.0.0", missions: [], program_types: [], durations: [], series: [], teams: [], positions: []},
             activeMissions: [],
+            editingMission: new Mission({"requirements" : []}),
             selectedMission: null,
             filteredMissions: [],
             selectedFilter: null,
@@ -106,6 +107,11 @@ window.onload = function() {
                     this.selectedMission = null;
                 }
             },
+            handleEditOK: function(evt) {
+                var _this = this;
+                _this.$refs.editModal.hide();
+                this.saveActiveMissions();
+            },
             getActiveMissions: function() {
                 var _this = this;
                 var data = localStorage.getItem('CurrentActiveMissions');
@@ -120,7 +126,7 @@ window.onload = function() {
                     return [];
                 }
             },
-            saveActiveMissions: function(data) {
+            saveActiveMissions: function() {
                 localStorage.setItem('CurrentActiveMissions', JSON.stringify(this.activeMissions));
             },
             hasActiveMission: function(arr, obj) {
@@ -177,6 +183,11 @@ window.onload = function() {
             },
             clearActiveMissions: function() {
                 this.activeMissions = [];
+            },
+            editMission: function(mission) {
+                var _this = this;
+                _this.$data.editingMission = mission;
+                _this.$refs.editModal.show();
             },
             updateProgramFilter: function(selectedOption) {
                 this.updateFilter();

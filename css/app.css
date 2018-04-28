@@ -1,11 +1,14 @@
 [v-cloak] {
     display: none;
 }
-.mission-card .card-body, .mission-card .card-header {
-    padding: .5em !important;
-}
 .vcenter {
     display: inline-block;
     vertical-align: middle;
     float: none;
+}
+.card-header {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.8em;
+    opacity: 0.70;
 }

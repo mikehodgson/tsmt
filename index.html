@@ -19,35 +19,35 @@
 </head>
 <body>
     <div id="app" v-cloak>
-        <b-container fluid>
+        <b-container fluid class="pt-3">
             <b-row v-if="activeMissions.length == 0">
                 <b-col>
-                    <b-card title="Welcome" class="mb-2 mt-3">
+                    <b-card title="Welcome" class="mb-2">
                             <p class="card-text">Welcome to The Show Mission Tracker. This app uses cookies and local storage to save your settings. Click the <strong>Add Mission</strong> button to get started.</p>
                     </b-card>
                 </b-col>
             </b-row>
             <b-row v-for="mission in activeMissions" :key="mission.value">
                 <b-col>
-                    <div class="card mt-1">
-                        <div class="card-header text-truncate">
-                            <div class="row">
+                    <div class="card">
+                        <div class="card-header text-truncate pt-1 pb-1">
+                            <div class="row pt-0">
                                 <div class="col-75 text-truncate w-75">{{ mission.label }}</div>
                                 <div class="col-25 w-25 text-right">{{ mission.duration }}</div>
                             </div>
                         </div>
-                        <div class="card-body">
+                        <div class="card-body pt-2 pb-2">
                             <div class="row">
                                 <div class="col-75 w-75">
-                                    <b-btn v-for="requirement in mission.requirements" :key="requirement.requirement_type" :class="{'mb-1' : true, 'mr-2' : true, 'btn-success' : isRequirementComplete(requirement), 'btn-warning' : (isRequirementStarted(requirement) && !isRequirementComplete(requirement))}" size="sm"  @click="requirementIncrease(requirement)">
+                                    <b-btn v-for="requirement in mission.requirements" :key="requirement.requirement_type" :class="{'mb-1' : true, 'mr-2' : true, 'btn-success' : isRequirementComplete(requirement), 'btn-warning' : (isRequirementStarted(requirement) && !isRequirementComplete(requirement))}" size="md"  @click="requirementIncrease(requirement)">
                                         {{ requirement.requirement_type }} {{ requirement.current }}/{{ requirement.goal }}
                                     </b-btn>
                                 </div>
                                 <div class="col-25 w-25 text-right">
-                                    <b-btn :class="{'ml-2': true, 'float-right' : true, 'btn-success' : areAllRequirementsComplete(mission), 'btn-danger' : !areAllRequirementsComplete(mission)}" size="sm" @click="removeActiveMission(activeMissions, mission)">
+                                    <b-btn :class="{'ml-2': true, 'float-right' : true, 'btn-success' : areAllRequirementsComplete(mission), 'btn-danger' : !areAllRequirementsComplete(mission)}" size="md" @click="removeActiveMission(activeMissions, mission)">
                                         &nbsp;<i :class="{'octicon' : true, 'octicon-check' : areAllRequirementsComplete(mission), 'octicon-x': !areAllRequirementsComplete(mission)}"></i>
                                     </b-btn>
-                                    <b-btn :class="{'float-right' : true, 'btn-danger' : true}" size="sm" @click="requirementResetAll(mission)">
+                                    <b-btn :class="{'float-right' : true, 'btn-danger' : true}" size="md" @click="requirementResetAll(mission)">
                                         &nbsp;<i class="octicon octicon-sync"></i>
                                     </b-btn>
                                 </div>
@@ -58,7 +58,7 @@
             </b-row>
             <b-row class="mb-3 mt-2">
                 <b-col>
-                    <b-btn v-b-modal="'addModal'" class="w-100" size="lg" variant="primary">
+                    <b-btn v-b-modal="'addModal'" class="w-100 mt-1" size="lg" variant="primary">
                         Add Mission
                     </b-btn>
                 </b-col>

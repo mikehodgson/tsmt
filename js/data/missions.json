@@ -68,7 +68,7 @@
         "Giants"
     ],
     "months": [
-       "April",
+        "April",
         "May",
         "June",
         "July",
@@ -1293,7 +1293,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Hanley Ramirez (82/-/-) - Career Arcs - Hanley Ramirez"
+        "label": "Hanley Ramirez (82/HW/-) - Career Arcs - Hanley Ramirez"
     }, {
         "id": 64,
         "player": "Hanley Ramirez",
@@ -5793,7 +5793,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Kelvin Herrera (82/-/-) - Team Epic - Kansas City Royals"
+        "label": "Kelvin Herrera (82/-/RP) - Team Epic - Kansas City Royals"
     }, {
         "id": 248,
         "player": "Bert Blyleven",
@@ -5813,7 +5813,7 @@
             "goal": "30",
             "current": 0
         }],
-        "label": "Bert Blyleven (83/-/-) - Team Epic - Minnesota Twins"
+        "label": "Bert Blyleven (83/-/SP) - Team Epic - Minnesota Twins"
     }, {
         "id": 249,
         "player": "Matt Shoemaker",
@@ -5833,7 +5833,7 @@
             "goal": "30",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Matt Shoemaker (82/-/SP) - Team Epic - Los Angeles Angels"
     }, {
         "id": 250,
         "player": "Tom Wilhelmsen",
@@ -5853,7 +5853,7 @@
             "goal": "20",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Tom Wilhelmsen (80/-/CP) - Team Epic - Seattle Mariners"
     }, {
         "id": 251,
         "player": "Neftali Feliz",
@@ -5873,7 +5873,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Neftali Feliz (83/-/CP) - Team Epic - Texas Rangers"
     }, {
         "id": 252,
         "player": "Doug Drabek",
@@ -5893,7 +5893,7 @@
             "goal": "30",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Doug Drabek (82/-/SP) - Team Epic - Houston Astros"
     }, {
         "id": 253,
         "player": "Martin Prado",
@@ -5921,7 +5921,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Martin Prado (80/-/-) - Team Epic - Atlanta Braves"
     }, {
         "id": 254,
         "player": "Steve Cishek",
@@ -5941,7 +5941,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Steve Cishek (80/-/CP) - Team Epic - Miami Marlins"
     }, {
         "id": 255,
         "player": "Jeurys Familia",
@@ -5961,7 +5961,7 @@
             "goal": "25",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Jeurys Familia (81/-/CP) - Team Epic - New York Mets"
     }, {
         "id": 256,
         "player": "Antonio Bastardo",
@@ -5985,7 +5985,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Antonio Bastardo (79/-/RP) - Team Epic - Philadelphia Phillies"
     }, {
         "id": 257,
         "player": "Kris Bryant",
@@ -6013,7 +6013,7 @@
             "goal": "4",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Kris Bryant (80/-/-) - Team Epic - Chicago Cubs"
     }, {
         "id": 258,
         "player": "Ken Griffey, Sr.",
@@ -6033,7 +6033,7 @@
             "goal": "5",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Ken Griffey, Sr. (84/AS/-) - Team Epic - Cincinnati Reds"
     }, {
         "id": 259,
         "player": "Yovani Gallardo",
@@ -6053,7 +6053,7 @@
             "goal": "30",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Yovani Gallardo (80/-/SP) - Team Epic - Milwaukee Brewers"
     }, {
         "id": 260,
         "player": "Oliver Perez",
@@ -6073,7 +6073,7 @@
             "goal": "30",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Oliver Perez (83/-/SP) - Team Epic - Pittsburgh Pirates"
     }, {
         "id": 261,
         "player": "Ian Kennedy",
@@ -6089,7 +6089,7 @@
             "goal": "50",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Ian Kennedy (83/-/-) - Team Epic - Arizona Diamondbacks"
     }, {
         "id": 262,
         "player": "Chris Iannetta",
@@ -6113,7 +6113,7 @@
             "goal": "6",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Chris Iannetta (81/-/-) - Team Epic - Colorado Rockies"
     }, {
         "id": 263,
         "player": "Andre Ethier",
@@ -6145,7 +6145,7 @@
             "goal": "5",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Andre Ethier (81/-/-) - Team Epic - Los Angeles Dodgers"
     }, {
         "id": 264,
         "player": "Juan Marichal",
@@ -6165,7 +6165,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Juan Marichal (81/-/SP) - Team Epic - San Francisco Giants"
     }, {
         "id": 265,
         "player": "Omar Vizquel",
@@ -6193,7 +6193,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Omar Vizquel (89/-/-) - Team Epic - Cleveland Indians"
     }, {
         "id": 266,
         "player": "Catfish Hunter",
@@ -6213,7 +6213,7 @@
             "goal": "40",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Catfish Hunter (85/-/SP) - Team Epic - Oakland Athletics"
     }, {
         "id": 267,
         "player": "Jay Buhner",
@@ -6245,7 +6245,7 @@
             "goal": "7",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Jay Buhner (86/-/-) - Team Epic - Seattle Mariners"
     }, {
         "id": 268,
         "player": "Mike Napoli",
@@ -6273,7 +6273,7 @@
             "goal": "8",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Mike Napoli (85/-/-) - Team Epic - Texas Rangers"
     }, {
         "id": 269,
         "player": "Hunter Pence",
@@ -6309,7 +6309,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Hunter Pence (84/-/-) - Team Epic - Houston Astros"
     }, {
         "id": 270,
         "player": "Matt Garza",
@@ -6333,8 +6333,8 @@
             "goal": "1",
             "current": 0
         }],
-        "label": " -  - "
-    },{
+        "label": "Matt Garza (82/-/SP) - Team Epic - Chicago Cubs"
+    }, {
         "id": 271,
         "player": "Shelby Miller",
         "rating": "80",
@@ -6354,5 +6354,29 @@
             "current": 0
         }],
         "label": "Shelby Miller (80/R/SP) - Team Epic - St. Louis Cardinals"
+    }, {
+        "id": 272,
+        "player": "Jhoulys Chacin",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "Rockies",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Jhoulys Chacin",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1",
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": "7",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "9",
+            "current": 0
+        }],
+        "label": "Jhoulys Chacin - Starting Pitchers - Jhoulys Chacin"
     }]
 }

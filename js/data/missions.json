@@ -1267,7 +1267,7 @@
         "id": 63,
         "player": "Hanley Ramirez",
         "rating": "82",
-        "series": "-",
+        "series": "HW",
         "duration": "Single Game",
         "team": "",
         "position": "-",
@@ -1275,6 +1275,10 @@
         "program": "Hanley Ramirez",
         "requirements": [{
             "requirement_type": "SB",
+            "goal": 2,
+            "current": 0
+        }, {
+            "requirement_type": "R",
             "goal": 2,
             "current": 0
         }],

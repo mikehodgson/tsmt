@@ -16,7 +16,8 @@
         "Relief Pitchers",
         "Closing Pitchers",
         "Immortals",
-        "Career Arcs"
+        "Career Arcs",
+        "Monthly"
     ],
     "durations": [
         "Single Game",
@@ -65,6 +66,16 @@
         "Dodgers",
         "Padres",
         "Giants"
+    ],
+    "months": [
+       "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November"
     ],
     "positions": [
         "SP",
@@ -146,7 +157,7 @@
         "series": "R",
         "duration": "Single Game",
         "team": "Blue Jays",
-        "position": "-",
+        "position": "RF",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
         "requirements": [{
@@ -158,7 +169,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Shawn Green (76/R/-) - Conquest - Conquest Part 1"
+        "label": "Shawn Green (76/R/RF) - Conquest - Conquest Part 1"
     }, {
         "id": 5,
         "player": "Harold Baines",
@@ -186,7 +197,7 @@
         "series": "IV",
         "duration": "Single Game",
         "team": "Athletics",
-        "position": "-",
+        "position": "RP",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
         "requirements": [{
@@ -198,7 +209,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Brad Ziegler (70/IV/-) - Conquest - Conquest Part 1"
+        "label": "Brad Ziegler (70/IV/RP) - Conquest - Conquest Part 1"
     }, {
         "id": 7,
         "player": "Dale Murphy",
@@ -250,7 +261,7 @@
         "series": "IV",
         "duration": "Single Game",
         "team": "Cubs",
-        "position": "-",
+        "position": "1B",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
         "requirements": [{
@@ -262,7 +273,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Eric Karros (74/IV/-) - Conquest - Conquest Part 1"
+        "label": "Eric Karros (74/IV/1B) - Conquest - Conquest Part 1"
     }, {
         "id": 10,
         "player": "Bill Mazeroski",
@@ -294,7 +305,7 @@
         "series": "R",
         "duration": "Single Game",
         "team": "Dodgers",
-        "position": "-",
+        "position": "CF",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
         "requirements": [{
@@ -306,7 +317,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Matt Kemp (74/R/-) - Conquest - Conquest Part 1"
+        "label": "Matt Kemp (74/R/CF) - Conquest - Conquest Part 1"
     }, {
         "id": 12,
         "player": "Brandon Crawford",
@@ -314,7 +325,7 @@
         "series": "R",
         "duration": "Single Game",
         "team": "Giants",
-        "position": "-",
+        "position": "SS",
         "program_type": "Conquest",
         "program": "Conquest Part 1",
         "requirements": [{
@@ -326,7 +337,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Brandon Crawford (69/R/-) - Conquest - Conquest Part 1"
+        "label": "Brandon Crawford (69/R/SS) - Conquest - Conquest Part 1"
     }, {
         "id": 13,
         "player": "Babe Ruth",
@@ -334,7 +345,7 @@
         "series": "R",
         "duration": "Single Game",
         "team": "",
-        "position": "-",
+        "position": "RF",
         "program_type": "Immortals",
         "program": "Babe Ruth",
         "requirements": [{
@@ -346,7 +357,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Babe Ruth (77/R/-) - Immortals - Babe Ruth"
+        "label": "Babe Ruth (77/R/RF) - Immortals - Babe Ruth"
     }, {
         "id": 14,
         "player": "Babe Ruth",
@@ -4702,7 +4713,7 @@
         "series": "BO",
         "duration": "Multi-Game",
         "team": "Rangers",
-        "position": "-",
+        "position": "SP",
         "program_type": "",
         "program": "Texas Rangers",
         "requirements": [{
@@ -4714,7 +4725,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Derek Holland (76/BO/-) -  - Texas Rangers"
+        "label": "Derek Holland (76/BO/SP) -  - Texas Rangers"
     }, {
         "id": 197,
         "player": "Jose Altuve",
@@ -5010,7 +5021,7 @@
         "series": "BO",
         "duration": "Multi-Game",
         "team": "Giants",
-        "position": "-",
+        "position": "RP",
         "program_type": "Team Epic",
         "program": "San Diego Padres",
         "requirements": [{
@@ -5018,7 +5029,7 @@
             "goal": "8",
             "current": 0
         }],
-        "label": "Santiago Casilla (76/BO/-) - Team Epic - San Diego Padres"
+        "label": "Santiago Casilla (76/BO/RP) - Team Epic - San Diego Padres"
     }, {
         "id": 213,
         "player": "Jim Johnson",
@@ -6319,5 +6330,25 @@
             "current": 0
         }],
         "label": " -  - "
+    },{
+        "id": 271,
+        "player": "Shelby Miller",
+        "rating": "80",
+        "series": "R",
+        "duration": "Multi-Game",
+        "team": "Cardinals",
+        "position": "SP",
+        "program_type": "Team Epic",
+        "program": "St. Louis Cardinals",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "30",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "30",
+            "current": 0
+        }],
+        "label": "Shelby Miller (80/R/SP) - Team Epic - St. Louis Cardinals"
     }]
 }

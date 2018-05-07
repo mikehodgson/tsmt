@@ -1249,6 +1249,10 @@
         "program_type": "Career Arcs",
         "program": "Don Sutton",
         "requirements": [{
+            "requirement_type": "CG",
+            "goal": 1,
+            "current": 0
+        },{
             "requirement_type": "W",
             "goal": 1,
             "current": 0

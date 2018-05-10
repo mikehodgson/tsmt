@@ -8096,5 +8096,237 @@
                 "current": 0
             }],
             "label": "Daily - The Right Bat (90+ PWR vs RHP)"
+        }, {
+            "id": 380,
+            "player": "The Arrival",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "",
+            "position": "",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "3",
+                "current": 0
+            },{
+                "requirement_type": "HR",
+                "goal": "1",
+                "current": 0
+            },{
+                "requirement_type": "RBI",
+                "goal": "3",
+                "current": 0
+            }],
+            "label": "POTM April - The Arrival (LH Hitters)"
+        }, {
+            "id": 381,
+            "player": "Electric Stuff",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "",
+            "position": "",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "K",
+                "goal": "8",
+                "current": 0
+            },{
+                "requirement_type": "S",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "POTM April - The Arrival (RP/CP)"
+        }, {
+            "id": 382,
+            "player": "Heroic Home Opener",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "",
+            "position": "",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "4",
+                "current": 0
+            },{
+                "requirement_type": "2B",
+                "goal": "1",
+                "current": 0
+            },{
+                "requirement_type": "HR",
+                "goal": "2",
+                "current": 0
+            },{
+                "requirement_type": "RBI",
+                "goal": "8",
+                "current": 0
+            }],
+            "label": "POTM April - Heroic Home Opener"
+        }, {
+            "id": 383,
+            "player": "Carlos Villanueva",
+            "rating": "80",
+            "series": "POTM",
+            "duration": "Single Game",
+            "team": "",
+            "position": "3B",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            },{
+                "requirement_type": "RBI",
+                "goal": "3",
+                "current": 0
+            },{
+                "requirement_type": "HR",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "POTM April - Villanueva's Power Surge"
+        }, {
+            "id": 384,
+            "player": "Jed Lowrie",
+            "rating": "82",
+            "series": "POTM",
+            "duration": "Single Game",
+            "team": "",
+            "position": "2B",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "3",
+                "current": 0
+            },{
+                "requirement_type": "RBI",
+                "goal": "1",
+                "current": 0
+            },{
+                "requirement_type": "HR",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "POTM April - Lowrie's 3-Hit Game"
+        }, {
+            "id": 385,
+            "player": "Shohei Ohtani",
+            "rating": "82",
+            "series": "POTM",
+            "duration": "Multi-Game",
+            "team": "",
+            "position": "RF",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "RBI",
+                "goal": "7",
+                "current": 0
+            },{
+                "requirement_type": "HR",
+                "goal": "3",
+                "current": 0
+            }],
+            "label": "POTM April - Ohtani's First Homestand"
+        }, {
+            "id": 386,
+            "player": "Sean Manaea",
+            "rating": "83",
+            "series": "POTM",
+            "duration": "Multi-Game",
+            "team": "",
+            "position": "SP",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "W",
+                "goal": "1",
+                "current": 0
+            },{
+                "requirement_type": "K",
+                "goal": "10",
+                "current": 0
+            }],
+            "label": "POTM April - Manaea's Month"
+        }, {
+            "id": 387,
+            "player": "Shohei Ohtani",
+            "rating": "83",
+            "series": "POTM",
+            "duration": "Single Game",
+            "team": "",
+            "position": "SP",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "CGSO",
+                "goal": "1",
+                "current": 0
+            },{
+                "requirement_type": "K",
+                "goal": "8",
+                "current": 0
+            }],
+            "label": "POTM April - Corbin's Shutout"
+        }, {
+            "id": 388,
+            "player": "Ozzie Albies",
+            "rating": "86",
+            "series": "POTM",
+            "duration": "Multi-Game",
+            "team": "",
+            "position": "2B",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "?",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "POTM April - Hits with Albies"
+        }, {
+            "id": 389,
+            "player": "Josh Hader",
+            "rating": "88",
+            "series": "POTM",
+            "duration": "Multi-Game",
+            "team": "",
+            "position": "CP",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "?",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "POTM April - K's with Hader"
+        }, {
+            "id": 390,
+            "player": "Didi Gregorious",
+            "rating": "91",
+            "series": "POTM",
+            "duration": "Single Game",
+            "team": "",
+            "position": "SS",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "RBI",
+                "goal": "4",
+                "current": 0
+            },{
+                "requirement_type": "?",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "POTM April - Gregorious' 4 RBI Game"
         }]
 }

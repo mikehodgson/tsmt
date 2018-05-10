@@ -6350,7 +6350,7 @@
         "program": "St. Louis Cardinals",
         "requirements": [{
             "requirement_type": "W",
-            "goal": "30",
+            "goal": "3",
             "current": 0
         }, {
             "requirement_type": "K",

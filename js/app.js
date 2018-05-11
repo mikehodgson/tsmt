@@ -64,7 +64,8 @@ window.onload = function() {
             selectedMission: null,
             filteredMissions: [],
             selectedFilter: null,
-            selectedTeam: null
+            selectedTeam: null,
+			selectedPosition: null
         },
         created : function() {
             var _this = this;
@@ -94,7 +95,10 @@ window.onload = function() {
             },
             selectedTeam: function(newVal) {
                 this.updateTeamFilter(newVal);
-            }
+            },
+			selectedPosition: function(newVal) {
+                this.updatePositionFilter(newVal);
+			}
         },
         methods: {
             handleOK: function(evt) {
@@ -195,6 +199,9 @@ window.onload = function() {
             updateTeamFilter: function(selectedOption) {
                 this.updateFilter();
             },
+			updatePositionFilter: function(selectedOption) {
+                this.updateFilter();
+            },
             updateFilter: function() {
                 var _this = this;
                 _this.$data.filteredMissions = _this.$data.missions;
@@ -206,6 +213,10 @@ window.onload = function() {
                 if (_this.$data.selectedTeam != null) {
                     console.log("team filter");
                     _this.$data.filteredMissions = _this.$data.filteredMissions.filter(function(e) { return e.team === _this.$data.selectedTeam; });
+                }
+				if (_this.$data.selectedPosition != null) {
+                    console.log("position filter");
+                    _this.$data.filteredMissions = _this.$data.filteredMissions.filter(function(e) { return e.position === _this.$data.selectedPosition; });
                 }
             }
         }

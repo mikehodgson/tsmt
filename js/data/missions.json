@@ -17,7 +17,9 @@
         "Closing Pitchers",
         "Immortals",
         "Career Arcs",
-        "Monthly"
+        "Monthly",
+        "Dailies",
+        "Player of the Month"
     ],
     "durations": [
         "Single Game",
@@ -6350,7 +6352,7 @@
         "program": "St. Louis Cardinals",
         "requirements": [{
             "requirement_type": "W",
-            "goal": "30",
+            "goal": "3",
             "current": 0
         }, {
             "requirement_type": "K",
@@ -6382,5 +6384,1949 @@
             "current": 0
         }],
         "label": "Jhoulys Chacin - Starting Pitchers - Jhoulys Chacin"
-    }]
+    }, {
+        "id": 273,
+        "player": "Hardware Runs x2",
+        "rating": "-",
+        "series": "HW",
+        "duration": "Single Game",
+        "team": "",
+        "position": "",
+        "program_type": "Daily",
+        "program": "Dailies",
+        "requirements": [{
+            "requirement_type": "R",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": "Daily - Hardware Runs x2"
+    }, {
+        "id": 274,
+        "player": "Texas Hold 'Em",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "Rangers",
+        "position": "",
+        "program_type": "Daily",
+        "program": "Dailies",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": "Daily - Texas Hold 'Em"
+    }, {
+        "id": 275,
+        "player": "Flashback Doubles",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "",
+        "position": "",
+        "program_type": "Daily",
+        "program": "Dailies",
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": "Daily - Flashback Doubles"
+    }, {
+        "id": 276,
+        "player": "All-Star K's x3",
+        "rating": "-",
+        "series": "AS",
+        "duration": "Single Game",
+        "team": "",
+        "position": "",
+        "program_type": "Daily",
+        "program": "Dailies",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": "Daily - All-Star K's x3"
+    }, {
+        "id": 277,
+        "player": "Impact HR",
+        "rating": "-",
+        "series": "IV",
+        "duration": "Single Game",
+        "team": "",
+        "position": "",
+        "program_type": "Daily",
+        "program": "Dailies",
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": "Daily - Impact Veteran HR"
+    }, {
+        "id": 278,
+        "player": "Shortstop Singles x2",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "",
+        "position": "SS",
+        "program_type": "Daily",
+        "program": "Dailies",
+        "requirements": [{
+            "requirement_type": "1B",
+            "goal": "2",
+            "current": 0
+        }],
+        "label": "Daily - Shortstop Singles x2"
+    }, {
+        "id": 279,
+        "player": "Breakout Steal",
+        "rating": "-",
+        "series": "BO",
+        "duration": "Single Game",
+        "team": "",
+        "position": "",
+        "program_type": "Daily",
+        "program": "Dailies",
+        "requirements": [{
+            "requirement_type": "SB",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": "Daily - Breakout Steal"
+    }, {
+        "id": 280,
+        "player": "Run For It",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "",
+        "position": "",
+        "program_type": "Daily",
+        "program": "Dailies",
+        "requirements": [{
+            "requirement_type": "R",
+            "goal": "4",
+            "current": 0
+        }],
+        "label": "Daily - Run for It"
+    }, {
+        "id": 281,
+        "player": "Postseason Run",
+        "rating": "-",
+        "series": "PS",
+        "duration": "Single Game",
+        "team": "",
+        "position": "",
+        "program_type": "Daily",
+        "program": "Dailies",
+        "requirements": [{
+            "requirement_type": "R",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": "Daily - Flashback Doubles"
+    }, {
+        "id": 282,
+        "player": "Flying on the Basepaths",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "",
+        "position": "",
+        "program_type": "Daily",
+        "program": "Dailies",
+        "requirements": [{
+            "requirement_type": "SB",
+            "goal": "1",
+            "current": 0
+        }],
+        "label": "Daily - Flying on the Basepaths (90+ Speed)"
+    }, {
+        "id": 283,
+        "player": "Envision the Hits",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "",
+        "position": "",
+        "program_type": "Daily",
+        "program": "Dailies",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "3",
+            "current": 0
+        }],
+        "label": "Daily - Envision the Hits (80+ Vision)"
+    }, {
+            "id": 284,
+            "player": "Orioles Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Orioles",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Orioles Hits x2"
+        }, {
+            "id": 285,
+            "player": "Orioles Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Orioles",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Orioles Runs x4"
+        }, {
+            "id": 286,
+            "player": "Orioles HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Orioles",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Orioles HR"
+        }, {
+            "id": 287,
+            "player": "Red Sox Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Red Sox",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Red Sox Hits x2"
+        }, {
+            "id": 288,
+            "player": "Red Sox Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Red Sox",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Red Sox Runs x4"
+        }, {
+            "id": 289,
+            "player": "Red Sox HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Red Sox",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Red Sox HR"
+        }, {
+            "id": 290,
+            "player": "Yankees Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Yankees",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Yankees Hits x2"
+        }, {
+            "id": 291,
+            "player": "Yankees Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Yankees",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Yankees Runs x4"
+        }, {
+            "id": 292,
+            "player": "Yankees HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Yankees",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Yankees HR"
+        }, {
+            "id": 293,
+            "player": "Rays Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Rays",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Rays Hits x2"
+        }, {
+            "id": 294,
+            "player": "Rays Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Rays",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Rays Runs x4"
+        }, {
+            "id": 295,
+            "player": "Rays HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Rays",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Rays HR"
+        }, {
+            "id": 296,
+            "player": "Blue Jays Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Blue Jays",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Blue Jays Hits x2"
+        }, {
+            "id": 297,
+            "player": "Blue Jays Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Blue Jays",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Blue Jays Runs x4"
+        }, {
+            "id": 298,
+            "player": "Blue Jays HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Blue Jays",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Blue Jays HR"
+        }, {
+            "id": 299,
+            "player": "White Sox Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "White Sox",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - White Sox Hits x2"
+        }, {
+            "id": 300,
+            "player": "White Sox Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "White Sox",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - White Sox Runs x4"
+        }, {
+            "id": 301,
+            "player": "White Sox HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "White Sox",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - White Sox HR"
+        }, {
+            "id": 302,
+            "player": "Indians Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Indians",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Indians Hits x2"
+        }, {
+            "id": 303,
+            "player": "Indians Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Indians",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Indians Runs x4"
+        }, {
+            "id": 304,
+            "player": "Indians HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Indians",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Indians HR"
+        }, {
+            "id": 305,
+            "player": "Tigers Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Tigers",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Tigers Hits x2"
+        }, {
+            "id": 306,
+            "player": "Tigers Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Tigers",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Tigers Runs x4"
+        }, {
+            "id": 307,
+            "player": "Tigers HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Tigers",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Tigers HR"
+        }, {
+            "id": 308,
+            "player": "Royals Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Royals",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Royals Hits x2"
+        }, {
+            "id": 309,
+            "player": "Royals Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Royals",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Royals Runs x4"
+        }, {
+            "id": 310,
+            "player": "Royals HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Royals",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Royals HR"
+        }, {
+            "id": 311,
+            "player": "Twins Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Twins",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Twins Hits x2"
+        }, {
+            "id": 312,
+            "player": "Twins Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Twins",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Twins Runs x4"
+        }, {
+            "id": 313,
+            "player": "Twins HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Twins",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Twins HR"
+        }, {
+            "id": 314,
+            "player": "Astros Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Astros",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Astros Hits x2"
+        }, {
+            "id": 315,
+            "player": "Astros Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Astros",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Astros Runs x4"
+        }, {
+            "id": 316,
+            "player": "Astros HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Astros",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Astros HR"
+        }, {
+            "id": 317,
+            "player": "Angels Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Angels",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Angels Hits x2"
+        }, {
+            "id": 318,
+            "player": "Angels Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Angels",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Angels Runs x4"
+        }, {
+            "id": 319,
+            "player": "Angels HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Angels",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Angels HR"
+        }, {
+            "id": 320,
+            "player": "Athletics Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Athletics",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Athletics Hits x2"
+        }, {
+            "id": 321,
+            "player": "Athletics Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Athletics",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Athletics Runs x4"
+        }, {
+            "id": 322,
+            "player": "Athletics HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Athletics",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Athletics HR"
+        }, {
+            "id": 323,
+            "player": "Mariners Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Mariners",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Mariners Hits x2"
+        }, {
+            "id": 324,
+            "player": "Mariners Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Mariners",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Mariners Runs x4"
+        }, {
+            "id": 325,
+            "player": "Mariners HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Mariners",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Mariners HR"
+        }, {
+            "id": 326,
+            "player": "Rangers Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Rangers",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Rangers Hits x2"
+        }, {
+            "id": 327,
+            "player": "Rangers Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Rangers",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Rangers Runs x4"
+        }, {
+            "id": 328,
+            "player": "Rangers HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Rangers",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Rangers HR"
+        }, {
+            "id": 329,
+            "player": "Braves Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Braves",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Braves Hits x2"
+        }, {
+            "id": 330,
+            "player": "Braves Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Braves",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Braves Runs x4"
+        }, {
+            "id": 331,
+            "player": "Braves HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Braves",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Braves HR"
+        }, {
+            "id": 332,
+            "player": "Marlins Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Marlins",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Marlins Hits x2"
+        }, {
+            "id": 333,
+            "player": "Marlins Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Marlins",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Marlins Runs x4"
+        }, {
+            "id": 334,
+            "player": "Marlins HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Marlins",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Marlins HR"
+        }, {
+            "id": 335,
+            "player": "Mets Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Mets",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Mets Hits x2"
+        }, {
+            "id": 336,
+            "player": "Mets Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Mets",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Mets Runs x4"
+        }, {
+            "id": 337,
+            "player": "Mets HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Mets",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Mets HR"
+        }, {
+            "id": 338,
+            "player": "Phillies Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Phillies",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Phillies Hits x2"
+        }, {
+            "id": 339,
+            "player": "Phillies Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Phillies",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Phillies Runs x4"
+        }, {
+            "id": 340,
+            "player": "Phillies HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Phillies",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Phillies HR"
+        }, {
+            "id": 341,
+            "player": "Nationals Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Nationals",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Nationals Hits x2"
+        }, {
+            "id": 342,
+            "player": "Nationals Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Nationals",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Nationals Runs x4"
+        }, {
+            "id": 343,
+            "player": "Nationals HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Nationals",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Nationals HR"
+        }, {
+            "id": 344,
+            "player": "Cubs Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Cubs",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Cubs Hits x2"
+        }, {
+            "id": 345,
+            "player": "Cubs Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Cubs",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Cubs Runs x4"
+        }, {
+            "id": 346,
+            "player": "Cubs HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Cubs",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Cubs HR"
+        }, {
+            "id": 347,
+            "player": "Reds Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Reds",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Reds Hits x2"
+        }, {
+            "id": 348,
+            "player": "Reds Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Reds",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Reds Runs x4"
+        }, {
+            "id": 349,
+            "player": "Reds HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Reds",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Reds HR"
+        }, {
+            "id": 350,
+            "player": "Brewers Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Brewers",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Brewers Hits x2"
+        }, {
+            "id": 351,
+            "player": "Brewers Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Brewers",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Brewers Runs x4"
+        }, {
+            "id": 352,
+            "player": "Brewers HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Brewers",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Brewers HR"
+        }, {
+            "id": 353,
+            "player": "Pirates Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Pirates",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Pirates Hits x2"
+        }, {
+            "id": 354,
+            "player": "Pirates Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Pirates",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Pirates Runs x4"
+        }, {
+            "id": 355,
+            "player": "Pirates HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Pirates",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Pirates HR"
+        }, {
+            "id": 356,
+            "player": "Cardinals Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Cardinals",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Cardinals Hits x2"
+        }, {
+            "id": 357,
+            "player": "Cardinals Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Cardinals",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Cardinals Runs x4"
+        }, {
+            "id": 358,
+            "player": "Cardinals HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Cardinals",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Cardinals HR"
+        }, {
+            "id": 359,
+            "player": "Diamondbacks Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Diamondbacks",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Diamondbacks Hits x2"
+        }, {
+            "id": 360,
+            "player": "Diamondbacks Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Diamondbacks",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Diamondbacks Runs x4"
+        }, {
+            "id": 361,
+            "player": "Diamondbacks HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Diamondbacks",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Diamondbacks HR"
+        }, {
+            "id": 362,
+            "player": "Rockies Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Rockies",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Rockies Hits x2"
+        }, {
+            "id": 363,
+            "player": "Rockies Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Rockies",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Rockies Runs x4"
+        }, {
+            "id": 364,
+            "player": "Rockies HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Rockies",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Rockies HR"
+        }, {
+            "id": 365,
+            "player": "Dodgers Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Dodgers",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Dodgers Hits x2"
+        }, {
+            "id": 366,
+            "player": "Dodgers Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Dodgers",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Dodgers Runs x4"
+        }, {
+            "id": 367,
+            "player": "Dodgers HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Dodgers",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Dodgers HR"
+        }, {
+            "id": 368,
+            "player": "Padres Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Padres",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Padres Hits x2"
+        }, {
+            "id": 369,
+            "player": "Padres Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Padres",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Padres Runs x4"
+        }, {
+            "id": 370,
+            "player": "Padres HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Padres",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Padres HR"
+        }, {
+            "id": 371,
+            "player": "Giants Hits x2",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Giants",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Giants Hits x2"
+        }, {
+            "id": 372,
+            "player": "Giants Runs x4",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Giants",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "R",
+                "goal": "4",
+                "current": 0
+            }],
+            "label": "Daily - Giants Runs x4"
+        }, {
+            "id": 373,
+            "player": "Giants HR",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "Giants",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "Daily - Giants HR"
+        }, {
+            "id": 374,
+            "player": "Pitchers Can Hit",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "Daily - Pitchers can Hit"
+        }, {
+            "id": 375,
+            "player": "3 Triples",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "3B",
+                "goal": "3",
+                "current": 0
+            }],
+            "label": "Daily - 3 Triples"
+        }, {
+            "id": 376,
+            "player": "Save the Battle",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "S",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "Daily - Save the Battle"
+        }, {
+            "id": 377,
+            "player": "Bat Flip",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "HR",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "Daily - Bat Flip"
+        }, {
+            "id": 378,
+            "player": "Legend Triple",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "3B",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "Daily - Legend Triple"
+        }, {
+            "id": 379,
+            "player": "The Right Bat",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "",
+            "position": "",
+            "program_type": "Daily",
+            "program": "Dailies",
+            "requirements": [{
+                "requirement_type": "HR",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "Daily - The Right Bat (90+ PWR vs RHP)"
+        }, {
+            "id": 380,
+            "player": "The Arrival",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "",
+            "position": "",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "3",
+                "current": 0
+            },{
+                "requirement_type": "HR",
+                "goal": "1",
+                "current": 0
+            },{
+                "requirement_type": "RBI",
+                "goal": "3",
+                "current": 0
+            }],
+            "label": "POTM April - The Arrival (LH Hitters)"
+        }, {
+            "id": 381,
+            "player": "Electric Stuff",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "",
+            "position": "",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "K",
+                "goal": "8",
+                "current": 0
+            },{
+                "requirement_type": "S",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "POTM April - The Arrival (RP/CP)"
+        }, {
+            "id": 382,
+            "player": "Heroic Home Opener",
+            "rating": "-",
+            "series": "-",
+            "duration": "Single Game",
+            "team": "",
+            "position": "",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "4",
+                "current": 0
+            },{
+                "requirement_type": "2B",
+                "goal": "1",
+                "current": 0
+            },{
+                "requirement_type": "HR",
+                "goal": "2",
+                "current": 0
+            },{
+                "requirement_type": "RBI",
+                "goal": "8",
+                "current": 0
+            }],
+            "label": "POTM April - Heroic Home Opener"
+        }, {
+            "id": 383,
+            "player": "Carlos Villanueva",
+            "rating": "80",
+            "series": "POTM",
+            "duration": "Single Game",
+            "team": "",
+            "position": "3B",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "2",
+                "current": 0
+            },{
+                "requirement_type": "RBI",
+                "goal": "3",
+                "current": 0
+            },{
+                "requirement_type": "HR",
+                "goal": "2",
+                "current": 0
+            }],
+            "label": "POTM April - Villanueva's Power Surge"
+        }, {
+            "id": 384,
+            "player": "Jed Lowrie",
+            "rating": "82",
+            "series": "POTM",
+            "duration": "Single Game",
+            "team": "",
+            "position": "2B",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "H",
+                "goal": "3",
+                "current": 0
+            },{
+                "requirement_type": "RBI",
+                "goal": "1",
+                "current": 0
+            },{
+                "requirement_type": "HR",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "POTM April - Lowrie's 3-Hit Game"
+        }, {
+            "id": 385,
+            "player": "Shohei Ohtani",
+            "rating": "82",
+            "series": "POTM",
+            "duration": "Multi-Game",
+            "team": "",
+            "position": "RF",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "RBI",
+                "goal": "7",
+                "current": 0
+            },{
+                "requirement_type": "HR",
+                "goal": "3",
+                "current": 0
+            }],
+            "label": "POTM April - Ohtani's First Homestand"
+        }, {
+            "id": 386,
+            "player": "Sean Manaea",
+            "rating": "83",
+            "series": "POTM",
+            "duration": "Multi-Game",
+            "team": "",
+            "position": "SP",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "W",
+                "goal": "1",
+                "current": 0
+            },{
+                "requirement_type": "K",
+                "goal": "10",
+                "current": 0
+            }],
+            "label": "POTM April - Manaea's Month"
+        }, {
+            "id": 387,
+            "player": "Shohei Ohtani",
+            "rating": "83",
+            "series": "POTM",
+            "duration": "Single Game",
+            "team": "",
+            "position": "SP",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "CGSO",
+                "goal": "1",
+                "current": 0
+            },{
+                "requirement_type": "K",
+                "goal": "8",
+                "current": 0
+            }],
+            "label": "POTM April - Corbin's Shutout"
+        }, {
+            "id": 388,
+            "player": "Ozzie Albies",
+            "rating": "86",
+            "series": "POTM",
+            "duration": "Multi-Game",
+            "team": "",
+            "position": "2B",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "?",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "POTM April - Hits with Albies"
+        }, {
+            "id": 389,
+            "player": "Josh Hader",
+            "rating": "88",
+            "series": "POTM",
+            "duration": "Multi-Game",
+            "team": "",
+            "position": "CP",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "?",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "POTM April - K's with Hader"
+        }, {
+            "id": 390,
+            "player": "Didi Gregorious",
+            "rating": "91",
+            "series": "POTM",
+            "duration": "Single Game",
+            "team": "",
+            "position": "SS",
+            "program_type": "POTM",
+            "program": "April POTM",
+            "requirements": [{
+                "requirement_type": "RBI",
+                "goal": "4",
+                "current": 0
+            },{
+                "requirement_type": "?",
+                "goal": "1",
+                "current": 0
+            }],
+            "label": "POTM April - Gregorious' 4 RBI Game"
+        }]
 }

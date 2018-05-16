@@ -191,7 +191,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Harold Baines (68/R/-) - Conquest - Conquest Part 1"
+        "label": "Harold Baines (68/R/RF) - Conquest - Conquest Part 1"
     }, {
         "id": 6,
         "player": "Brad Ziegler",
@@ -299,7 +299,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Bill Mazeroski (72/R/-) - Conquest - Conquest Part 1"
+        "label": "Bill Mazeroski (72/R/2B) - Conquest - Conquest Part 1"
     }, {
         "id": 11,
         "player": "Matt Kemp",
@@ -379,7 +379,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Babe Ruth (77/R/-) - Immortals - Babe Ruth"
+        "label": "Babe Ruth (77/R/SP) - Immortals - Babe Ruth"
     }, {
         "id": 15,
         "player": "Jackie Robinson",
@@ -399,7 +399,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Jackie Robinson (83/HW/-) - Immortals - Jackie Robinson"
+        "label": "Jackie Robinson (83/HW/1B) - Immortals - Jackie Robinson"
     }, {
         "id": 16,
         "player": "Jackie Robinson",
@@ -415,7 +415,7 @@
             "goal": 10,
             "current": 0
         }],
-        "label": "Jackie Robinson (-/AS/-) - Immortals - Jackie Robinson"
+        "label": "Jackie Robinson (88/AS/LF) - Immortals - Jackie Robinson"
     }, {
         "id": 17,
         "player": "Los Angeles Dodgers Players",
@@ -471,7 +471,7 @@
             "goal": 10,
             "current": 0
         }],
-        "label": "Mike Piazza (69/IV/-) - Immortals - Mike Piazza"
+        "label": "Mike Piazza (69/IV/1B) - Immortals - Mike Piazza"
     }, {
         "id": 19,
         "player": "Any Catchers",
@@ -531,7 +531,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Ken Griffey Jr. (72/IV/-) - Immortals - Ken Griffey Jr."
+        "label": "Ken Griffey Jr. (72/IV/RF) - Immortals - Ken Griffey Jr."
     }, {
         "id": 22,
         "player": "Ken Griffey Jr.",
@@ -607,7 +607,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Ken Griffey Jr (79/AS/-) - Immortals - Ken Griffey Jr."
+        "label": "Ken Griffey Jr (79/AS/RF) - Immortals - Ken Griffey Jr."
     }, {
         "id": 25,
         "player": "Bob Gibson",
@@ -627,7 +627,7 @@
             "goal": 10,
             "current": 0
         }],
-        "label": "Bob Gibson (73/R/-) - Immortals - Bob Gibson"
+        "label": "Bob Gibson (73/R/SP) - Immortals - Bob Gibson"
     }, {
         "id": 26,
         "player": "Bob Gibson",
@@ -691,7 +691,7 @@
             "goal": 25,
             "current": 0
         }],
-        "label": "Cal Ripken Jr. (78/IV/-) - Immortals - Cal Ripken Jr."
+        "label": "Cal Ripken Jr. (78/IV/SS) - Immortals - Cal Ripken Jr."
     }, {
         "id": 30,
         "player": "Any Shortstop",
@@ -727,7 +727,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Chipper Jones (79/R/-) - Immortals - Chipper Jones"
+        "label": "Chipper Jones (79/R/3B) - Immortals - Chipper Jones"
     }, {
         "id": 32,
         "player": "Any Legend Players",
@@ -811,7 +811,7 @@
             "goal": 4,
             "current": 0
         }],
-        "label": "Nolan Ryan (83/PS/-) - Immortals - Nolan Ryan"
+        "label": "Nolan Ryan (83/PS/RP) - Immortals - Nolan Ryan"
     }, {
         "id": 35,
         "player": "Any Starting Pitcher",
@@ -879,7 +879,7 @@
             "goal": 4,
             "current": 0
         }],
-        "label": "Rich Gossage (70/R/-) - Immortals - Rich Gossage"
+        "label": "Rich Gossage (70/R/RP) - Immortals - Rich Gossage"
     }, {
         "id": 40,
         "player": "Rich Gossage",
@@ -895,7 +895,7 @@
             "goal": 25,
             "current": 0
         }],
-        "label": "Rich Gossage (70/R/-) - Immortals - Rich Gossage"
+        "label": "Rich Gossage (70/R/RP) - Immortals - Rich Gossage"
     }, {
         "id": 41,
         "player": "Any Right-Handed RP/CP",
@@ -947,7 +947,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Billy Williams (76/IV/-) - Career Arcs - Billy Williams"
+        "label": "Billy Williams (76/IV/1B) - Career Arcs - Billy Williams"
     }, {
         "id": 44,
         "player": "Billy Williams",
@@ -983,7 +983,7 @@
             "goal": 75,
             "current": 0
         }],
-        "label": "Billy Williams (82/HW/-) - Career Arcs - Billy Williams"
+        "label": "Billy Williams (82/HW/LF) - Career Arcs - Billy Williams"
     }, {
         "id": 45,
         "player": "Any Legend Left Fielders",
@@ -1015,7 +1015,7 @@
             "goal": 3,
             "current": 0
         }],
-        "label": "Chase Utley (72/R/-) - Career Arcs - Chase Utley"
+        "label": "Chase Utley (72/R/2B) - Career Arcs - Chase Utley"
     }, {
         "id": 47,
         "player": "Any Second Basemen",
@@ -1051,7 +1051,7 @@
             "goal": 15,
             "current": 0
         }],
-        "label": "Gary Carter (78/R/-) - Career Arcs - Gary Carter"
+        "label": "Gary Carter (78/R/RF) - Career Arcs - Gary Carter"
     }, {
         "id": 49,
         "player": "Gary Carter",
@@ -1071,7 +1071,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Gary Carter (84/IV/-) - Career Arcs - Gary Carter"
+        "label": "Gary Carter (84/IV/C) - Career Arcs - Gary Carter"
     }, {
         "id": 50,
         "player": "Any Catchers",
@@ -1107,7 +1107,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Paul Molitor (74/IV/-) - Career Arcs - Paul Molitor"
+        "label": "Paul Molitor (74/IV/1B) - Career Arcs - Paul Molitor"
     }, {
         "id": 52,
         "player": "Paul Molitor",
@@ -1127,7 +1127,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Paul Molitor (78/R/-) - Career Arcs - Paul Molitor"
+        "label": "Paul Molitor (78/R/2B) - Career Arcs - Paul Molitor"
     }, {
         "id": 53,
         "player": "Paul Molitor",
@@ -1163,7 +1163,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Larry Doby (76/IV/-) - Career Arcs - Larry Doby"
+        "label": "Larry Doby (76/IV/CF) - Career Arcs - Larry Doby"
     }, {
         "id": 55,
         "player": "Larry Doby",
@@ -1179,7 +1179,7 @@
             "goal": 15,
             "current": 0
         }],
-        "label": "Larry Doby (80/R/-) - Career Arcs - Larry Doby"
+        "label": "Larry Doby (80/R/CF) - Career Arcs - Larry Doby"
     }, {
         "id": 56,
         "player": "Larry Doby",
@@ -1195,7 +1195,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Larry Doby (80/R/-) - Career Arcs - Larry Doby"
+        "label": "Larry Doby (80/R/CF) - Career Arcs - Larry Doby"
     }, {
         "id": 57,
         "player": "Any All-Star Outfielders",
@@ -1239,7 +1239,7 @@
             "goal": 7,
             "current": 0
         }],
-        "label": "Don Sutton (72/IV/-) - Career Arcs - Don Sutton"
+        "label": "Don Sutton (72/IV/SP) - Career Arcs - Don Sutton"
     }, {
         "id": 59,
         "player": "Don Sutton",
@@ -1263,7 +1263,7 @@
             "goal": 10,
             "current": 0
         }],
-        "label": "Don Sutton (84/R/-) - Career Arcs - Don Sutton"
+        "label": "Don Sutton (84/R/SP) - Career Arcs - Don Sutton"
     }, {
         "id": 60,
         "player": "Any Rookie SP",
@@ -1299,7 +1299,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Hanley Ramirez (82/HW/-) - Career Arcs - Hanley Ramirez"
+        "label": "Hanley Ramirez (82/HW/SS) - Career Arcs - Hanley Ramirez"
     }, {
         "id": 64,
         "player": "Hanley Ramirez",
@@ -1319,7 +1319,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Hanley Ramirez (88/AS/-) - Career Arcs - Hanley Ramirez"
+        "label": "Hanley Ramirez (88/AS/SS) - Career Arcs - Hanley Ramirez"
     }, {
         "id": 65,
         "player": "Any Shortstops",
@@ -1359,7 +1359,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Joe Torre (74/IV/-) - Career Arcs - Joe Torre"
+        "label": "Joe Torre (74/IV/1B) - Career Arcs - Joe Torre"
     }, {
         "id": 67,
         "player": "Joe Torre",
@@ -1375,7 +1375,7 @@
             "goal": 15,
             "current": 0
         }],
-        "label": "Joe Torre (79/R/-) - Career Arcs - Joe Torre"
+        "label": "Joe Torre (79/R/C) - Career Arcs - Joe Torre"
     }, {
         "id": 68,
         "player": "Joe Torre",
@@ -1391,7 +1391,7 @@
             "goal": 15,
             "current": 0
         }],
-        "label": "Joe Torre (89/HW/-) - Career Arcs - Joe Torre"
+        "label": "Joe Torre (89/HW/3B) - Career Arcs - Joe Torre"
     }, {
         "id": 69,
         "player": "Any Cardinals Players",
@@ -1431,7 +1431,7 @@
             "goal": 5,
             "current": 0
         }],
-        "label": "Jack Morris (61/R/-) - Career Arcs - Jack Morris"
+        "label": "Jack Morris (61/R/RP) - Career Arcs - Jack Morris"
     }, {
         "id": 71,
         "player": "Bret Saberhagen",
@@ -1455,7 +1455,7 @@
             "goal": 5,
             "current": 0
         }],
-        "label": "Bret Saberhagen (77/R/-) - Career Arcs - Bret Saberhagen"
+        "label": "Bret Saberhagen (77/R/SP) - Career Arcs - Bret Saberhagen"
     }, {
         "id": 72,
         "player": "Bret Saberhagen",
@@ -1475,7 +1475,7 @@
             "goal": 15,
             "current": 0
         }],
-        "label": "Bret Saberhagen (83/IV/-) - Career Arcs - Bret Saberhagen"
+        "label": "Bret Saberhagen (83/IV/SP) - Career Arcs - Bret Saberhagen"
     }, {
         "id": 73,
         "player": "Any SP from Royals, Mets, Rockies or Red Sox",
@@ -1515,7 +1515,7 @@
             "goal": 10,
             "current": 0
         }],
-        "label": "Lee Smith (68/IV/-) - Career Arcs - Lee Smith"
+        "label": "Lee Smith (68/IV/CP) - Career Arcs - Lee Smith"
     }, {
         "id": 75,
         "player": "Lee Smith",
@@ -1531,7 +1531,7 @@
             "goal": 50,
             "current": 0
         }],
-        "label": "Lee Smith (75/R/-) - Career Arcs - Lee Smith"
+        "label": "Lee Smith (75/R/RP) - Career Arcs - Lee Smith"
     }, {
         "id": 76,
         "player": "Lee Smith",
@@ -1547,7 +1547,7 @@
             "goal": 72,
             "current": 0
         }],
-        "label": "Lee Smith (85/AS/-) - Career Arcs - Lee Smith"
+        "label": "Lee Smith (85/AS/CP) - Career Arcs - Lee Smith"
     }, {
         "id": 77,
         "player": "Any RP or CP",
@@ -1583,7 +1583,7 @@
             "goal": 10,
             "current": 0
         }],
-        "label": "Trevor Hoffman (72/R/-) - Career Arcs - Hoffman"
+        "label": "Trevor Hoffman (72/R/RP) - Career Arcs - Hoffman"
     }, {
         "id": 79,
         "player": "Derek Norris",
@@ -1599,7 +1599,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Derek Norris (74/AS/-) - Catcher - Norris"
+        "label": "Derek Norris (74/AS/C) - Catcher - Norris"
     }, {
         "id": 80,
         "player": "Ryan Hanigan",
@@ -1619,7 +1619,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Ryan Hanigan (79/BO/-) - Catcher - Hanigan"
+        "label": "Ryan Hanigan (79/BO/C) - Catcher - Hanigan"
     }, {
         "id": 81,
         "player": "Jarod Saltalamacchia",
@@ -1643,7 +1643,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Jarod Saltalamacchia (75/IV/-) - Catcher - Saltalamacchia"
+        "label": "Jarod Saltalamacchia (75/IV/C) - Catcher - Saltalamacchia"
     }, {
         "id": 82,
         "player": "Kennys Vargas",
@@ -1667,7 +1667,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Kennys Vargas (71/R/-) - First Basemen - Vargas"
+        "label": "Kennys Vargas (71/R/1B) - First Basemen - Vargas"
     }, {
         "id": 83,
         "player": "Chris Carter",
@@ -1687,7 +1687,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Chris Carter (74/BO/-) - First Basemen - Carter"
+        "label": "Chris Carter (74/BO/1B) - First Basemen - Carter"
     }, {
         "id": 84,
         "player": "Sean Rodriguez",
@@ -1707,7 +1707,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Sean Rodriguez (78/IV/-) - First Basemen - Rodriguez"
+        "label": "Sean Rodriguez (78/IV/1B) - First Basemen - Rodriguez"
     }, {
         "id": 85,
         "player": "Lucas Duda",
@@ -1727,7 +1727,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Lucas Duda (75/BO/-) - First Basemen - Duda"
+        "label": "Lucas Duda (75/BO/1B) - First Basemen - Duda"
     }, {
         "id": 86,
         "player": "Brock Holt",
@@ -1747,7 +1747,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Brock Holt (72/AS/-) - Second Basemen - Holt"
+        "label": "Brock Holt (72/AS/2B) - Second Basemen - Holt"
     }, {
         "id": 87,
         "player": "Neil Walker",
@@ -1763,7 +1763,7 @@
             "goal": 4,
             "current": 0
         }],
-        "label": "Neil Walker (74/R/-) - Second Basemen - Walker"
+        "label": "Neil Walker (74/R/2B) - Second Basemen - Walker"
     }, {
         "id": 88,
         "player": "Danny Espinosa",
@@ -1783,7 +1783,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Danny Espinosa (76/R/-) - Second Basemen - Espinosa"
+        "label": "Danny Espinosa (76/R/2B) - Second Basemen - Espinosa"
     }, {
         "id": 89,
         "player": "Darwin Barney",
@@ -1799,7 +1799,7 @@
             "goal": 3,
             "current": 0
         }],
-        "label": "Darwin Barney (78/BO/-) - Second Basemen - Barney"
+        "label": "Darwin Barney (78/BO/2B) - Second Basemen - Barney"
     }, {
         "id": 90,
         "player": "Trevor Plouffe",
@@ -1819,7 +1819,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Trevor Plouffe (74/BO/-) - Third Basemen - Plouffe"
+        "label": "Trevor Plouffe (74/BO/3B) - Third Basemen - Plouffe"
     }, {
         "id": 91,
         "player": "Pedro Alvarez",
@@ -1839,7 +1839,7 @@
             "goal": 3,
             "current": 0
         }],
-        "label": "Pedro Alvarez (78/PS/-) - Third Basemen - Alvarez"
+        "label": "Pedro Alvarez (78/PS/3B) - Third Basemen - Alvarez"
     }, {
         "id": 92,
         "player": "Gordon Beckham",
@@ -1859,7 +1859,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Gordon Beckham (78/R/-) - Third Basemen - Beckham"
+        "label": "Gordon Beckham (78/R/3B) - Third Basemen - Beckham"
     }, {
         "id": 93,
         "player": "Mario Mendoza",
@@ -1875,7 +1875,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Mario Mendoza (63/IV/-) - Shortstops - Mendoza"
+        "label": "Mario Mendoza (63/IV/SS) - Shortstops - Mendoza"
     }, {
         "id": 94,
         "player": "Brad Miller",
@@ -1895,7 +1895,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Brad Miller (72/BO/-) - Shortstops - Miller"
+        "label": "Brad Miller (72/BO/SS) - Shortstops - Miller"
     }, {
         "id": 95,
         "player": "Emilio Bonifacio",
@@ -1915,7 +1915,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Emilio Bonifacio (78/BO/-) - Shortstops - Bonifacio"
+        "label": "Emilio Bonifacio (78/BO/SS) - Shortstops - Bonifacio"
     }, {
         "id": 96,
         "player": "Chris Heisey",
@@ -1935,7 +1935,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Chris Heisey (74/BO/-) - Left Fielders - Heisey"
+        "label": "Chris Heisey (74/BO/LF) - Left Fielders - Heisey"
     }, {
         "id": 98,
         "player": "Seth Smith",
@@ -1951,7 +1951,7 @@
             "goal": 3,
             "current": 0
         }],
-        "label": "Seth Smith (78/R/-) - Left Fielders - Smith"
+        "label": "Seth Smith (78/R/LF) - Left Fielders - Smith"
     }, {
         "id": 99,
         "player": "Michael Saunders",
@@ -1967,7 +1967,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Michael Saunders (74/BO/-) - Center Fielders - Saunders"
+        "label": "Michael Saunders (74/BO/CF) - Center Fielders - Saunders"
     }, {
         "id": 100,
         "player": "Alejandro De Aza",
@@ -1987,7 +1987,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Alejandro De Aza (77/BO/-) - Center Fielders - De Aza"
+        "label": "Alejandro De Aza (77/BO/CF) - Center Fielders - De Aza"
     }, {
         "id": 101,
         "player": "Danny Santana",
@@ -2007,7 +2007,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Danny Santana (77/R/-) - Center Fielders - Santana"
+        "label": "Danny Santana (77/R/CF) - Center Fielders - Santana"
     }, {
         "id": 102,
         "player": "Drew Stubbs",
@@ -2027,7 +2027,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Drew Stubbs (79/BO/-) - Center Fielders - Stubbs"
+        "label": "Drew Stubbs (79/BO/CF) - Center Fielders - Stubbs"
     }, {
         "id": 103,
         "player": "Daniel Nava",
@@ -2047,7 +2047,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Daniel Nava (73/BO/-) - Right Fielders - Nava"
+        "label": "Daniel Nava (73/BO/RF) - Right Fielders - Nava"
     }, {
         "id": 104,
         "player": "Matthew Joyce",
@@ -2067,7 +2067,7 @@
             "goal": 21,
             "current": 0
         }],
-        "label": "Matthew Joyce (78/AS/-) - Right Fielders - Joyce"
+        "label": "Matthew Joyce (78/AS/RF) - Right Fielders - Joyce"
     }, {
         "id": 105,
         "player": "Mike Pelfrey",
@@ -2091,7 +2091,7 @@
             "goal": 5,
             "current": 0
         }],
-        "label": "Mike Pelfrey (70/IV/-) - Starting Pitchers - Pelfrey"
+        "label": "Mike Pelfrey (70/IV/SP) - Starting Pitchers - Pelfrey"
     }, {
         "id": 106,
         "player": "Chris Volstad",
@@ -2111,7 +2111,7 @@
             "goal": 6,
             "current": 0
         }],
-        "label": "Chris Volstad (72/R/-) - Starting Pitchers - Volstad"
+        "label": "Chris Volstad (72/R/SP) - Starting Pitchers - Volstad"
     }, {
         "id": 107,
         "player": "Ivan Nova",
@@ -2135,7 +2135,7 @@
             "goal": 6,
             "current": 0
         }],
-        "label": "Ivan Nova (72/R/-) - Starting Pitchers - Nova"
+        "label": "Ivan Nova (72/R/SP) - Starting Pitchers - Nova"
     }, {
         "id": 108,
         "player": "Jamie Garcia",
@@ -2159,7 +2159,7 @@
             "goal": 7,
             "current": 0
         }],
-        "label": "Jamie Garcia (73/R/-) - Starting Pitchers - Garcia"
+        "label": "Jamie Garcia (73/R/SP) - Starting Pitchers - Garcia"
     }, {
         "id": 109,
         "player": "Brett Anderson",
@@ -2183,7 +2183,7 @@
             "goal": 8,
             "current": 0
         }],
-        "label": "Brett Anderson (76/R/-) - Starting Pitchers - Anderson"
+        "label": "Brett Anderson (76/R/SP) - Starting Pitchers - Anderson"
     }, {
         "id": 110,
         "player": "Shane Greene",
@@ -2203,7 +2203,7 @@
             "goal": 6,
             "current": 0
         }],
-        "label": "Shane Greene (76/R/-) - Starting Pitchers - Greene"
+        "label": "Shane Greene (76/R/SP) - Starting Pitchers - Greene"
     }, {
         "id": 111,
         "player": "Trevor Cahill",
@@ -2227,7 +2227,7 @@
             "goal": 4,
             "current": 0
         }],
-        "label": "Trevor Cahill (77/AS/-) - Starting Pitchers - Cahill"
+        "label": "Trevor Cahill (77/AS/SP) - Starting Pitchers - Cahill"
     }, {
         "id": 113,
         "player": "Bud Norris",
@@ -2251,7 +2251,7 @@
             "goal": 5,
             "current": 0
         }],
-        "label": "Bud Norris (78/IV/-) - Starting Pitchers - Norris"
+        "label": "Bud Norris (78/IV/SP) - Starting Pitchers - Norris"
     }, {
         "id": 114,
         "player": "Tony Cingrani",
@@ -2271,7 +2271,7 @@
             "goal": 9,
             "current": 0
         }],
-        "label": "Tony Cingrani (79/R/-) - Starting Pitchers - Cingrani"
+        "label": "Tony Cingrani (79/R/SP) - Starting Pitchers - Cingrani"
     }, {
         "id": 115,
         "player": "Craig Breslow",
@@ -2295,7 +2295,7 @@
             "goal": 2,
             "current": 0
         }],
-        "label": "Craig Breslow (71/IV/-) - Relief Pitchers - Breslow"
+        "label": "Craig Breslow (71/IV/RP) - Relief Pitchers - Breslow"
     }, {
         "id": 116,
         "player": "Mike Dunn",
@@ -2315,7 +2315,7 @@
             "goal": 3,
             "current": 0
         }],
-        "label": "Mike Dunn (75/BO/-) - Relief Pitchers - Dunn"
+        "label": "Mike Dunn (75/BO/RP) - Relief Pitchers - Dunn"
     }, {
         "id": 117,
         "player": "Al Alburquerque",
@@ -2335,7 +2335,7 @@
             "goal": 5,
             "current": 0
         }],
-        "label": "Al Alburquerque (77/R/-) - Relief Pitchers - Albuquerque"
+        "label": "Al Alburquerque (77/R/RP) - Relief Pitchers - Albuquerque"
     }, {
         "id": 118,
         "player": "Chad Qualls",
@@ -2355,7 +2355,7 @@
             "goal": 1,
             "current": 0
         }],
-        "label": "Chad Qualls (78/IV/-) - Relief Pitchers - Qualls"
+        "label": "Chad Qualls (78/IV/RP) - Relief Pitchers - Qualls"
     }, {
         "id": 119,
         "player": "Guerra",
@@ -2375,7 +2375,7 @@
             "goal": 6,
             "current": 0
         }],
-        "label": "Guerra (72/R/-) - Closing Pitchers - Guerra"
+        "label": "Guerra (72/R/CP) - Closing Pitchers - Guerra"
     }, {
         "id": 120,
         "player": "Danny Farquhar",
@@ -2395,7 +2395,7 @@
             "goal": 5,
             "current": 0
         }],
-        "label": "Danny Farquhar (78/R/-) - Closing Pitchers - Farquhar"
+        "label": "Danny Farquhar (78/R/CP) - Closing Pitchers - Farquhar"
     }, {
         "id": 121,
         "player": "Babe Ruth",
@@ -2431,7 +2431,7 @@
             "goal": 90,
             "current": 0
         }],
-        "label": "Babe Ruth (68/IV/-) - Immortals - Babe Ruth"
+        "label": "Babe Ruth (68/IV/LF) - Immortals - Babe Ruth"
     }, {
         "id": 122,
         "player": "Ryan Raburn",
@@ -2447,7 +2447,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Ryan Raburn (-/R/-) - Left Fielders - Raburn"
+        "label": "Ryan Raburn (-/R/LF) - Left Fielders - Raburn"
     }, {
         "id": 123,
         "player": "Baltimore Orioles Hitting",
@@ -4507,7 +4507,7 @@
             "goal": "10",
             "current": 0
         }],
-        "label": "Jim Palmer (-/R/-) - Team Epic - Baltimore Orioles"
+        "label": "Jim Palmer (68/R/RP) - Team Epic - Baltimore Orioles"
     }, {
         "id": 184,
         "player": "Jon Lester",
@@ -4523,7 +4523,7 @@
             "goal": "12",
             "current": 0
         }],
-        "label": "Jon Lester (-/R/-) - Team Epic - Boston Red Sox"
+        "label": "Jon Lester (66/R/SP) - Team Epic - Boston Red Sox"
     }, {
         "id": 185,
         "player": "Luis Severino",
@@ -4543,7 +4543,7 @@
             "goal": "6",
             "current": 0
         }],
-        "label": "Luis Severino (-/R/-) - Team Epic - New York Yankees"
+        "label": "Luis Severino (76/R/SP) - Team Epic - New York Yankees"
     }, {
         "id": 186,
         "player": "John Jaso",
@@ -4559,7 +4559,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "John Jason (-/R/-) - Team Epic - Tampa Bay Rays"
+        "label": "John Jaso (73/R/C) - Team Epic - Tampa Bay Rays"
     }, {
         "id": 187,
         "player": "Eric Thames",
@@ -4575,7 +4575,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Eric Thames (-/R/-) - Team Epic - Toronto Blue Jays"
+        "label": "Eric Thames (67/R/LF) - Team Epic - Toronto Blue Jays"
     }, {
         "id": 188,
         "player": "Jose Quintana",
@@ -4595,7 +4595,7 @@
             "goal": "5",
             "current": 0
         }],
-        "label": "Jose Quintana (68/R/-) - Team Epic - Chicago White Sox"
+        "label": "Jose Quintana (68/R/SP) - Team Epic - Chicago White Sox"
     }, {
         "id": 189,
         "player": "Corey Kluber",
@@ -4611,7 +4611,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Corey Kluber (71/R/-) - Team Epic - Cleveland Indians"
+        "label": "Corey Kluber (71/R/SP) - Team Epic - Cleveland Indians"
     }, {
         "id": 190,
         "player": "Edwin Jackson",
@@ -4631,7 +4631,7 @@
             "goal": "10",
             "current": 0
         }],
-        "label": "Edwin Jackson (77/AS/-) - Team Epic - Detroit Tigers"
+        "label": "Edwin Jackson (77/AS/SP) - Team Epic - Detroit Tigers"
     }, {
         "id": 191,
         "player": "Mike Moustakas",
@@ -4647,7 +4647,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Mike Moustakas (68/R/-) - Team Epic - Kansas City Royals"
+        "label": "Mike Moustakas (68/R/3B) - Team Epic - Kansas City Royals"
     }, {
         "id": 192,
         "player": "Danny Valencia",
@@ -4663,7 +4663,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Danny Valencia (76/R/-) - Team Epic - Minnesota Twins"
+        "label": "Danny Valencia (76/R/3B) - Team Epic - Minnesota Twins"
     }, {
         "id": 193,
         "player": "Jim Edmonds",
@@ -4679,7 +4679,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Jim Edmonds (74/R/-) - Team Epic - Los Angeles Angels"
+        "label": "Jim Edmonds (74/R/LF) - Team Epic - Los Angeles Angels"
     }, {
         "id": 194,
         "player": "Carlos Gonzalez",
@@ -4695,7 +4695,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Carlos Gonzalez (72/R/-) - Team Epic - Oakland Athletics"
+        "label": "Carlos Gonzalez (72/R/CF) - Team Epic - Oakland Athletics"
     }, {
         "id": 195,
         "player": "Ketel Marte",
@@ -4715,7 +4715,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Ketel Marte (75/R/-) - Team Epic - Seattle Mariners"
+        "label": "Ketel Marte (75/R/SS) - Team Epic - Seattle Mariners"
     }, {
         "id": 196,
         "player": "Derek Holland",
@@ -4751,7 +4751,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Jose Altuve (74/R/-) - Team Epic - Houston Astros"
+        "label": "Jose Altuve (74/R/2B) - Team Epic - Houston Astros"
     }, {
         "id": 198,
         "player": "Bruce Sutter",
@@ -4767,7 +4767,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Bruce Sutter (70/IV/-) - Team Epic - Atlanta Braves"
+        "label": "Bruce Sutter (70/IV/CP) - Team Epic - Atlanta Braves"
     }, {
         "id": 199,
         "player": "Marcell Ozuna",
@@ -4783,7 +4783,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Marcell Ozuna (74/R/-) - Team Epic - Miami Marlins"
+        "label": "Marcell Ozuna (74/R/RF) - Team Epic - Miami Marlins"
     }, {
         "id": 200,
         "player": "Anthony Rendon",
@@ -4811,7 +4811,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Anthony Rendon (72/R/-) - Team Epic - Washington Nationals"
+        "label": "Anthony Rendon (72/R/2B) - Team Epic - Washington Nationals"
     }, {
         "id": 201,
         "player": "Justin Turner",
@@ -4827,7 +4827,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Justin Turner (68/R/-) - Team Epic - New York Mets"
+        "label": "Justin Turner (68/R/2B) - Team Epic - New York Mets"
     }, {
         "id": 202,
         "player": "Vance Worley",
@@ -4847,7 +4847,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Vance Worley (78/R/-) - Team Epic - Philadelphia Phillies"
+        "label": "Vance Worley (78/R/SP) - Team Epic - Philadelphia Phillies"
     }, {
         "id": 203,
         "player": "Ryne Sandberg",
@@ -4867,7 +4867,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Ryne Sandberg (77/R/-) - Team Epic - Chicago Cubs"
+        "label": "Ryne Sandberg (77/R/3B) - Team Epic - Chicago Cubs"
     }, {
         "id": 204,
         "player": "Tony Perez",
@@ -4887,7 +4887,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Tony Perez (72/R/-) - Team Epic - Cincinnati Reds"
+        "label": "Tony Perez (72/R/1B) - Team Epic - Cincinnati Reds"
     }, {
         "id": 205,
         "player": "Lorenzo Cain",
@@ -4907,7 +4907,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Lorenzo Cain (76/R/-) - Team Epic - Milwaukee Brewers"
+        "label": "Lorenzo Cain (76/R/CF) - Team Epic - Milwaukee Brewers"
     }, {
         "id": 206,
         "player": "Jeff Locke",
@@ -4927,7 +4927,7 @@
             "goal": "6",
             "current": 0
         }],
-        "label": "Jeff Locke (70/AS/-) - Team Epic - Pittsburgh Pirates"
+        "label": "Jeff Locke (70/AS/SP) - Team Epic - Pittsburgh Pirates"
     }, {
         "id": 207,
         "player": "Yadier Molina",
@@ -4943,7 +4943,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Yadier Molina (78/R/-) - Team Epic - St. Louis Cardinals"
+        "label": "Yadier Molina (78/R/C) - Team Epic - St. Louis Cardinals"
     }, {
         "id": 208,
         "player": "Josh Collmenter",
@@ -4963,7 +4963,7 @@
             "goal": "10",
             "current": 0
         }],
-        "label": "Josh Collmenter (72/IV/-) - Team Epic - Arizona Diamondbacks"
+        "label": "Josh Collmenter (72/IV/RP) - Team Epic - Arizona Diamondbacks"
     }, {
         "id": 209,
         "player": "Charlie Blackmon",
@@ -4983,7 +4983,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Charlie Blackmon (68/R/-) - Team Epic - Colorado Rockies"
+        "label": "Charlie Blackmon (68/R/LF) - Team Epic - Colorado Rockies"
     }, {
         "id": 210,
         "player": "Clayton Kershaw",
@@ -5003,7 +5003,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Clayton Kershaw (71/R/-) - Team Epic - Los Angeles Dodgers"
+        "label": "Clayton Kershaw (71/R/SP) - Team Epic - Los Angeles Dodgers"
     }, {
         "id": 211,
         "player": "Andrew Cashner",
@@ -5023,7 +5023,7 @@
             "goal": "6",
             "current": 0
         }],
-        "label": "Andrew Cashner (78/BO/-) - Team Epic - San Diego Padres"
+        "label": "Andrew Cashner (78/BO/SP) - Team Epic - San Diego Padres"
     }, {
         "id": 212,
         "player": "Santiago Casilla",
@@ -5059,7 +5059,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Jim Johnson (75/-/-) - Team Epic - Baltimore Orioles"
+        "label": "Jim Johnson (75/AS/CP) - Team Epic - Baltimore Orioles"
     }, {
         "id": 214,
         "player": "Will Middlebrooks",
@@ -5083,7 +5083,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Will Middlebrooks (78/-/-) - Team Epic - Boston Red Sox"
+        "label": "Will Middlebrooks (78/R/3B) - Team Epic - Boston Red Sox"
     }, {
         "id": 215,
         "player": "Whitey Ford",
@@ -5103,7 +5103,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Whitey Ford (78/-/-) - Team Epic - New York Yankees"
+        "label": "Whitey Ford (78/R/SP) - Team Epic - New York Yankees"
     }, {
         "id": 216,
         "player": "Logan Forsythe",
@@ -5123,7 +5123,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Logan Forsythe (77/-/-) - Team Epic - Tampa Bay Rays"
+        "label": "Logan Forsythe (77/BO/2B) - Team Epic - Tampa Bay Rays"
     }, {
         "id": 217,
         "player": "Brandon Morrow",
@@ -5143,7 +5143,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Brandon Morrow (79/-/-) - Team Epic - Toronto Blue Jays"
+        "label": "Brandon Morrow (79/BO/SP) - Team Epic - Toronto Blue Jays"
     }, {
         "id": 218,
         "player": "Chris Sale",
@@ -5163,7 +5163,7 @@
             "goal": "20",
             "current": 0
         }],
-        "label": "Chris Sale (79/-/-) - Team Epic - Chicago White Sox"
+        "label": "Chris Sale (79/R/RP) - Team Epic - Chicago White Sox"
     }, {
         "id": 219,
         "player": "Joe Carter",
@@ -5183,7 +5183,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Joe Carter (78/-/-) - Team Epic - Cleveland Indians"
+        "label": "Joe Carter (78/R/LF) - Team Epic - Cleveland Indians"
     }, {
         "id": 220,
         "player": "Al Kaline",
@@ -5203,7 +5203,7 @@
             "goal": "4",
             "current": 0
         }],
-        "label": "Al Kaline (78/-/-) - Team Epic - Detroit Tigers"
+        "label": "Al Kaline (78/R/RF) - Team Epic - Detroit Tigers"
     }, {
         "id": 221,
         "player": "Johnny Damon",
@@ -5223,7 +5223,7 @@
             "goal": "5",
             "current": 0
         }],
-        "label": "Johnny Damon (77/-/-) -  - Kansas City Royals"
+        "label": "Johnny Damon (77/R/CF) - Team Epic - Kansas City Royals"
     }, {
         "id": 222,
         "player": "Denard Span",
@@ -5243,7 +5243,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Denard Span (78/-/-) - Team Epic - Minnesota Twins"
+        "label": "Denard Span (78/R/RF) - Team Epic - Minnesota Twins"
     }, {
         "id": 223,
         "player": "Rod Carew",
@@ -5263,7 +5263,7 @@
             "goal": "5",
             "current": 0
         }],
-        "label": "Rod Carew (76/-/-) - Team Epic - Los Angeles Angels"
+        "label": "Rod Carew (76/IV/1B) - Team Epic - Los Angeles Angels"
     }, {
         "id": 224,
         "player": "Tommy Milone",
@@ -5283,7 +5283,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Tommy Milone (75/-/-) - Team Epic - Oakland Athletics"
+        "label": "Tommy Milone (75/R/SP) - Team Epic - Oakland Athletics"
     }, {
         "id": 225,
         "player": "Roenis Elias",
@@ -5303,7 +5303,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Roenis Elias (76/-/-) - Team Epic - Seattle Mariners"
+        "label": "Roenis Elias (76/R/SP) - Team Epic - Seattle Mariners"
     }, {
         "id": 226,
         "player": "Ian Kinsler",
@@ -5327,7 +5327,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Ian Kinsler (78/-/-) - Team Epic - Texas Rangers"
+        "label": "Ian Kinsler (78/R/2B) - Team Epic - Texas Rangers"
     }, {
         "id": 227,
         "player": "Jeff Bagwell",
@@ -5347,7 +5347,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Jeff Bagwell (77/-/-) - Team Epic - Houston Astros"
+        "label": "Jeff Bagwell (77/HW/1B) - Team Epic - Houston Astros"
     }, {
         "id": 228,
         "player": "Evan Gattis",
@@ -5367,7 +5367,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Evan Gattis (76/-/-) - Team Epic - Atlanta Braves"
+        "label": "Evan Gattis (76/R/LF) - Team Epic - Atlanta Braves"
     }, {
         "id": 229,
         "player": "Miguel Cabrera",
@@ -5387,7 +5387,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Miguel Cabrera (75/-/-) - Team Epic - Miami Marlins"
+        "label": "Miguel Cabrera (75/R/LF) - Team Epic - Miami Marlins"
     }, {
         "id": 230,
         "player": "Craig Stammen",
@@ -5407,7 +5407,7 @@
             "goal": "7",
             "current": 0
         }],
-        "label": "Craig Stammen (75/-/-) - Team Epic - Washington Nationals"
+        "label": "Craig Stammen (75/BO/RP) - Team Epic - Washington Nationals"
     }, {
         "id": 231,
         "player": "Zack Wheeler",
@@ -5427,7 +5427,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Zack Wheeler (78/-/-) - Team Epic - New York Mets"
+        "label": "Zack Wheeler (78/BO/SP) - Team Epic - New York Mets"
     }, {
         "id": 232,
         "player": "Ben Revere",
@@ -5451,7 +5451,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Ben Revere (79/-/-) - Team Epic - Philadelphia Phillies"
+        "label": "Ben Revere (79/IV/CF) - Team Epic - Philadelphia Phillies"
     }, {
         "id": 233,
         "player": "Ernie Banks",
@@ -5475,7 +5475,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Ernie Banks (78/-/-) - Team Epic - Chicago Cubs"
+        "label": "Ernie Banks (78/R/SS) - Team Epic - Chicago Cubs"
     }, {
         "id": 234,
         "player": "Raisel Iglesias",
@@ -5495,7 +5495,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Raisel Iglesias (81/R/-) - Team Epic - Cincinnati Reds"
+        "label": "Raisel Iglesias (81/R/SP) - Team Epic - Cincinnati Reds"
     }, {
         "id": 235,
         "player": "Wily Peralta",
@@ -5515,7 +5515,7 @@
             "goal": "10",
             "current": 0
         }],
-        "label": "Wily Peralta (77/-/-) - Team Epic - Milwaukee Brewers"
+        "label": "Wily Peralta (77/BO/SP) - Team Epic - Milwaukee Brewers"
     }, {
         "id": 236,
         "player": "Francisco Cervelli",
@@ -5535,7 +5535,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Francisco Cervelli (78/-/-) - Team Epic - Pittsburgh Pirates"
+        "label": "Francisco Cervelli (78/BO/C) - Team Epic - Pittsburgh Pirates"
     }, {
         "id": 237,
         "player": "Troy Percival",
@@ -5555,7 +5555,7 @@
             "goal": "10",
             "current": 0
         }],
-        "label": "Troy Percival (79/-/-) - Team Epic - St. Louis Cardinals"
+        "label": "Troy Percival (79/IV/RP) - Team Epic - St. Louis Cardinals"
     }, {
         "id": 238,
         "player": "Paul Goldschmidt",
@@ -5571,7 +5571,7 @@
             "goal": "8",
             "current": 0
         }],
-        "label": "Paul Goldschmidt (75/-/-) - Team Epic - Arizona Diamondbacks"
+        "label": "Paul Goldschmidt (75/R/1B) - Team Epic - Arizona Diamondbacks"
     }, {
         "id": 239,
         "player": "Rex Brothers",
@@ -5587,7 +5587,7 @@
             "goal": "4",
             "current": 0
         }],
-        "label": "Rex Brothers (75/-/-) - Team Epic - Colorado Rockies"
+        "label": "Rex Brothers (75/BO/CP) - Team Epic - Colorado Rockies"
     }, {
         "id": 240,
         "player": "Dee Gordon",
@@ -5607,7 +5607,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Dee Gordon (73/-/-) - Team Epic - Los Angeles Dodgers"
+        "label": "Dee Gordon (73/R/SS) - Team Epic - Los Angeles Dodgers"
     }, {
         "id": 241,
         "player": "Tony Gwynn",
@@ -5631,7 +5631,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Tony Gwynn (79/-/-) - Team Epic - San Diego Padres"
+        "label": "Tony Gwynn (79/R/CF) - Team Epic - San Diego Padres"
     }, {
         "id": 242,
         "player": "Matt Duffy",
@@ -5651,7 +5651,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Matt Duffy (78/-/-) - Team Epic - San Francisco Giants"
+        "label": "Matt Duffy (78/R/3B) - Team Epic - San Francisco Giants"
     }, {
         "id": 243,
         "player": "Manny Machado",
@@ -5683,7 +5683,7 @@
             "goal": "7",
             "current": 0
         }],
-        "label": "Manny Machado (78/R/-) - Team Epic - Baltimore Orioles"
+        "label": "Manny Machado (78/R/3B) - Team Epic - Baltimore Orioles"
     }, {
         "id": 244,
         "player": "Jim Rice",
@@ -5711,7 +5711,7 @@
             "goal": "10",
             "current": 0
         }],
-        "label": "Jim Rice (81/-/-) - Team Epic - Boston Red Sox"
+        "label": "Jim Rice (81/R/LF) - Team Epic - Boston Red Sox"
     }, {
         "id": 245,
         "player": "Johnny Damon",
@@ -5743,7 +5743,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Johnny Damon (83/-/-) - Team Epic - New York Yankees"
+        "label": "Johnny Damon (83/PS/LF) - Team Epic - New York Yankees"
     }, {
         "id": 246,
         "player": "Carlos Santana",
@@ -5771,7 +5771,7 @@
             "goal": "10",
             "current": 0
         }],
-        "label": "Carlos Santana (81/-/-) - Team Epic - Cleveland Indians"
+        "label": "Carlos Santana (81/IV/C) - Team Epic - Cleveland Indians"
     }, {
         "id": 247,
         "player": "Kelvin Herrera",
@@ -5799,7 +5799,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Kelvin Herrera (82/-/RP) - Team Epic - Kansas City Royals"
+        "label": "Kelvin Herrera (82/PS/RP) - Team Epic - Kansas City Royals"
     }, {
         "id": 248,
         "player": "Bert Blyleven",
@@ -5819,7 +5819,7 @@
             "goal": "30",
             "current": 0
         }],
-        "label": "Bert Blyleven (83/-/SP) - Team Epic - Minnesota Twins"
+        "label": "Bert Blyleven (83/R/SP) - Team Epic - Minnesota Twins"
     }, {
         "id": 249,
         "player": "Matt Shoemaker",
@@ -5839,7 +5839,7 @@
             "goal": "30",
             "current": 0
         }],
-        "label": "Matt Shoemaker (82/-/SP) - Team Epic - Los Angeles Angels"
+        "label": "Matt Shoemaker (82/R/SP) - Team Epic - Los Angeles Angels"
     }, {
         "id": 250,
         "player": "Tom Wilhelmsen",
@@ -5859,7 +5859,7 @@
             "goal": "20",
             "current": 0
         }],
-        "label": "Tom Wilhelmsen (80/-/CP) - Team Epic - Seattle Mariners"
+        "label": "Tom Wilhelmsen (80/BO/CP) - Team Epic - Seattle Mariners"
     }, {
         "id": 251,
         "player": "Neftali Feliz",
@@ -5879,7 +5879,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Neftali Feliz (83/-/CP) - Team Epic - Texas Rangers"
+        "label": "Neftali Feliz (83/HW/CP) - Team Epic - Texas Rangers"
     }, {
         "id": 252,
         "player": "Doug Drabek",
@@ -5899,7 +5899,7 @@
             "goal": "30",
             "current": 0
         }],
-        "label": "Doug Drabek (82/-/SP) - Team Epic - Houston Astros"
+        "label": "Doug Drabek (82/AS/SP) - Team Epic - Houston Astros"
     }, {
         "id": 253,
         "player": "Martin Prado",
@@ -5927,7 +5927,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Martin Prado (80/-/-) - Team Epic - Atlanta Braves"
+        "label": "Martin Prado (80/AS/2B) - Team Epic - Atlanta Braves"
     }, {
         "id": 254,
         "player": "Steve Cishek",
@@ -5947,7 +5947,7 @@
             "goal": "15",
             "current": 0
         }],
-        "label": "Steve Cishek (80/-/CP) - Team Epic - Miami Marlins"
+        "label": "Steve Cishek (80/BO/CP) - Team Epic - Miami Marlins"
     }, {
         "id": 255,
         "player": "Jeurys Familia",
@@ -5967,7 +5967,7 @@
             "goal": "25",
             "current": 0
         }],
-        "label": "Jeurys Familia (81/-/CP) - Team Epic - New York Mets"
+        "label": "Jeurys Familia (81/AS/CP) - Team Epic - New York Mets"
     }, {
         "id": 256,
         "player": "Antonio Bastardo",
@@ -5991,7 +5991,7 @@
             "goal": "2",
             "current": 0
         }],
-        "label": "Antonio Bastardo (79/-/RP) - Team Epic - Philadelphia Phillies"
+        "label": "Antonio Bastardo (79/BO/RP) - Team Epic - Philadelphia Phillies"
     }, {
         "id": 257,
         "player": "Kris Bryant",
@@ -6019,7 +6019,7 @@
             "goal": "4",
             "current": 0
         }],
-        "label": "Kris Bryant (80/-/-) - Team Epic - Chicago Cubs"
+        "label": "Kris Bryant (80/HW/3B) - Team Epic - Chicago Cubs"
     }, {
         "id": 258,
         "player": "Ken Griffey, Sr.",
@@ -6039,7 +6039,7 @@
             "goal": "5",
             "current": 0
         }],
-        "label": "Ken Griffey, Sr. (84/AS/-) - Team Epic - Cincinnati Reds"
+        "label": "Ken Griffey, Sr. (84/AS/RF) - Team Epic - Cincinnati Reds"
     }, {
         "id": 259,
         "player": "Yovani Gallardo",
@@ -6059,7 +6059,7 @@
             "goal": "30",
             "current": 0
         }],
-        "label": "Yovani Gallardo (80/-/SP) - Team Epic - Milwaukee Brewers"
+        "label": "Yovani Gallardo (80/AS/SP) - Team Epic - Milwaukee Brewers"
     }, {
         "id": 260,
         "player": "Oliver Perez",
@@ -6079,7 +6079,7 @@
             "goal": "30",
             "current": 0
         }],
-        "label": "Oliver Perez (83/-/SP) - Team Epic - Pittsburgh Pirates"
+        "label": "Oliver Perez (83/BO/SP) - Team Epic - Pittsburgh Pirates"
     }, {
         "id": 261,
         "player": "Ian Kennedy",
@@ -6095,7 +6095,7 @@
             "goal": "50",
             "current": 0
         }],
-        "label": "Ian Kennedy (83/-/-) - Team Epic - Arizona Diamondbacks"
+        "label": "Ian Kennedy (83/BO/SP) - Team Epic - Arizona Diamondbacks"
     }, {
         "id": 262,
         "player": "Chris Iannetta",
@@ -6119,7 +6119,7 @@
             "goal": "6",
             "current": 0
         }],
-        "label": "Chris Iannetta (81/-/-) - Team Epic - Colorado Rockies"
+        "label": "Chris Iannetta (81/BO/C) - Team Epic - Colorado Rockies"
     }, {
         "id": 263,
         "player": "Andre Ethier",
@@ -6151,7 +6151,7 @@
             "goal": "5",
             "current": 0
         }],
-        "label": "Andre Ethier (81/-/-) - Team Epic - Los Angeles Dodgers"
+        "label": "Andre Ethier (81/BO/RF) - Team Epic - Los Angeles Dodgers"
     }, {
         "id": 264,
         "player": "Juan Marichal",
@@ -6171,7 +6171,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Juan Marichal (81/-/SP) - Team Epic - San Francisco Giants"
+        "label": "Juan Marichal (81/R/SP) - Team Epic - San Francisco Giants"
     }, {
         "id": 265,
         "player": "Omar Vizquel",
@@ -6199,7 +6199,7 @@
             "goal": "3",
             "current": 0
         }],
-        "label": "Omar Vizquel (89/-/-) - Team Epic - Cleveland Indians"
+        "label": "Omar Vizquel (89/AS/SS) - Team Epic - Cleveland Indians"
     }, {
         "id": 266,
         "player": "Catfish Hunter",
@@ -6219,7 +6219,7 @@
             "goal": "40",
             "current": 0
         }],
-        "label": "Catfish Hunter (85/-/SP) - Team Epic - Oakland Athletics"
+        "label": "Catfish Hunter (85/HW/SP) - Team Epic - Oakland Athletics"
     }, {
         "id": 267,
         "player": "Jay Buhner",
@@ -6251,7 +6251,7 @@
             "goal": "7",
             "current": 0
         }],
-        "label": "Jay Buhner (86/-/-) - Team Epic - Seattle Mariners"
+        "label": "Jay Buhner (86/PS/RF) - Team Epic - Seattle Mariners"
     }, {
         "id": 268,
         "player": "Mike Napoli",
@@ -6279,7 +6279,7 @@
             "goal": "8",
             "current": 0
         }],
-        "label": "Mike Napoli (85/-/-) - Team Epic - Texas Rangers"
+        "label": "Mike Napoli (85/BO/C) - Team Epic - Texas Rangers"
     }, {
         "id": 269,
         "player": "Hunter Pence",
@@ -6315,7 +6315,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Hunter Pence (84/-/-) - Team Epic - Houston Astros"
+        "label": "Hunter Pence (84/R/CF) - Team Epic - Houston Astros"
     }, {
         "id": 270,
         "player": "Matt Garza",
@@ -6339,7 +6339,7 @@
             "goal": "1",
             "current": 0
         }],
-        "label": "Matt Garza (82/-/SP) - Team Epic - Chicago Cubs"
+        "label": "Matt Garza (82/IV/SP) - Team Epic - Chicago Cubs"
     }, {
         "id": 271,
         "player": "Shelby Miller",
@@ -6383,7 +6383,7 @@
             "goal": "9",
             "current": 0
         }],
-        "label": "Jhoulys Chacin - Starting Pitchers - Jhoulys Chacin"
+        "label": "Jhoulys Chacin (78/R/SP) - Starting Pitchers - Jhoulys Chacin"
     }, {
         "id": 273,
         "player": "Hardware Runs x2",
@@ -8584,5 +8584,29 @@
             "current": 0
         }],
         "label": "Sam Dyson (76/BO/CP) - Closing Pitchers - Sam Dyson"
+    }, {
+        "id": 404,
+        "player": "Troy Percival",
+        "rating": "-",
+        "series": null,
+        "duration": "Multi-Game",
+        "team": "Angels",
+        "position": "CP",
+        "program_type": "Team Epic",
+        "program": "Los Angeles Angels",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "15",
+            "current": 0
+        }, {
+            "requirement_type": "SV",
+            "goal": "8",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "20",
+            "current": 0
+        }],
+        "label": " -  - "
     }]
 }

@@ -1796,7 +1796,7 @@
         "program": "Barney",
         "requirements": [{
             "requirement_type": "A",
-            "goal": 2,
+            "goal": 3,
             "current": 0
         }],
         "label": "Darwin Barney (78/BO/-) - Second Basemen - Barney"

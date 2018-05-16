@@ -8587,8 +8587,8 @@
     }, {
         "id": 404,
         "player": "Troy Percival",
-        "rating": "-",
-        "series": null,
+        "rating": "85",
+        "series": "PS",
         "duration": "Multi-Game",
         "team": "Angels",
         "position": "CP",
@@ -8607,6 +8607,26 @@
             "goal": "20",
             "current": 0
         }],
-        "label": " -  - "
+        "label": "Troy Percival (85/PS/CP) - Team Epic - Los Angeles Angels"
+    }, {
+        "id": 405,
+        "player": "Albert Pujols",
+        "rating": "82",
+        "series": "IV",
+        "duration": "Multi-Game",
+        "team": "Angels",
+        "position": "1B",
+        "program_type": "Immortals",
+        "program": "Albert Pujols",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "50",
+            "current": 0
+        }, {
+            "requirement_type": "HR",
+            "goal": "15",
+            "current": 0
+        }],
+        "label": "Albert Pujols (82/IV/1B) - Immortals - Albert Pujols"
     }]
 }

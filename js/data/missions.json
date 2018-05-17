@@ -8170,7 +8170,7 @@
         "label": "Heroic Home Opener - Player of the Month - April POTM"
     }, {
         "id": 383,
-        "player": "Carlos Villanueva",
+        "player": "Christian Villanueva",
         "rating": "80",
         "series": "POTM",
         "duration": "Single Game",
@@ -8188,10 +8188,10 @@
             "current": 0
         }, {
             "requirement_type": "HR",
-            "goal": "2",
+            "goal": "1",
             "current": 0
         }],
-        "label": "Carlos Villanueva (80/POTM/3B) - Player of the Month - April POTM"
+        "label": "Christian Villanueva (80/POTM/3B) - Player of the Month - April POTM"
     }, {
         "id": 384,
         "player": "Jed Lowrie",
@@ -8258,7 +8258,7 @@
         "label": "Sean Manaea (83/POTM/SP) - Player of the Month - April POTM"
     }, {
         "id": 387,
-        "player": "Shohei Ohtani",
+        "player": "Patrick Corbin",
         "rating": "83",
         "series": "POTM",
         "duration": "Single Game",
@@ -8267,6 +8267,10 @@
         "program_type": "Player of the Month",
         "program": "April POTM",
         "requirements": [{
+			"requirement_type": "W",
+			"goal": "1",
+			"current": 0
+		}, {
             "requirement_type": "CGSO",
             "goal": "1",
             "current": 0
@@ -8275,7 +8279,7 @@
             "goal": "8",
             "current": 0
         }],
-        "label": "Shohei Ohtani (83/POTM/SP) - Player of the Month - April POTM"
+        "label": "Patrick Corbin (83/POTM/SP) - Player of the Month - April POTM"
     }, {
         "id": 388,
         "player": "Ozzie Albies",
@@ -8287,8 +8291,8 @@
         "program_type": "Player of the Month",
         "program": "April POTM",
         "requirements": [{
-            "requirement_type": "?",
-            "goal": "1",
+            "requirement_type": "H",
+            "goal": "10",
             "current": 0
         }],
         "label": "Ozzie Albies (86/POTM/2B) - Player of the Month - April POTM"
@@ -8303,8 +8307,8 @@
         "program_type": "Player of the Month",
         "program": "April POTM",
         "requirements": [{
-            "requirement_type": "?",
-            "goal": "1",
+            "requirement_type": "K",
+            "goal": "15",
             "current": 0
         }],
         "label": "Josh Hader (88/POTM/CP) - Player of the Month - April POTM"
@@ -8321,10 +8325,6 @@
         "requirements": [{
             "requirement_type": "RBI",
             "goal": "4",
-            "current": 0
-        }, {
-            "requirement_type": "?",
-            "goal": "1",
             "current": 0
         }],
         "label": "Didi Gregorious (91/POTM/SS) - Player of the Month - April POTM"

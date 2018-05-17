@@ -2,54 +2,6 @@
 
 var vm = '';
 
-// Utility functions
-
-function sortByName(a,b) {
-    if (a.player < b.player)
-        return -1;
-    if (a.player > b.player)
-        return 1;
-    return 0;
-}
-
-function copyRecordFromDefault(recordID) {
-    var records = vm.$data.missions;
-    var record = records.filter(function(e) { return e.id === recordID; })[0];
-    record.requirements = copyRequirementsFromDefault(record.id);
-    return record;
-}
-
-function copyRequirementsFromDefault(recordID) {
-    var records = vm.$data.missions;
-    var newRequirements = records.filter(function(e) { return e.id === recordID; })[0].requirements.map(function(oldRequirement) {
-        return new Requirement(oldRequirement);
-    });
-    return newRequirements;
-}
-
-function updateRequirements(requirementsArray) {
-    var newRequirements = [];
-    newRequirements = requirementsArray.map(function(oldRequirement) {
-        return new Requirement(oldRequirement);
-    });
-    return newRequirements;
-}
-
-function updateRecords(recordArray) {
-    // Update old format records, because I'm a nice guy
-    var newRecords = [];
-    newRecords = recordArray.map(function(oldRecord) {
-        if (typeof oldRecord.program_type == 'undefined') {
-            var newRecord = copyRecordFromDefault(oldRecord.value);
-            newRecord.requirements = updateRequirements(oldRecord.requirements);
-            return newRecord;
-        } else {
-            return oldRecord;
-        }
-    });
-    return newRecords;
-}
-
 // Main app
 
 window.onload = function() {
@@ -74,8 +26,8 @@ window.onload = function() {
                 dataType: 'json',
                 async: false,
                 success: function(data) {
-                    _this.$data.missions = getMissionsFromData(data.missions);
-                    _this.$data.defaults = data;
+                    _this.$data.missions = getMissionsFromData(data.missions).sort(_this.sortByTitle);
+                    _this.$data.defaults = {version: data.version, program_types: data.program_types, durations: data.durations, series: data.series, teams: data.teams, positions: data.positions};
                     _this.$data.filteredMissions = _this.$data.missions;
                 }
             });
@@ -101,34 +53,60 @@ window.onload = function() {
 			}
         },
         methods: {
-            handleOK: function(evt) {
-                if (this.selectedMission != null) {
-                    if (!this.hasActiveMission(this.activeMissions, this.selectedMission)) {
-                        var newRecord = copyRecordFromDefault(this.selectedMission.id);
-                        newRecord.requirements = copyRequirementsFromDefault(this.selectedMission.id);
-                        this.activeMissions.push(this.selectedMission);
+            sortByTitle: function(a,b) {
+                var titleA = a.title.toLowerCase();
+                var titleB = b.title.toLowerCase();
+                if (titleA < titleB)
+                    return -1;
+                if (titleA > titleB)
+                    return 1;
+                return 0;
+            },
+            handleSelectedMission: function(evt) {
+                var _this = this;
+                if (_this.selectedMission != null) {
+                    if (!_this.hasActiveMission(_this.activeMissions, _this.selectedMission)) {
+                        _this.activeMissions.push(_this.createActiveMission(_this.selectedMission.id));
                     }
-                    this.selectedMission = null;
+                    _this.selectedMission = null;
                 }
             },
-            handleEditOK: function(evt) {
+            handleEditedMission: function(evt) {
                 var _this = this;
                 _this.$refs.editModal.hide();
-                this.saveActiveMissions();
+                _this.saveActiveMissions();
             },
             getActiveMissions: function() {
                 var _this = this;
                 var data = localStorage.getItem('CurrentActiveMissions');
                 if ((data != null) && (JSON.parse(data).length > 0)) {
-                    data = getMissionsFromData(updateRecords(JSON.parse(data)));
-                    return data;
-                } else if (localStorage.getItem('activeMissions') != null) {
-                    // we have some old records to update!
-                    console.log('-- old data found!');
-                    return upgradeOldData(JSON.parse(localStorage.getItem('activeMissions')));
+                    var missions = JSON.parse(data);
+                    return missions.map(function(m) { return _this.updateActiveMission(m); });
                 } else {
                     return [];
                 }
+            },
+            updateActiveMission: function(missionData) {
+                var _this = this;
+                var mission = _this.createActiveMission(missionData.id);
+                mission.requirements = _this.updateMissionRequirements(mission, missionData);
+                return mission;
+            },
+            updateMissionRequirements: function(mission, missionData) {
+                var _this = this;
+                var md =  missionData;
+                return mission.requirements.map(function(r) {
+                    r.current = missionData.requirements.filter(function(obj) {
+                        return obj.requirement_type === r.requirement_type;
+                    }).shift().current;
+                    return r;
+                });
+            },
+            createActiveMission: function(missionID) {
+                var _this = this;
+                var mission = _this.missions.filter(function(obj) { return obj.id === missionID; }).shift();
+                var newMission = new Mission(mission);
+                return newMission;
             },
             saveActiveMissions: function() {
                 localStorage.setItem('CurrentActiveMissions', JSON.stringify(this.activeMissions));
@@ -193,6 +171,9 @@ window.onload = function() {
                 _this.$data.editingMission = mission;
                 _this.$refs.editModal.show();
             },
+            createEmptyMission: function() {
+                return new Mission({requirements: []});
+            },
             updateProgramFilter: function(selectedOption) {
                 this.updateFilter();
             },
@@ -207,15 +188,12 @@ window.onload = function() {
                 _this.$data.filteredMissions = _this.$data.missions;
                 _this.$data.selectedMission = null;
                 if (_this.$data.selectedFilter != null) {
-                    console.log("program type filter");
                     _this.$data.filteredMissions = _this.$data.filteredMissions.filter(function(e) { return e.program_type === _this.$data.selectedFilter; });
                 }
                 if (_this.$data.selectedTeam != null) {
-                    console.log("team filter");
                     _this.$data.filteredMissions = _this.$data.filteredMissions.filter(function(e) { return e.team === _this.$data.selectedTeam; });
                 }
 				if (_this.$data.selectedPosition != null) {
-                    console.log("position filter");
                     _this.$data.filteredMissions = _this.$data.filteredMissions.filter(function(e) { return e.position === _this.$data.selectedPosition; });
                 }
             }

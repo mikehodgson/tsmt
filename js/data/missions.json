@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "program_types": [
         "Team Epic",
         "Conquest",
@@ -110,8 +110,7 @@
             "requirement_type": "2B",
             "goal": 1,
             "current": 0
-        }],
-        "label": "George Brett (74/R/3B) - Conquest - Conquest Part 1"
+        }]
     }, {
         "id": 2,
         "player": "J.D. Martinez",
@@ -130,8 +129,7 @@
             "requirement_type": "RBI",
             "goal": 2,
             "current": 0
-        }],
-        "label": "J.D. Martinez (72/R/LF) - Conquest - Conquest Part 1"
+        }]
     }, {
         "id": 3,
         "player": "Wade Davis",
@@ -150,8 +148,7 @@
             "requirement_type": "K",
             "goal": 3,
             "current": 0
-        }],
-        "label": "Wade Davis (72/R/SP) - Conquest - Conquest Part 1"
+        }]
     }, {
         "id": 4,
         "player": "Shawn Green",
@@ -170,8 +167,7 @@
             "requirement_type": "SB",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Shawn Green (76/R/RF) - Conquest - Conquest Part 1"
+        }]
     }, {
         "id": 5,
         "player": "Harold Baines",
@@ -190,8 +186,7 @@
             "requirement_type": "PO",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Harold Baines (68/R/RF) - Conquest - Conquest Part 1"
+        }]
     }, {
         "id": 6,
         "player": "Brad Ziegler",
@@ -210,8 +205,7 @@
             "requirement_type": "K",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Brad Ziegler (70/IV/RP) - Conquest - Conquest Part 1"
+        }]
     }, {
         "id": 7,
         "player": "Dale Murphy",
@@ -234,8 +228,7 @@
             "requirement_type": "SB",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Dale Murphy (74/R/C) - Conquest - Conquest Part 1"
+        }]
     }, {
         "id": 8,
         "player": "Henderson Alvarez",
@@ -254,8 +247,7 @@
             "requirement_type": "IP",
             "goal": 3,
             "current": 0
-        }],
-        "label": "Henderson Alvarez (76/AS/SP) - Conquest - Conquest Part 1"
+        }]
     }, {
         "id": 9,
         "player": "Eric Karros",
@@ -274,8 +266,7 @@
             "requirement_type": "R",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Eric Karros (74/IV/1B) - Conquest - Conquest Part 1"
+        }]
     }, {
         "id": 10,
         "player": "Bill Mazeroski",
@@ -298,8 +289,7 @@
             "requirement_type": "A",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Bill Mazeroski (72/R/2B) - Conquest - Conquest Part 1"
+        }]
     }, {
         "id": 11,
         "player": "Matt Kemp",
@@ -318,8 +308,7 @@
             "requirement_type": "SB",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Matt Kemp (74/R/CF) - Conquest - Conquest Part 1"
+        }]
     }, {
         "id": 12,
         "player": "Brandon Crawford",
@@ -338,8 +327,7 @@
             "requirement_type": "A",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Brandon Crawford (69/R/SS) - Conquest - Conquest Part 1"
+        }]
     }, {
         "id": 13,
         "player": "Babe Ruth",
@@ -358,8 +346,7 @@
             "requirement_type": "RBI",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Babe Ruth (77/R/RF) - Immortals - Babe Ruth"
+        }]
     }, {
         "id": 14,
         "player": "Babe Ruth",
@@ -378,8 +365,7 @@
             "requirement_type": "SO",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Babe Ruth (77/R/SP) - Immortals - Babe Ruth"
+        }]
     }, {
         "id": 15,
         "player": "Jackie Robinson",
@@ -398,8 +384,7 @@
             "requirement_type": "3B",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Jackie Robinson (83/HW/1B) - Immortals - Jackie Robinson"
+        }]
     }, {
         "id": 16,
         "player": "Jackie Robinson",
@@ -414,8 +399,7 @@
             "requirement_type": "H",
             "goal": 10,
             "current": 0
-        }],
-        "label": "Jackie Robinson (88/AS/LF) - Immortals - Jackie Robinson"
+        }]
     }, {
         "id": 17,
         "player": "Los Angeles Dodgers Players",
@@ -454,8 +438,7 @@
             "requirement_type": "3B",
             "goal": 12,
             "current": 0
-        }],
-        "label": "Los Angeles Dodgers Players - Immortals - Jackie Robinson"
+        }]
     }, {
         "id": 18,
         "player": "Mike Piazza",
@@ -470,8 +453,7 @@
             "requirement_type": "2B",
             "goal": 10,
             "current": 0
-        }],
-        "label": "Mike Piazza (69/IV/1B) - Immortals - Mike Piazza"
+        }]
     }, {
         "id": 19,
         "player": "Any Catchers",
@@ -494,8 +476,7 @@
             "requirement_type": "HR",
             "goal": 40,
             "current": 0
-        }],
-        "label": "Any Catchers - Immortals - Mike Piazza"
+        }]
     }, {
         "id": 20,
         "player": "Any First Basemen",
@@ -510,8 +491,7 @@
             "requirement_type": "H",
             "goal": 212,
             "current": 0
-        }],
-        "label": "Any First Basemen - Immortals - Albert Pujols"
+        }]
     }, {
         "id": 21,
         "player": "Ken Griffey Jr.",
@@ -530,8 +510,7 @@
             "requirement_type": "BB",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Ken Griffey Jr. (72/IV/RF) - Immortals - Ken Griffey Jr."
+        }]
     }, {
         "id": 22,
         "player": "Ken Griffey Jr.",
@@ -570,8 +549,7 @@
             "requirement_type": "3B",
             "goal": 5,
             "current": 0
-        }],
-        "label": "Ken Griffey Jr. - Immortals - Ken Griffey Jr."
+        }]
     }, {
         "id": 23,
         "player": "Ken Griffey Jr.",
@@ -586,8 +564,7 @@
             "requirement_type": "SB",
             "goal": 24,
             "current": 0
-        }],
-        "label": "Ken Griffey Jr. - Immortals - Ken Griffey Jr."
+        }]
     }, {
         "id": 24,
         "player": "Ken Griffey Jr",
@@ -606,8 +583,7 @@
             "requirement_type": "HR",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Ken Griffey Jr (79/AS/RF) - Immortals - Ken Griffey Jr."
+        }]
     }, {
         "id": 25,
         "player": "Bob Gibson",
@@ -626,8 +602,7 @@
             "requirement_type": "K",
             "goal": 10,
             "current": 0
-        }],
-        "label": "Bob Gibson (73/R/SP) - Immortals - Bob Gibson"
+        }]
     }, {
         "id": 26,
         "player": "Bob Gibson",
@@ -642,8 +617,7 @@
             "requirement_type": "K",
             "goal": 274,
             "current": 0
-        }],
-        "label": "Bob Gibson - Immortals - Bob Gibson"
+        }]
     }, {
         "id": 27,
         "player": "Any Legend SP",
@@ -658,8 +632,7 @@
             "requirement_type": "IP",
             "goal": 314,
             "current": 0
-        }],
-        "label": "Any Legend SP - Immortals - Bob Gibson"
+        }]
     }, {
         "id": 28,
         "player": "Any Cardinals RP/CP",
@@ -674,8 +647,7 @@
             "requirement_type": "S",
             "goal": 7,
             "current": 0
-        }],
-        "label": "Any Cardinals RP/CP - Immortals - Bob Gibson"
+        }]
     }, {
         "id": 29,
         "player": "Cal Ripken Jr.",
@@ -690,8 +662,7 @@
             "requirement_type": "2B",
             "goal": 25,
             "current": 0
-        }],
-        "label": "Cal Ripken Jr. (78/IV/SS) - Immortals - Cal Ripken Jr."
+        }]
     }, {
         "id": 30,
         "player": "Any Shortstop",
@@ -706,8 +677,7 @@
             "requirement_type": "2B",
             "goal": 47,
             "current": 0
-        }],
-        "label": "Any Shortstop - Immortals - Cal Ripken Jr."
+        }]
     }, {
         "id": 31,
         "player": "Chipper Jones",
@@ -726,8 +696,7 @@
             "requirement_type": "RBI",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Chipper Jones (79/R/3B) - Immortals - Chipper Jones"
+        }]
     }, {
         "id": 32,
         "player": "Any Legend Players",
@@ -766,8 +735,7 @@
             "requirement_type": "TPA",
             "goal": 700,
             "current": 0
-        }],
-        "label": "Any Legend Players - Immortals - Chipper Jones"
+        }]
     }, {
         "id": 33,
         "player": "Any Flashback SP",
@@ -786,8 +754,7 @@
             "requirement_type": "CG",
             "goal": 21,
             "current": 0
-        }],
-        "label": "Any Flashback SP (-/Default/-) - Immortals - Tom Seaver"
+        }]
     }, {
         "id": 34,
         "player": "Nolan Ryan",
@@ -810,8 +777,7 @@
             "requirement_type": "K",
             "goal": 4,
             "current": 0
-        }],
-        "label": "Nolan Ryan (83/PS/RP) - Immortals - Nolan Ryan"
+        }]
     }, {
         "id": 35,
         "player": "Any Starting Pitcher",
@@ -826,8 +792,7 @@
             "requirement_type": "K",
             "goal": 383,
             "current": 0
-        }],
-        "label": "Any Starting Pitcher (-/Default/-) - Immortals - Nolan Ryan"
+        }]
     }, {
         "id": 36,
         "player": "Any Left-Handed RP/CP",
@@ -842,8 +807,7 @@
             "requirement_type": "S",
             "goal": 75,
             "current": 0
-        }],
-        "label": "Any Left-Handed RP/CP (-/Default/-) - Immortals - Billy Wagner"
+        }]
     }, {
         "id": 37,
         "player": "Any Left-Handed RP/CP",
@@ -858,8 +822,7 @@
             "requirement_type": "HO",
             "goal": 200,
             "current": 0
-        }],
-        "label": "Any Left-Handed RP/CP (-/Default/-) - Immortals - Billy Wagner"
+        }]
     }, {
         "id": 39,
         "player": "Rich Gossage",
@@ -878,8 +841,7 @@
             "requirement_type": "IP",
             "goal": 4,
             "current": 0
-        }],
-        "label": "Rich Gossage (70/R/RP) - Immortals - Rich Gossage"
+        }]
     }, {
         "id": 40,
         "player": "Rich Gossage",
@@ -894,8 +856,7 @@
             "requirement_type": "S",
             "goal": 25,
             "current": 0
-        }],
-        "label": "Rich Gossage (70/R/RP) - Immortals - Rich Gossage"
+        }]
     }, {
         "id": 41,
         "player": "Any Right-Handed RP/CP",
@@ -910,8 +871,7 @@
             "requirement_type": "S",
             "goal": 75,
             "current": 0
-        }],
-        "label": "Any Right-Handed RP/CP (-/Default/-) - Immortals - Rich Gossage"
+        }]
     }, {
         "id": 42,
         "player": "Any Right-Handed RP/CP",
@@ -926,8 +886,7 @@
             "requirement_type": "HO",
             "goal": 200,
             "current": 0
-        }],
-        "label": "Any Right-Handed RP/CP (-/Default/-) - Immortals - Rich Gossage"
+        }]
     }, {
         "id": 43,
         "player": "Billy Williams",
@@ -946,8 +905,7 @@
             "requirement_type": "RBI",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Billy Williams (76/IV/1B) - Career Arcs - Billy Williams"
+        }]
     }, {
         "id": 44,
         "player": "Billy Williams",
@@ -982,8 +940,7 @@
             "requirement_type": "TPA",
             "goal": 75,
             "current": 0
-        }],
-        "label": "Billy Williams (82/HW/LF) - Career Arcs - Billy Williams"
+        }]
     }, {
         "id": 45,
         "player": "Any Legend Left Fielders",
@@ -998,8 +955,7 @@
             "requirement_type": "HR",
             "goal": 10,
             "current": 0
-        }],
-        "label": "Any Legend Left Fielders - Career Arcs - Billy Williams"
+        }]
     }, {
         "id": 46,
         "player": "Chase Utley",
@@ -1014,8 +970,7 @@
             "requirement_type": "H",
             "goal": 3,
             "current": 0
-        }],
-        "label": "Chase Utley (72/R/2B) - Career Arcs - Chase Utley"
+        }]
     }, {
         "id": 47,
         "player": "Any Second Basemen",
@@ -1034,8 +989,7 @@
             "requirement_type": "R",
             "goal": 23,
             "current": 0
-        }],
-        "label": "Any Second Basemen (-/Default/-) - Career Arcs - Chase Utley"
+        }]
     }, {
         "id": 48,
         "player": "Gary Carter",
@@ -1050,8 +1004,7 @@
             "requirement_type": "H",
             "goal": 15,
             "current": 0
-        }],
-        "label": "Gary Carter (78/R/RF) - Career Arcs - Gary Carter"
+        }]
     }, {
         "id": 49,
         "player": "Gary Carter",
@@ -1070,8 +1023,7 @@
             "requirement_type": "RBI",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Gary Carter (84/IV/C) - Career Arcs - Gary Carter"
+        }]
     }, {
         "id": 50,
         "player": "Any Catchers",
@@ -1086,8 +1038,7 @@
             "requirement_type": "RBI",
             "goal": 30,
             "current": 0
-        }],
-        "label": "Any Catchers - Career Arcs - Gary Carter"
+        }]
     }, {
         "id": 51,
         "player": "Paul Molitor",
@@ -1106,8 +1057,7 @@
             "requirement_type": "RBI",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Paul Molitor (74/IV/1B) - Career Arcs - Paul Molitor"
+        }]
     }, {
         "id": 52,
         "player": "Paul Molitor",
@@ -1126,8 +1076,7 @@
             "requirement_type": "SB",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Paul Molitor (78/R/2B) - Career Arcs - Paul Molitor"
+        }]
     }, {
         "id": 53,
         "player": "Paul Molitor",
@@ -1146,8 +1095,7 @@
             "requirement_type": "R",
             "goal": 20,
             "current": 0
-        }],
-        "label": "Paul Molitor (-/IV/-) - Career Arcs - Paul Molitor"
+        }]
     }, {
         "id": 54,
         "player": "Larry Doby",
@@ -1162,8 +1110,7 @@
             "requirement_type": "RBI",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Larry Doby (76/IV/CF) - Career Arcs - Larry Doby"
+        }]
     }, {
         "id": 55,
         "player": "Larry Doby",
@@ -1178,8 +1125,7 @@
             "requirement_type": "H",
             "goal": 15,
             "current": 0
-        }],
-        "label": "Larry Doby (80/R/CF) - Career Arcs - Larry Doby"
+        }]
     }, {
         "id": 56,
         "player": "Larry Doby",
@@ -1194,8 +1140,7 @@
             "requirement_type": "HR",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Larry Doby (80/R/CF) - Career Arcs - Larry Doby"
+        }]
     }, {
         "id": 57,
         "player": "Any All-Star Outfielders",
@@ -1218,8 +1163,7 @@
             "requirement_type": "RBI",
             "goal": "102",
             "current": 0
-        }],
-        "label": "Any All-Star Outfielders (-/AS/-) - Career Arcs - Larry Doby"
+        }]
     }, {
         "id": 58,
         "player": "Don Sutton",
@@ -1238,8 +1182,7 @@
             "requirement_type": "K",
             "goal": 7,
             "current": 0
-        }],
-        "label": "Don Sutton (72/IV/SP) - Career Arcs - Don Sutton"
+        }]
     }, {
         "id": 59,
         "player": "Don Sutton",
@@ -1262,8 +1205,7 @@
             "requirement_type": "K",
             "goal": 10,
             "current": 0
-        }],
-        "label": "Don Sutton (84/R/SP) - Career Arcs - Don Sutton"
+        }]
     }, {
         "id": 60,
         "player": "Any Rookie SP",
@@ -1278,8 +1220,7 @@
             "requirement_type": "K",
             "goal": 48,
             "current": 0
-        }],
-        "label": "Any Rookie SP (-/R/-) - Career Arcs - Don Sutton"
+        }]
     }, {
         "id": 63,
         "player": "Hanley Ramirez",
@@ -1298,8 +1239,7 @@
             "requirement_type": "R",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Hanley Ramirez (82/HW/SS) - Career Arcs - Hanley Ramirez"
+        }]
     }, {
         "id": 64,
         "player": "Hanley Ramirez",
@@ -1318,8 +1258,7 @@
             "requirement_type": "HR",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Hanley Ramirez (88/AS/SS) - Career Arcs - Hanley Ramirez"
+        }]
     }, {
         "id": 65,
         "player": "Any Shortstops",
@@ -1334,8 +1273,7 @@
             "requirement_type": "2B",
             "goal": 15,
             "current": 0
-        }],
-        "label": "Any Shortstops (-/Default/-) - Career Arcs - Hanley Ramirez"
+        }]
     }, {
         "id": 66,
         "player": "Joe Torre",
@@ -1358,8 +1296,7 @@
             "requirement_type": "R",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Joe Torre (74/IV/1B) - Career Arcs - Joe Torre"
+        }]
     }, {
         "id": 67,
         "player": "Joe Torre",
@@ -1374,8 +1311,7 @@
             "requirement_type": "H",
             "goal": 15,
             "current": 0
-        }],
-        "label": "Joe Torre (79/R/C) - Career Arcs - Joe Torre"
+        }]
     }, {
         "id": 68,
         "player": "Joe Torre",
@@ -1390,8 +1326,7 @@
             "requirement_type": "2B",
             "goal": 15,
             "current": 0
-        }],
-        "label": "Joe Torre (89/HW/3B) - Career Arcs - Joe Torre"
+        }]
     }, {
         "id": 69,
         "player": "Any Cardinals Players",
@@ -1410,8 +1345,7 @@
             "requirement_type": "HR",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Any Cardinals Players (-/Default/-) - Career Arcs - Joe Torre"
+        }]
     }, {
         "id": 70,
         "player": "Jack Morris",
@@ -1430,8 +1364,7 @@
             "requirement_type": "IP",
             "goal": 5,
             "current": 0
-        }],
-        "label": "Jack Morris (61/R/RP) - Career Arcs - Jack Morris"
+        }]
     }, {
         "id": 71,
         "player": "Bret Saberhagen",
@@ -1454,8 +1387,7 @@
             "requirement_type": "K",
             "goal": 5,
             "current": 0
-        }],
-        "label": "Bret Saberhagen (77/R/SP) - Career Arcs - Bret Saberhagen"
+        }]
     }, {
         "id": 72,
         "player": "Bret Saberhagen",
@@ -1474,8 +1406,7 @@
             "requirement_type": "K",
             "goal": 15,
             "current": 0
-        }],
-        "label": "Bret Saberhagen (83/IV/SP) - Career Arcs - Bret Saberhagen"
+        }]
     }, {
         "id": 73,
         "player": "Any SP from Royals, Mets, Rockies or Red Sox",
@@ -1490,8 +1421,7 @@
             "requirement_type": "W",
             "goal": 23,
             "current": 0
-        }],
-        "label": "Any SP from Royals, Mets, Rockies or Red Sox (-/Default/-) - Career Arcs - Bret Saberhagen"
+        }]
     }, {
         "id": 74,
         "player": "Lee Smith",
@@ -1514,8 +1444,7 @@
             "requirement_type": "S",
             "goal": 10,
             "current": 0
-        }],
-        "label": "Lee Smith (68/IV/CP) - Career Arcs - Lee Smith"
+        }]
     }, {
         "id": 75,
         "player": "Lee Smith",
@@ -1530,8 +1459,7 @@
             "requirement_type": "K",
             "goal": 50,
             "current": 0
-        }],
-        "label": "Lee Smith (75/R/RP) - Career Arcs - Lee Smith"
+        }]
     }, {
         "id": 76,
         "player": "Lee Smith",
@@ -1546,8 +1474,7 @@
             "requirement_type": "IP",
             "goal": 72,
             "current": 0
-        }],
-        "label": "Lee Smith (85/AS/CP) - Career Arcs - Lee Smith"
+        }]
     }, {
         "id": 77,
         "player": "Any RP or CP",
@@ -1562,8 +1489,7 @@
             "requirement_type": "S",
             "goal": 47,
             "current": 0
-        }],
-        "label": "Any RP or CP (-/Default/-) - Career Arcs - Lee Smith"
+        }]
     }, {
         "id": 78,
         "player": "Trevor Hoffman",
@@ -1573,7 +1499,7 @@
         "team": "Marlins",
         "position": "RP",
         "program_type": "Career Arcs",
-        "program": "Hoffman",
+        "program": "Trevor Hoffman",
         "requirements": [{
             "requirement_type": "IP",
             "goal": 20,
@@ -1582,8 +1508,7 @@
             "requirement_type": "K",
             "goal": 10,
             "current": 0
-        }],
-        "label": "Trevor Hoffman (72/R/RP) - Career Arcs - Hoffman"
+        }]
     }, {
         "id": 79,
         "player": "Derek Norris",
@@ -1593,13 +1518,12 @@
         "team": "Athletics",
         "position": "C",
         "program_type": "Catcher",
-        "program": "Norris",
+        "program": "Derek Norris",
         "requirements": [{
             "requirement_type": "H",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Derek Norris (74/AS/C) - Catcher - Norris"
+        }]
     }, {
         "id": 80,
         "player": "Ryan Hanigan",
@@ -1609,7 +1533,7 @@
         "team": "Reds",
         "position": "C",
         "program_type": "Catcher",
-        "program": "Hanigan",
+        "program": "Ryan Hanigan",
         "requirements": [{
             "requirement_type": "2B",
             "goal": 1,
@@ -1618,8 +1542,7 @@
             "requirement_type": "RBI",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Ryan Hanigan (79/BO/C) - Catcher - Hanigan"
+        }]
     }, {
         "id": 81,
         "player": "Jarod Saltalamacchia",
@@ -1629,7 +1552,7 @@
         "team": "Red Sox",
         "position": "C",
         "program_type": "Catcher",
-        "program": "Saltalamacchia",
+        "program": "Jarod Saltalamacchia",
         "requirements": [{
             "requirement_type": "H",
             "goal": 3,
@@ -1642,8 +1565,7 @@
             "requirement_type": "HR",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Jarod Saltalamacchia (75/IV/C) - Catcher - Saltalamacchia"
+        }]
     }, {
         "id": 82,
         "player": "Kennys Vargas",
@@ -1653,7 +1575,7 @@
         "team": "Twins",
         "position": "1B",
         "program_type": "First Basemen",
-        "program": "Vargas",
+        "program": "Kennys Vargas",
         "requirements": [{
             "requirement_type": "H",
             "goal": 2,
@@ -1666,8 +1588,7 @@
             "requirement_type": "RBI",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Kennys Vargas (71/R/1B) - First Basemen - Vargas"
+        }]
     }, {
         "id": 83,
         "player": "Chris Carter",
@@ -1677,7 +1598,7 @@
         "team": "Astros",
         "position": "1B",
         "program_type": "First Basemen",
-        "program": "Carter",
+        "program": "Chris Carter",
         "requirements": [{
             "requirement_type": "RBI",
             "goal": 1,
@@ -1686,8 +1607,7 @@
             "requirement_type": "BB",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Chris Carter (74/BO/1B) - First Basemen - Carter"
+        }]
     }, {
         "id": 84,
         "player": "Sean Rodriguez",
@@ -1697,7 +1617,7 @@
         "team": "Pirates",
         "position": "1B",
         "program_type": "First Basemen",
-        "program": "Rodriguez",
+        "program": "Sean Rodriguez",
         "requirements": [{
             "requirement_type": "H",
             "goal": 2,
@@ -1706,8 +1626,7 @@
             "requirement_type": "R",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Sean Rodriguez (78/IV/1B) - First Basemen - Rodriguez"
+        }]
     }, {
         "id": 85,
         "player": "Lucas Duda",
@@ -1717,7 +1636,7 @@
         "team": "Mets",
         "position": "1B",
         "program_type": "First Basemen",
-        "program": "Duda",
+        "program": "Lucas Duda",
         "requirements": [{
             "requirement_type": "RBI",
             "goal": 3,
@@ -1726,8 +1645,7 @@
             "requirement_type": "HR",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Lucas Duda (75/BO/1B) - First Basemen - Duda"
+        }]
     }, {
         "id": 86,
         "player": "Brock Holt",
@@ -1737,7 +1655,7 @@
         "team": "Red Sox",
         "position": "2B",
         "program_type": "Second Basemen",
-        "program": "Holt",
+        "program": "Brock Holt",
         "requirements": [{
             "requirement_type": "H",
             "goal": 2,
@@ -1746,8 +1664,7 @@
             "requirement_type": "R",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Brock Holt (72/AS/2B) - Second Basemen - Holt"
+        }]
     }, {
         "id": 87,
         "player": "Neil Walker",
@@ -1757,13 +1674,12 @@
         "team": "Pirates",
         "position": "2B",
         "program_type": "Second Basemen",
-        "program": "Walker",
+        "program": "Neil Walker",
         "requirements": [{
             "requirement_type": "H",
             "goal": 4,
             "current": 0
-        }],
-        "label": "Neil Walker (74/R/2B) - Second Basemen - Walker"
+        }]
     }, {
         "id": 88,
         "player": "Danny Espinosa",
@@ -1773,7 +1689,7 @@
         "team": "Nationals",
         "position": "2B",
         "program_type": "Second Basemen",
-        "program": "Espinosa",
+        "program": "Danny Espinosa",
         "requirements": [{
             "requirement_type": "H",
             "goal": 3,
@@ -1782,8 +1698,7 @@
             "requirement_type": "RBI",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Danny Espinosa (76/R/2B) - Second Basemen - Espinosa"
+        }]
     }, {
         "id": 89,
         "player": "Darwin Barney",
@@ -1793,13 +1708,12 @@
         "team": "Cubs",
         "position": "2B",
         "program_type": "Second Basemen",
-        "program": "Barney",
+        "program": "Darwin Barney",
         "requirements": [{
             "requirement_type": "A",
             "goal": 3,
             "current": 0
-        }],
-        "label": "Darwin Barney (78/BO/2B) - Second Basemen - Barney"
+        }]
     }, {
         "id": 90,
         "player": "Trevor Plouffe",
@@ -1809,7 +1723,7 @@
         "team": "Twins",
         "position": "3B",
         "program_type": "Third Basemen",
-        "program": "Plouffe",
+        "program": "Trevor Plouffe",
         "requirements": [{
             "requirement_type": "H",
             "goal": 2,
@@ -1818,8 +1732,7 @@
             "requirement_type": "RBI",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Trevor Plouffe (74/BO/3B) - Third Basemen - Plouffe"
+        }]
     }, {
         "id": 91,
         "player": "Pedro Alvarez",
@@ -1829,7 +1742,7 @@
         "team": "Pirates",
         "position": "3B",
         "program_type": "Third Basemen",
-        "program": "Alvarez",
+        "program": "Pedro Alvarez",
         "requirements": [{
             "requirement_type": "RBI",
             "goal": 7,
@@ -1838,8 +1751,7 @@
             "requirement_type": "HR",
             "goal": 3,
             "current": 0
-        }],
-        "label": "Pedro Alvarez (78/PS/3B) - Third Basemen - Alvarez"
+        }]
     }, {
         "id": 92,
         "player": "Gordon Beckham",
@@ -1849,7 +1761,7 @@
         "team": "White Sox",
         "position": "3B",
         "program_type": "Third Basemen",
-        "program": "Beckham",
+        "program": "Gordon Beckham",
         "requirements": [{
             "requirement_type": "H",
             "goal": 2,
@@ -1858,8 +1770,7 @@
             "requirement_type": "R",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Gordon Beckham (78/R/3B) - Third Basemen - Beckham"
+        }]
     }, {
         "id": 93,
         "player": "Mario Mendoza",
@@ -1869,13 +1780,12 @@
         "team": "Mariners",
         "position": "SS",
         "program_type": "Shortstops",
-        "program": "Mendoza",
+        "program": "Mario Mendoza",
         "requirements": [{
             "requirement_type": "H",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Mario Mendoza (63/IV/SS) - Shortstops - Mendoza"
+        }]
     }, {
         "id": 94,
         "player": "Brad Miller",
@@ -1885,7 +1795,7 @@
         "team": "Rays",
         "position": "SS",
         "program_type": "Shortstops",
-        "program": "Miller",
+        "program": "Brad Miller",
         "requirements": [{
             "requirement_type": "RBI",
             "goal": 3,
@@ -1894,8 +1804,7 @@
             "requirement_type": "HR",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Brad Miller (72/BO/SS) - Shortstops - Miller"
+        }]
     }, {
         "id": 95,
         "player": "Emilio Bonifacio",
@@ -1905,7 +1814,7 @@
         "team": "Marlins",
         "position": "SS",
         "program_type": "Shortstops",
-        "program": "Bonifacio",
+        "program": "Emilio Bonifacio",
         "requirements": [{
             "requirement_type": "H",
             "goal": 1,
@@ -1914,8 +1823,7 @@
             "requirement_type": "SB",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Emilio Bonifacio (78/BO/SS) - Shortstops - Bonifacio"
+        }]
     }, {
         "id": 96,
         "player": "Chris Heisey",
@@ -1925,7 +1833,7 @@
         "team": "Reds",
         "position": "LF",
         "program_type": "Left Fielders",
-        "program": "Heisey",
+        "program": "Chris Heisey",
         "requirements": [{
             "requirement_type": "H",
             "goal": 2,
@@ -1934,8 +1842,7 @@
             "requirement_type": "R",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Chris Heisey (74/BO/LF) - Left Fielders - Heisey"
+        }]
     }, {
         "id": 98,
         "player": "Seth Smith",
@@ -1945,13 +1852,12 @@
         "team": "Rockies",
         "position": "LF",
         "program_type": "Left Fielders",
-        "program": "Smith",
+        "program": "Seth Smith",
         "requirements": [{
             "requirement_type": "HR",
             "goal": 3,
             "current": 0
-        }],
-        "label": "Seth Smith (78/R/LF) - Left Fielders - Smith"
+        }]
     }, {
         "id": 99,
         "player": "Michael Saunders",
@@ -1961,13 +1867,12 @@
         "team": "Mariners",
         "position": "CF",
         "program_type": "Center Fielders",
-        "program": "Saunders",
+        "program": "Michael Saunders",
         "requirements": [{
             "requirement_type": "RBI",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Michael Saunders (74/BO/CF) - Center Fielders - Saunders"
+        }]
     }, {
         "id": 100,
         "player": "Alejandro De Aza",
@@ -1977,7 +1882,7 @@
         "team": "White Sox",
         "position": "CF",
         "program_type": "Center Fielders",
-        "program": "De Aza",
+        "program": "Alejandro De Aza",
         "requirements": [{
             "requirement_type": "BB",
             "goal": 1,
@@ -1986,8 +1891,7 @@
             "requirement_type": "SB",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Alejandro De Aza (77/BO/CF) - Center Fielders - De Aza"
+        }]
     }, {
         "id": 101,
         "player": "Danny Santana",
@@ -1997,7 +1901,7 @@
         "team": "Twins",
         "position": "CF",
         "program_type": "Center Fielders",
-        "program": "Santana",
+        "program": "Danny Santana",
         "requirements": [{
             "requirement_type": "H",
             "goal": 2,
@@ -2006,8 +1910,7 @@
             "requirement_type": "R",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Danny Santana (77/R/CF) - Center Fielders - Santana"
+        }]
     }, {
         "id": 102,
         "player": "Drew Stubbs",
@@ -2017,7 +1920,7 @@
         "team": "Reds",
         "position": "CF",
         "program_type": "Center Fielders",
-        "program": "Stubbs",
+        "program": "Drew Stubbs",
         "requirements": [{
             "requirement_type": "HR",
             "goal": 1,
@@ -2026,8 +1929,7 @@
             "requirement_type": "SB",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Drew Stubbs (79/BO/CF) - Center Fielders - Stubbs"
+        }]
     }, {
         "id": 103,
         "player": "Daniel Nava",
@@ -2037,7 +1939,7 @@
         "team": "Red Sox",
         "position": "RF",
         "program_type": "Right Fielders",
-        "program": "Nava",
+        "program": "Daniel Nava",
         "requirements": [{
             "requirement_type": "H",
             "goal": 3,
@@ -2046,8 +1948,7 @@
             "requirement_type": "2B",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Daniel Nava (73/BO/RF) - Right Fielders - Nava"
+        }]
     }, {
         "id": 104,
         "player": "Matthew Joyce",
@@ -2057,7 +1958,7 @@
         "team": "Rays",
         "position": "RF",
         "program_type": "Right Fielders",
-        "program": "Joyce",
+        "program": "Matthew Joyce",
         "requirements": [{
             "requirement_type": "2B",
             "goal": 5,
@@ -2066,8 +1967,7 @@
             "requirement_type": "RBI",
             "goal": 21,
             "current": 0
-        }],
-        "label": "Matthew Joyce (78/AS/RF) - Right Fielders - Joyce"
+        }]
     }, {
         "id": 105,
         "player": "Mike Pelfrey",
@@ -2077,7 +1977,7 @@
         "team": "Mets",
         "position": "SP",
         "program_type": "Starting Pitchers",
-        "program": "Pelfrey",
+        "program": "Mike Pelfrey",
         "requirements": [{
             "requirement_type": "W",
             "goal": 1,
@@ -2090,8 +1990,7 @@
             "requirement_type": "K",
             "goal": 5,
             "current": 0
-        }],
-        "label": "Mike Pelfrey (70/IV/SP) - Starting Pitchers - Pelfrey"
+        }]
     }, {
         "id": 106,
         "player": "Chris Volstad",
@@ -2101,7 +2000,7 @@
         "team": "Marlins",
         "position": "SP",
         "program_type": "Starting Pitchers",
-        "program": "Volstad",
+        "program": "Chris Volstad",
         "requirements": [{
             "requirement_type": "IP",
             "goal": 6,
@@ -2110,8 +2009,7 @@
             "requirement_type": "K",
             "goal": 6,
             "current": 0
-        }],
-        "label": "Chris Volstad (72/R/SP) - Starting Pitchers - Volstad"
+        }]
     }, {
         "id": 107,
         "player": "Ivan Nova",
@@ -2121,7 +2019,7 @@
         "team": "Yankees",
         "position": "SP",
         "program_type": "Starting Pitchers",
-        "program": "Nova",
+        "program": "Ivan Nova",
         "requirements": [{
             "requirement_type": "W",
             "goal": 1,
@@ -2134,8 +2032,7 @@
             "requirement_type": "K",
             "goal": 6,
             "current": 0
-        }],
-        "label": "Ivan Nova (72/R/SP) - Starting Pitchers - Nova"
+        }]
     }, {
         "id": 108,
         "player": "Jamie Garcia",
@@ -2145,7 +2042,7 @@
         "team": "Cardinals",
         "position": "SP",
         "program_type": "Starting Pitchers",
-        "program": "Garcia",
+        "program": "Jamie Garcia",
         "requirements": [{
             "requirement_type": "W",
             "goal": 1,
@@ -2158,8 +2055,7 @@
             "requirement_type": "K",
             "goal": 7,
             "current": 0
-        }],
-        "label": "Jamie Garcia (73/R/SP) - Starting Pitchers - Garcia"
+        }]
     }, {
         "id": 109,
         "player": "Brett Anderson",
@@ -2169,7 +2065,7 @@
         "team": "Athletics",
         "position": "SP",
         "program_type": "Starting Pitchers",
-        "program": "Anderson",
+        "program": "Brett Anderson",
         "requirements": [{
             "requirement_type": "W",
             "goal": 1,
@@ -2182,8 +2078,7 @@
             "requirement_type": "K",
             "goal": 8,
             "current": 0
-        }],
-        "label": "Brett Anderson (76/R/SP) - Starting Pitchers - Anderson"
+        }]
     }, {
         "id": 110,
         "player": "Shane Greene",
@@ -2193,7 +2088,7 @@
         "team": "Yankees",
         "position": "SP",
         "program_type": "Starting Pitchers",
-        "program": "Greene",
+        "program": "Shane Greene",
         "requirements": [{
             "requirement_type": "IP",
             "goal": 6,
@@ -2202,8 +2097,7 @@
             "requirement_type": "K",
             "goal": 6,
             "current": 0
-        }],
-        "label": "Shane Greene (76/R/SP) - Starting Pitchers - Greene"
+        }]
     }, {
         "id": 111,
         "player": "Trevor Cahill",
@@ -2213,7 +2107,7 @@
         "team": "Athletics",
         "position": "SP",
         "program_type": "Starting Pitchers",
-        "program": "Cahill",
+        "program": "Trevor Cahill",
         "requirements": [{
             "requirement_type": "W",
             "goal": 1,
@@ -2226,8 +2120,7 @@
             "requirement_type": "K",
             "goal": 4,
             "current": 0
-        }],
-        "label": "Trevor Cahill (77/AS/SP) - Starting Pitchers - Cahill"
+        }]
     }, {
         "id": 113,
         "player": "Bud Norris",
@@ -2237,7 +2130,7 @@
         "team": "Orioles",
         "position": "SP",
         "program_type": "Starting Pitchers",
-        "program": "Norris",
+        "program": "Bud Norris",
         "requirements": [{
             "requirement_type": "W",
             "goal": 1,
@@ -2250,8 +2143,7 @@
             "requirement_type": "K",
             "goal": 5,
             "current": 0
-        }],
-        "label": "Bud Norris (78/IV/SP) - Starting Pitchers - Norris"
+        }]
     }, {
         "id": 114,
         "player": "Tony Cingrani",
@@ -2261,7 +2153,7 @@
         "team": "Reds",
         "position": "SP",
         "program_type": "Starting Pitchers",
-        "program": "Cingrani",
+        "program": "Tony Cingrani",
         "requirements": [{
             "requirement_type": "IP",
             "goal": 7,
@@ -2270,8 +2162,7 @@
             "requirement_type": "K",
             "goal": 9,
             "current": 0
-        }],
-        "label": "Tony Cingrani (79/R/SP) - Starting Pitchers - Cingrani"
+        }]
     }, {
         "id": 115,
         "player": "Craig Breslow",
@@ -2281,7 +2172,7 @@
         "team": "Red Sox",
         "position": "RP",
         "program_type": "Relief Pitchers",
-        "program": "Breslow",
+        "program": "Craig Breslow",
         "requirements": [{
             "requirement_type": "W",
             "goal": 1,
@@ -2294,8 +2185,7 @@
             "requirement_type": "K",
             "goal": 2,
             "current": 0
-        }],
-        "label": "Craig Breslow (71/IV/RP) - Relief Pitchers - Breslow"
+        }]
     }, {
         "id": 116,
         "player": "Mike Dunn",
@@ -2305,7 +2195,7 @@
         "team": "Marlins",
         "position": "RP",
         "program_type": "Relief Pitchers",
-        "program": "Dunn",
+        "program": "Mike Dunn",
         "requirements": [{
             "requirement_type": "IP",
             "goal": 2,
@@ -2314,8 +2204,7 @@
             "requirement_type": "K",
             "goal": 3,
             "current": 0
-        }],
-        "label": "Mike Dunn (75/BO/RP) - Relief Pitchers - Dunn"
+        }]
     }, {
         "id": 117,
         "player": "Al Alburquerque",
@@ -2325,7 +2214,7 @@
         "team": "Tigers",
         "position": "RP",
         "program_type": "Relief Pitchers",
-        "program": "Albuquerque",
+        "program": "Al Alburquerque",
         "requirements": [{
             "requirement_type": "K",
             "goal": 30,
@@ -2334,8 +2223,7 @@
             "requirement_type": "HO",
             "goal": 5,
             "current": 0
-        }],
-        "label": "Al Alburquerque (77/R/RP) - Relief Pitchers - Albuquerque"
+        }]
     }, {
         "id": 118,
         "player": "Chad Qualls",
@@ -2345,7 +2233,7 @@
         "team": "Diamondbacks",
         "position": "RP",
         "program_type": "Relief Pitchers",
-        "program": "Qualls",
+        "program": "Chad Qualls",
         "requirements": [{
             "requirement_type": "HO",
             "goal": 4,
@@ -2354,18 +2242,17 @@
             "requirement_type": "S",
             "goal": 1,
             "current": 0
-        }],
-        "label": "Chad Qualls (78/IV/RP) - Relief Pitchers - Qualls"
+        }]
     }, {
         "id": 119,
-        "player": "Guerra",
+        "player": "Javy Guerra",
         "rating": "72",
         "series": "R",
         "duration": "Single Game",
         "team": "Dodgers",
         "position": "CP",
         "program_type": "Closing Pitchers",
-        "program": "Guerra",
+        "program": "Javy Guerra",
         "requirements": [{
             "requirement_type": "K",
             "goal": 9,
@@ -2374,8 +2261,7 @@
             "requirement_type": "S",
             "goal": 6,
             "current": 0
-        }],
-        "label": "Guerra (72/R/CP) - Closing Pitchers - Guerra"
+        }]
     }, {
         "id": 120,
         "player": "Danny Farquhar",
@@ -2385,7 +2271,7 @@
         "team": "Mariners",
         "position": "CP",
         "program_type": "Closing Pitchers",
-        "program": "Farquhar",
+        "program": "Danny Farquhar",
         "requirements": [{
             "requirement_type": "IP",
             "goal": 2,
@@ -2394,8 +2280,7 @@
             "requirement_type": "K",
             "goal": 5,
             "current": 0
-        }],
-        "label": "Danny Farquhar (78/R/CP) - Closing Pitchers - Farquhar"
+        }]
     }, {
         "id": 121,
         "player": "Babe Ruth",
@@ -2430,8 +2315,7 @@
             "requirement_type": "TPA",
             "goal": 90,
             "current": 0
-        }],
-        "label": "Babe Ruth (68/IV/LF) - Immortals - Babe Ruth"
+        }]
     }, {
         "id": 122,
         "player": "Ryan Raburn",
@@ -2441,13 +2325,12 @@
         "team": "Tigers",
         "position": "LF",
         "program_type": "Left Fielders",
-        "program": "Raburn",
+        "program": "Ryan Raburn",
         "requirements": [{
             "requirement_type": "HR",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Ryan Raburn (-/R/LF) - Left Fielders - Raburn"
+        }]
     }, {
         "id": 123,
         "player": "Baltimore Orioles Hitting",
@@ -2486,8 +2369,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Baltimore Orioles Hitting - Team Epic - Baltimore Orioles"
+        }]
     }, {
         "id": 124,
         "player": "Baltimore Orioles Pitching",
@@ -2514,8 +2396,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Baltimore Orioles Pitching - Team Epic - Baltimore Orioles"
+        }]
     }, {
         "id": 125,
         "player": "Boston Red Sox Hitting",
@@ -2554,8 +2435,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Boston Red Sox Hitting - Team Epic - Boston Red Sox"
+        }]
     }, {
         "id": 126,
         "player": "Boston Red Sox Pitching",
@@ -2582,8 +2462,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Boston Red Sox Pitching - Team Epic - Boston Red Sox"
+        }]
     }, {
         "id": 127,
         "player": "New York Yankees Hitting",
@@ -2622,8 +2501,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "New York Yankees Hitting - Team Epic - New York Yankees"
+        }]
     }, {
         "id": 128,
         "player": "New York Yankees Pitching",
@@ -2650,8 +2528,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "New York Yankees Pitching - Team Epic - New York Yankees"
+        }]
     }, {
         "id": 129,
         "player": "Tampa Bay Rays Hitting",
@@ -2690,8 +2567,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Tampa Bay Rays Hitting - Team Epic - Tampa Bay Rays"
+        }]
     }, {
         "id": 130,
         "player": "Tampa Bay Rays Pitching",
@@ -2718,8 +2594,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Tampa Bay Rays Pitching - Team Epic - Tampa Bay Rays"
+        }]
     }, {
         "id": 131,
         "player": "Toronto Blue Jays Hitting",
@@ -2758,8 +2633,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Toronto Blue Jays Hitting - Team Epic - Toronto Blue Jays"
+        }]
     }, {
         "id": 132,
         "player": "Toronto Blue Jays Pitching",
@@ -2786,8 +2660,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Toronto Blue Jays Pitching - Team Epic - Toronto Blue Jays"
+        }]
     }, {
         "id": 133,
         "player": "Chicago White Sox Hitting",
@@ -2826,8 +2699,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Chicago White Sox Hitting - Team Epic - Chicago White Sox"
+        }]
     }, {
         "id": 134,
         "player": "Chicago White Sox Pitching",
@@ -2854,8 +2726,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Chicago White Sox Pitching - Team Epic - Chicago White Sox"
+        }]
     }, {
         "id": 135,
         "player": "Cleveland Indians Hitting",
@@ -2894,8 +2765,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Cleveland Indians Hitting - Team Epic - Cleveland Indians"
+        }]
     }, {
         "id": 136,
         "player": "Cleveland Indians Pitching",
@@ -2922,8 +2792,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Cleveland Indians Pitching - Team Epic - Cleveland Indians"
+        }]
     }, {
         "id": 137,
         "player": "Detroit Tigers Hitting",
@@ -2962,8 +2831,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Detroit Tigers Hitting - Team Epic - Detroit Tigers"
+        }]
     }, {
         "id": 138,
         "player": "Detroit Tigers Pitching",
@@ -2990,8 +2858,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Detroit Tigers Pitching - Team Epic - Detroit Tigers"
+        }]
     }, {
         "id": 139,
         "player": "Kansas City Royals Hitting",
@@ -3030,8 +2897,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Kansas City Royals Hitting - Team Epic - Kansas City Royals"
+        }]
     }, {
         "id": 140,
         "player": "Kansas City Royals Pitching",
@@ -3058,8 +2924,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Kansas City Royals Pitching - Team Epic - Kansas City Royals"
+        }]
     }, {
         "id": 141,
         "player": "Minnesota Twins Hitting",
@@ -3098,8 +2963,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Minnesota Twins Hitting - Team Epic - Minnesota Twins"
+        }]
     }, {
         "id": 142,
         "player": "Minnesota Twins Pitching",
@@ -3126,8 +2990,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Minnesota Twins Pitching - Team Epic - Minnesota Twins"
+        }]
     }, {
         "id": 143,
         "player": "Los Angeles Angels Hitting",
@@ -3166,8 +3029,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Los Angeles Angels Hitting - Team Epic - Los Angeles Angels"
+        }]
     }, {
         "id": 144,
         "player": "Los Angeles Angels Pitching",
@@ -3194,8 +3056,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Los Angeles Angels Pitching - Team Epic - Los Angeles Angels"
+        }]
     }, {
         "id": 145,
         "player": "Oakland Athletics Hitting",
@@ -3234,8 +3095,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Oakland Athletics Hitting - Team Epic - Oakland Athletics"
+        }]
     }, {
         "id": 146,
         "player": "Oakland Athletics",
@@ -3262,8 +3122,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Oakland Athletics - Team Epic - Oakland Athletics"
+        }]
     }, {
         "id": 147,
         "player": "Seattle Mariners Hitting",
@@ -3302,8 +3161,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Seattle Mariners Hitting - Team Epic - Seattle Mariners"
+        }]
     }, {
         "id": 148,
         "player": "Seattle Mariners Pitching",
@@ -3330,8 +3188,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Seattle Mariners Pitching - Team Epic - Seattle Mariners"
+        }]
     }, {
         "id": 149,
         "player": "Texas Rangers Hitting",
@@ -3370,8 +3227,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Texas Rangers Hitting - Team Epic - Texas Rangers"
+        }]
     }, {
         "id": 150,
         "player": "Texas Rangers Pitching",
@@ -3398,8 +3254,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Texas Rangers Pitching - Team Epic - Texas Rangers"
+        }]
     }, {
         "id": 151,
         "player": "Houston Astros Hitting",
@@ -3438,8 +3293,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Houston Astros Hitting - Team Epic - Houston Astros"
+        }]
     }, {
         "id": 152,
         "player": "Houston Astros Pitching",
@@ -3466,8 +3320,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Houston Astros Pitching - Team Epic - Houston Astros"
+        }]
     }, {
         "id": 153,
         "player": "Atlanta Braves Hitting",
@@ -3506,8 +3359,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Atlanta Braves Hitting - Team Epic - Atlanta Braves"
+        }]
     }, {
         "id": 154,
         "player": "Atlanta Braves Pitching",
@@ -3534,8 +3386,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Atlanta Braves Pitching - Team Epic - Atlanta Braves"
+        }]
     }, {
         "id": 155,
         "player": "Miami Marlins Hitting",
@@ -3574,8 +3425,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Miami Marlins Hitting - Team Epic - Miami Marlins"
+        }]
     }, {
         "id": 156,
         "player": "Miami Marlins Pitching",
@@ -3602,8 +3452,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Miami Marlins Pitching - Team Epic - Miami Marlins"
+        }]
     }, {
         "id": 157,
         "player": "Washington Nationals Hitting",
@@ -3642,8 +3491,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Washington Nationals Hitting - Team Epic - Washington Nationals"
+        }]
     }, {
         "id": 158,
         "player": "Washington Nationals Pitching",
@@ -3670,8 +3518,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Washington Nationals Pitching - Team Epic - Washington Nationals"
+        }]
     }, {
         "id": 159,
         "player": "New York Mets Hitting",
@@ -3710,8 +3557,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "New York Mets Hitting - Team Epic - New York Mets"
+        }]
     }, {
         "id": 160,
         "player": "New York Mets Pitching",
@@ -3738,8 +3584,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "New York Mets Pitching - Team Epic - New York Mets"
+        }]
     }, {
         "id": 161,
         "player": "Philadelphia Phillies Hitting",
@@ -3778,8 +3623,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Philadelphia Phillies Hitting - Team Epic - Philadelphia Phillies"
+        }]
     }, {
         "id": 162,
         "player": "Philadelphia Phillies Pitching",
@@ -3806,8 +3650,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Philadelphia Phillies Pitching - Team Epic - Philadelphia Phillies"
+        }]
     }, {
         "id": 163,
         "player": "Chicago Cubs Hitting",
@@ -3846,8 +3689,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Chicago Cubs Hitting - Team Epic - Chicago Cubs"
+        }]
     }, {
         "id": 164,
         "player": "Chicago Cubs Pitching",
@@ -3874,8 +3716,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Chicago Cubs Pitching - Team Epic - Chicago Cubs"
+        }]
     }, {
         "id": 165,
         "player": "Cincinnati Reds Hitting",
@@ -3914,8 +3755,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Cincinnati Reds Hitting - Team Epic - Cincinnati Reds"
+        }]
     }, {
         "id": 166,
         "player": "Cincinnati Reds Pitching",
@@ -3942,8 +3782,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Cincinnati Reds Pitching - Team Epic - Cincinnati Reds"
+        }]
     }, {
         "id": 167,
         "player": "Milwaukee Brewers Hitting",
@@ -3982,8 +3821,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Milwaukee Brewers Hitting - Team Epic - Milwaukee Brewers"
+        }]
     }, {
         "id": 168,
         "player": "Milwaukee Brewers Pitching",
@@ -4010,8 +3848,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Milwaukee Brewers Pitching - Team Epic - Milwaukee Brewers"
+        }]
     }, {
         "id": 169,
         "player": "Pittsburgh Pirates Hitting",
@@ -4050,8 +3887,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Pittsburgh Pirates Hitting - Team Epic - Pittsburgh Pirates"
+        }]
     }, {
         "id": 170,
         "player": "Pittsburgh Pirates Pitching",
@@ -4078,8 +3914,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Pittsburgh Pirates Pitching - Team Epic - Pittsburgh Pirates"
+        }]
     }, {
         "id": 171,
         "player": "St. Louis Cardinals Hitting",
@@ -4118,8 +3953,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "St. Louis Cardinals Hitting - Team Epic - St. Louis Cardinals"
+        }]
     }, {
         "id": 172,
         "player": "St. Louis Cardinals Pitching",
@@ -4146,8 +3980,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "St. Louis Cardinals Pitching - Team Epic - St. Louis Cardinals"
+        }]
     }, {
         "id": 173,
         "player": "Arizona Diamondbacks Hitting",
@@ -4186,8 +4019,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Arizona Diamondbacks Hitting - Team Epic - Arizona Diamondbacks"
+        }]
     }, {
         "id": 174,
         "player": "Arizona Diamondbacks Pitching",
@@ -4214,8 +4046,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Arizona Diamondbacks Pitching - Team Epic - Arizona Diamondbacks"
+        }]
     }, {
         "id": 175,
         "player": "Colorado Rockies Hitting",
@@ -4254,8 +4085,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Colorado Rockies Hitting - Team Epic - Colorado Rockies"
+        }]
     }, {
         "id": 176,
         "player": "Colorado Rockies Pitching",
@@ -4282,8 +4112,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Colorado Rockies Pitching - Team Epic - Colorado Rockies"
+        }]
     }, {
         "id": 177,
         "player": "Los Angeles Dodgers Hitting",
@@ -4322,8 +4151,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Los Angeles Dodgers Hitting - Team Epic - Los Angeles Dodgers"
+        }]
     }, {
         "id": 178,
         "player": "Los Angeles Dodgers Pitching",
@@ -4350,8 +4178,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Los Angeles Dodgers Pitching - Team Epic - Los Angeles Dodgers"
+        }]
     }, {
         "id": 179,
         "player": "San Diego Padres Hitting",
@@ -4390,8 +4217,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "San Diego Padres Hitting - Team Epic - San Diego Padres"
+        }]
     }, {
         "id": 180,
         "player": "San Diego Padres Pitching",
@@ -4418,8 +4244,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "San Diego Padres Pitching - Team Epic - San Diego Padres"
+        }]
     }, {
         "id": 181,
         "player": "San Francisco Giants Hitting",
@@ -4458,8 +4283,7 @@
             "requirement_type": "SB",
             "goal": "15",
             "current": 0
-        }],
-        "label": "San Francisco Giants Hitting - Team Epic - San Francisco Giants"
+        }]
     }, {
         "id": 182,
         "player": "San Francisco Giants Pitching",
@@ -4486,8 +4310,7 @@
             "requirement_type": "S",
             "goal": "15",
             "current": 0
-        }],
-        "label": "San Francisco Giants Pitching - Team Epic - San Francisco Giants"
+        }]
     }, {
         "id": 183,
         "player": "Jim Palmer",
@@ -4506,8 +4329,7 @@
             "requirement_type": "K",
             "goal": "10",
             "current": 0
-        }],
-        "label": "Jim Palmer (68/R/RP) - Team Epic - Baltimore Orioles"
+        }]
     }, {
         "id": 184,
         "player": "Jon Lester",
@@ -4522,8 +4344,7 @@
             "requirement_type": "K",
             "goal": "12",
             "current": 0
-        }],
-        "label": "Jon Lester (66/R/SP) - Team Epic - Boston Red Sox"
+        }]
     }, {
         "id": 185,
         "player": "Luis Severino",
@@ -4542,8 +4363,7 @@
             "requirement_type": "K",
             "goal": "6",
             "current": 0
-        }],
-        "label": "Luis Severino (76/R/SP) - Team Epic - New York Yankees"
+        }]
     }, {
         "id": 186,
         "player": "John Jaso",
@@ -4558,8 +4378,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "John Jaso (73/R/C) - Team Epic - Tampa Bay Rays"
+        }]
     }, {
         "id": 187,
         "player": "Eric Thames",
@@ -4574,8 +4393,7 @@
             "requirement_type": "2B",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Eric Thames (67/R/LF) - Team Epic - Toronto Blue Jays"
+        }]
     }, {
         "id": 188,
         "player": "Jose Quintana",
@@ -4594,8 +4412,7 @@
             "requirement_type": "K",
             "goal": "5",
             "current": 0
-        }],
-        "label": "Jose Quintana (68/R/SP) - Team Epic - Chicago White Sox"
+        }]
     }, {
         "id": 189,
         "player": "Corey Kluber",
@@ -4610,8 +4427,7 @@
             "requirement_type": "W",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Corey Kluber (71/R/SP) - Team Epic - Cleveland Indians"
+        }]
     }, {
         "id": 190,
         "player": "Edwin Jackson",
@@ -4630,8 +4446,7 @@
             "requirement_type": "K",
             "goal": "10",
             "current": 0
-        }],
-        "label": "Edwin Jackson (77/AS/SP) - Team Epic - Detroit Tigers"
+        }]
     }, {
         "id": 191,
         "player": "Mike Moustakas",
@@ -4646,8 +4461,7 @@
             "requirement_type": "2B",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Mike Moustakas (68/R/3B) - Team Epic - Kansas City Royals"
+        }]
     }, {
         "id": 192,
         "player": "Danny Valencia",
@@ -4662,8 +4476,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Danny Valencia (76/R/3B) - Team Epic - Minnesota Twins"
+        }]
     }, {
         "id": 193,
         "player": "Jim Edmonds",
@@ -4678,8 +4491,7 @@
             "requirement_type": "H",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Jim Edmonds (74/R/LF) - Team Epic - Los Angeles Angels"
+        }]
     }, {
         "id": 194,
         "player": "Carlos Gonzalez",
@@ -4694,8 +4506,7 @@
             "requirement_type": "2B",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Carlos Gonzalez (72/R/CF) - Team Epic - Oakland Athletics"
+        }]
     }, {
         "id": 195,
         "player": "Ketel Marte",
@@ -4714,8 +4525,7 @@
             "requirement_type": "R",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Ketel Marte (75/R/SS) - Team Epic - Seattle Mariners"
+        }]
     }, {
         "id": 196,
         "player": "Derek Holland",
@@ -4734,8 +4544,7 @@
             "requirement_type": "W",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Derek Holland (76/BO/SP) -  - Texas Rangers"
+        }]
     }, {
         "id": 197,
         "player": "Jose Altuve",
@@ -4750,8 +4559,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Jose Altuve (74/R/2B) - Team Epic - Houston Astros"
+        }]
     }, {
         "id": 198,
         "player": "Bruce Sutter",
@@ -4766,8 +4574,7 @@
             "requirement_type": "S",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Bruce Sutter (70/IV/CP) - Team Epic - Atlanta Braves"
+        }]
     }, {
         "id": 199,
         "player": "Marcell Ozuna",
@@ -4782,8 +4589,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Marcell Ozuna (74/R/RF) - Team Epic - Miami Marlins"
+        }]
     }, {
         "id": 200,
         "player": "Anthony Rendon",
@@ -4810,8 +4616,7 @@
             "requirement_type": "RBI",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Anthony Rendon (72/R/2B) - Team Epic - Washington Nationals"
+        }]
     }, {
         "id": 201,
         "player": "Justin Turner",
@@ -4826,8 +4631,7 @@
             "requirement_type": "R",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Justin Turner (68/R/2B) - Team Epic - New York Mets"
+        }]
     }, {
         "id": 202,
         "player": "Vance Worley",
@@ -4846,8 +4650,7 @@
             "requirement_type": "W",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Vance Worley (78/R/SP) - Team Epic - Philadelphia Phillies"
+        }]
     }, {
         "id": 203,
         "player": "Ryne Sandberg",
@@ -4866,8 +4669,7 @@
             "requirement_type": "SB",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Ryne Sandberg (77/R/3B) - Team Epic - Chicago Cubs"
+        }]
     }, {
         "id": 204,
         "player": "Tony Perez",
@@ -4886,8 +4688,7 @@
             "requirement_type": "RBI",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Tony Perez (72/R/1B) - Team Epic - Cincinnati Reds"
+        }]
     }, {
         "id": 205,
         "player": "Lorenzo Cain",
@@ -4906,8 +4707,7 @@
             "requirement_type": "R",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Lorenzo Cain (76/R/CF) - Team Epic - Milwaukee Brewers"
+        }]
     }, {
         "id": 206,
         "player": "Jeff Locke",
@@ -4926,8 +4726,7 @@
             "requirement_type": "K",
             "goal": "6",
             "current": 0
-        }],
-        "label": "Jeff Locke (70/AS/SP) - Team Epic - Pittsburgh Pirates"
+        }]
     }, {
         "id": 207,
         "player": "Yadier Molina",
@@ -4942,8 +4741,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Yadier Molina (78/R/C) - Team Epic - St. Louis Cardinals"
+        }]
     }, {
         "id": 208,
         "player": "Josh Collmenter",
@@ -4962,8 +4760,7 @@
             "requirement_type": "K",
             "goal": "10",
             "current": 0
-        }],
-        "label": "Josh Collmenter (72/IV/RP) - Team Epic - Arizona Diamondbacks"
+        }]
     }, {
         "id": 209,
         "player": "Charlie Blackmon",
@@ -4982,8 +4779,7 @@
             "requirement_type": "H",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Charlie Blackmon (68/R/LF) - Team Epic - Colorado Rockies"
+        }]
     }, {
         "id": 210,
         "player": "Clayton Kershaw",
@@ -5002,8 +4798,7 @@
             "requirement_type": "K",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Clayton Kershaw (71/R/SP) - Team Epic - Los Angeles Dodgers"
+        }]
     }, {
         "id": 211,
         "player": "Andrew Cashner",
@@ -5022,8 +4817,7 @@
             "requirement_type": "K",
             "goal": "6",
             "current": 0
-        }],
-        "label": "Andrew Cashner (78/BO/SP) - Team Epic - San Diego Padres"
+        }]
     }, {
         "id": 212,
         "player": "Santiago Casilla",
@@ -5038,8 +4832,7 @@
             "requirement_type": "IP",
             "goal": "8",
             "current": 0
-        }],
-        "label": "Santiago Casilla (76/BO/RP) - Team Epic - San Diego Padres"
+        }]
     }, {
         "id": 213,
         "player": "Jim Johnson",
@@ -5058,8 +4851,7 @@
             "requirement_type": "K",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Jim Johnson (75/AS/CP) - Team Epic - Baltimore Orioles"
+        }]
     }, {
         "id": 214,
         "player": "Will Middlebrooks",
@@ -5082,8 +4874,7 @@
             "requirement_type": "RBI",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Will Middlebrooks (78/R/3B) - Team Epic - Boston Red Sox"
+        }]
     }, {
         "id": 215,
         "player": "Whitey Ford",
@@ -5102,8 +4893,7 @@
             "requirement_type": "IP",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Whitey Ford (78/R/SP) - Team Epic - New York Yankees"
+        }]
     }, {
         "id": 216,
         "player": "Logan Forsythe",
@@ -5122,8 +4912,7 @@
             "requirement_type": "RBI",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Logan Forsythe (77/BO/2B) - Team Epic - Tampa Bay Rays"
+        }]
     }, {
         "id": 217,
         "player": "Brandon Morrow",
@@ -5142,8 +4931,7 @@
             "requirement_type": "K",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Brandon Morrow (79/BO/SP) - Team Epic - Toronto Blue Jays"
+        }]
     }, {
         "id": 218,
         "player": "Chris Sale",
@@ -5162,8 +4950,7 @@
             "requirement_type": "K",
             "goal": "20",
             "current": 0
-        }],
-        "label": "Chris Sale (79/R/RP) - Team Epic - Chicago White Sox"
+        }]
     }, {
         "id": 219,
         "player": "Joe Carter",
@@ -5182,8 +4969,7 @@
             "requirement_type": "RBI",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Joe Carter (78/R/LF) - Team Epic - Cleveland Indians"
+        }]
     }, {
         "id": 220,
         "player": "Al Kaline",
@@ -5202,8 +4988,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Al Kaline (78/R/RF) - Team Epic - Detroit Tigers"
+        }]
     }, {
         "id": 221,
         "player": "Johnny Damon",
@@ -5222,8 +5007,7 @@
             "requirement_type": "R",
             "goal": "5",
             "current": 0
-        }],
-        "label": "Johnny Damon (77/R/CF) - Team Epic - Kansas City Royals"
+        }]
     }, {
         "id": 222,
         "player": "Denard Span",
@@ -5242,8 +5026,7 @@
             "requirement_type": "R",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Denard Span (78/R/RF) - Team Epic - Minnesota Twins"
+        }]
     }, {
         "id": 223,
         "player": "Rod Carew",
@@ -5262,8 +5045,7 @@
             "requirement_type": "H",
             "goal": "5",
             "current": 0
-        }],
-        "label": "Rod Carew (76/IV/1B) - Team Epic - Los Angeles Angels"
+        }]
     }, {
         "id": 224,
         "player": "Tommy Milone",
@@ -5282,8 +5064,7 @@
             "requirement_type": "K",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Tommy Milone (75/R/SP) - Team Epic - Oakland Athletics"
+        }]
     }, {
         "id": 225,
         "player": "Roenis Elias",
@@ -5302,8 +5083,7 @@
             "requirement_type": "W",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Roenis Elias (76/R/SP) - Team Epic - Seattle Mariners"
+        }]
     }, {
         "id": 226,
         "player": "Ian Kinsler",
@@ -5326,8 +5106,7 @@
             "requirement_type": "SB",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Ian Kinsler (78/R/2B) - Team Epic - Texas Rangers"
+        }]
     }, {
         "id": 227,
         "player": "Jeff Bagwell",
@@ -5346,8 +5125,7 @@
             "requirement_type": "HR",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Jeff Bagwell (77/HW/1B) - Team Epic - Houston Astros"
+        }]
     }, {
         "id": 228,
         "player": "Evan Gattis",
@@ -5366,8 +5144,7 @@
             "requirement_type": "HR",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Evan Gattis (76/R/LF) - Team Epic - Atlanta Braves"
+        }]
     }, {
         "id": 229,
         "player": "Miguel Cabrera",
@@ -5386,8 +5163,7 @@
             "requirement_type": "2B",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Miguel Cabrera (75/R/LF) - Team Epic - Miami Marlins"
+        }]
     }, {
         "id": 230,
         "player": "Craig Stammen",
@@ -5406,8 +5182,7 @@
             "requirement_type": "K",
             "goal": "7",
             "current": 0
-        }],
-        "label": "Craig Stammen (75/BO/RP) - Team Epic - Washington Nationals"
+        }]
     }, {
         "id": 231,
         "player": "Zack Wheeler",
@@ -5426,8 +5201,7 @@
             "requirement_type": "K",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Zack Wheeler (78/BO/SP) - Team Epic - New York Mets"
+        }]
     }, {
         "id": 232,
         "player": "Ben Revere",
@@ -5450,8 +5224,7 @@
             "requirement_type": "SB",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Ben Revere (79/IV/CF) - Team Epic - Philadelphia Phillies"
+        }]
     }, {
         "id": 233,
         "player": "Ernie Banks",
@@ -5474,8 +5247,7 @@
             "requirement_type": "RBI",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Ernie Banks (78/R/SS) - Team Epic - Chicago Cubs"
+        }]
     }, {
         "id": 234,
         "player": "Raisel Iglesias",
@@ -5494,8 +5266,7 @@
             "requirement_type": "K",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Raisel Iglesias (81/R/SP) - Team Epic - Cincinnati Reds"
+        }]
     }, {
         "id": 235,
         "player": "Wily Peralta",
@@ -5514,8 +5285,7 @@
             "requirement_type": "K",
             "goal": "10",
             "current": 0
-        }],
-        "label": "Wily Peralta (77/BO/SP) - Team Epic - Milwaukee Brewers"
+        }]
     }, {
         "id": 236,
         "player": "Francisco Cervelli",
@@ -5534,8 +5304,7 @@
             "requirement_type": "2B",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Francisco Cervelli (78/BO/C) - Team Epic - Pittsburgh Pirates"
+        }]
     }, {
         "id": 237,
         "player": "Troy Percival",
@@ -5554,8 +5323,7 @@
             "requirement_type": "K",
             "goal": "10",
             "current": 0
-        }],
-        "label": "Troy Percival (79/IV/RP) - Team Epic - St. Louis Cardinals"
+        }]
     }, {
         "id": 238,
         "player": "Paul Goldschmidt",
@@ -5570,8 +5338,7 @@
             "requirement_type": "H",
             "goal": "8",
             "current": 0
-        }],
-        "label": "Paul Goldschmidt (75/R/1B) - Team Epic - Arizona Diamondbacks"
+        }]
     }, {
         "id": 239,
         "player": "Rex Brothers",
@@ -5586,8 +5353,7 @@
             "requirement_type": "S",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Rex Brothers (75/BO/CP) - Team Epic - Colorado Rockies"
+        }]
     }, {
         "id": 240,
         "player": "Dee Gordon",
@@ -5606,8 +5372,7 @@
             "requirement_type": "SB",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Dee Gordon (73/R/SS) - Team Epic - Los Angeles Dodgers"
+        }]
     }, {
         "id": 241,
         "player": "Tony Gwynn",
@@ -5630,8 +5395,7 @@
             "requirement_type": "SB",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Tony Gwynn (79/R/CF) - Team Epic - San Diego Padres"
+        }]
     }, {
         "id": 242,
         "player": "Matt Duffy",
@@ -5650,8 +5414,7 @@
             "requirement_type": "RBI",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Matt Duffy (78/R/3B) - Team Epic - San Francisco Giants"
+        }]
     }, {
         "id": 243,
         "player": "Manny Machado",
@@ -5682,8 +5445,7 @@
             "requirement_type": "R",
             "goal": "7",
             "current": 0
-        }],
-        "label": "Manny Machado (78/R/3B) - Team Epic - Baltimore Orioles"
+        }]
     }, {
         "id": 244,
         "player": "Jim Rice",
@@ -5710,8 +5472,7 @@
             "requirement_type": "RBI",
             "goal": "10",
             "current": 0
-        }],
-        "label": "Jim Rice (81/R/LF) - Team Epic - Boston Red Sox"
+        }]
     }, {
         "id": 245,
         "player": "Johnny Damon",
@@ -5742,8 +5503,7 @@
             "requirement_type": "SB",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Johnny Damon (83/PS/LF) - Team Epic - New York Yankees"
+        }]
     }, {
         "id": 246,
         "player": "Carlos Santana",
@@ -5770,8 +5530,7 @@
             "requirement_type": "RBI",
             "goal": "10",
             "current": 0
-        }],
-        "label": "Carlos Santana (81/IV/C) - Team Epic - Cleveland Indians"
+        }]
     }, {
         "id": 247,
         "player": "Kelvin Herrera",
@@ -5798,8 +5557,7 @@
             "requirement_type": "W",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Kelvin Herrera (82/PS/RP) - Team Epic - Kansas City Royals"
+        }]
     }, {
         "id": 248,
         "player": "Bert Blyleven",
@@ -5818,8 +5576,7 @@
             "requirement_type": "K",
             "goal": "30",
             "current": 0
-        }],
-        "label": "Bert Blyleven (83/R/SP) - Team Epic - Minnesota Twins"
+        }]
     }, {
         "id": 249,
         "player": "Matt Shoemaker",
@@ -5838,8 +5595,7 @@
             "requirement_type": "K",
             "goal": "30",
             "current": 0
-        }],
-        "label": "Matt Shoemaker (82/R/SP) - Team Epic - Los Angeles Angels"
+        }]
     }, {
         "id": 250,
         "player": "Tom Wilhelmsen",
@@ -5858,8 +5614,7 @@
             "requirement_type": "K",
             "goal": "20",
             "current": 0
-        }],
-        "label": "Tom Wilhelmsen (80/BO/CP) - Team Epic - Seattle Mariners"
+        }]
     }, {
         "id": 251,
         "player": "Neftali Feliz",
@@ -5878,8 +5633,7 @@
             "requirement_type": "K",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Neftali Feliz (83/HW/CP) - Team Epic - Texas Rangers"
+        }]
     }, {
         "id": 252,
         "player": "Doug Drabek",
@@ -5898,8 +5652,7 @@
             "requirement_type": "K",
             "goal": "30",
             "current": 0
-        }],
-        "label": "Doug Drabek (82/AS/SP) - Team Epic - Houston Astros"
+        }]
     }, {
         "id": 253,
         "player": "Martin Prado",
@@ -5926,8 +5679,7 @@
             "requirement_type": "2B",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Martin Prado (80/AS/2B) - Team Epic - Atlanta Braves"
+        }]
     }, {
         "id": 254,
         "player": "Steve Cishek",
@@ -5946,8 +5698,7 @@
             "requirement_type": "K",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Steve Cishek (80/BO/CP) - Team Epic - Miami Marlins"
+        }]
     }, {
         "id": 255,
         "player": "Jeurys Familia",
@@ -5966,8 +5717,7 @@
             "requirement_type": "K",
             "goal": "25",
             "current": 0
-        }],
-        "label": "Jeurys Familia (81/AS/CP) - Team Epic - New York Mets"
+        }]
     }, {
         "id": 256,
         "player": "Antonio Bastardo",
@@ -5990,8 +5740,7 @@
             "requirement_type": "S",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Antonio Bastardo (79/BO/RP) - Team Epic - Philadelphia Phillies"
+        }]
     }, {
         "id": 257,
         "player": "Kris Bryant",
@@ -6018,8 +5767,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Kris Bryant (80/HW/3B) - Team Epic - Chicago Cubs"
+        }]
     }, {
         "id": 258,
         "player": "Ken Griffey, Sr.",
@@ -6038,8 +5786,7 @@
             "requirement_type": "SB",
             "goal": "5",
             "current": 0
-        }],
-        "label": "Ken Griffey, Sr. (84/AS/RF) - Team Epic - Cincinnati Reds"
+        }]
     }, {
         "id": 259,
         "player": "Yovani Gallardo",
@@ -6058,8 +5805,7 @@
             "requirement_type": "K",
             "goal": "30",
             "current": 0
-        }],
-        "label": "Yovani Gallardo (80/AS/SP) - Team Epic - Milwaukee Brewers"
+        }]
     }, {
         "id": 260,
         "player": "Oliver Perez",
@@ -6078,8 +5824,7 @@
             "requirement_type": "K",
             "goal": "30",
             "current": 0
-        }],
-        "label": "Oliver Perez (83/BO/SP) - Team Epic - Pittsburgh Pirates"
+        }]
     }, {
         "id": 261,
         "player": "Ian Kennedy",
@@ -6094,8 +5839,7 @@
             "requirement_type": "K",
             "goal": "50",
             "current": 0
-        }],
-        "label": "Ian Kennedy (83/BO/SP) - Team Epic - Arizona Diamondbacks"
+        }]
     }, {
         "id": 262,
         "player": "Chris Iannetta",
@@ -6118,8 +5862,7 @@
             "requirement_type": "RBI",
             "goal": "6",
             "current": 0
-        }],
-        "label": "Chris Iannetta (81/BO/C) - Team Epic - Colorado Rockies"
+        }]
     }, {
         "id": 263,
         "player": "Andre Ethier",
@@ -6150,8 +5893,7 @@
             "requirement_type": "RBI",
             "goal": "5",
             "current": 0
-        }],
-        "label": "Andre Ethier (81/BO/RF) - Team Epic - Los Angeles Dodgers"
+        }]
     }, {
         "id": 264,
         "player": "Juan Marichal",
@@ -6170,8 +5912,7 @@
             "requirement_type": "W",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Juan Marichal (81/R/SP) - Team Epic - San Francisco Giants"
+        }]
     }, {
         "id": 265,
         "player": "Omar Vizquel",
@@ -6198,8 +5939,7 @@
             "requirement_type": "SB",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Omar Vizquel (89/AS/SS) - Team Epic - Cleveland Indians"
+        }]
     }, {
         "id": 266,
         "player": "Catfish Hunter",
@@ -6218,8 +5958,7 @@
             "requirement_type": "K",
             "goal": "40",
             "current": 0
-        }],
-        "label": "Catfish Hunter (85/HW/SP) - Team Epic - Oakland Athletics"
+        }]
     }, {
         "id": 267,
         "player": "Jay Buhner",
@@ -6250,8 +5989,7 @@
             "requirement_type": "R",
             "goal": "7",
             "current": 0
-        }],
-        "label": "Jay Buhner (86/PS/RF) - Team Epic - Seattle Mariners"
+        }]
     }, {
         "id": 268,
         "player": "Mike Napoli",
@@ -6278,8 +6016,7 @@
             "requirement_type": "RBI",
             "goal": "8",
             "current": 0
-        }],
-        "label": "Mike Napoli (85/BO/C) - Team Epic - Texas Rangers"
+        }]
     }, {
         "id": 269,
         "player": "Hunter Pence",
@@ -6314,8 +6051,7 @@
             "requirement_type": "SB",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Hunter Pence (84/R/CF) - Team Epic - Houston Astros"
+        }]
     }, {
         "id": 270,
         "player": "Matt Garza",
@@ -6338,8 +6074,7 @@
             "requirement_type": "CG",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Matt Garza (82/IV/SP) - Team Epic - Chicago Cubs"
+        }]
     }, {
         "id": 271,
         "player": "Shelby Miller",
@@ -6358,8 +6093,7 @@
             "requirement_type": "K",
             "goal": "30",
             "current": 0
-        }],
-        "label": "Shelby Miller (80/R/SP) - Team Epic - St. Louis Cardinals"
+        }]
     }, {
         "id": 272,
         "player": "Jhoulys Chacin",
@@ -6382,8 +6116,7 @@
             "requirement_type": "K",
             "goal": "9",
             "current": 0
-        }],
-        "label": "Jhoulys Chacin (78/R/SP) - Starting Pitchers - Jhoulys Chacin"
+        }]
     }, {
         "id": 273,
         "player": "Hardware Runs x2",
@@ -6398,8 +6131,7 @@
             "requirement_type": "R",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Hardware Runs x2 (-/HW/-) - Daily - Dailies"
+        }]
     }, {
         "id": 274,
         "player": "Texas Hold 'Em",
@@ -6414,8 +6146,7 @@
             "requirement_type": "H",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Texas Hold 'Em - Daily - Dailies"
+        }]
     }, {
         "id": 275,
         "player": "Flashback Doubles",
@@ -6430,8 +6161,7 @@
             "requirement_type": "2B",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Flashback Doubles - Daily - Dailies"
+        }]
     }, {
         "id": 276,
         "player": "All-Star K's x3",
@@ -6446,8 +6176,7 @@
             "requirement_type": "K",
             "goal": "3",
             "current": 0
-        }],
-        "label": "All-Star K's x3 (-/AS/-) - Daily - Dailies"
+        }]
     }, {
         "id": 277,
         "player": "Impact HR",
@@ -6462,8 +6191,7 @@
             "requirement_type": "HR",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Impact HR (-/IV/-) - Daily - Dailies"
+        }]
     }, {
         "id": 278,
         "player": "Shortstop Singles x2",
@@ -6478,8 +6206,7 @@
             "requirement_type": "1B",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Shortstop Singles x2 - Daily - Dailies"
+        }]
     }, {
         "id": 279,
         "player": "Breakout Steal",
@@ -6494,8 +6221,7 @@
             "requirement_type": "SB",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Breakout Steal (-/BO/-) - Daily - Dailies"
+        }]
     }, {
         "id": 280,
         "player": "Run For It",
@@ -6510,8 +6236,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Run For It - Daily - Dailies"
+        }]
     }, {
         "id": 281,
         "player": "Postseason Run",
@@ -6526,8 +6251,7 @@
             "requirement_type": "R",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Postseason Run (-/PS/-) - Daily - Dailies"
+        }]
     }, {
         "id": 282,
         "player": "Flying on the Basepaths",
@@ -6542,8 +6266,7 @@
             "requirement_type": "SB",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Flying on the Basepaths - Daily - Dailies"
+        }]
     }, {
         "id": 283,
         "player": "Envision the Hits",
@@ -6558,8 +6281,7 @@
             "requirement_type": "H",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Envision the Hits - Daily - Dailies"
+        }]
     }, {
         "id": 284,
         "player": "Orioles Hits x2",
@@ -6574,8 +6296,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Orioles Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 285,
         "player": "Orioles Runs x4",
@@ -6590,8 +6311,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Orioles Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 286,
         "player": "Orioles HR",
@@ -6606,8 +6326,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Orioles HR - Daily - Dailies"
+        }]
     }, {
         "id": 287,
         "player": "Red Sox Hits x2",
@@ -6622,8 +6341,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Red Sox Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 288,
         "player": "Red Sox Runs x4",
@@ -6638,8 +6356,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Red Sox Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 289,
         "player": "Red Sox HR",
@@ -6654,8 +6371,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Red Sox HR - Daily - Dailies"
+        }]
     }, {
         "id": 290,
         "player": "Yankees Hits x2",
@@ -6670,8 +6386,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Yankees Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 291,
         "player": "Yankees Runs x4",
@@ -6686,8 +6401,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Yankees Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 292,
         "player": "Yankees HR",
@@ -6702,8 +6416,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Yankees HR - Daily - Dailies"
+        }]
     }, {
         "id": 293,
         "player": "Rays Hits x2",
@@ -6718,8 +6431,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Rays Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 294,
         "player": "Rays Runs x4",
@@ -6734,8 +6446,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Rays Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 295,
         "player": "Rays HR",
@@ -6750,8 +6461,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Rays HR - Daily - Dailies"
+        }]
     }, {
         "id": 296,
         "player": "Blue Jays Hits x2",
@@ -6766,8 +6476,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Blue Jays Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 297,
         "player": "Blue Jays Runs x4",
@@ -6782,8 +6491,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Blue Jays Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 298,
         "player": "Blue Jays HR",
@@ -6798,8 +6506,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Blue Jays HR - Daily - Dailies"
+        }]
     }, {
         "id": 299,
         "player": "White Sox Hits x2",
@@ -6814,8 +6521,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "White Sox Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 300,
         "player": "White Sox Runs x4",
@@ -6830,8 +6536,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "White Sox Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 301,
         "player": "White Sox HR",
@@ -6846,8 +6551,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "White Sox HR - Daily - Dailies"
+        }]
     }, {
         "id": 302,
         "player": "Indians Hits x2",
@@ -6862,8 +6566,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Indians Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 303,
         "player": "Indians Runs x4",
@@ -6878,8 +6581,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Indians Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 304,
         "player": "Indians HR",
@@ -6894,8 +6596,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Indians HR - Daily - Dailies"
+        }]
     }, {
         "id": 305,
         "player": "Tigers Hits x2",
@@ -6910,8 +6611,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Tigers Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 306,
         "player": "Tigers Runs x4",
@@ -6926,8 +6626,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Tigers Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 307,
         "player": "Tigers HR",
@@ -6942,8 +6641,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Tigers HR - Daily - Dailies"
+        }]
     }, {
         "id": 308,
         "player": "Royals Hits x2",
@@ -6958,8 +6656,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Royals Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 309,
         "player": "Royals Runs x4",
@@ -6974,8 +6671,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Royals Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 310,
         "player": "Royals HR",
@@ -6990,8 +6686,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Royals HR - Daily - Dailies"
+        }]
     }, {
         "id": 311,
         "player": "Twins Hits x2",
@@ -7006,8 +6701,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Twins Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 312,
         "player": "Twins Runs x4",
@@ -7022,8 +6716,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Twins Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 313,
         "player": "Twins HR",
@@ -7038,8 +6731,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Twins HR - Daily - Dailies"
+        }]
     }, {
         "id": 314,
         "player": "Astros Hits x2",
@@ -7054,8 +6746,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Astros Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 315,
         "player": "Astros Runs x4",
@@ -7070,8 +6761,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Astros Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 316,
         "player": "Astros HR",
@@ -7086,8 +6776,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Astros HR - Daily - Dailies"
+        }]
     }, {
         "id": 317,
         "player": "Angels Hits x2",
@@ -7102,8 +6791,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Angels Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 318,
         "player": "Angels Runs x4",
@@ -7118,8 +6806,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Angels Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 319,
         "player": "Angels HR",
@@ -7134,8 +6821,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Angels HR - Daily - Dailies"
+        }]
     }, {
         "id": 320,
         "player": "Athletics Hits x2",
@@ -7150,8 +6836,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Athletics Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 321,
         "player": "Athletics Runs x4",
@@ -7166,8 +6851,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Athletics Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 322,
         "player": "Athletics HR",
@@ -7182,8 +6866,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Athletics HR - Daily - Dailies"
+        }]
     }, {
         "id": 323,
         "player": "Mariners Hits x2",
@@ -7198,8 +6881,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Mariners Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 324,
         "player": "Mariners Runs x4",
@@ -7214,8 +6896,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Mariners Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 325,
         "player": "Mariners HR",
@@ -7230,8 +6911,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Mariners HR - Daily - Dailies"
+        }]
     }, {
         "id": 326,
         "player": "Rangers Hits x2",
@@ -7246,8 +6926,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Rangers Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 327,
         "player": "Rangers Runs x4",
@@ -7262,8 +6941,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Rangers Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 328,
         "player": "Rangers HR",
@@ -7278,8 +6956,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Rangers HR - Daily - Dailies"
+        }]
     }, {
         "id": 329,
         "player": "Braves Hits x2",
@@ -7294,8 +6971,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Braves Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 330,
         "player": "Braves Runs x4",
@@ -7310,8 +6986,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Braves Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 331,
         "player": "Braves HR",
@@ -7326,8 +7001,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Braves HR - Daily - Dailies"
+        }]
     }, {
         "id": 332,
         "player": "Marlins Hits x2",
@@ -7342,8 +7016,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Marlins Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 333,
         "player": "Marlins Runs x4",
@@ -7358,8 +7031,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Marlins Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 334,
         "player": "Marlins HR",
@@ -7374,8 +7046,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Marlins HR - Daily - Dailies"
+        }]
     }, {
         "id": 335,
         "player": "Mets Hits x2",
@@ -7390,8 +7061,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Mets Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 336,
         "player": "Mets Runs x4",
@@ -7406,8 +7076,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Mets Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 337,
         "player": "Mets HR",
@@ -7422,8 +7091,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Mets HR - Daily - Dailies"
+        }]
     }, {
         "id": 338,
         "player": "Phillies Hits x2",
@@ -7438,8 +7106,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Phillies Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 339,
         "player": "Phillies Runs x4",
@@ -7454,8 +7121,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Phillies Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 340,
         "player": "Phillies HR",
@@ -7470,8 +7136,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Phillies HR - Daily - Dailies"
+        }]
     }, {
         "id": 341,
         "player": "Nationals Hits x2",
@@ -7486,8 +7151,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Nationals Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 342,
         "player": "Nationals Runs x4",
@@ -7502,8 +7166,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Nationals Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 343,
         "player": "Nationals HR",
@@ -7518,8 +7181,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Nationals HR - Daily - Dailies"
+        }]
     }, {
         "id": 344,
         "player": "Cubs Hits x2",
@@ -7534,8 +7196,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Cubs Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 345,
         "player": "Cubs Runs x4",
@@ -7550,8 +7211,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Cubs Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 346,
         "player": "Cubs HR",
@@ -7566,8 +7226,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Cubs HR - Daily - Dailies"
+        }]
     }, {
         "id": 347,
         "player": "Reds Hits x2",
@@ -7582,8 +7241,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Reds Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 348,
         "player": "Reds Runs x4",
@@ -7598,8 +7256,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Reds Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 349,
         "player": "Reds HR",
@@ -7614,8 +7271,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Reds HR - Daily - Dailies"
+        }]
     }, {
         "id": 350,
         "player": "Brewers Hits x2",
@@ -7630,8 +7286,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Brewers Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 351,
         "player": "Brewers Runs x4",
@@ -7646,8 +7301,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Brewers Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 352,
         "player": "Brewers HR",
@@ -7662,8 +7316,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Brewers HR - Daily - Dailies"
+        }]
     }, {
         "id": 353,
         "player": "Pirates Hits x2",
@@ -7678,8 +7331,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Pirates Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 354,
         "player": "Pirates Runs x4",
@@ -7694,8 +7346,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Pirates Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 355,
         "player": "Pirates HR",
@@ -7710,8 +7361,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Pirates HR - Daily - Dailies"
+        }]
     }, {
         "id": 356,
         "player": "Cardinals Hits x2",
@@ -7726,8 +7376,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Cardinals Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 357,
         "player": "Cardinals Runs x4",
@@ -7742,8 +7391,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Cardinals Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 358,
         "player": "Cardinals HR",
@@ -7758,8 +7406,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Cardinals HR - Daily - Dailies"
+        }]
     }, {
         "id": 359,
         "player": "Diamondbacks Hits x2",
@@ -7774,8 +7421,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Diamondbacks Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 360,
         "player": "Diamondbacks Runs x4",
@@ -7790,8 +7436,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Diamondbacks Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 361,
         "player": "Diamondbacks HR",
@@ -7806,8 +7451,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Diamondbacks HR - Daily - Dailies"
+        }]
     }, {
         "id": 362,
         "player": "Rockies Hits x2",
@@ -7822,8 +7466,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Rockies Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 363,
         "player": "Rockies Runs x4",
@@ -7838,8 +7481,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Rockies Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 364,
         "player": "Rockies HR",
@@ -7854,8 +7496,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Rockies HR - Daily - Dailies"
+        }]
     }, {
         "id": 365,
         "player": "Dodgers Hits x2",
@@ -7870,8 +7511,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Dodgers Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 366,
         "player": "Dodgers Runs x4",
@@ -7886,8 +7526,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Dodgers Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 367,
         "player": "Dodgers HR",
@@ -7902,8 +7541,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Dodgers HR - Daily - Dailies"
+        }]
     }, {
         "id": 368,
         "player": "Padres Hits x2",
@@ -7918,8 +7556,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Padres Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 369,
         "player": "Padres Runs x4",
@@ -7934,8 +7571,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Padres Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 370,
         "player": "Padres HR",
@@ -7950,8 +7586,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Padres HR - Daily - Dailies"
+        }]
     }, {
         "id": 371,
         "player": "Giants Hits x2",
@@ -7966,8 +7601,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Giants Hits x2 - Daily - Dailies"
+        }]
     }, {
         "id": 372,
         "player": "Giants Runs x4",
@@ -7982,8 +7616,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Giants Runs x4 - Daily - Dailies"
+        }]
     }, {
         "id": 373,
         "player": "Giants HR",
@@ -7998,8 +7631,7 @@
             "requirement_type": "H",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Giants HR - Daily - Dailies"
+        }]
     }, {
         "id": 374,
         "player": "Pitchers Can Hit",
@@ -8014,8 +7646,7 @@
             "requirement_type": "H",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Pitchers Can Hit - Daily - Dailies"
+        }]
     }, {
         "id": 375,
         "player": "3 Triples",
@@ -8030,8 +7661,7 @@
             "requirement_type": "3B",
             "goal": "3",
             "current": 0
-        }],
-        "label": "3 Triples - Daily - Dailies"
+        }]
     }, {
         "id": 376,
         "player": "Save the Battle",
@@ -8046,8 +7676,7 @@
             "requirement_type": "S",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Save the Battle - Daily - Dailies"
+        }]
     }, {
         "id": 377,
         "player": "Bat Flip",
@@ -8062,8 +7691,7 @@
             "requirement_type": "HR",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Bat Flip - Daily - Dailies"
+        }]
     }, {
         "id": 378,
         "player": "Legend Triple",
@@ -8078,8 +7706,7 @@
             "requirement_type": "3B",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Legend Triple - Daily - Dailies"
+        }]
     }, {
         "id": 379,
         "player": "The Right Bat",
@@ -8094,8 +7721,7 @@
             "requirement_type": "HR",
             "goal": "1",
             "current": 0
-        }],
-        "label": "The Right Bat - Daily - Dailies"
+        }]
     }, {
         "id": 380,
         "player": "The Arrival",
@@ -8118,8 +7744,7 @@
             "requirement_type": "RBI",
             "goal": "3",
             "current": 0
-        }],
-        "label": "The Arrival - Player of the Month - April POTM"
+        }]
     }, {
         "id": 381,
         "player": "Electric Stuff",
@@ -8138,8 +7763,7 @@
             "requirement_type": "S",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Electric Stuff - Player of the Month - April POTM"
+        }]
     }, {
         "id": 382,
         "player": "Heroic Home Opener",
@@ -8166,8 +7790,7 @@
             "requirement_type": "RBI",
             "goal": "8",
             "current": 0
-        }],
-        "label": "Heroic Home Opener - Player of the Month - April POTM"
+        }]
     }, {
         "id": 383,
         "player": "Christian Villanueva",
@@ -8190,8 +7813,7 @@
             "requirement_type": "HR",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Christian Villanueva (80/POTM/3B) - Player of the Month - April POTM"
+        }]
     }, {
         "id": 384,
         "player": "Jed Lowrie",
@@ -8214,8 +7836,7 @@
             "requirement_type": "HR",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Jed Lowrie (82/POTM/2B) - Player of the Month - April POTM"
+        }]
     }, {
         "id": 385,
         "player": "Shohei Ohtani",
@@ -8234,8 +7855,7 @@
             "requirement_type": "HR",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Shohei Ohtani (82/POTM/RF) - Player of the Month - April POTM"
+        }]
     }, {
         "id": 386,
         "player": "Sean Manaea",
@@ -8254,8 +7874,7 @@
             "requirement_type": "K",
             "goal": "10",
             "current": 0
-        }],
-        "label": "Sean Manaea (83/POTM/SP) - Player of the Month - April POTM"
+        }]
     }, {
         "id": 387,
         "player": "Patrick Corbin",
@@ -8278,8 +7897,7 @@
             "requirement_type": "K",
             "goal": "8",
             "current": 0
-        }],
-        "label": "Patrick Corbin (83/POTM/SP) - Player of the Month - April POTM"
+        }]
     }, {
         "id": 388,
         "player": "Ozzie Albies",
@@ -8294,8 +7912,7 @@
             "requirement_type": "H",
             "goal": "10",
             "current": 0
-        }],
-        "label": "Ozzie Albies (86/POTM/2B) - Player of the Month - April POTM"
+        }]
     }, {
         "id": 389,
         "player": "Josh Hader",
@@ -8310,8 +7927,7 @@
             "requirement_type": "K",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Josh Hader (88/POTM/CP) - Player of the Month - April POTM"
+        }]
     }, {
         "id": 390,
         "player": "Didi Gregorious",
@@ -8326,8 +7942,7 @@
             "requirement_type": "RBI",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Didi Gregorious (91/POTM/SS) - Player of the Month - April POTM"
+        }]
     }, {
         "id": 391,
         "player": "Any Catcher",
@@ -8342,8 +7957,7 @@
             "requirement_type": "H",
             "goal": "5",
             "current": 0
-        }],
-        "label": "Any Catcher - Catcher - Francisco Mejia"
+        }]
     }, {
         "id": 392,
         "player": "Francisco Mejia",
@@ -8358,8 +7972,7 @@
             "requirement_type": "R",
             "goal": "2",
             "current": 0
-        }],
-        "label": "Francisco Mejia (85/FS/C) - Catcher - Francisco Mejia"
+        }]
     }, {
         "id": 393,
         "player": "Francisco Mejia",
@@ -8382,8 +7995,7 @@
             "requirement_type": "RBI",
             "goal": "6",
             "current": 0
-        }],
-        "label": "Francisco Mejia (85/FS/C) - Catcher - Francisco Mejia"
+        }]
     }, {
         "id": 394,
         "player": "Any First Basemen",
@@ -8398,8 +8010,7 @@
             "requirement_type": "HR",
             "goal": "10",
             "current": 0
-        }],
-        "label": "Any First Basemen (81/AS/1B) - First Basemen - Justin Bour"
+        }]
     }, {
         "id": 395,
         "player": "Justin Bour",
@@ -8426,8 +8037,7 @@
             "requirement_type": "BB",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Justin Bour (81/AS/1B) - First Basemen - Justin Bour"
+        }]
     }, {
         "id": 396,
         "player": "Any Second Basemen",
@@ -8442,8 +8052,7 @@
             "requirement_type": "H",
             "goal": "20",
             "current": 0
-        }],
-        "label": "Any Second Basemen - Second Basemen - Scott Kingery"
+        }]
     }, {
         "id": 397,
         "player": "Scott Kingery",
@@ -8458,8 +8067,7 @@
             "requirement_type": "H",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Scott Kingery (83/FS/2B) - Second Basemen - Scott Kingery"
+        }]
     }, {
         "id": 398,
         "player": "Any Second Basemen",
@@ -8474,8 +8082,7 @@
             "requirement_type": "R",
             "goal": "4",
             "current": 0
-        }],
-        "label": "Any Second Basemen - Second Basemen - Howie Kendrick"
+        }]
     }, {
         "id": 399,
         "player": "Howie Kendrick",
@@ -8502,8 +8109,7 @@
             "requirement_type": "SB",
             "goal": "1",
             "current": 0
-        }],
-        "label": "Howie Kendrick (80/AS/2B) - Second Basemen - Howie Kendrick"
+        }]
     }, {
         "id": 400,
         "player": "Any Right-Handed CP",
@@ -8518,8 +8124,7 @@
             "requirement_type": "SV",
             "goal": "5",
             "current": 0
-        }],
-        "label": "Any Right-Handed CP - Closing Pitchers - John Axford"
+        }]
     }, {
         "id": 401,
         "player": "John Axford",
@@ -8542,8 +8147,7 @@
             "requirement_type": "SV",
             "goal": "11",
             "current": 0
-        }],
-        "label": "John Axford (83/BO/CP) - Closing Pitchers - John Axford"
+        }]
     }, {
         "id": 402,
         "player": "Any Rangers CP or RP",
@@ -8558,8 +8162,7 @@
             "requirement_type": "SV",
             "goal": "3",
             "current": 0
-        }],
-        "label": "Any Rangers CP or RP - Closing Pitchers - Sam Dyson"
+        }]
     }, {
         "id": 403,
         "player": "Sam Dyson",
@@ -8582,8 +8185,7 @@
             "requirement_type": "K",
             "goal": "13",
             "current": 0
-        }],
-        "label": "Sam Dyson (76/BO/CP) - Closing Pitchers - Sam Dyson"
+        }]
     }, {
         "id": 404,
         "player": "Troy Percival",
@@ -8606,8 +8208,7 @@
             "requirement_type": "K",
             "goal": "20",
             "current": 0
-        }],
-        "label": "Troy Percival (85/PS/CP) - Team Epic - Los Angeles Angels"
+        }]
     }, {
         "id": 405,
         "player": "Albert Pujols",
@@ -8626,7 +8227,6 @@
             "requirement_type": "HR",
             "goal": "15",
             "current": 0
-        }],
-        "label": "Albert Pujols (82/IV/1B) - Immortals - Albert Pujols"
+        }]
     }]
 }

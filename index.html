@@ -32,7 +32,7 @@
                     <div class="card">
                         <div class="card-header text-truncate pt-1 pb-1">
                             <div class="row pt-0">
-                                <div class="col-75 text-truncate w-75">{{ mission.label }}</div>
+                                <div class="col-75 text-truncate w-75">{{ mission.title }}</div>
                                 <div class="col-25 w-25 text-right">{{ mission.duration }}</div>
                             </div>
                         </div>
@@ -44,10 +44,10 @@
                                     </b-btn>
                                 </div>
                                 <div class="col-25 w-25 text-right">
-                                    <b-btn :class="{'ml-2': true, 'float-right' : true, 'btn-success' : areAllRequirementsComplete(mission), 'btn-danger' : !areAllRequirementsComplete(mission)}" size="md" @click="removeActiveMission(activeMissions, mission)">
+                                    <b-btn :class="{'ml-2': true, 'mb-1': true, 'float-right' : true, 'btn-success' : areAllRequirementsComplete(mission), 'btn-danger' : !areAllRequirementsComplete(mission)}" size="md" @click="removeActiveMission(activeMissions, mission)">
                                         &nbsp;<i :class="{'octicon' : true, 'octicon-check' : areAllRequirementsComplete(mission), 'octicon-x': !areAllRequirementsComplete(mission)}"></i>
                                     </b-btn>
-                                    <b-btn :class="{'ml-2': true, 'float-right' : true, 'btn-danger' : true}" size="md" @click="requirementResetAll(mission)">
+                                    <b-btn :class="{'ml-2': true, 'mb-1': true, 'float-right' : true, 'btn-danger' : true}" size="md" @click="requirementResetAll(mission)">
                                         &nbsp;<i class="octicon octicon-sync"></i>
                                     </b-btn>
                                     <b-btn :class="{'float-right' : true, 'btn-secondary' : true}" size="md" @click="editMission(mission)">
@@ -83,16 +83,16 @@
             </b-row>
         </b-container>
 
-        <b-modal id="addModal" size="lg" title="Add Mission" @ok="handleOK">
+        <b-modal id="addModal" size="lg" title="Add Mission" @ok="handleSelectedMission">
             <b-form-row>
                 <v-select :options="defaults.program_types" v-model="selectedFilter" placeholder="Select a program type..." class="w-100 mb-3" @select="updateProgramFilter" :value.sync="selectedFilter"></v-select>
                 <v-select v-if="selectedFilter == 'Team Epic'" :options="defaults.teams" v-model="selectedTeam" placeholder="Select a team..." class="w-100 mb-3" @select="updateTeamFilter" :value.sync="selectedTeam"></v-select>
 		            <v-select :options="defaults.positions" v-model="selectedPosition" placeholder="Select by position..." class="w-100 mb-3" @select="updatePositionFilter" :value.sync="selectedPosition"></v-select>
-                <v-select :options="filteredMissions" value="id" label="label" id="missionSelect" v-model="selectedMission" placeholder="Select a player mission..." class="w-100"></v-select>
+                <v-select :options="filteredMissions" value="id" label="title" id="missionSelect" v-model="selectedMission" placeholder="Select a player mission..." class="w-100"></v-select>
             </b-form-row>
         </b-modal>
 
-        <b-modal ref="editModal" id="editModal" size="lg" :title="editingMission.label" @ok="handleEditOK">
+        <b-modal ref="editModal" id="editModal" size="lg" :title="editingMission.title" @ok="handleEditedMission">
             <b-form class="m-3">
                 <h5>Requirements</h5>
                 <div class="mb-3 row" v-for="requirement in editingMission.requirements">

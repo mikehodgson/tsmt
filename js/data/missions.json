@@ -8228,5 +8228,158 @@
             "goal": "15",
             "current": 0
         }]
+    }, {
+        "id": 406,
+        "player": "Francisco Liriano",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "Twins",
+        "position": "SP",
+        "program_type": "Team Epic",
+        "program": "Minnesota Twins",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "4",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "40",
+            "current": 0
+        }]
+    }, {
+        "id": 407,
+        "player": "Dee Gordon",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "Marlins",
+        "position": "-",
+        "program_type": "Team Epic",
+        "program": "Miami Marlins",
+        "requirements": [{
+            "requirement_type": "PA",
+            "goal": "30",
+            "current": 0
+        }, {
+            "requirement_type": "H",
+            "goal": "10",
+            "current": 0
+        }, {
+            "requirement_type": "R",
+            "goal": "5",
+            "current": 0
+        }, {
+            "requirement_type": "3B",
+            "goal": "1",
+            "current": 0
+        }, {
+            "requirement_type": "SB",
+            "goal": "5",
+            "current": 0
+        }]
+    }, {
+        "id": 408,
+        "player": "Johnny Cueto",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "Reds",
+        "position": "SP",
+        "program_type": "Team Epic",
+        "program": "Cincinnati Reds",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "4",
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": "50",
+            "current": 0
+        }]
+    }, {
+        "id": 409,
+        "player": "Gary Carter",
+        "rating": "-",
+        "series": "AS",
+        "duration": "Single Game",
+        "team": "",
+        "position": "C",
+        "program_type": "Career Arcs",
+        "program": "Gary Carter",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": 3,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 3,
+            "current": 0
+        }]
+    }, {
+        "id": 410,
+        "player": "Paul Molitor",
+        "rating": "-",
+        "series": "PS",
+        "duration": "Single Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Career Arcs",
+        "program": "Paul Molitor",
+        "requirements": [{
+            "requirement_type": "R",
+            "goal": 3,
+            "current": 0
+        }, {
+            "requirement_type": "RBI",
+            "goal": 3,
+            "current": 0
+        }]
+    }, {
+        "id": 411,
+        "player": "Jack Morris",
+        "rating": "-",
+        "series": "PS",
+        "duration": "Multi=Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Career Arcs",
+        "program": "Jack Morris",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": 7,
+            "current": 0
+        }, {
+            "requirement_type": "IP",
+            "goal": 92,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 64,
+            "current": 0
+        }]
+    }, {
+        "id": 412,
+        "player": "Trevor Hoffman",
+        "rating": "-",
+        "series": "AS",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Trevor Hoffman",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": 60,
+            "current": 0
+        }, {
+            "requirement_type": "K",
+            "goal": 75,
+            "current": 0
+        }, {
+            "requirement_type": "SV",
+            "goal": 20,
+            "current": 0
+        }]
     }]
 }

@@ -7295,7 +7295,7 @@
             "requirement_type": "HR",
             "goal": "15"
         }]
-    },, {
+    }, {
         "id": 406,
         "player": "Francisco Liriano",
         "rating": "-",
@@ -7667,7 +7667,7 @@
         "id": 426,
         "player": "Any Astros RP or CP",
         "rating": "-",
-        "series": null,
+        "series": "-",
         "duration": "Multi-Game",
         "team": "Astros",
         "position": "-",

@@ -37,7 +37,7 @@ window.onload = function() {
                 }
                 _this.$data.settings = json;
             });
-            _this.$data.selectedMission = createEmptyMission();
+            _this.$data.selectedMission = _this.createEmptyMission();
         },
         mounted : function() {
         },
@@ -52,7 +52,7 @@ window.onload = function() {
                 this.$refs.addModal.show();
             },
             exportMissions : function() {
-                this.$data.exportData = JSON.stringify(this.$data.missions);
+                this.$data.exportData = JSON.stringify(this.$data.missions, function(k,v){ if (k != "title" && k != 'current') return v;});
             },
             addRow: function() {
                 this.$data.selectedMission = createEmptyMission(this.getNextID());
@@ -65,7 +65,10 @@ window.onload = function() {
                 this.$data.selectedMission.requirements.splice(this.$data.selectedMission.requirements.indexOf(requirement), 1);
             },
             updateSavePoint: function() {
-                localStorage.setItem('editMissionSavePoint', JSON.stringify(this.$data.missions));
+                localStorage.setItem('editMissionSavePoint', JSON.stringify(this.$data.missions, function(k,v){ if (k != "title" && k != 'current') return v;}));
+            },
+            createEmptyMission: function() {
+                return new Mission({requirements: []});
             },
             rowSaved: function() {
                 if (this.$data.selectedMission.id == this.getNextID()) {

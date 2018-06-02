@@ -93,7 +93,6 @@
         "RF"
     ],
     "missions": [{
-        "completed": false,
         "id": 1,
         "player": "George Brett",
         "rating": 74,
@@ -111,7 +110,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 2,
         "player": "J.D. Martinez",
         "rating": 72,
@@ -129,7 +127,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 3,
         "player": "Wade Davis",
         "rating": 72,
@@ -147,7 +144,6 @@
             "goal": 3
         }]
     }, {
-        "completed": false,
         "id": 4,
         "player": "Shawn Green",
         "rating": "76",
@@ -165,7 +161,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 5,
         "player": "Harold Baines",
         "rating": "68",
@@ -183,7 +178,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 6,
         "player": "Brad Ziegler",
         "rating": "70",
@@ -201,7 +195,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 7,
         "player": "Dale Murphy",
         "rating": "74",
@@ -222,7 +215,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 8,
         "player": "Henderson Alvarez",
         "rating": "76",
@@ -240,7 +232,6 @@
             "goal": 3
         }]
     }, {
-        "completed": false,
         "id": 9,
         "player": "Eric Karros",
         "rating": "74",
@@ -258,7 +249,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 10,
         "player": "Bill Mazeroski",
         "rating": "72",
@@ -279,7 +269,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 11,
         "player": "Matt Kemp",
         "rating": "74",
@@ -297,7 +286,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 12,
         "player": "Brandon Crawford",
         "rating": "69",
@@ -315,7 +303,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 13,
         "player": "Babe Ruth",
         "rating": "77",
@@ -333,7 +320,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 14,
         "player": "Babe Ruth",
         "rating": "77",
@@ -351,7 +337,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 15,
         "player": "Jackie Robinson",
         "rating": "83",
@@ -369,7 +354,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 16,
         "player": "Jackie Robinson",
         "rating": "88",
@@ -384,7 +368,6 @@
             "goal": 10
         }]
     }, {
-        "completed": false,
         "id": 17,
         "player": "Los Angeles Dodgers Players",
         "rating": "-",
@@ -417,7 +400,6 @@
             "goal": 12
         }]
     }, {
-        "completed": false,
         "id": 18,
         "player": "Mike Piazza",
         "rating": "69",
@@ -432,7 +414,6 @@
             "goal": 10
         }]
     }, {
-        "completed": false,
         "id": 19,
         "player": "Any Catchers",
         "rating": "-",
@@ -453,7 +434,6 @@
             "goal": 40
         }]
     }, {
-        "completed": false,
         "id": 20,
         "player": "Any First Basemen",
         "rating": "-",
@@ -468,7 +448,6 @@
             "goal": 212
         }]
     }, {
-        "completed": false,
         "id": 21,
         "player": "Ken Griffey Jr.",
         "rating": "72",
@@ -486,7 +465,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 22,
         "player": "Ken Griffey Jr.",
         "rating": "-",
@@ -519,7 +497,6 @@
             "goal": 5
         }]
     }, {
-        "completed": false,
         "id": 23,
         "player": "Ken Griffey Jr.",
         "rating": "-",
@@ -534,7 +511,6 @@
             "goal": 24
         }]
     }, {
-        "completed": false,
         "id": 24,
         "player": "Ken Griffey Jr",
         "rating": "79",
@@ -552,7 +528,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 25,
         "player": "Bob Gibson",
         "rating": "73",
@@ -570,7 +545,6 @@
             "goal": 10
         }]
     }, {
-        "completed": false,
         "id": 26,
         "player": "Bob Gibson",
         "rating": "-",
@@ -585,7 +559,6 @@
             "goal": 274
         }]
     }, {
-        "completed": false,
         "id": 27,
         "player": "Any Legend SP",
         "rating": "-",
@@ -600,7 +573,6 @@
             "goal": 314
         }]
     }, {
-        "completed": false,
         "id": 28,
         "player": "Any Cardinals RP/CP",
         "rating": "-",
@@ -615,7 +587,6 @@
             "goal": 7
         }]
     }, {
-        "completed": false,
         "id": 29,
         "player": "Cal Ripken Jr.",
         "rating": "78",
@@ -630,7 +601,6 @@
             "goal": 25
         }]
     }, {
-        "completed": false,
         "id": 30,
         "player": "Any Shortstop",
         "rating": "-",
@@ -645,7 +615,6 @@
             "goal": 47
         }]
     }, {
-        "completed": false,
         "id": 31,
         "player": "Chipper Jones",
         "rating": "79",
@@ -663,7 +632,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 32,
         "player": "Any Legend Players",
         "rating": "-",
@@ -696,7 +664,6 @@
             "goal": 700
         }]
     }, {
-        "completed": false,
         "id": 33,
         "player": "Any Flashback SP",
         "rating": "-",
@@ -714,7 +681,6 @@
             "goal": 21
         }]
     }, {
-        "completed": false,
         "id": 34,
         "player": "Nolan Ryan",
         "rating": "83",
@@ -735,7 +701,6 @@
             "goal": 4
         }]
     }, {
-        "completed": false,
         "id": 35,
         "player": "Any Starting Pitcher",
         "rating": "-",
@@ -750,7 +715,6 @@
             "goal": 383
         }]
     }, {
-        "completed": false,
         "id": 36,
         "player": "Any Left-Handed RP/CP",
         "rating": "-",
@@ -765,7 +729,6 @@
             "goal": 75
         }]
     }, {
-        "completed": false,
         "id": 37,
         "player": "Any Left-Handed RP/CP",
         "rating": "-",
@@ -780,7 +743,6 @@
             "goal": 200
         }]
     }, {
-        "completed": false,
         "id": 39,
         "player": "Rich Gossage",
         "rating": "70",
@@ -798,7 +760,6 @@
             "goal": 4
         }]
     }, {
-        "completed": false,
         "id": 40,
         "player": "Rich Gossage",
         "rating": "70",
@@ -813,7 +774,6 @@
             "goal": 25
         }]
     }, {
-        "completed": false,
         "id": 41,
         "player": "Any Right-Handed RP/CP",
         "rating": "-",
@@ -828,7 +788,6 @@
             "goal": 75
         }]
     }, {
-        "completed": false,
         "id": 42,
         "player": "Any Right-Handed RP/CP",
         "rating": "-",
@@ -843,7 +802,6 @@
             "goal": 200
         }]
     }, {
-        "completed": false,
         "id": 43,
         "player": "Billy Williams",
         "rating": "76",
@@ -861,7 +819,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 44,
         "player": "Billy Williams",
         "rating": "82",
@@ -891,7 +848,6 @@
             "goal": 75
         }]
     }, {
-        "completed": false,
         "id": 45,
         "player": "Any Legend Left Fielders",
         "rating": "-",
@@ -906,7 +862,6 @@
             "goal": 10
         }]
     }, {
-        "completed": false,
         "id": 46,
         "player": "Chase Utley",
         "rating": "72",
@@ -921,7 +876,6 @@
             "goal": 3
         }]
     }, {
-        "completed": false,
         "id": 47,
         "player": "Any Second Basemen",
         "rating": "-",
@@ -939,7 +893,6 @@
             "goal": 23
         }]
     }, {
-        "completed": false,
         "id": 48,
         "player": "Gary Carter",
         "rating": "78",
@@ -954,7 +907,6 @@
             "goal": 15
         }]
     }, {
-        "completed": false,
         "id": 49,
         "player": "Gary Carter",
         "rating": "84",
@@ -972,7 +924,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 50,
         "player": "Any Catchers",
         "rating": "-",
@@ -987,7 +938,6 @@
             "goal": 30
         }]
     }, {
-        "completed": false,
         "id": 51,
         "player": "Paul Molitor",
         "rating": "74",
@@ -1005,7 +955,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 52,
         "player": "Paul Molitor",
         "rating": "78",
@@ -1023,7 +972,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 53,
         "player": "Paul Molitor",
         "rating": "-",
@@ -1041,7 +989,6 @@
             "goal": 20
         }]
     }, {
-        "completed": false,
         "id": 54,
         "player": "Larry Doby",
         "rating": "76",
@@ -1056,7 +1003,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 55,
         "player": "Larry Doby",
         "rating": "80",
@@ -1071,7 +1017,6 @@
             "goal": 15
         }]
     }, {
-        "completed": false,
         "id": 56,
         "player": "Larry Doby",
         "rating": "80",
@@ -1086,7 +1031,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 57,
         "player": "Any All-Star Outfielders",
         "rating": "-",
@@ -1107,7 +1051,6 @@
             "goal": "102"
         }]
     }, {
-        "completed": false,
         "id": 58,
         "player": "Don Sutton",
         "rating": "72",
@@ -1125,7 +1068,6 @@
             "goal": 7
         }]
     }, {
-        "completed": false,
         "id": 59,
         "player": "Don Sutton",
         "rating": "84",
@@ -1146,7 +1088,6 @@
             "goal": 10
         }]
     }, {
-        "completed": false,
         "id": 60,
         "player": "Any Rookie SP",
         "rating": "-",
@@ -1161,7 +1102,6 @@
             "goal": 48
         }]
     }, {
-        "completed": false,
         "id": 63,
         "player": "Hanley Ramirez",
         "rating": "82",
@@ -1179,7 +1119,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 64,
         "player": "Hanley Ramirez",
         "rating": "88",
@@ -1197,7 +1136,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 65,
         "player": "Any Shortstops",
         "rating": "-",
@@ -1212,7 +1150,6 @@
             "goal": 15
         }]
     }, {
-        "completed": false,
         "id": 66,
         "player": "Joe Torre",
         "rating": "74",
@@ -1233,7 +1170,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 67,
         "player": "Joe Torre",
         "rating": "79",
@@ -1248,7 +1184,6 @@
             "goal": 15
         }]
     }, {
-        "completed": false,
         "id": 68,
         "player": "Joe Torre",
         "rating": "89",
@@ -1263,7 +1198,6 @@
             "goal": 15
         }]
     }, {
-        "completed": false,
         "id": 69,
         "player": "Any Cardinals Players",
         "rating": "-",
@@ -1281,7 +1215,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 70,
         "player": "Jack Morris",
         "rating": "61",
@@ -1299,7 +1232,6 @@
             "goal": 5
         }]
     }, {
-        "completed": false,
         "id": 71,
         "player": "Bret Saberhagen",
         "rating": "77",
@@ -1320,7 +1252,6 @@
             "goal": 5
         }]
     }, {
-        "completed": false,
         "id": 72,
         "player": "Bret Saberhagen",
         "rating": "83",
@@ -1338,7 +1269,6 @@
             "goal": 15
         }]
     }, {
-        "completed": false,
         "id": 73,
         "player": "Any SP from Royals, Mets, Rockies or Red Sox",
         "rating": "-",
@@ -1353,7 +1283,6 @@
             "goal": 23
         }]
     }, {
-        "completed": false,
         "id": 74,
         "player": "Lee Smith",
         "rating": "68",
@@ -1374,7 +1303,6 @@
             "goal": 10
         }]
     }, {
-        "completed": false,
         "id": 75,
         "player": "Lee Smith",
         "rating": "75",
@@ -1389,7 +1317,6 @@
             "goal": 50
         }]
     }, {
-        "completed": false,
         "id": 76,
         "player": "Lee Smith",
         "rating": "85",
@@ -1404,7 +1331,6 @@
             "goal": 72
         }]
     }, {
-        "completed": false,
         "id": 77,
         "player": "Any RP or CP",
         "rating": "-",
@@ -1419,7 +1345,6 @@
             "goal": 47
         }]
     }, {
-        "completed": false,
         "id": 78,
         "player": "Trevor Hoffman",
         "rating": "72",
@@ -1437,7 +1362,6 @@
             "goal": 10
         }]
     }, {
-        "completed": false,
         "id": 79,
         "player": "Derek Norris",
         "rating": "74",
@@ -1452,7 +1376,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 80,
         "player": "Ryan Hanigan",
         "rating": "79",
@@ -1470,7 +1393,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 81,
         "player": "Jarod Saltalamacchia",
         "rating": "75",
@@ -1491,7 +1413,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 82,
         "player": "Kennys Vargas",
         "rating": "71",
@@ -1512,7 +1433,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 83,
         "player": "Chris Carter",
         "rating": "74",
@@ -1530,7 +1450,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 84,
         "player": "Sean Rodriguez",
         "rating": "78",
@@ -1548,7 +1467,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 85,
         "player": "Lucas Duda",
         "rating": "75",
@@ -1566,7 +1484,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 86,
         "player": "Brock Holt",
         "rating": "72",
@@ -1584,7 +1501,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 87,
         "player": "Neil Walker",
         "rating": "74",
@@ -1599,7 +1515,6 @@
             "goal": 4
         }]
     }, {
-        "completed": false,
         "id": 88,
         "player": "Danny Espinosa",
         "rating": "76",
@@ -1617,7 +1532,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 89,
         "player": "Darwin Barney",
         "rating": "78",
@@ -1632,7 +1546,6 @@
             "goal": 3
         }]
     }, {
-        "completed": false,
         "id": 90,
         "player": "Trevor Plouffe",
         "rating": "74",
@@ -1650,7 +1563,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 91,
         "player": "Pedro Alvarez",
         "rating": "78",
@@ -1668,7 +1580,6 @@
             "goal": 3
         }]
     }, {
-        "completed": false,
         "id": 92,
         "player": "Gordon Beckham",
         "rating": "78",
@@ -1686,7 +1597,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 93,
         "player": "Mario Mendoza",
         "rating": "63",
@@ -1701,7 +1611,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 94,
         "player": "Brad Miller",
         "rating": "72",
@@ -1719,7 +1628,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 95,
         "player": "Emilio Bonifacio",
         "rating": "78",
@@ -1737,7 +1645,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 96,
         "player": "Chris Heisey",
         "rating": "74",
@@ -1755,7 +1662,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 98,
         "player": "Seth Smith",
         "rating": "78",
@@ -1770,7 +1676,6 @@
             "goal": 3
         }]
     }, {
-        "completed": false,
         "id": 99,
         "player": "Michael Saunders",
         "rating": "74",
@@ -1785,7 +1690,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 100,
         "player": "Alejandro De Aza",
         "rating": "77",
@@ -1803,7 +1707,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 101,
         "player": "Danny Santana",
         "rating": "77",
@@ -1821,7 +1724,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 102,
         "player": "Drew Stubbs",
         "rating": "79",
@@ -1839,7 +1741,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 103,
         "player": "Daniel Nava",
         "rating": "73",
@@ -1857,7 +1758,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 104,
         "player": "Matthew Joyce",
         "rating": "78",
@@ -1875,7 +1775,6 @@
             "goal": 21
         }]
     }, {
-        "completed": false,
         "id": 105,
         "player": "Mike Pelfrey",
         "rating": "70",
@@ -1896,7 +1795,6 @@
             "goal": 5
         }]
     }, {
-        "completed": false,
         "id": 106,
         "player": "Chris Volstad",
         "rating": "72",
@@ -1914,7 +1812,6 @@
             "goal": 6
         }]
     }, {
-        "completed": false,
         "id": 107,
         "player": "Ivan Nova",
         "rating": "72",
@@ -1935,7 +1832,6 @@
             "goal": 6
         }]
     }, {
-        "completed": false,
         "id": 108,
         "player": "Jamie Garcia",
         "rating": "73",
@@ -1956,7 +1852,6 @@
             "goal": 7
         }]
     }, {
-        "completed": false,
         "id": 109,
         "player": "Brett Anderson",
         "rating": "76",
@@ -1977,7 +1872,6 @@
             "goal": 8
         }]
     }, {
-        "completed": false,
         "id": 110,
         "player": "Shane Greene",
         "rating": "76",
@@ -1995,7 +1889,6 @@
             "goal": 6
         }]
     }, {
-        "completed": false,
         "id": 111,
         "player": "Trevor Cahill",
         "rating": "77",
@@ -2016,7 +1909,6 @@
             "goal": 4
         }]
     }, {
-        "completed": false,
         "id": 113,
         "player": "Bud Norris",
         "rating": "78",
@@ -2037,7 +1929,6 @@
             "goal": 5
         }]
     }, {
-        "completed": false,
         "id": 114,
         "player": "Tony Cingrani",
         "rating": "79",
@@ -2055,7 +1946,6 @@
             "goal": 9
         }]
     }, {
-        "completed": false,
         "id": 115,
         "player": "Craig Breslow",
         "rating": "71",
@@ -2076,7 +1966,6 @@
             "goal": 2
         }]
     }, {
-        "completed": false,
         "id": 116,
         "player": "Mike Dunn",
         "rating": "75",
@@ -2094,7 +1983,6 @@
             "goal": 3
         }]
     }, {
-        "completed": false,
         "id": 117,
         "player": "Al Alburquerque",
         "rating": "77",
@@ -2112,7 +2000,6 @@
             "goal": 5
         }]
     }, {
-        "completed": false,
         "id": 118,
         "player": "Chad Qualls",
         "rating": "78",
@@ -2130,7 +2017,6 @@
             "goal": 1
         }]
     }, {
-        "completed": false,
         "id": 119,
         "player": "Guerra",
         "rating": "72",
@@ -2148,7 +2034,6 @@
             "goal": 6
         }]
     }, {
-        "completed": false,
         "id": 120,
         "player": "Danny Farquhar",
         "rating": "78",
@@ -2166,7 +2051,6 @@
             "goal": 5
         }]
     }, {
-        "completed": false,
         "id": 121,
         "player": "Babe Ruth",
         "rating": "68",
@@ -2196,7 +2080,6 @@
             "goal": 90
         }]
     }, {
-        "completed": false,
         "id": 122,
         "player": "Ryan Raburn",
         "rating": "-",
@@ -2211,7 +2094,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 123,
         "player": "Baltimore Orioles Hitting",
         "rating": "-",
@@ -2244,7 +2126,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 124,
         "player": "Baltimore Orioles Pitching",
         "rating": "-",
@@ -2268,7 +2149,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 125,
         "player": "Boston Red Sox Hitting",
         "rating": "-",
@@ -2301,7 +2181,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 126,
         "player": "Boston Red Sox Pitching",
         "rating": "-",
@@ -2325,7 +2204,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 127,
         "player": "New York Yankees Hitting",
         "rating": "-",
@@ -2358,7 +2236,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 128,
         "player": "New York Yankees Pitching",
         "rating": "-",
@@ -2382,7 +2259,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 129,
         "player": "Tampa Bay Rays Hitting",
         "rating": "-",
@@ -2415,7 +2291,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 130,
         "player": "Tampa Bay Rays Pitching",
         "rating": "-",
@@ -2439,7 +2314,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 131,
         "player": "Toronto Blue Jays Hitting",
         "rating": "-",
@@ -2472,7 +2346,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 132,
         "player": "Toronto Blue Jays Pitching",
         "rating": "-",
@@ -2496,7 +2369,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 133,
         "player": "Chicago White Sox Hitting",
         "rating": "-",
@@ -2529,7 +2401,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 134,
         "player": "Chicago White Sox Pitching",
         "rating": "-",
@@ -2553,7 +2424,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 135,
         "player": "Cleveland Indians Hitting",
         "rating": "-",
@@ -2586,7 +2456,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 136,
         "player": "Cleveland Indians Pitching",
         "rating": "-",
@@ -2610,7 +2479,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 137,
         "player": "Detroit Tigers Hitting",
         "rating": "-",
@@ -2643,7 +2511,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 138,
         "player": "Detroit Tigers Pitching",
         "rating": "-",
@@ -2667,7 +2534,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 139,
         "player": "Kansas City Royals Hitting",
         "rating": "-",
@@ -2700,7 +2566,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 140,
         "player": "Kansas City Royals Pitching",
         "rating": "-",
@@ -2724,7 +2589,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 141,
         "player": "Minnesota Twins Hitting",
         "rating": "-",
@@ -2757,7 +2621,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 142,
         "player": "Minnesota Twins Pitching",
         "rating": "-",
@@ -2781,7 +2644,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 143,
         "player": "Los Angeles Angels Hitting",
         "rating": "-",
@@ -2814,7 +2676,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 144,
         "player": "Los Angeles Angels Pitching",
         "rating": "-",
@@ -2838,7 +2699,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 145,
         "player": "Oakland Athletics Hitting",
         "rating": "-",
@@ -2871,7 +2731,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 146,
         "player": "Oakland Athletics",
         "rating": "-",
@@ -2895,7 +2754,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 147,
         "player": "Seattle Mariners Hitting",
         "rating": "-",
@@ -2928,7 +2786,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 148,
         "player": "Seattle Mariners Pitching",
         "rating": "-",
@@ -2952,7 +2809,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 149,
         "player": "Texas Rangers Hitting",
         "rating": "-",
@@ -2985,7 +2841,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 150,
         "player": "Texas Rangers Pitching",
         "rating": "-",
@@ -3009,7 +2864,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 151,
         "player": "Houston Astros Hitting",
         "rating": "-",
@@ -3042,7 +2896,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 152,
         "player": "Houston Astros Pitching",
         "rating": "-",
@@ -3066,7 +2919,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 153,
         "player": "Atlanta Braves Hitting",
         "rating": "-",
@@ -3099,7 +2951,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 154,
         "player": "Atlanta Braves Pitching",
         "rating": "-",
@@ -3123,7 +2974,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 155,
         "player": "Miami Marlins Hitting",
         "rating": "-",
@@ -3156,7 +3006,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 156,
         "player": "Miami Marlins Pitching",
         "rating": "-",
@@ -3180,7 +3029,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 157,
         "player": "Washington Nationals Hitting",
         "rating": "-",
@@ -3213,7 +3061,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 158,
         "player": "Washington Nationals Pitching",
         "rating": "-",
@@ -3237,7 +3084,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 159,
         "player": "New York Mets Hitting",
         "rating": "-",
@@ -3270,7 +3116,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 160,
         "player": "New York Mets Pitching",
         "rating": "-",
@@ -3294,7 +3139,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 161,
         "player": "Philadelphia Phillies Hitting",
         "rating": "-",
@@ -3327,7 +3171,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 162,
         "player": "Philadelphia Phillies Pitching",
         "rating": "-",
@@ -3351,7 +3194,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 163,
         "player": "Chicago Cubs Hitting",
         "rating": "-",
@@ -3384,7 +3226,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 164,
         "player": "Chicago Cubs Pitching",
         "rating": "-",
@@ -3408,7 +3249,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 165,
         "player": "Cincinnati Reds Hitting",
         "rating": "-",
@@ -3441,7 +3281,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 166,
         "player": "Cincinnati Reds Pitching",
         "rating": "-",
@@ -3465,7 +3304,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 167,
         "player": "Milwaukee Brewers Hitting",
         "rating": "-",
@@ -3498,7 +3336,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 168,
         "player": "Milwaukee Brewers Pitching",
         "rating": "-",
@@ -3522,7 +3359,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 169,
         "player": "Pittsburgh Pirates Hitting",
         "rating": "-",
@@ -3555,7 +3391,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 170,
         "player": "Pittsburgh Pirates Pitching",
         "rating": "-",
@@ -3579,7 +3414,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 171,
         "player": "St. Louis Cardinals Hitting",
         "rating": "-",
@@ -3612,7 +3446,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 172,
         "player": "St. Louis Cardinals Pitching",
         "rating": "-",
@@ -3636,7 +3469,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 173,
         "player": "Arizona Diamondbacks Hitting",
         "rating": "-",
@@ -3669,7 +3501,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 174,
         "player": "Arizona Diamondbacks Pitching",
         "rating": "-",
@@ -3693,7 +3524,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 175,
         "player": "Colorado Rockies Hitting",
         "rating": "-",
@@ -3726,7 +3556,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 176,
         "player": "Colorado Rockies Pitching",
         "rating": "-",
@@ -3750,7 +3579,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 177,
         "player": "Los Angeles Dodgers Hitting",
         "rating": "-",
@@ -3783,7 +3611,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 178,
         "player": "Los Angeles Dodgers Pitching",
         "rating": "-",
@@ -3807,7 +3634,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 179,
         "player": "San Diego Padres Hitting",
         "rating": "-",
@@ -3840,7 +3666,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 180,
         "player": "San Diego Padres Pitching",
         "rating": "-",
@@ -3864,7 +3689,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 181,
         "player": "San Francisco Giants Hitting",
         "rating": "-",
@@ -3897,7 +3721,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 182,
         "player": "San Francisco Giants Pitching",
         "rating": "-",
@@ -3921,7 +3744,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 183,
         "player": "Jim Palmer",
         "rating": "68",
@@ -3939,7 +3761,6 @@
             "goal": "10"
         }]
     }, {
-        "completed": false,
         "id": 184,
         "player": "Jon Lester",
         "rating": "66",
@@ -3954,7 +3775,6 @@
             "goal": "12"
         }]
     }, {
-        "completed": false,
         "id": 185,
         "player": "Luis Severino",
         "rating": "76",
@@ -3972,7 +3792,6 @@
             "goal": "6"
         }]
     }, {
-        "completed": false,
         "id": 186,
         "player": "John Jaso",
         "rating": "73",
@@ -3987,7 +3806,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 187,
         "player": "Eric Thames",
         "rating": "67",
@@ -4002,7 +3820,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 188,
         "player": "Jose Quintana",
         "rating": "68",
@@ -4020,7 +3837,6 @@
             "goal": "5"
         }]
     }, {
-        "completed": false,
         "id": 189,
         "player": "Corey Kluber",
         "rating": "71",
@@ -4035,7 +3851,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 190,
         "player": "Edwin Jackson",
         "rating": "77",
@@ -4053,7 +3868,6 @@
             "goal": "10"
         }]
     }, {
-        "completed": false,
         "id": 191,
         "player": "Mike Moustakas",
         "rating": "68",
@@ -4068,7 +3882,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 192,
         "player": "Danny Valencia",
         "rating": "76",
@@ -4083,7 +3896,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 193,
         "player": "Jim Edmonds",
         "rating": "74",
@@ -4098,7 +3910,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 194,
         "player": "Carlos Gonzalez",
         "rating": "72",
@@ -4113,7 +3924,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 195,
         "player": "Ketel Marte",
         "rating": "75",
@@ -4131,7 +3941,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 196,
         "player": "Derek Holland",
         "rating": "76",
@@ -4149,7 +3958,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 197,
         "player": "Jose Altuve",
         "rating": "74",
@@ -4164,7 +3972,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 198,
         "player": "Bruce Sutter",
         "rating": "70",
@@ -4179,7 +3986,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 199,
         "player": "Marcell Ozuna",
         "rating": "74",
@@ -4194,7 +4000,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 200,
         "player": "Anthony Rendon",
         "rating": "72",
@@ -4218,7 +4023,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 201,
         "player": "Justin Turner",
         "rating": "68",
@@ -4233,7 +4037,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 202,
         "player": "Vance Worley",
         "rating": "78",
@@ -4251,7 +4054,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 203,
         "player": "Ryne Sandberg",
         "rating": "77",
@@ -4269,7 +4071,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 204,
         "player": "Tony Perez",
         "rating": "72",
@@ -4287,7 +4088,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 205,
         "player": "Lorenzo Cain",
         "rating": "76",
@@ -4305,7 +4105,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 206,
         "player": "Jeff Locke",
         "rating": "70",
@@ -4323,7 +4122,6 @@
             "goal": "6"
         }]
     }, {
-        "completed": false,
         "id": 207,
         "player": "Yadier Molina",
         "rating": "78",
@@ -4338,7 +4136,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 208,
         "player": "Josh Collmenter",
         "rating": "72",
@@ -4356,7 +4153,6 @@
             "goal": "10"
         }]
     }, {
-        "completed": false,
         "id": 209,
         "player": "Charlie Blackmon",
         "rating": "68",
@@ -4374,7 +4170,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 210,
         "player": "Clayton Kershaw",
         "rating": "71",
@@ -4392,7 +4187,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 211,
         "player": "Andrew Cashner",
         "rating": "78",
@@ -4410,7 +4204,6 @@
             "goal": "6"
         }]
     }, {
-        "completed": false,
         "id": 212,
         "player": "Santiago Casilla",
         "rating": "76",
@@ -4425,7 +4218,6 @@
             "goal": "8"
         }]
     }, {
-        "completed": false,
         "id": 213,
         "player": "Jim Johnson",
         "rating": "75",
@@ -4443,7 +4235,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 214,
         "player": "Will Middlebrooks",
         "rating": "78",
@@ -4464,7 +4255,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 215,
         "player": "Whitey Ford",
         "rating": "78",
@@ -4482,7 +4272,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 216,
         "player": "Logan Forsythe",
         "rating": "77",
@@ -4500,7 +4289,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 217,
         "player": "Brandon Morrow",
         "rating": "79",
@@ -4518,7 +4306,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 218,
         "player": "Chris Sale",
         "rating": "79",
@@ -4536,7 +4323,6 @@
             "goal": "20"
         }]
     }, {
-        "completed": false,
         "id": 219,
         "player": "Joe Carter",
         "rating": "78",
@@ -4554,7 +4340,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 220,
         "player": "Al Kaline",
         "rating": "78",
@@ -4572,7 +4357,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 221,
         "player": "Johnny Damon",
         "rating": "77",
@@ -4590,7 +4374,6 @@
             "goal": "5"
         }]
     }, {
-        "completed": false,
         "id": 222,
         "player": "Denard Span",
         "rating": "78",
@@ -4608,7 +4391,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 223,
         "player": "Rod Carew",
         "rating": "76",
@@ -4626,7 +4408,6 @@
             "goal": "5"
         }]
     }, {
-        "completed": false,
         "id": 224,
         "player": "Tommy Milone",
         "rating": "75",
@@ -4644,7 +4425,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 225,
         "player": "Roenis Elias",
         "rating": "76",
@@ -4662,7 +4442,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 226,
         "player": "Ian Kinsler",
         "rating": "78",
@@ -4683,7 +4462,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 227,
         "player": "Jeff Bagwell",
         "rating": "77",
@@ -4701,7 +4479,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 228,
         "player": "Evan Gattis",
         "rating": "76",
@@ -4719,7 +4496,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 229,
         "player": "Miguel Cabrera",
         "rating": "75",
@@ -4737,7 +4513,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 230,
         "player": "Craig Stammen",
         "rating": "75",
@@ -4755,7 +4530,6 @@
             "goal": "7"
         }]
     }, {
-        "completed": false,
         "id": 231,
         "player": "Zack Wheeler",
         "rating": "78",
@@ -4773,7 +4547,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 232,
         "player": "Ben Revere",
         "rating": "79",
@@ -4794,7 +4567,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 233,
         "player": "Ernie Banks",
         "rating": "78",
@@ -4815,7 +4587,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 234,
         "player": "Raisel Iglesias",
         "rating": "81",
@@ -4833,7 +4604,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 235,
         "player": "Wily Peralta",
         "rating": "77",
@@ -4851,7 +4621,6 @@
             "goal": "10"
         }]
     }, {
-        "completed": false,
         "id": 236,
         "player": "Francisco Cervelli",
         "rating": "78",
@@ -4869,7 +4638,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 237,
         "player": "Troy Percival",
         "rating": "79",
@@ -4887,7 +4655,6 @@
             "goal": "10"
         }]
     }, {
-        "completed": false,
         "id": 238,
         "player": "Paul Goldschmidt",
         "rating": "75",
@@ -4902,7 +4669,6 @@
             "goal": "8"
         }]
     }, {
-        "completed": false,
         "id": 239,
         "player": "Rex Brothers",
         "rating": "75",
@@ -4917,7 +4683,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 240,
         "player": "Dee Gordon",
         "rating": "73",
@@ -4935,7 +4700,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 241,
         "player": "Tony Gwynn",
         "rating": "79",
@@ -4956,7 +4720,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 242,
         "player": "Matt Duffy",
         "rating": "78",
@@ -4974,7 +4737,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 243,
         "player": "Manny Machado",
         "rating": "78",
@@ -5001,7 +4763,6 @@
             "goal": "7"
         }]
     }, {
-        "completed": false,
         "id": 244,
         "player": "Jim Rice",
         "rating": "81",
@@ -5025,7 +4786,6 @@
             "goal": "10"
         }]
     }, {
-        "completed": false,
         "id": 245,
         "player": "Johnny Damon",
         "rating": "83",
@@ -5052,7 +4812,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 246,
         "player": "Carlos Santana",
         "rating": "81",
@@ -5076,7 +4835,6 @@
             "goal": "10"
         }]
     }, {
-        "completed": false,
         "id": 247,
         "player": "Kelvin Herrera",
         "rating": "82",
@@ -5100,7 +4858,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 248,
         "player": "Bert Blyleven",
         "rating": "83",
@@ -5118,7 +4875,6 @@
             "goal": "30"
         }]
     }, {
-        "completed": false,
         "id": 249,
         "player": "Matt Shoemaker",
         "rating": "82",
@@ -5136,7 +4892,6 @@
             "goal": "30"
         }]
     }, {
-        "completed": false,
         "id": 250,
         "player": "Tom Wilhelmsen",
         "rating": "80",
@@ -5154,7 +4909,6 @@
             "goal": "20"
         }]
     }, {
-        "completed": false,
         "id": 251,
         "player": "Neftali Feliz",
         "rating": "83",
@@ -5172,7 +4926,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 252,
         "player": "Doug Drabek",
         "rating": "82",
@@ -5190,7 +4943,6 @@
             "goal": "30"
         }]
     }, {
-        "completed": false,
         "id": 253,
         "player": "Martin Prado",
         "rating": "80",
@@ -5214,7 +4966,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 254,
         "player": "Steve Cishek",
         "rating": "80",
@@ -5232,7 +4983,6 @@
             "goal": "15"
         }]
     }, {
-        "completed": false,
         "id": 255,
         "player": "Jeurys Familia",
         "rating": "81",
@@ -5250,7 +5000,6 @@
             "goal": "25"
         }]
     }, {
-        "completed": false,
         "id": 256,
         "player": "Antonio Bastardo",
         "rating": "79",
@@ -5271,7 +5020,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 257,
         "player": "Kris Bryant",
         "rating": "80",
@@ -5295,7 +5043,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 258,
         "player": "Ken Griffey, Sr.",
         "rating": "84",
@@ -5313,7 +5060,6 @@
             "goal": "5"
         }]
     }, {
-        "completed": false,
         "id": 259,
         "player": "Yovani Gallardo",
         "rating": "80",
@@ -5331,7 +5077,6 @@
             "goal": "30"
         }]
     }, {
-        "completed": false,
         "id": 260,
         "player": "Oliver Perez",
         "rating": "83",
@@ -5349,7 +5094,6 @@
             "goal": "30"
         }]
     }, {
-        "completed": false,
         "id": 261,
         "player": "Ian Kennedy",
         "rating": "83",
@@ -5364,7 +5108,6 @@
             "goal": "50"
         }]
     }, {
-        "completed": false,
         "id": 262,
         "player": "Chris Iannetta",
         "rating": "81",
@@ -5385,7 +5128,6 @@
             "goal": "6"
         }]
     }, {
-        "completed": false,
         "id": 263,
         "player": "Andre Ethier",
         "rating": "81",
@@ -5412,7 +5154,6 @@
             "goal": "5"
         }]
     }, {
-        "completed": false,
         "id": 264,
         "player": "Juan Marichal",
         "rating": "81",
@@ -5430,7 +5171,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 265,
         "player": "Omar Vizquel",
         "rating": "89",
@@ -5454,7 +5194,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 266,
         "player": "Catfish Hunter",
         "rating": "85",
@@ -5472,7 +5211,6 @@
             "goal": "40"
         }]
     }, {
-        "completed": false,
         "id": 267,
         "player": "Jay Buhner",
         "rating": "86",
@@ -5499,7 +5237,6 @@
             "goal": "7"
         }]
     }, {
-        "completed": false,
         "id": 268,
         "player": "Mike Napoli",
         "rating": "85",
@@ -5523,7 +5260,6 @@
             "goal": "8"
         }]
     }, {
-        "completed": false,
         "id": 269,
         "player": "Hunter Pence",
         "rating": "84",
@@ -5553,7 +5289,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 270,
         "player": "Matt Garza",
         "rating": "82",
@@ -5574,7 +5309,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 271,
         "player": "Shelby Miller",
         "rating": "80",
@@ -5592,7 +5326,6 @@
             "goal": "30"
         }]
     }, {
-        "completed": false,
         "id": 272,
         "player": "Jhoulys Chacin",
         "rating": "78",
@@ -5613,7 +5346,6 @@
             "goal": "9"
         }]
     }, {
-        "completed": false,
         "id": 273,
         "player": "Hardware Runs x2",
         "rating": "-",
@@ -5628,7 +5360,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 274,
         "player": "Texas Hold 'Em",
         "rating": "-",
@@ -5643,7 +5374,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 275,
         "player": "Flashback Doubles",
         "rating": "-",
@@ -5658,7 +5388,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 276,
         "player": "All-Star K's x3",
         "rating": "-",
@@ -5673,7 +5402,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 277,
         "player": "Impact HR",
         "rating": "-",
@@ -5688,7 +5416,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 278,
         "player": "Shortstop Singles x2",
         "rating": "-",
@@ -5703,7 +5430,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 279,
         "player": "Breakout Steal",
         "rating": "-",
@@ -5718,7 +5444,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 280,
         "player": "Run For It",
         "rating": "-",
@@ -5733,7 +5458,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 281,
         "player": "Postseason Run",
         "rating": "-",
@@ -5748,7 +5472,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 282,
         "player": "Flying on the Basepaths",
         "rating": "-",
@@ -5763,7 +5486,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 283,
         "player": "Envision the Hits",
         "rating": "-",
@@ -5778,7 +5500,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 284,
         "player": "Orioles Hits x2",
         "rating": "-",
@@ -5793,7 +5514,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 285,
         "player": "Orioles Runs x4",
         "rating": "-",
@@ -5808,7 +5528,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 286,
         "player": "Orioles HR",
         "rating": "-",
@@ -5823,7 +5542,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 287,
         "player": "Red Sox Hits x2",
         "rating": "-",
@@ -5838,7 +5556,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 288,
         "player": "Red Sox Runs x4",
         "rating": "-",
@@ -5853,7 +5570,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 289,
         "player": "Red Sox HR",
         "rating": "-",
@@ -5868,7 +5584,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 290,
         "player": "Yankees Hits x2",
         "rating": "-",
@@ -5883,7 +5598,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 291,
         "player": "Yankees Runs x4",
         "rating": "-",
@@ -5898,7 +5612,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 292,
         "player": "Yankees HR",
         "rating": "-",
@@ -5913,7 +5626,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 293,
         "player": "Rays Hits x2",
         "rating": "-",
@@ -5928,7 +5640,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 294,
         "player": "Rays Runs x4",
         "rating": "-",
@@ -5943,7 +5654,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 295,
         "player": "Rays HR",
         "rating": "-",
@@ -5958,7 +5668,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 296,
         "player": "Blue Jays Hits x2",
         "rating": "-",
@@ -5973,7 +5682,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 297,
         "player": "Blue Jays Runs x4",
         "rating": "-",
@@ -5988,7 +5696,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 298,
         "player": "Blue Jays HR",
         "rating": "-",
@@ -6003,7 +5710,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 299,
         "player": "White Sox Hits x2",
         "rating": "-",
@@ -6018,7 +5724,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 300,
         "player": "White Sox Runs x4",
         "rating": "-",
@@ -6033,7 +5738,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 301,
         "player": "White Sox HR",
         "rating": "-",
@@ -6048,7 +5752,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 302,
         "player": "Indians Hits x2",
         "rating": "-",
@@ -6063,7 +5766,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 303,
         "player": "Indians Runs x4",
         "rating": "-",
@@ -6078,7 +5780,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 304,
         "player": "Indians HR",
         "rating": "-",
@@ -6093,7 +5794,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 305,
         "player": "Tigers Hits x2",
         "rating": "-",
@@ -6108,7 +5808,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 306,
         "player": "Tigers Runs x4",
         "rating": "-",
@@ -6123,7 +5822,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 307,
         "player": "Tigers HR",
         "rating": "-",
@@ -6138,7 +5836,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 308,
         "player": "Royals Hits x2",
         "rating": "-",
@@ -6153,7 +5850,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 309,
         "player": "Royals Runs x4",
         "rating": "-",
@@ -6168,7 +5864,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 310,
         "player": "Royals HR",
         "rating": "-",
@@ -6183,7 +5878,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 311,
         "player": "Twins Hits x2",
         "rating": "-",
@@ -6198,7 +5892,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 312,
         "player": "Twins Runs x4",
         "rating": "-",
@@ -6213,7 +5906,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 313,
         "player": "Twins HR",
         "rating": "-",
@@ -6228,7 +5920,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 314,
         "player": "Astros Hits x2",
         "rating": "-",
@@ -6243,7 +5934,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 315,
         "player": "Astros Runs x4",
         "rating": "-",
@@ -6258,7 +5948,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 316,
         "player": "Astros HR",
         "rating": "-",
@@ -6273,7 +5962,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 317,
         "player": "Angels Hits x2",
         "rating": "-",
@@ -6288,7 +5976,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 318,
         "player": "Angels Runs x4",
         "rating": "-",
@@ -6303,7 +5990,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 319,
         "player": "Angels HR",
         "rating": "-",
@@ -6318,7 +6004,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 320,
         "player": "Athletics Hits x2",
         "rating": "-",
@@ -6333,7 +6018,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 321,
         "player": "Athletics Runs x4",
         "rating": "-",
@@ -6348,7 +6032,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 322,
         "player": "Athletics HR",
         "rating": "-",
@@ -6363,7 +6046,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 323,
         "player": "Mariners Hits x2",
         "rating": "-",
@@ -6378,7 +6060,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 324,
         "player": "Mariners Runs x4",
         "rating": "-",
@@ -6393,7 +6074,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 325,
         "player": "Mariners HR",
         "rating": "-",
@@ -6408,7 +6088,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 326,
         "player": "Rangers Hits x2",
         "rating": "-",
@@ -6423,7 +6102,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 327,
         "player": "Rangers Runs x4",
         "rating": "-",
@@ -6438,7 +6116,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 328,
         "player": "Rangers HR",
         "rating": "-",
@@ -6453,7 +6130,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 329,
         "player": "Braves Hits x2",
         "rating": "-",
@@ -6468,7 +6144,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 330,
         "player": "Braves Runs x4",
         "rating": "-",
@@ -6483,7 +6158,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 331,
         "player": "Braves HR",
         "rating": "-",
@@ -6498,7 +6172,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 332,
         "player": "Marlins Hits x2",
         "rating": "-",
@@ -6513,7 +6186,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 333,
         "player": "Marlins Runs x4",
         "rating": "-",
@@ -6528,7 +6200,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 334,
         "player": "Marlins HR",
         "rating": "-",
@@ -6543,7 +6214,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 335,
         "player": "Mets Hits x2",
         "rating": "-",
@@ -6558,7 +6228,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 336,
         "player": "Mets Runs x4",
         "rating": "-",
@@ -6573,7 +6242,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 337,
         "player": "Mets HR",
         "rating": "-",
@@ -6588,7 +6256,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 338,
         "player": "Phillies Hits x2",
         "rating": "-",
@@ -6603,7 +6270,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 339,
         "player": "Phillies Runs x4",
         "rating": "-",
@@ -6618,7 +6284,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 340,
         "player": "Phillies HR",
         "rating": "-",
@@ -6633,7 +6298,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 341,
         "player": "Nationals Hits x2",
         "rating": "-",
@@ -6648,7 +6312,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 342,
         "player": "Nationals Runs x4",
         "rating": "-",
@@ -6663,7 +6326,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 343,
         "player": "Nationals HR",
         "rating": "-",
@@ -6678,7 +6340,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 344,
         "player": "Cubs Hits x2",
         "rating": "-",
@@ -6693,7 +6354,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 345,
         "player": "Cubs Runs x4",
         "rating": "-",
@@ -6708,7 +6368,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 346,
         "player": "Cubs HR",
         "rating": "-",
@@ -6723,7 +6382,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 347,
         "player": "Reds Hits x2",
         "rating": "-",
@@ -6738,7 +6396,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 348,
         "player": "Reds Runs x4",
         "rating": "-",
@@ -6753,7 +6410,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 349,
         "player": "Reds HR",
         "rating": "-",
@@ -6768,7 +6424,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 350,
         "player": "Brewers Hits x2",
         "rating": "-",
@@ -6783,7 +6438,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 351,
         "player": "Brewers Runs x4",
         "rating": "-",
@@ -6798,7 +6452,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 352,
         "player": "Brewers HR",
         "rating": "-",
@@ -6813,7 +6466,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 353,
         "player": "Pirates Hits x2",
         "rating": "-",
@@ -6828,7 +6480,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 354,
         "player": "Pirates Runs x4",
         "rating": "-",
@@ -6843,7 +6494,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 355,
         "player": "Pirates HR",
         "rating": "-",
@@ -6858,7 +6508,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 356,
         "player": "Cardinals Hits x2",
         "rating": "-",
@@ -6873,7 +6522,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 357,
         "player": "Cardinals Runs x4",
         "rating": "-",
@@ -6888,7 +6536,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 358,
         "player": "Cardinals HR",
         "rating": "-",
@@ -6903,7 +6550,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 359,
         "player": "Diamondbacks Hits x2",
         "rating": "-",
@@ -6918,7 +6564,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 360,
         "player": "Diamondbacks Runs x4",
         "rating": "-",
@@ -6933,7 +6578,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 361,
         "player": "Diamondbacks HR",
         "rating": "-",
@@ -6948,7 +6592,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 362,
         "player": "Rockies Hits x2",
         "rating": "-",
@@ -6963,7 +6606,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 363,
         "player": "Rockies Runs x4",
         "rating": "-",
@@ -6978,7 +6620,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 364,
         "player": "Rockies HR",
         "rating": "-",
@@ -6993,7 +6634,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 365,
         "player": "Dodgers Hits x2",
         "rating": "-",
@@ -7008,7 +6648,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 366,
         "player": "Dodgers Runs x4",
         "rating": "-",
@@ -7023,7 +6662,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 367,
         "player": "Dodgers HR",
         "rating": "-",
@@ -7038,7 +6676,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 368,
         "player": "Padres Hits x2",
         "rating": "-",
@@ -7053,7 +6690,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 369,
         "player": "Padres Runs x4",
         "rating": "-",
@@ -7068,7 +6704,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 370,
         "player": "Padres HR",
         "rating": "-",
@@ -7083,7 +6718,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 371,
         "player": "Giants Hits x2",
         "rating": "-",
@@ -7098,7 +6732,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 372,
         "player": "Giants Runs x4",
         "rating": "-",
@@ -7113,7 +6746,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 373,
         "player": "Giants HR",
         "rating": "-",
@@ -7128,7 +6760,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 374,
         "player": "Pitchers Can Hit",
         "rating": "-",
@@ -7143,7 +6774,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 375,
         "player": "3 Triples",
         "rating": "-",
@@ -7158,7 +6788,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 376,
         "player": "Save the Battle",
         "rating": "-",
@@ -7173,7 +6802,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 377,
         "player": "Bat Flip",
         "rating": "-",
@@ -7188,7 +6816,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 378,
         "player": "Legend Triple",
         "rating": "-",
@@ -7203,7 +6830,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 379,
         "player": "The Right Bat",
         "rating": "-",
@@ -7218,7 +6844,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 380,
         "player": "The Arrival",
         "rating": "-",
@@ -7239,7 +6864,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 381,
         "player": "Electric Stuff",
         "rating": "-",
@@ -7257,7 +6881,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 382,
         "player": "Heroic Home Opener",
         "rating": "-",
@@ -7281,7 +6904,6 @@
             "goal": "8"
         }]
     }, {
-        "completed": false,
         "id": 383,
         "player": "Carlos Villanueva",
         "rating": "80",
@@ -7302,7 +6924,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 384,
         "player": "Jed Lowrie",
         "rating": "82",
@@ -7323,7 +6944,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 385,
         "player": "Shohei Ohtani",
         "rating": "82",
@@ -7341,7 +6961,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 386,
         "player": "Sean Manaea",
         "rating": "83",
@@ -7359,7 +6978,6 @@
             "goal": "10"
         }]
     }, {
-        "completed": false,
         "id": 387,
         "player": "Shohei Ohtani",
         "rating": "83",
@@ -7377,7 +6995,6 @@
             "goal": "8"
         }]
     }, {
-        "completed": false,
         "id": 388,
         "player": "Ozzie Albies",
         "rating": "86",
@@ -7392,7 +7009,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 389,
         "player": "Josh Hader",
         "rating": "88",
@@ -7407,7 +7023,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 390,
         "player": "Didi Gregorious",
         "rating": "91",
@@ -7425,7 +7040,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 391,
         "player": "Any Catcher",
         "rating": "-",
@@ -7440,7 +7054,6 @@
             "goal": "5"
         }]
     }, {
-        "completed": false,
         "id": 392,
         "player": "Francisco Mejia",
         "rating": "85",
@@ -7455,7 +7068,6 @@
             "goal": "2"
         }]
     }, {
-        "completed": false,
         "id": 393,
         "player": "Francisco Mejia",
         "rating": "85",
@@ -7476,7 +7088,6 @@
             "goal": "6"
         }]
     }, {
-        "completed": false,
         "id": 394,
         "player": "Any First Basemen",
         "rating": "81",
@@ -7491,7 +7102,6 @@
             "goal": "10"
         }]
     }, {
-        "completed": false,
         "id": 395,
         "player": "Justin Bour",
         "rating": "81",
@@ -7515,7 +7125,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 396,
         "player": "Any Second Basemen",
         "rating": "-",
@@ -7530,7 +7139,6 @@
             "goal": "20"
         }]
     }, {
-        "completed": false,
         "id": 397,
         "player": "Scott Kingery",
         "rating": "83",
@@ -7545,7 +7153,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 398,
         "player": "Any Second Basemen",
         "rating": "-",
@@ -7560,7 +7167,6 @@
             "goal": "4"
         }]
     }, {
-        "completed": false,
         "id": 399,
         "player": "Howie Kendrick",
         "rating": "80",
@@ -7584,7 +7190,6 @@
             "goal": "1"
         }]
     }, {
-        "completed": false,
         "id": 400,
         "player": "Any Right-Handed CP",
         "rating": "-",
@@ -7599,7 +7204,6 @@
             "goal": "5"
         }]
     }, {
-        "completed": false,
         "id": 401,
         "player": "John Axford",
         "rating": "83",
@@ -7620,7 +7224,6 @@
             "goal": "11"
         }]
     }, {
-        "completed": false,
         "id": 402,
         "player": "Any Rangers CP or RP",
         "rating": "-",
@@ -7635,7 +7238,6 @@
             "goal": "3"
         }]
     }, {
-        "completed": false,
         "id": 403,
         "player": "Sam Dyson",
         "rating": "76",
@@ -7656,7 +7258,6 @@
             "goal": "13"
         }]
     }, {
-        "completed": false,
         "id": 404,
         "player": "Troy Percival",
         "rating": "85",
@@ -7677,7 +7278,6 @@
             "goal": "20"
         }]
     }, {
-        "completed": false,
         "id": 405,
         "player": "Albert Pujols",
         "rating": "82",
@@ -7693,6 +7293,249 @@
         }, {
             "requirement_type": "HR",
             "goal": "15"
+        }]
+    }, {
+        "id": 406,
+        "player": "Any Catcher",
+        "rating": "",
+        "series": null,
+        "duration": "Multi-Game",
+        "team": null,
+        "position": "C",
+        "program_type": "Catcher",
+        "program": "Miguel Montero",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "10"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "10"
+        }]
+    }, {
+        "id": 407,
+        "player": "Any NL West 1B",
+        "rating": "",
+        "series": null,
+        "duration": "Multi-Game",
+        "team": null,
+        "position": "1B",
+        "program_type": "First Basemen",
+        "program": "Eric Karros",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "10"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "15"
+        }]
+    }, {
+        "id": 408,
+        "player": "Mark Reynolds",
+        "rating": "80",
+        "series": "BO",
+        "duration": null,
+        "team": "Diamondbacks",
+        "position": "3B",
+        "program_type": "Third Basemen",
+        "program": "Mark Reynolds",
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": "2"
+        }]
+    }, {
+        "id": 409,
+        "player": "Any Shortstop",
+        "rating": "",
+        "series": null,
+        "duration": "Single Game",
+        "team": "",
+        "position": "SS",
+        "program_type": "Shortstops",
+        "program": "Jhonny Peralta",
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "3"
+        }]
+    }, {
+        "id": 410,
+        "player": "Any left-handed hitting Left Fielders",
+        "rating": "",
+        "series": null,
+        "duration": "Multi-Game",
+        "team": null,
+        "position": "LF",
+        "program_type": "Left Fielders",
+        "program": "Adam Lind",
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": "3"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "6"
+        }]
+    }, {
+        "id": 411,
+        "player": "Victor Robles",
+        "rating": "87",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Nationals",
+        "position": "CF",
+        "program_type": "Center Fielders",
+        "program": "Victor Robles",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "3"
+        }, {
+            "requirement_type": "R",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "1"
+        }]
+    }, {
+        "id": 412,
+        "player": "Victor Robles",
+        "rating": "87",
+        "series": "FS",
+        "duration": "Multi-Game",
+        "team": "Nationals",
+        "position": "CF",
+        "program_type": "Center Fielders",
+        "program": "Victor Robles",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "15"
+        }]
+    }, {
+        "id": 413,
+        "player": "Any Center Fielder",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "",
+        "position": "CF",
+        "program_type": "Center Fielders",
+        "program": "Austin Jackson",
+        "requirements": [{
+            "requirement_type": "SB",
+            "goal": "3"
+        }]
+    }, {
+        "id": 414,
+        "player": "Austin Jackson",
+        "rating": "81",
+        "series": "BO",
+        "duration": "Single Game",
+        "team": "Tigers",
+        "position": "CF",
+        "program_type": "Center Fielders",
+        "program": "Austin Jackson",
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": "1"
+        }, {
+            "requirement_type": "3B",
+            "goal": "1"
+        }, {
+            "requirement_type": "HR",
+            "goal": "1"
+        }]
+    }, {
+        "id": 415,
+        "player": "Austin Jackson",
+        "rating": "81",
+        "series": "BO",
+        "duration": "Single Game",
+        "team": "Tigers",
+        "position": "CF",
+        "program_type": "Center Fielders",
+        "program": "Austin Jackson",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "3"
+        }, {
+            "requirement_type": "R",
+            "goal": "2"
+        }]
+    }, {
+        "id": 416,
+        "player": "Any Orioles",
+        "rating": "-",
+        "series": null,
+        "duration": "Single Game",
+        "team": "Orioles",
+        "position": null,
+        "program_type": "Right Fielders",
+        "program": "Mark Trumbo",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "3"
+        }]
+    }, {
+        "id": 417,
+        "player": "Any Reds SP",
+        "rating": "-",
+        "series": null,
+        "duration": "Multi-Game",
+        "team": "Reds",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Homer Bailey",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "2"
+        }]
+    }, {
+        "id": 418,
+        "player": "Fernando Romero",
+        "rating": "81",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Fernando Romero",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "7"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "8"
+        }]
+    }, {
+        "id": 419,
+        "player": "Any Astros RP or CP",
+        "rating": "-",
+        "series": null,
+        "duration": "Multi-Game",
+        "team": "Astros",
+        "position": "-",
+        "program_type": "Relief Pitchers",
+        "program": "Tony Sipp",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "20"
+        }]
+    }, {
+        "id": 420,
+        "player": "Any Flashback RP or CP",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Closing Pitchers",
+        "program": "Trevor Rosenthal",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "50"
         }]
     }]
 }

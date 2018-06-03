@@ -7691,5 +7691,25 @@
             "requirement_type": "K",
             "goal": "50"
         }]
+    }, {
+        "id": 428,
+        "player": "Don Sutton",
+        "rating": "90",
+        "series": "AS",
+        "duration": "Single Game",
+        "team": "Dodgers",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Don Sutton",
+        "requirements": [{
+            "requirement_type": "CG",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "8"
+        }, {
+            "requirement_type": "K",
+            "goal": "6"
+        }]
     }]
 }

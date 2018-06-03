@@ -7451,8 +7451,8 @@
     }, {
         "id": 413,
         "player": "Any Catcher",
-        "rating": "",
-        "series": null,
+        "rating": "81",
+        "series": "AS",
         "duration": "Multi-Game",
         "team": "Diamondbacks",
         "position": "C",

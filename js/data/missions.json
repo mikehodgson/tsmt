@@ -7460,10 +7460,10 @@
         "program": "Miguel Montero",
         "requirements": [{
             "requirement_type": "XBH",
-            "goal": "10"
+            "goal": "1"
         }, {
             "requirement_type": "RBI",
-            "goal": "10"
+            "goal": "2"
         }]
     }, {
         "id": 414,

@@ -7702,7 +7702,7 @@
         "program_type": "Career Arcs",
         "program": "Don Sutton",
         "requirements": [{
-            "requirement_type": "CG",
+            "requirement_type": "CG SHO",
             "goal": "1"
         }, {
             "requirement_type": "IP",

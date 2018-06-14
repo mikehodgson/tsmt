@@ -7451,19 +7451,19 @@
     }, {
         "id": 413,
         "player": "Any Catcher",
-        "rating": "",
-        "series": null,
-        "duration": "Multi-Game",
-        "team": null,
+        "rating": "81",
+        "series": "AS",
+        "duration": "Single Game",
+        "team": "Diamondbacks",
         "position": "C",
         "program_type": "Catcher",
         "program": "Miguel Montero",
         "requirements": [{
             "requirement_type": "XBH",
-            "goal": "10"
+            "goal": "1"
         }, {
             "requirement_type": "RBI",
-            "goal": "10"
+            "goal": "2"
         }]
     }, {
         "id": 414,
@@ -7690,6 +7690,63 @@
         "requirements": [{
             "requirement_type": "K",
             "goal": "50"
+        }]
+    }, {
+        "id": 428,
+        "player": "Don Sutton",
+        "rating": "90",
+        "series": "AS",
+        "duration": "Single Game",
+        "team": "Dodgers",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Don Sutton",
+        "requirements": [{
+            "requirement_type": "CG SHO",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "8"
+        }, {
+            "requirement_type": "K",
+            "goal": "6"
+        }]
+        }, {
+        "id": 429,
+        "player": "Eric Karros",
+        "rating": "85",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "LAD",
+        "position": "1B",
+        "program_type": "First basement",
+        "program": "Eric Karros",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "15"
+            [{
+            "requirement_type": "XBH",
+            "goal": "3"
+        }]
+                 }, {
+        "id": 430,
+        "player": "Eric Karros",
+        "rating": "85",
+        "series": "-",
+        "duration": "Single game",
+        "team": "LAD",
+        "position": "1B",
+        "program_type": "First basement",
+        "program": "Eric Karros",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2"
+            [{
+            "requirement_type": "R",
+            "goal": "2"
+                 [{
+            "requirement_type": "RBI",
+            "goal": "1"
         }]
     }]
 }

@@ -7711,7 +7711,7 @@
             "requirement_type": "K",
             "goal": "6"
         }]
-        }, {
+    }, {
         "id": 429,
         "player": "Eric Karros",
         "rating": "85",
@@ -7724,11 +7724,11 @@
         "requirements": [{
             "requirement_type": "H",
             "goal": "15"
-            [{
+        }, {
             "requirement_type": "XBH",
             "goal": "3"
         }]
-                 }, {
+    }, {
         "id": 430,
         "player": "Eric Karros",
         "rating": "85",
@@ -7741,10 +7741,10 @@
         "requirements": [{
             "requirement_type": "H",
             "goal": "2"
-            [{
+        }, {
             "requirement_type": "R",
             "goal": "2"
-                 [{
+        }, {
             "requirement_type": "RBI",
             "goal": "1"
         }]

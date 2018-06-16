@@ -1182,7 +1182,7 @@
         "program": "Joe Torre",
         "requirements": [{
             "requirement_type": "H",
-            "goal": 15
+            "goal": 10
         }]
     }, {
         "id": 68,
@@ -7719,7 +7719,7 @@
         "duration": "Multi-Game",
         "team": "LAD",
         "position": "1B",
-        "program_type": "First basement",
+        "program_type": "First basemen",
         "program": "Eric Karros",
         "requirements": [{
             "requirement_type": "H",
@@ -7736,7 +7736,7 @@
         "duration": "Single game",
         "team": "LAD",
         "position": "1B",
-        "program_type": "First basement",
+        "program_type": "First basemen",
         "program": "Eric Karros",
         "requirements": [{
             "requirement_type": "H",
@@ -7748,5 +7748,200 @@
             "requirement_type": "RBI",
             "goal": "1"
         }]
-    }]
+    }, {
+        "id": 431,
+        "player": "Billy Williams",
+        "rating": "90",
+        "series": "AS",
+        "duration": "Single game",
+        "team": "CHC",
+        "position": "LF",
+        "program_type": "Career Arcs",
+        "program": "Billy Williams",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "3"
+        }]
+    },  {
+        "id": 432,
+        "player": "Trevor Hoffman",
+        "rating": "77",
+        "series": "IV",
+        "duration": "Multi-game",
+        "team": "MIL",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Trevor Hoffman",
+        "requirements": [{
+            "requirement_type": "S",
+            "goal": "10"
+        }]
+     },  {
+        "id": 433,
+        "player": "Miguel Montero",
+        "rating": "81",
+        "series": "AS",
+        "duration": "Single game",
+        "team": "ARI",
+        "position": "C",
+        "program_type": "Catcher",
+        "program": "Miguel Montero",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "2"    
+        }]
+     },  {
+        "id": 434,
+        "player": "Any Third Basemen",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-game",
+        "team": "",
+        "position": "3B",
+        "program_type": "Third Basemen",
+        "program": "Josh Harrison",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "11"
+        }, {
+            "requirement_type" "RBI"
+            "goal": "13"
+        }] 
+     },  {
+        "id": 435,
+        "player": "Any A.L. Shortstops",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-game",
+        "team": "",
+        "position": "SS",
+        "program_type": "Shortstops",
+        "program": "Gleyber Torres",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "40"
+        }, {
+            "requirement_type": "R",
+            "goal": "10"    
+        }, {
+            "requirement_type": "XBH",
+            "goal": "15"    
+        }, {
+            "requirement_type": "HR",
+            "goal": "5"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "15"      
+        }, {
+            "requirement_type": "SB",
+            "goal": "5"  
+        }]    
+     },  {
+        "id": 436,
+        "player": "Homer Bailey",
+        "rating": "83",
+        "series": "BO",
+        "duration": "Multi-game",
+        "team": "CIN",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Homer Bailey",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "2"
+        }, {
+            "requirement_type": "K",
+            "goal": "25"    
+     },  {
+        "id": 437,
+        "player": "Any Padres Starting Pitchers",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-game",
+        "team": "",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Chris Young",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "15"
+        }, {
+            "requirement_type": "W",
+            "goal": "2"  
+        }]    
+     },  {
+        "id": 438,
+        "player": "Any Live Series Starting Pitchers",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-game",
+        "team": "",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Bartolo Colon",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "3"
+        }, {
+            "requirement_type": "K",
+            "goal": "25"           
+        }] 
+     },  {
+        "id": 439,
+        "player": "Any A.L. Starting Pitchers",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-game",
+        "team": "",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Anibal Sanchez",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "30"
+        }, {
+            "requirement_type": "W",
+            "goal": "3"  
+        }, {
+            "requirement_type": "K",
+            "goal": "30"
+        }]   
+     },  {
+        "id": 440,
+        "player": "Tony Sipp",
+        "rating": "80",
+        "series": "IV",
+        "duration": "Multi-game",
+        "team": "HOU",
+        "position": "RP",
+        "program_type": "Relief Pitchers",
+        "program": "Tony Sipp",
+        "requirements": [{
+            "requirement_type": "HO",
+            "goal": "3"
+        }, {
+            "requirement_type": "K",
+            "goal": "25"  
+        }]
+     },  {
+        "id": 441,
+        "player": "Any Yankees RP or CP",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-game",
+        "team": "",
+        "position": "RP or CP",
+        "program_type": "Relief Pitchers",
+        "program": "Phil Hughes",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "20"
+        }]        
+   }]
 }

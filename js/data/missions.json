@@ -2068,9 +2068,6 @@
             "requirement_type": "RBI",
             "goal": 15
         }, {
-            "requirement_type": "BB",
-            "goal": 5
-        }, {
             "requirement_type": "R",
             "goal": 5
         }, {
@@ -7943,6 +7940,184 @@
         "requirements": [{
             "requirement_type": "K",
             "goal": "20"
+        }]
+    }, {
+        "id":442,
+        "player": "A.L. Hitters from Conquest Part 1",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Conquest",
+        "program": "Conquest Part 1",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "7"
+        }, {
+            "requirement_type": "HR",
+            "goal": "1"
+        }, {
+            "requirement_type": "R",
+            "goal": "3"
+        }, {
+            "requirement_type":"RBI",
+            "goal": "3"
+        }]
+    }, {
+        "id":443,
+        "player": "A.L. Pitchers from Conquest Part 1",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Conquest",
+        "program": "Conquest Part 1",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "8"
+        }, {
+            "requirement_type": "K",
+            "goal": "7"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }]
+    }, {
+        "id":444,
+        "player": "N.L. Hitters from Conquest Part 1",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Conquest",
+        "program": "Conquest Part 1",
+        "requirements": [{
+            "requirement_type": "2B",
+            "goal": "1"
+        }, {
+            "requirement_type": "HR",
+            "goal": "2"
+        }, {
+            "requirement_type": "R",
+            "goal": "4"
+        }, {
+            "requirement_type":"RBI",
+            "goal": "5"
+        }]
+    }, {
+        "id":445,
+        "player": "N.L. Pitcher from Conquest Part 1",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Conquest",
+        "program": "Conquest Part 1",
+        "requirements": [{
+            "requirement_type": "CG",
+            "goal": "1"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "7"
+        }]
+    }, {
+        "id":446,
+        "player": "MLB Hitters from Conquest",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Conquest",
+        "program": "Conquest Part 1",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "9"
+        }, {
+            "requirement_type": "2B",
+            "goal": "1"
+        }, {
+            "requirement_type": "3B",
+            "goal": "1"
+        }, {
+            "requirement_type": "HR",
+            "goal": "1"
+        }, {
+            "requirement_type": "R",
+            "goal": "5"
+        }, {
+            "requirement_type":"RBI",
+            "goal": "5"
+        }]
+    }, {
+        "id":447,
+        "player": "MLB Pitchers from Conquest",
+        "rating": "-",
+        "series": "-",
+        "duration": "Single Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Conquest",
+        "program": "Conquest Part 1",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "8"
+        }, {
+            "requirement_type": "K",
+            "goal": "11"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type":"QS",
+            "goal": "1"
+        }]
+    }, {
+        "id":448,
+        "player": "Adam Lind",
+        "rating": "81",
+        "series": "BO",
+        "duration": "Single Game",
+        "team": "Blue Jays",
+        "position": "LF",
+        "program_type": "Left Fielders",
+        "program": "Adam Lind",
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "3"
+        }]
+    }, {
+        "id":449,
+        "player": "Mark Trumbo",
+        "rating": "80",
+        "series": "AS",
+        "duration": "Multi-Game",
+        "team": "Orioles",
+        "position": "RF",
+        "program_type": "Right Fielders",
+        "program": "Mark Trumbo",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "20"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "10"
+        }, {
+            "requirement_type": "HR",
+            "goal": "7"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "13"
         }]
     }]
 }

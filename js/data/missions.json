@@ -7304,12 +7304,10 @@
         "program": "Minnesota Twins",
         "requirements": [{
             "requirement_type": "W",
-            "goal": "4",
-            "current": 0
+            "goal": "4"
         }, {
             "requirement_type": "K",
-            "goal": "40",
-            "current": 0
+            "goal": "40"
         }]
     }, {
         "id": 407,
@@ -7323,24 +7321,19 @@
         "program": "Miami Marlins",
         "requirements": [{
             "requirement_type": "PA",
-            "goal": "30",
-            "current": 0
+            "goal": "30"
         }, {
             "requirement_type": "H",
-            "goal": "10",
-            "current": 0
+            "goal": "10"
         }, {
             "requirement_type": "R",
-            "goal": "5",
-            "current": 0
+            "goal": "5"
         }, {
             "requirement_type": "3B",
-            "goal": "1",
-            "current": 0
+            "goal": "1"
         }, {
             "requirement_type": "SB",
-            "goal": "5",
-            "current": 0
+            "goal": "5"
         }]
     }, {
         "id": 408,
@@ -7354,12 +7347,10 @@
         "program": "Cincinnati Reds",
         "requirements": [{
             "requirement_type": "W",
-            "goal": "4",
-            "current": 0
+            "goal": "4"
         }, {
             "requirement_type": "K",
-            "goal": "50",
-            "current": 0
+            "goal": "50"
         }]
     }, {
         "id": 409,
@@ -7373,12 +7364,10 @@
         "program": "Gary Carter",
         "requirements": [{
             "requirement_type": "H",
-            "goal": 3,
-            "current": 0
+            "goal": 3
         }, {
             "requirement_type": "RBI",
-            "goal": 3,
-            "current": 0
+            "goal": 3
         }]
     }, {
         "id": 410,
@@ -7392,12 +7381,10 @@
         "program": "Paul Molitor",
         "requirements": [{
             "requirement_type": "R",
-            "goal": 3,
-            "current": 0
+            "goal": 3
         }, {
             "requirement_type": "RBI",
-            "goal": 3,
-            "current": 0
+            "goal": 3
         }]
     }, {
         "id": 411,
@@ -7411,16 +7398,13 @@
         "program": "Jack Morris",
         "requirements": [{
             "requirement_type": "W",
-            "goal": 7,
-            "current": 0
+            "goal": 7
         }, {
             "requirement_type": "IP",
-            "goal": 92,
-            "current": 0
+            "goal": 92
         }, {
             "requirement_type": "K",
-            "goal": 64,
-            "current": 0
+            "goal": 64
         }]
     }, {
         "id": 412,
@@ -7434,16 +7418,13 @@
         "program": "Trevor Hoffman",
         "requirements": [{
             "requirement_type": "IP",
-            "goal": 60,
-            "current": 0
+            "goal": 60
         }, {
             "requirement_type": "K",
-            "goal": 75,
-            "current": 0
+            "goal": 75
         }, {
             "requirement_type": "SV",
-            "goal": 20,
-            "current": 0
+            "goal": 20
         }]
     }, {
         "id": 413,
@@ -7942,7 +7923,7 @@
             "goal": "20"
         }]
     }, {
-        "id":442,
+        "id": 442,
         "player": "A.L. Hitters from Conquest Part 1",
         "rating": "-",
         "series": "-",
@@ -7961,11 +7942,11 @@
             "requirement_type": "R",
             "goal": "3"
         }, {
-            "requirement_type":"RBI",
+            "requirement_type": "RBI",
             "goal": "3"
         }]
     }, {
-        "id":443,
+        "id": 443,
         "player": "A.L. Pitchers from Conquest Part 1",
         "rating": "-",
         "series": "-",
@@ -7985,7 +7966,7 @@
             "goal": "1"
         }]
     }, {
-        "id":444,
+        "id": 444,
         "player": "N.L. Hitters from Conquest Part 1",
         "rating": "-",
         "series": "-",
@@ -8004,11 +7985,11 @@
             "requirement_type": "R",
             "goal": "4"
         }, {
-            "requirement_type":"RBI",
+            "requirement_type": "RBI",
             "goal": "5"
         }]
     }, {
-        "id":445,
+        "id": 445,
         "player": "N.L. Pitcher from Conquest Part 1",
         "rating": "-",
         "series": "-",
@@ -8028,7 +8009,7 @@
             "goal": "7"
         }]
     }, {
-        "id":446,
+        "id": 446,
         "player": "MLB Hitters from Conquest",
         "rating": "-",
         "series": "-",
@@ -8053,11 +8034,11 @@
             "requirement_type": "R",
             "goal": "5"
         }, {
-            "requirement_type":"RBI",
+            "requirement_type": "RBI",
             "goal": "5"
         }]
     }, {
-        "id":447,
+        "id": 447,
         "player": "MLB Pitchers from Conquest",
         "rating": "-",
         "series": "-",
@@ -8076,11 +8057,11 @@
             "requirement_type": "W",
             "goal": "1"
         }, {
-            "requirement_type":"QS",
+            "requirement_type": "QS",
             "goal": "1"
         }]
     }, {
-        "id":448,
+        "id": 448,
         "player": "Adam Lind",
         "rating": "81",
         "series": "BO",
@@ -8097,7 +8078,7 @@
             "goal": "3"
         }]
     }, {
-        "id":449,
+        "id": 449,
         "player": "Mark Trumbo",
         "rating": "80",
         "series": "AS",
@@ -8118,6 +8099,263 @@
         }, {
             "requirement_type": "RBI",
             "goal": "13"
+        }]
+    }, {
+        "id": 450,
+        "player": "Any RP or CP",
+        "rating": "86",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Rays",
+        "position": "RP",
+        "program_type": "Relief Pitchers",
+        "program": "Jake McGee",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "60"
+        }]
+    }, {
+        "id": 451,
+        "player": "Any Breakout SP",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Starting Pitchers",
+        "program": "Mat Latos",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "30"
+        }]
+    }, {
+        "id": 452,
+        "player": "Any All-Star SP",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Starting Pitchers",
+        "program": "James Shields",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "30"
+        }, {
+            "requirement_type": "K",
+            "goal": "30"
+        }]
+    }, {
+        "id": 453,
+        "player": "Anibal Sanchez",
+        "rating": "85",
+        "series": "IV",
+        "duration": "Multi-Game",
+        "team": "Tigers",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Anibal Sanchez",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "30"
+        }]
+    }, {
+        "id": 454,
+        "player": "Anibal Sanchez",
+        "rating": "85",
+        "series": "IV",
+        "duration": "Single Game",
+        "team": "Tigers",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Anibal Sanchez",
+        "requirements": [{
+            "requirement_type": "CGSO",
+            "goal": "1"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "12"
+        }]
+    }, {
+        "id": 455,
+        "player": "Any NL SP",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Starting Pitchers",
+        "program": "Mike Soroka",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "2"
+        }, {
+            "requirement_type": "K",
+            "goal": "20"
+        }]
+    }, {
+        "id": 456,
+        "player": "Any Cubs SP",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "Cubs",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Jason Hammel",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "20"
+        }]
+    }, {
+        "id": 457,
+        "player": "Any LF",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "LF",
+        "program_type": "Left Fielders",
+        "program": "Melky Cabrera",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "25"
+        }]
+    }, {
+        "id": 458,
+        "player": "Gleyber Torres",
+        "rating": "87",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Yankees",
+        "position": "SS",
+        "program_type": "Shortstops",
+        "program": "Gleyber Torres",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2"
+        }, {
+            "requirement_type": "R",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "1"
+        }, {
+            "requirement_type": "SB",
+            "goal": "1"
+        }]
+    }, {
+        "id": 459,
+        "player": "Gleyber Torres",
+        "rating": "87",
+        "series": "FS",
+        "duration": "Multi-Game",
+        "team": "Yankees",
+        "position": "SS",
+        "program_type": "Shortstops",
+        "program": "Gleyber Torres",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "25"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "8"
+        }]
+    }, {
+        "id": 460,
+        "player": "Any Rookie Series Player",
+        "rating": "-",
+        "series": "R",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "-",
+        "program_type": "Shortstops",
+        "program": "Mike Aviles",
+        "requirements": [{
+            "requirement_type": "R",
+            "goal": "5"
+        }]
+    }, {
+        "id": 461,
+        "player": "Any 3B",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "3B",
+        "program_type": "Third Basemen",
+        "program": "Buddy Bell",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "25"
+        }, {
+            "requirement_type": "HR",
+            "goal": "10"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "25"
+        }]
+    }, {
+        "id": 462,
+        "player": "Any 2B",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "2B",
+        "program_type": "Second Basemen",
+        "program": "Matt Carpenter",
+        "requirements": [{
+            "requirement_type": "RBI",
+            "goal": "10"
+        }]
+    }, {
+        "id": 463,
+        "player": "Any 2B",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "2B",
+        "program_type": "Second Basemen",
+        "program": "Rickie Weeks",
+        "requirements": [{
+            "requirement_type": "SB",
+            "goal": "5"
+        }]
+    }, {
+        "id": 464,
+        "player": "Any Breakout Players",
+        "rating": "-",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "-",
+        "program_type": "First Basemen",
+        "program": "Steve Pearce",
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": "10"
+        }]
+    }, {
+        "id": 465,
+        "player": "Any C",
+        "rating": "-",
+        "series": "-",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "C",
+        "program_type": "Catcher",
+        "program": "Jason Castro",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "5"
+        }, {
+            "requirement_type": "HR",
+            "goal": "1"
         }]
     }]
 }

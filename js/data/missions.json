@@ -8356,6 +8356,802 @@
         }, {
             "requirement_type": "HR",
             "goal": "1"
+        }]    
+    }, {
+        "id": 466,
+        "player": "Albert Belle",
+        "rating": "71",
+        "series": "R",
+        "duration": "Single Game",
+        "team": "Indians",
+        "position": "RF",
+        "program_type": "Career Arcs",
+        "program": "Albert Belle",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "1"
+        }, {
+            "requirement_type": "R",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "1"
         }]
+    }, {
+        "id": 467,
+        "player": "Any Silver, Bronze or Common LF",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "LF",
+        "program_type": "Career Arcs",
+        "program": "Albert Belle",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "40"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "15"
+        }, {
+            "requirement_type": "HR",
+            "goal": "10"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "25"
+        }]
+    }, {
+        "id": 468,
+        "player": "Any Diamond or Gold LF",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "LF",
+        "program_type": "Career Arcs",
+        "program": "Albert Belle",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "350"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "140"
+        }, {
+            "requirement_type": "HR",
+            "goal": "75"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "185"
+        }, {
+            "requirement_type": "SB",
+            "goal": "10"    
+        }]
+    }, {
+        "id": 469,
+        "player": "Any Silver, Bronze or Common RF",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "LF",
+        "program_type": "Career Arcs",
+        "program": "Albert Belle",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "40"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "15"
+        }, {
+            "requirement_type": "HR",
+            "goal": "10"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "25"
+        }]
+    }, {
+        "id": 470,
+        "player": "Any Diamond or Gold RF",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "LF",
+        "program_type": "Career Arcs",
+        "program": "Albert Belle",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "350"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "140"
+        }, {
+            "requirement_type": "HR",
+            "goal": "75"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "185"
+        }, {
+            "requirement_type": "SB",
+            "goal": "10"    
+        }]
+    }, {
+        "id": 471,
+        "player": "Any Silver, Bronze or Common 2B",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "2B",
+        "program_type": "Career Arcs",
+        "program": "Roberto Alomar",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "40"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "15"
+        }, {
+            "requirement_type": "HR",
+            "goal": "5"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "25"
+        }, {
+            "requirement_type": "SB",
+            "goal": "10"    
+        }]    
+    }, {
+        "id": 472,
+        "player": "Any Diamond or Gold 2B",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "2B",
+        "program_type": "Career Arcs",
+        "program": "Roberto Alomar",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "135"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "55"
+        }, {
+            "requirement_type": "HR",
+            "goal": "30"
+        }, {
+            "requirement_type": "R",
+            "goal": "50"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "75"
+        }, {
+            "requirement_type": "SB",
+            "goal": "30"    
+        }]
+    }, {
+        "id": 473,
+        "player": "Johnny Bench",
+        "rating": "76",
+        "series": "IV",
+        "duration": "Single Game",
+        "team": "Reds",
+        "position": "C",
+        "program_type": "Career Arcs",
+        "program": "Johnny Bench",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "2"
+        }] 
+    }, {
+        "id": 474,
+        "player": "Any Silver, Bronze or Common C",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "C",
+        "program_type": "Career Arcs",
+        "program": "Johnny Bench",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "80"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "40"
+        }, {
+            "requirement_type": "HR",
+            "goal": "30"
+        }, {
+            "requirement_type": "R",
+            "goal": "30"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50"   
+        }]
+    }, {
+        "id": 475,
+        "player": "Any Diamond or Gold C",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "C",
+        "program_type": "Career Arcs",
+        "program": "Johnny Bench",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "300"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "120"
+        }, {
+            "requirement_type": "HR",
+            "goal": "65"
+        }, {
+            "requirement_type": "R",
+            "goal": "100"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "165"           
+        }]
+    }, {
+        "id": 476,
+        "player": "Frank Thomas",
+        "rating": "76",
+        "series": "R",
+        "duration": "Single Game",
+        "team": "White Sox",
+        "position": "1B",
+        "program_type": "Career Arcs",
+        "program": "Frank Thomas",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "2"
+        }, {
+            "requirement_type": "R",
+            "goal": "1"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "1"
+        }]
+    }, {
+        "id": 477,
+        "player": "Any Silver, Bronze or Common 1B",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "1B",
+        "program_type": "Career Arcs",
+        "program": "Frank Thomas",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "80"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "40"
+        }, {
+            "requirement_type": "HR",
+            "goal": "30"
+        }, {
+            "requirement_type": "R",
+            "goal": "30"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "60"   
+        }]
+    }, {
+        "id": 478,
+        "player": "Any Diamond or Gold 1B",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "1B",
+        "program_type": "Career Arcs",
+        "program": "Frank Thomas",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "350"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "160"
+        }, {
+            "requirement_type": "HR",
+            "goal": "90"
+        }, {
+            "requirement_type": "R",
+            "goal": "120"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "200"           
+        }]
+    }, {
+        "id": 479,
+        "player": "Duke Snider",
+        "rating": "72",
+        "series": "IV",
+        "duration": "Single Game",
+        "team": "Mets",
+        "position": "RF",
+        "program_type": "Career Arcs",
+        "program": "Duke Snider",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "1"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "1"
+        }]
+    }, {
+        "id": 480,
+        "player": "Any Silver, Bronze or Common CF",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "CF",
+        "program_type": "Career Arcs",
+        "program": "Duke Snider",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "80"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "30"
+        }, {
+            "requirement_type": "HR",
+            "goal": "10"
+        }, {
+            "requirement_type": "R",
+            "goal": "40"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "25"
+        }, {
+            "requirement_type": "SB",
+            "goal": "25"       
+        }]
+    }, {
+        "id": 481,
+        "player": "Any Diamond or Gold CF",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "CF",
+        "program_type": "Career Arcs",
+        "program": "Duke Snider",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "350"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "120"
+        }, {
+            "requirement_type": "HR",
+            "goal": "50"
+        }, {
+            "requirement_type": "R",
+            "goal": "160"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "120"
+        }, {
+            "requirement_type": "SB",
+            "goal": "60"         
+        }]
+    }, {
+        "id": 482,
+        "player": "Any LS Silver, Bronze or Common SP",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Zack Greinke",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "200"
+        }, {
+            "requirement_type": "W",
+            "goal": "10"
+        }, {
+            "requirement_type": "CG",
+            "goal": "3"      
+        }]
+    }, {
+        "id": 483,
+        "player": "Any LS Diamond or Gold SP",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Zack Greinke",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "500"
+        }, {
+            "requirement_type": "W",
+            "goal": "40"
+        }, {
+            "requirement_type": "CG",
+            "goal": "10"          
+        }]
+    }, {
+        "id": 484,
+        "player": "Any Silver, Bronze or Common SS",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "SS",
+        "program_type": "Career Arcs",
+        "program": "Barry Larkin",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "40"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "10"
+        }, {
+            "requirement_type": "HR",
+            "goal": "5"
+        }, {
+            "requirement_type": "R",
+            "goal": "25"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "15"
+        }, {
+            "requirement_type": "SB",
+            "goal": "15"       
+        }]
+    }, {
+        "id": 485,
+        "player": "Any Diamond or Gold SS",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "SS",
+        "program_type": "Career Arcs",
+        "program": "Barry Larkin",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "135"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "35"
+        }, {
+            "requirement_type": "HR",
+            "goal": "10"
+        }, {
+            "requirement_type": "R",
+            "goal": "60"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "40"
+        }, {
+            "requirement_type": "SB",
+            "goal": "40"         
+        }]
+    }, {
+        "id": 486,
+        "player": "Any Silver, Bronze or Common 3B",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "3B",
+        "program_type": "Career Arcs",
+        "program": "Mike Schmidt",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "80"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "40"
+        }, {
+            "requirement_type": "HR",
+            "goal": "20"
+        }, {
+            "requirement_type": "R",
+            "goal": "30"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50"              
+        }]
+    }, {
+        "id": 487,
+        "player": "Any Diamond or Gold 3B",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "3B",
+        "program_type": "Career Arcs",
+        "program": "Mike Schmidt",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "350"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "140"
+        }, {
+            "requirement_type": "HR",
+            "goal": "75"
+        }, {
+            "requirement_type": "R",
+            "goal": "100"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "185"
+        }, {
+            "requirement_type": "SB",
+            "goal": "5"         
+        }]
+    }, {
+        "id": 488,
+        "player": "Any Legend Silver, Bronze or Common SP",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Fergie Jenkins",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "200"
+        }, {
+            "requirement_type": "W",
+            "goal": "10"
+        }, {
+            "requirement_type": "CG",
+            "goal": "3"      
+        }]
+   }, {
+        "id": 489,
+        "player": "Any Legend Diamond or Gold SP",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Fergie Jenkins",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "500"
+        }, {
+            "requirement_type": "W",
+            "goal": "40"
+        }, {
+            "requirement_type": "CG",
+            "goal": "10"          
+        }]
+    }, {
+        "id": 490,
+        "player": "C.C. Sabathia",
+        "rating": "76",
+        "series": "R",
+        "duration": "Single Game",
+        "team": "Indians",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "C.C. Sabathia",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "5"
+        }, {
+            "requirement_type": "K",
+            "goal": "2"      
+        }]    
+    }, {
+        "id": 491,
+        "player": "Any Flashback Silver, Bronze or Common SP",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "C.C. Sabathia",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "200"
+        }, {
+            "requirement_type": "W",
+            "goal": "10"
+        }, {
+            "requirement_type": "CG",
+            "goal": "3"      
+        }]
+    }, {
+        "id": 492,
+        "player": "Any Flashback Diamond or Gold SP",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "C.C. Sabathia",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "500"
+        }, {
+            "requirement_type": "W",
+            "goal": "40"
+        }, {
+            "requirement_type": "CG",
+            "goal": "10"          
+        }]
+    }, {
+        "id": 493,
+        "player": "Robb Nen",
+        "rating": "54",
+        "series": "R",
+        "duration": "Single Game",
+        "team": "Rangers",
+        "position": "RP",
+        "program_type": "Career Arcs",
+        "program": "Robb Nen",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "2"
+        }, {
+            "requirement_type": "K",
+            "goal": "3"
+        }]
+    }, {
+        "id": 494,
+        "player": "Any Silver, Bronze or Common RP",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "RP",
+        "program_type": "Career Arcs",
+        "program": "Robb Nen",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "150"
+        }, {
+            "requirement_type": "S",
+            "goal": "10"
+        }, {
+            "requirement_type": "HO",
+            "goal": "40"      
+        }]
+    }, {
+        "id": 495,
+        "player": "Any Diamond or Gold RP",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "RP",
+        "program_type": "Career Arcs",
+        "program": "Robb Nen",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "400"
+        }, {
+            "requirement_type": "S",
+            "goal": "50"
+        }, {
+            "requirement_type": "HO",
+            "goal": "150"          
+        }]
+    }, {
+        "id": 496,
+        "player": "Rollie Fingers",
+        "rating": "68",
+        "series": "R",
+        "duration": "Multi-Game",
+        "team": "Athletics",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Rollie Fingers",
+        "requirements": [{
+            "requirement_type": "S",
+            "goal": "2"
+        }, {
+            "requirement_type": "HO",
+            "goal": "2"
+        }, {
+            "requirement_type": "W",
+            "goal": "2"
+        }, {
+            "requirement_type": "K",
+            "goal": "10"    
+        }]
+    }, {
+        "id": 497,
+        "player": "Any Silver, Bronze or Common CP",
+        "rating": "0-79",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Rollie Fingers",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "150"
+        }, {
+            "requirement_type": "S",
+            "goal": "50"           
+        }]
+    }, {
+        "id": 498,
+        "player": "Any Diamond or Gold CP",
+        "rating": "80-99",
+        "series": "",
+        "duration": "Multi-Game",
+        "team": "",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Rollie Fingers",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "400"
+        }, {
+            "requirement_type": "S",
+            "goal": "150"        
+        }]
+    }, {
+        "id": 499,
+        "player": "Bartolo Colon",
+        "rating": "82",
+        "series": "HW",
+        "duration": "Single Game",
+        "team": "Angels",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Bartolo Colon",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "8"
+        }, {
+            "requirement_type": "K",
+            "goal": "5"    
+        }]
+   }, {
+        "id": 500,
+        "player": "Josh Harrison",
+        "rating": "81",
+        "series": "BO",
+        "duration": "Single Game",
+        "team": "Pirates",
+        "position": "3B",
+        "program_type": "Third Basemen",
+        "program": "Josh Harrison",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "1"
+        }, {
+            "requirement_type": "SB",
+            "goal": "1"
+        }]     
     }]
 }

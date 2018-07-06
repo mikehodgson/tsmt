@@ -21,19 +21,18 @@ window.onload = function() {
         },
         created : function() {
             var _this = this;
-            fetch('js/data/missions.json').then(function(response) {
-                response.json().then(function(data) {
+            fetch('js/data/missions.json')
+                .then(function(response) {
+                    return response.json();
+                })
+                .then(function(data) {
                     _this.$data.missions = getMissionsFromData(data.missions).sort(_this.sortByTitle);
                     _this.$data.defaults = {version: data.version, last_update: (data.last_update !== undefined) ? data.last_update : "", program_types: data.program_types, durations: data.durations, series: data.series, teams: data.teams, positions: data.positions};
                     _this.$data.filteredMissions = _this.$data.missions;
+                })
+                .then(function() {
+                    _this.$data.activeMissions = _this.getActiveMissions();
                 });
-            });
-        },
-        mounted : function() {
-            this.$data.activeMissions = this.getActiveMissions();
-        },
-        updated : function() {
-            this.saveActiveMissions();
         },
         watch: {
             selectedFilter: function(newVal) {
@@ -64,6 +63,7 @@ window.onload = function() {
                 if (_this.selectedMission != null) {
                     if (!_this.hasActiveMission(_this.activeMissions, _this.selectedMission)) {
                         _this.activeMissions.push(_this.createActiveMission(_this.selectedMission.id));
+                        _this.saveActiveMissions();
                     }
                     _this.selectedMission = null;
                 }
@@ -106,7 +106,8 @@ window.onload = function() {
                 return newMission;
             },
             saveActiveMissions: function() {
-                localStorage.setItem('CurrentActiveMissions', JSON.stringify(this.activeMissions));
+                var _this = this;
+                localStorage.setItem('CurrentActiveMissions', JSON.stringify(_this.activeMissions));
             },
             hasActiveMission: function(arr, obj) {
                 if (arr.filter(function(e) { return e.id === obj.id; }).length > 0) {
@@ -116,17 +117,23 @@ window.onload = function() {
                 }
             },
             requirementIncrease: function(requirement) {
+                var _this = this;
                 if (requirement.current < requirement.goal) 
                     requirement.current += 1;
-            },
+                    _this.saveActiveMissions();
+                },
             requirementReset: function(requirement) {
+                var _this = this;
                 requirement.current = 0;
+                _this.saveActiveMissions();
             },
             requirementResetAll: function(mission) {
                 var requirements = mission.requirements;
+                var _this = this;
                 for (var i=0; i < requirements.length; i++) {
                     requirements[i].current = 0;
                 }
+                _this.saveActiveMissions();
             },
             isRequirementComplete: function(requirement) {
                 if (requirement.current >= requirement.goal) {
@@ -153,15 +160,19 @@ window.onload = function() {
                 return complete;
             },
             removeActiveMission: function(arr, obj) {
+                var _this = this;
                 for (var i=0; i < arr.length; i++) {
                     if (arr[i].id == obj.id) {
                         arr.splice(i, 1);
                         break;
                     }
                 }
+                _this.saveActiveMissions();
             },
             clearActiveMissions: function() {
-                this.activeMissions = [];
+                var _this = this;
+                _this.activeMissions = [];
+                _this.saveActiveMissions();
             },
             editMission: function(mission) {
                 var _this = this;

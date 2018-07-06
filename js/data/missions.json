@@ -9312,6 +9312,61 @@
         }, {
             "requirement_type": "RBI",
             "goal": "1"    
+        }]
+    }, {
+        "id": 509,
+        "player": "Chipper Jones",
+        "rating": "79/85",
+        "series": "R/IV",
+        "duration": "Multi-Game",
+        "team": "Braves",
+        "position": "3B",
+        "program_type": "Immortals",
+        "program": "Chipper Jones",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "130"
+        }, {
+            "requirement_type": "R",
+            "goal": "15"
+        }, {
+            "requirement_type": "H",
+            "goal": "35"
+        }, {
+            "requirement_type": "2B",
+            "goal": "15"
+        }, {
+            "requirement_type": "HR",
+            "goal": "7"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "20" 
+        }, {
+            "requirement_type": "SB",
+            "goal": "2"      
+        }]
+    }, {
+        "id": 510,
+        "player": "Phil Hughes",
+        "rating": "80",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Yankees",
+        "position": "RP",
+        "program_type": "Relief Pitchers",
+        "program": "Phil Hughes",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "14"
+        }, {
+            "requirement_type": "K",
+            "goal": "16"
+        }, {
+            "requirement_type": "HO",
+            "goal": "6"     
+        }, {
+            "requirement_type": "S",
+            "goal": "1"    
         }]    
     }]
 }

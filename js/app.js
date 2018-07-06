@@ -21,15 +21,12 @@ window.onload = function() {
         },
         created : function() {
             var _this = this;
-            jQuery.ajax({
-                url: 'js/data/missions.json',
-                dataType: 'json',
-                async: false,
-                success: function(data) {
+            fetch('js/data/missions.json').then(function(response) {
+                response.json().then(function(data) {
                     _this.$data.missions = getMissionsFromData(data.missions).sort(_this.sortByTitle);
                     _this.$data.defaults = {version: data.version, last_update: (data.last_update !== undefined) ? data.last_update : "", program_types: data.program_types, durations: data.durations, series: data.series, teams: data.teams, positions: data.positions};
                     _this.$data.filteredMissions = _this.$data.missions;
-                }
+                });
             });
         },
         mounted : function() {

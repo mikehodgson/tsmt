@@ -30,12 +30,11 @@ window.onload = function() {
             if (localData != null) {
                 _this.$data.missions = getMissionsFromData(JSON.parse(localData)).sort(sortByID);
             }
-            jQuery.getJSON('js/data/missions.json', function(json) {
-                if (_this.$data.missions.length == 0) {
-                    console.log('in here');
-                    _this.$data.missions = getMissionsFromData(json.missions).sort(sortByID);
-                }
-                _this.$data.settings = json;
+            fetch('js/data/missions.json').then(function(response) {
+                response.json().then(function(data) {
+                    _this.$data.missions = getMissionsFromData(data.missions).sort(_this.sortByTitle);
+                    _this.$data.settings = {version: data.version, last_update: (data.last_update !== undefined) ? data.last_update : "", program_types: data.program_types, durations: data.durations, series: data.series, teams: data.teams, positions: data.positions};
+                });
             });
             _this.$data.selectedMission = _this.createEmptyMission();
         },

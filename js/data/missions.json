@@ -598,8 +598,20 @@
         "program_type": "Immortals",
         "program": "Cal Ripken Jr.",
         "requirements": [{
+            "requirement_type": "TPA",
+            "goal": 50
+        }, {
+            "requirement_type": "R",
+            "goal": 5
+        }, {
+            "requirement_type": "H",
+            "goal": 12
+        }, {
             "requirement_type": "2B",
-            "goal": 25
+            "goal": 2
+        }, {
+            "requirement_type": "RBI",
+            "goal": 5
         }]
     }, {
         "id": 30,
@@ -9407,6 +9419,23 @@
         }, {
             "requirement_type": "RBI",
             "goal": "15"
+        }]
+    }, {
+        "id": 513,
+        "player": "Cal Ripken Jr.",
+        "rating": "78/83",
+        "series": "IV/HW",
+        "duration": "Multi-Game",
+        "team": "Orioles",
+        "position": "SS",
+        "program_type": "Immortals",
+        "program": "Cal Ripken Jr.",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "50"
+        }, {
+            "requirement_type": "2B",
+            "goal": "25"
         }]
     }]
 }

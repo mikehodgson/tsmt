@@ -598,8 +598,20 @@
         "program_type": "Immortals",
         "program": "Cal Ripken Jr.",
         "requirements": [{
+            "requirement_type": "TPA",
+            "goal": 50
+        }, {
+            "requirement_type": "R",
+            "goal": 5
+        }, {
+            "requirement_type": "H",
+            "goal": 12
+        }, {
             "requirement_type": "2B",
-            "goal": 25
+            "goal": 2
+        }, {
+            "requirement_type": "RBI",
+            "goal": 5
         }]
     }, {
         "id": 30,
@@ -1250,7 +1262,7 @@
             "goal": 6
         }, {
             "requirement_type": "K",
-            "goal": 5
+            "goal": 4
         }]
     }, {
         "id": 72,
@@ -1360,7 +1372,7 @@
             "goal": 20
         }, {
             "requirement_type": "K",
-            "goal": 10
+            "goal": 15
         }]
     }, {
         "id": 79,
@@ -2005,7 +2017,7 @@
         "player": "Chad Qualls",
         "rating": "78",
         "series": "IV",
-        "duration": "Single Game",
+        "duration": "Multi-Game",
         "team": "Diamondbacks",
         "position": "RP",
         "program_type": "Relief Pitchers",
@@ -8620,7 +8632,7 @@
             "goal": "1"    
         }, {
             "requirement_type": "RBI",
-            "goal": "1"
+            "goal": "2"
         }]
     }, {
         "id": 477,
@@ -9367,6 +9379,63 @@
         }, {
             "requirement_type": "S",
             "goal": "1"    
-        }]    
+        }]
+    }, {
+        "id": 511,
+        "player": "Melky Cabrera",
+        "rating": "83",
+        "series": "AS",
+        "duration": "Multi-Game",
+        "team": "Giants",
+        "position": "LF",
+        "program_type": "Left Fielders",
+        "program": "Melky Cabrera",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "7"
+        }, {
+            "requirement_type": "HR",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "10"
+        }]
+    }, {
+        "id": 512,
+        "player": "Steve Pearce",
+        "rating": "83",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Orioles",
+        "position": "1B",
+        "program_type": "First Basemen",
+        "program": "Steve Pearce",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "10"
+        }, {
+            "requirement_type": "HR",
+            "goal": "5"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "15"
+        }]
+    }, {
+        "id": 513,
+        "player": "Cal Ripken Jr.",
+        "rating": "78/83",
+        "series": "IV/HW",
+        "duration": "Multi-Game",
+        "team": "Orioles",
+        "position": "SS",
+        "program_type": "Immortals",
+        "program": "Cal Ripken Jr.",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "50"
+        }, {
+            "requirement_type": "2B",
+            "goal": "25"
+        }]
     }]
 }

@@ -2000,7 +2000,7 @@
         "player": "Al Alburquerque",
         "rating": "77",
         "series": "R",
-        "duration": "Single Game",
+        "duration": "Multi-Game",
         "team": "Tigers",
         "position": "RP",
         "program_type": "Relief Pitchers",
@@ -9297,7 +9297,7 @@
             "goal": "15"
         }, {
             "requirement_type": "XBH",
-            "goal": "3"
+            "goal": "2"
         }, {
             "requirement_type": "RBI",
             "goal": "5"
@@ -9436,6 +9436,46 @@
         }, {
             "requirement_type": "2B",
             "goal": "25"
+        }]
+    }, {
+        "id": 514,
+        "player": "Chase Utley",
+        "rating": "83",
+        "series": "IV",
+        "duration": "Single Game",
+        "team": "Phillies",
+        "position": "2B",
+        "program_type": "Career Arcs",
+        "program": "Chase Utley",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2"
+        }, {
+            "requirement_type": "HR",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "2"
+        }]
+    }, {
+        "id": 515,
+        "player": "Zack Greinke",
+        "rating": "77",
+        "series": "R",
+        "duration": "Single Game",
+        "team": "Royals",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Zack Greinke",
+        "requirements": [{
+            "requirement_type": "w",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "7"
+        }, {
+            "requirement_type": "K",
+            "goal": "5"
         }]
     }]
 }

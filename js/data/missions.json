@@ -9477,5 +9477,25 @@
             "requirement_type": "K",
             "goal": "5"
         }]
+    }, {
+        "id": 516,
+        "player": "Rickie Weeks",
+        "rating": "80",
+        "series": "AS",
+        "duration": "Single Game",
+        "team": "Nationals",
+        "position": "2B",
+        "program_type": "Second Basemen",
+        "program": "Rickie Weeks",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2"
+        }, {
+            "requirement_type": "R",
+            "goal": "2"
+        }, {
+            "requirement_type": "SB",
+            "goal": "1"
+        }]
     }]
 }

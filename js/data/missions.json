@@ -2092,8 +2092,8 @@
     }, {
         "id": 122,
         "player": "Ryan Raburn",
-        "rating": "-",
-        "series": "R",
+        "rating": "76",
+        "series": "BO",
         "duration": "Single Game",
         "team": "Tigers",
         "position": "LF",
@@ -9468,7 +9468,7 @@
         "program_type": "Career Arcs",
         "program": "Zack Greinke",
         "requirements": [{
-            "requirement_type": "w",
+            "requirement_type": "W",
             "goal": "1"
         }, {
             "requirement_type": "IP",

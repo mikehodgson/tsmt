@@ -8552,7 +8552,7 @@
         "series": "IV",
         "duration": "Single Game",
         "team": "Reds",
-        "position": "C",
+        "position": "3B",
         "program_type": "Career Arcs",
         "program": "Johnny Bench",
         "requirements": [{
@@ -9496,6 +9496,40 @@
         }, {
             "requirement_type": "SB",
             "goal": "1"
+        }]
+    }, {
+        "id": 517,
+        "player": "James Shields",
+        "rating": "85",
+        "series": "AS",
+        "duration": "Single Game",
+        "team": "Rays",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "James Shields",
+        "requirements": [{
+            "requirement_type": "CG SHO",
+            "goal": "1"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "10"
+        }]
+    }, {
+        "id": 518,
+        "player": "James Shields",
+        "rating": "85",
+        "series": "AS",
+        "duration": "Multi-Game",
+        "team": "Rays",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "James Shields",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "30"
         }]
     }]
 }

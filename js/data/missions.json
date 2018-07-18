@@ -9531,5 +9531,22 @@
             "requirement_type": "K",
             "goal": "30"
         }]
+    }, {
+        "id": 519,
+        "player": "Barry Larkin",
+        "rating": "79",
+        "series": "R",
+        "duration": "Single Game",
+        "team": "Reds",
+        "position": "SS",
+        "program_type": "Career Arcs",
+        "program": "Barry Larkin",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2"
+        }, {
+            "requirement_type": "R",
+            "goal": "2"
+        }]
     }]
 }

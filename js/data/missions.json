@@ -9548,5 +9548,22 @@
             "requirement_type": "R",
             "goal": "2"
         }]
+    }, {
+        "id": 520,
+        "player": "Roberto Alomar",
+        "rating": "76",
+        "series": "IV",
+        "duration": "Single Game",
+        "team": "Mets",
+        "position": "2B",
+        "program_type": "Career Arcs",
+        "program": "Roberto Alomar",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "3"
+        }, { 
+            "requirement_type": "R",
+            "goal": "2"   
+        }]
     }]
 }

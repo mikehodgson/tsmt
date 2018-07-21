@@ -9565,5 +9565,116 @@
             "requirement_type": "R",
             "goal": "2"   
         }]
+    }, {
+        "id": 521,
+        "player": "Jake McGee",
+        "rating": "86",
+        "series": "BO",
+        "duration": "Single Game",
+        "team": "Rays",
+        "position": "RP",
+        "program_type": "Relief Pitchers",
+        "program": "Jake McGee",
+        "requirements": [{
+            "requirement_type": "HO",
+            "goal": "1"
+        }, { 
+            "requirement_type": "IP",
+            "goal": "2"
+        }, { 
+            "requirement_type": "K",
+            "goal": "3"
+        }]
+    }, {
+        "id": 522,
+        "player": "Jake McGee",
+        "rating": "86",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Rays",
+        "position": "RP",
+        "program_type": "Relief Pitchers",
+        "program": "Jake McGee",
+        "requirements": [{
+            "requirement_type": "HO",
+            "goal": "8"
+        }, { 
+            "requirement_type": "IP",
+            "goal": "12"
+        }, { 
+            "requirement_type": "K",
+            "goal": "21"
+        }]
+    }, {
+        "id": 523,
+        "player": "Mat Latos",
+        "rating": "85",
+        "series": "BO",
+        "duration": "Single Game",
+        "team": "Padres",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Mat Latos",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, { 
+            "requirement_type": "IP",
+            "goal": "8"
+        }, { 
+            "requirement_type": "K",
+            "goal": "9"
+        }]
+    }, {
+        "id": 524,
+        "player": "Mat Latos",
+        "rating": "85",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Padres",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Mat Latos",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "2"
+        }, { 
+            "requirement_type": "K",
+            "goal": "30"
+        }]
+    }, {
+        "id": 525,
+        "player": "Tom Seaver",
+        "rating": "75",
+        "series": "IV",
+        "duration": "Single Game",
+        "team": "White Sox",
+        "position": "SP",
+        "program_type": "Immortals",
+        "program": "Tom Seaver",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, { 
+            "requirement_type": "IP",
+            "goal": "8"
+        }, { 
+            "requirement_type": "K",
+            "goal": "5"
+        }]
+    }, {
+        "id": 526,
+        "player": "Tom Seaver",
+        "rating": "75/84",
+        "series": "IV/AS",
+        "duration": "Multi-Game",
+        "team": "White Sox/Reds",
+        "position": "SP",
+        "program_type": "Immortals",
+        "program": "Tom Seaver",
+        "requirements": [{ 
+            "requirement_type": "CG",
+            "goal": "5"
+        }]
     }]
 }

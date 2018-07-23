@@ -9676,5 +9676,22 @@
             "requirement_type": "CG",
             "goal": "5"
         }]
+    }, {
+        "id": 527,
+        "player": "Robb Nen",
+        "rating": "79",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Marlins",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Robb Nen",
+        "requirements": [{
+            "requirement_type": "SV",
+            "goal": "15"
+        }, {
+            "requirement_type": "K",
+            "goal": "40"
+        }]
     }]
 }

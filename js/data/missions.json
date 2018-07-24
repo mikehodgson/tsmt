@@ -9710,5 +9710,244 @@
             "requirement_type": "SB",
             "goal": "20"
         }]
+    }, {
+        "id": 529,
+        "player": "Albert Belle",
+        "rating": "93",
+        "series": "AS",
+        "duration": "Multi-Game",
+        "team": "Indians",
+        "position": "LF",
+        "program_type": "Career Arcs",
+        "program": "Albert Belle",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "70"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "40"
+        }, {
+            "requirement_type": "HR",
+            "goal": "25"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "50"
+        }]
+    }, {
+        "id": 530,
+        "player": "Johnny Bench",
+        "rating": "95",
+        "series": "BO",
+        "duration": "Single Game",
+        "team": "Reds",
+        "position": "C",
+        "program_type": "Career Arcs",
+        "program": "Johnny Bench",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "3"
+        }, {
+            "requirement_type": "R",
+            "goal": "3"
+        }, {
+            "requirement_type": "HR",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "4"
+        }]
+    }, {
+        "id": 531,
+        "player": "Johnny Bench",
+        "rating": "95",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Reds",
+        "position": "C",
+        "program_type": "Career Arcs",
+        "program": "Johnny Bench",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "70"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "30"
+        }, {
+            "requirement_type": "HR",
+            "goal": "20"
+        }, {
+            "requirement_type": "R",
+            "goal": "30"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "60"
+        }]
+    }, {
+        "id": 532,
+        "player": "Frank Thomas",
+        "rating": "97",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "White Sox",
+        "position": "1B",
+        "program_type": "Career Arcs",
+        "program": "Frank Thomas",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "80"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "50"
+        }, {
+            "requirement_type": "HR",
+            "goal": "30"
+        }, {
+            "requirement_type": "R",
+            "goal": "50"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "70"
+        }]
+    }, {
+        "id": 533,
+        "player": "Barry Larkin",
+        "rating": "92",
+        "series": "HW",
+        "duration": "Single Game",
+        "team": "Reds",
+        "position": "SS",
+        "program_type": "Career Arcs",
+        "program": "Barry Larkin",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "2"
+        }, {
+            "requirement_type": "HR",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "3"
+        }, {
+            "requirement_type": "R",
+            "goal": "3"
+        }, {
+            "requirement_type": "SB",
+            "goal": "2"
+        }]
+    }, {
+        "id": 534,
+        "player": "Barry Larkin",
+        "rating": "92",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Reds",
+        "position": "SS",
+        "program_type": "Career Arcs",
+        "program": "Barry Larkin",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "55"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "15"
+        }, {
+            "requirement_type": "HR",
+            "goal": "5"
+        }, {
+            "requirement_type": "R",
+            "goal": "40"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "30"
+        }, {
+            "requirement_type": "SB",
+            "goal": "15"
+        }]
+    }, {
+        "id": 535,
+        "player": "Mike Schmidt",
+        "rating": "84",
+        "series": "IV",
+        "duration": "Multi-Game",
+        "team": "Phillies",
+        "position": "1B",
+        "program_type": "Career Arcs",
+        "program": "Mike Schmidt",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "31"
+        }, {
+            "requirement_type": "HR",
+            "goal": "8"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "22"
+        }]
+    }, {
+        "id": 536,
+        "player": "Rollie Fingers",
+        "rating": "80",
+        "series": "AS",
+        "duration": "Multi-Game",
+        "team": "Padres",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Rollie Fingers",
+        "requirements": [{
+            "requirement_type": "SV",
+            "goal": "10"
+        }, {
+            "requirement_type": "K",
+            "goal": "30"
+        }]
+    }, {
+        "id": 537,
+        "player": "Mike Schmidt",
+        "rating": "95",
+        "series": "HW",
+        "duration": "Single Game",
+        "team": "Phillies",
+        "position": "3B",
+        "program_type": "Career Arcs",
+        "program": "Mike Schmidt",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "4"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "3"
+        }, {
+            "requirement_type": "HR",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "4"
+        }]
+    }, {
+        "id": 538,
+        "player": "Mike Schmidt",
+        "rating": "95",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Phillies",
+        "position": "3B",
+        "program_type": "Career Arcs",
+        "program": "Mike Schmidt",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "80"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "50"
+        }, {
+            "requirement_type": "HR",
+            "goal": "30"
+        }, {
+            "requirement_type": "R",
+            "goal": "40"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "60"
+        }]
     }]
 }

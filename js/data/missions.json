@@ -9693,5 +9693,22 @@
             "requirement_type": "K",
             "goal": "40"
         }]
+    }, {
+        "id": 528,
+        "player": "Barry Larkin",
+        "rating": "89",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Reds",
+        "position": "SS",
+        "program_type": "Career Arcs",
+        "program": "Barry Larkin",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "10"
+        }, {
+            "requirement_type": "SB",
+            "goal": "20"
+        }]
     }]
 }

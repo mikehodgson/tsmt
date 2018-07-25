@@ -9949,5 +9949,57 @@
             "requirement_type": "RBI",
             "goal": "60"
         }]
+    }, {
+        "id": 539,
+        "player": "Roberto Alomar",
+        "rating": "92",
+        "series": "PS",
+        "duration": "Single Game",
+        "team": "Blue Jays",
+        "position": "2B",
+        "program_type": "Career Arcs",
+        "program": "Roberto Alomar",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "4"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "1"
+        }, {
+            "requirement_type": "R",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "2"
+        }, {
+            "requirement_type": "SB",
+            "goal": "2"
+        }]
+    }, {
+        "id": 540,
+        "player": "Roberto Alomar",
+        "rating": "92",
+        "series": "PS",
+        "duration": "Multi-Game",
+        "team": "Blue Jays",
+        "position": "2B",
+        "program_type": "Career Arcs",
+        "program": "Roberto Alomar",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "60"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "15"
+        }, {
+            "requirement_type": "R",
+            "goal": "35"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "20"
+        }, {
+            "requirement_type": "SB",
+            "goal": "20"
+        }]
     }]
 }

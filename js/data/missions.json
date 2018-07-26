@@ -10018,5 +10018,85 @@
             "requirement_type": "W",
             "goal": "3"
         }]
+    }, {
+        "id": 542,
+        "player": "Babe Ruth",
+        "rating": "82",
+        "series": "AS",
+        "duration": "Single Game",
+        "team": "Yankees",
+        "position": "LF",
+        "program_type": "Immortals",
+        "program": "Babe Ruth",
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "4"
+        }]
+    }, {
+        "id": 543,
+        "player": "Fergie Jenkins",
+        "rating": "92",
+        "series": "HW",
+        "duration": "Single Game",
+        "team": "Cubs",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Fergie Jenkins",
+        "requirements": [{
+            "requirement_type": "CGSO",
+            "goal": "1"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "12"
+        }]
+    }, {
+        "id": 544,
+        "player": "Fergie Jenkins",
+        "rating": "92",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Cubs",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Fergie Jenkins",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "8"
+        }, {
+            "requirement_type": "K",
+            "goal": "100"
+        }, {
+            "requirement_type": "CG",
+            "goal": "5"
+        }]
+    }, {
+        "id": 545,
+        "player": "Billy Wagner",
+        "rating": "88",
+        "series": "IV",
+        "duration": "Multi-Game",
+        "team": "Phillies",
+        "position": "CP",
+        "program_type": "Immortals",
+        "program": "Billy Wagner",
+        "requirements": [{
+            "requirement_type": "SV",
+            "goal": "7"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "9"
+        }, {
+            "requirement_type": "IP",
+            "goal": "10"
+        }]
     }]
 }

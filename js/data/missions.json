@@ -10001,5 +10001,22 @@
             "requirement_type": "SB",
             "goal": "20"
         }]
+    }, {
+        "id": 541,
+        "player": "Dave Steib",
+        "rating": "80",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Blue Jays",
+        "position": "SP",
+        "program_type": "Team Epic",
+        "program": "Toronto Blue Jays",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "20"
+        }, {
+            "requirement_type": "W",
+            "goal": "3"
+        }]
     }]
 }

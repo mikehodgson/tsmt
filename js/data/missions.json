@@ -10172,5 +10172,28 @@
             "requirement_type": "H",
             "goal": "30"
         }]
+    }, {
+        "id": 550,
+        "player": "Brandon Moss",
+        "rating": "79",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Athletics",
+        "position": "1B",
+        "program_type": "Team Epic",
+        "program": "Oakland Athletics",
+        "requirements": [{
+            "requirement_type": "PA",
+            "goal": "30"
+        }, {
+            "requirement_type": "H",
+            "goal": "7"
+        }, {
+            "requirement_type": "HR",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "5"
+        }]
     }]
 }

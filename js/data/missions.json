@@ -10158,5 +10158,19 @@
             "requirement_type": "K",
             "goal": "25"
         }]
+    }, {
+        "id": 549,
+        "player": "George Brett",
+        "rating": "84",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Royals",
+        "position": "3B",
+        "program_type": "Team Epic",
+        "program": "Kansas City Royals",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "30"
+        }]
     }]
 }

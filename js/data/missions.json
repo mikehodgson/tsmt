@@ -10098,5 +10098,22 @@
             "requirement_type": "IP",
             "goal": "10"
         }]
+    }, {
+        "id": 546,
+        "player": "Tom Seaver",
+        "rating": "84",
+        "series": "AS",
+        "duration": "Multi-Game",
+        "team": "Reds",
+        "position": "SP",
+        "program_type": "Immortals",
+        "program": "Tom Seaver",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "5"
+        }, {
+            "requirement_type": "IP",
+            "goal": "45"
+        }]
     }]
 }

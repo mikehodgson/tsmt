@@ -10115,5 +10115,31 @@
             "requirement_type": "IP",
             "goal": "45"
         }]
+    }, {
+        "id": 547,
+        "player": "Wil Myers",
+        "rating": "80",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Rays",
+        "position": "RF",
+        "program_type": "Team Epic",
+        "program": "Tampa Bay Rays",
+        "requirements": [{
+            "requirement_type": "PA",
+            "goal": "30"
+        }, {
+            "requirement_type": "H",
+            "goal": "10"
+        }, {
+            "requirement_type": "2B",
+            "goal": "3"
+        }, {
+            "requirement_type": "R",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "4"
+        }]
     }]
 }

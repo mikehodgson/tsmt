@@ -10141,5 +10141,22 @@
             "requirement_type": "RBI",
             "goal": "4"
         }]
+    }, {
+        "id": 548,
+        "player": "Doug Fister",
+        "rating": "83",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Tigers",
+        "position": "SP",
+        "program_type": "Team Epic",
+        "program": "Detroit Tigers",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "30"
+        }, {
+            "requirement_type": "K",
+            "goal": "25"
+        }]
     }]
 }

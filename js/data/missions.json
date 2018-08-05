@@ -10218,5 +10218,42 @@
             "requirement_type": "RBI",
             "goal": "3"
         }]
+    }, {
+        "id": 552,
+        "player": "Rollie Fingers",
+        "rating": "89",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Brewers",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Rollie Fingers",
+        "requirements": [{
+            "requirement_type": "SV",
+            "goal": "28"
+        }, {
+            "requirement_type": "K",
+            "goal": "61"
+        }]
+    }, {
+        "id": 553,
+        "player": "Rollie Fingers",
+        "rating": "89",
+        "series": "HW",
+        "duration": "Single Game",
+        "team": "Brewers",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Rollie Fingers",
+        "requirements": [{
+            "requirement_type": "SV",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "2"
+        }, {
+            "requirement_type": "K",
+            "goal": "4"
+        }]
     }]
 }

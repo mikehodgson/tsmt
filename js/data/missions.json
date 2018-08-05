@@ -10195,5 +10195,28 @@
             "requirement_type": "RBI",
             "goal": "5"
         }]
+    }, {
+        "id": 551,
+        "player": "Benito Santiago",
+        "rating": "84",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Padres",
+        "position": "C",
+        "program_type": "Team Epic",
+        "program": "San Diego Padres",
+        "requirements": [{
+            "requirement_type": "PA",
+            "goal": "30"
+        }, {
+            "requirement_type": "H",
+            "goal": "7"
+        }, {
+            "requirement_type": "R",
+            "goal": "3"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "3"
+        }]
     }]
 }

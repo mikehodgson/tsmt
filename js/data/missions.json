@@ -10278,5 +10278,45 @@
             "requirement_type": "RBI",
             "goal": "15"
         }]
+    }, {
+        "id": 555,
+        "player": "Zack Greinke",
+        "rating": "89",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Royals",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Zack Greinke",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "9"
+        }, {
+            "requirement_type": "K",
+            "goal": "110"
+        }, {
+            "requirement_type": "CG SHO",
+            "goal": "3"
+        }]
+    }, {
+        "id": 556,
+        "player": "Zack Greinke",
+        "rating": "89",
+        "series": "HW",
+        "duration": "Single Game",
+        "team": "Royals",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Zack Greinke",
+        "requirements": [{
+            "requirement_type": "CG SHO",
+            "goal": "1"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "10"
+        }]
     }]
 }

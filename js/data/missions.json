@@ -10255,5 +10255,28 @@
             "requirement_type": "K",
             "goal": "4"
         }]
+    }, {
+        "id": 554,
+        "player": "Jason Giambi",
+        "rating": "85",
+        "series": "AS",
+        "duration": "Multi-Game",
+        "team": "Yankees",
+        "position": "1B",
+        "program_type": "Team Epic",
+        "program": "New York Yankees",
+        "requirements": [{
+            "requirement_type": "PA",
+            "goal": "50"
+        }, {
+            "requirement_type": "H",
+            "goal": "15"
+        }, {
+            "requirement_type": "HR",
+            "goal": "5"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "15"
+        }]
     }]
 }

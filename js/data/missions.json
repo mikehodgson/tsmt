@@ -10318,5 +10318,31 @@
             "requirement_type": "K",
             "goal": "10"
         }]
+    }, {
+        "id": 557,
+        "player": "Steve Garvey",
+        "rating": "86",
+        "series": "PS",
+        "duration": "Multi-Game",
+        "team": "Dodgers",
+        "position": "1B",
+        "program_type": "Team Epic",
+        "program": "Los Angeles Dodgers",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "40"
+        }, {
+            "requirement_type": "H",
+            "goal": "15"
+        }, {
+            "requirement_type": "2B",
+            "goal": "7"
+        }, {
+            "requirement_type": "HR",
+            "goal": "1"
+        }, {
+            "requirement_type": "SB",
+            "goal": "1"
+        }]
     }]
 }

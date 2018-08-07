@@ -10018,5 +10018,348 @@
             "requirement_type": "W",
             "goal": "3"
         }]
+    }, {
+        "id": 542,
+        "player": "Babe Ruth",
+        "rating": "82",
+        "series": "AS",
+        "duration": "Single Game",
+        "team": "Yankees",
+        "position": "LF",
+        "program_type": "Immortals",
+        "program": "Babe Ruth",
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "4"
+        }]
+    }, {
+        "id": 543,
+        "player": "Fergie Jenkins",
+        "rating": "92",
+        "series": "HW",
+        "duration": "Single Game",
+        "team": "Cubs",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Fergie Jenkins",
+        "requirements": [{
+            "requirement_type": "CGSO",
+            "goal": "1"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "12"
+        }]
+    }, {
+        "id": 544,
+        "player": "Fergie Jenkins",
+        "rating": "92",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Cubs",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Fergie Jenkins",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "8"
+        }, {
+            "requirement_type": "K",
+            "goal": "100"
+        }, {
+            "requirement_type": "CG",
+            "goal": "5"
+        }]
+    }, {
+        "id": 545,
+        "player": "Billy Wagner",
+        "rating": "88",
+        "series": "IV",
+        "duration": "Multi-Game",
+        "team": "Phillies",
+        "position": "CP",
+        "program_type": "Immortals",
+        "program": "Billy Wagner",
+        "requirements": [{
+            "requirement_type": "SV",
+            "goal": "7"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "9"
+        }, {
+            "requirement_type": "IP",
+            "goal": "10"
+        }]
+    }, {
+        "id": 546,
+        "player": "Tom Seaver",
+        "rating": "84",
+        "series": "AS",
+        "duration": "Multi-Game",
+        "team": "Reds",
+        "position": "SP",
+        "program_type": "Immortals",
+        "program": "Tom Seaver",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "5"
+        }, {
+            "requirement_type": "IP",
+            "goal": "45"
+        }]
+    }, {
+        "id": 547,
+        "player": "Wil Myers",
+        "rating": "80",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Rays",
+        "position": "RF",
+        "program_type": "Team Epic",
+        "program": "Tampa Bay Rays",
+        "requirements": [{
+            "requirement_type": "PA",
+            "goal": "30"
+        }, {
+            "requirement_type": "H",
+            "goal": "10"
+        }, {
+            "requirement_type": "2B",
+            "goal": "3"
+        }, {
+            "requirement_type": "R",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "4"
+        }]
+    }, {
+        "id": 548,
+        "player": "Doug Fister",
+        "rating": "83",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Tigers",
+        "position": "SP",
+        "program_type": "Team Epic",
+        "program": "Detroit Tigers",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "30"
+        }, {
+            "requirement_type": "K",
+            "goal": "25"
+        }]
+    }, {
+        "id": 549,
+        "player": "George Brett",
+        "rating": "84",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Royals",
+        "position": "3B",
+        "program_type": "Team Epic",
+        "program": "Kansas City Royals",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "30"
+        }]
+    }, {
+        "id": 550,
+        "player": "Brandon Moss",
+        "rating": "79",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Athletics",
+        "position": "1B",
+        "program_type": "Team Epic",
+        "program": "Oakland Athletics",
+        "requirements": [{
+            "requirement_type": "PA",
+            "goal": "30"
+        }, {
+            "requirement_type": "H",
+            "goal": "7"
+        }, {
+            "requirement_type": "HR",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "5"
+        }]
+    }, {
+        "id": 551,
+        "player": "Benito Santiago",
+        "rating": "84",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Padres",
+        "position": "C",
+        "program_type": "Team Epic",
+        "program": "San Diego Padres",
+        "requirements": [{
+            "requirement_type": "PA",
+            "goal": "30"
+        }, {
+            "requirement_type": "H",
+            "goal": "7"
+        }, {
+            "requirement_type": "R",
+            "goal": "3"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "3"
+        }]
+    }, {
+        "id": 552,
+        "player": "Rollie Fingers",
+        "rating": "89",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Brewers",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Rollie Fingers",
+        "requirements": [{
+            "requirement_type": "SV",
+            "goal": "28"
+        }, {
+            "requirement_type": "K",
+            "goal": "61"
+        }]
+    }, {
+        "id": 553,
+        "player": "Rollie Fingers",
+        "rating": "89",
+        "series": "HW",
+        "duration": "Single Game",
+        "team": "Brewers",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Rollie Fingers",
+        "requirements": [{
+            "requirement_type": "SV",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "2"
+        }, {
+            "requirement_type": "K",
+            "goal": "4"
+        }]
+    }, {
+        "id": 554,
+        "player": "Jason Giambi",
+        "rating": "85",
+        "series": "AS",
+        "duration": "Multi-Game",
+        "team": "Yankees",
+        "position": "1B",
+        "program_type": "Team Epic",
+        "program": "New York Yankees",
+        "requirements": [{
+            "requirement_type": "PA",
+            "goal": "50"
+        }, {
+            "requirement_type": "H",
+            "goal": "15"
+        }, {
+            "requirement_type": "HR",
+            "goal": "5"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "15"
+        }]
+    }, {
+        "id": 555,
+        "player": "Zack Greinke",
+        "rating": "89",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Royals",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Zack Greinke",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "9"
+        }, {
+            "requirement_type": "K",
+            "goal": "110"
+        }, {
+            "requirement_type": "CG SHO",
+            "goal": "3"
+        }]
+    }, {
+        "id": 556,
+        "player": "Zack Greinke",
+        "rating": "89",
+        "series": "HW",
+        "duration": "Single Game",
+        "team": "Royals",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "Zack Greinke",
+        "requirements": [{
+            "requirement_type": "CG SHO",
+            "goal": "1"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "10"
+        }]
+    }, {
+        "id": 557,
+        "player": "Steve Garvey",
+        "rating": "86",
+        "series": "PS",
+        "duration": "Multi-Game",
+        "team": "Dodgers",
+        "position": "1B",
+        "program_type": "Team Epic",
+        "program": "Los Angeles Dodgers",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "40"
+        }, {
+            "requirement_type": "H",
+            "goal": "15"
+        }, {
+            "requirement_type": "2B",
+            "goal": "7"
+        }, {
+            "requirement_type": "HR",
+            "goal": "1"
+        }, {
+            "requirement_type": "SB",
+            "goal": "1"
+        }]
+    }, {
+        "id": 558,
+        "player": "Robb Nen",
+        "rating": "92",
+        "series": "IV",
+        "duration": "Multi-Game",
+        "team": "Giants",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Robb Nen",
+        "requirements": [{
+            "requirement_type": "SV",
+            "goal": "41"
+        }, {
+            "requirement_type": "K",
+            "goal": "92"
+        }]
     }]
 }

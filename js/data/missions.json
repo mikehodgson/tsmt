@@ -10361,5 +10361,36 @@
             "requirement_type": "K",
             "goal": "92"
         }]
+    }, {
+        "id": 559,
+        "player": "Eddie Mathews",
+        "rating": "76",
+        "series": "R",
+        "duration": "Single Game",
+        "team": "Braves",
+        "position": "3B",
+        "program_type": "Collection",
+        "program": "Bobbleheads",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "3"
+        }]
+    }, {
+        "id": 560,
+        "player": "Steven Matz",
+        "rating": "82",
+        "series": "R",
+        "duration": "Multi-Game",
+        "team": "Mets",
+        "position": "SP",
+        "program_type": "Collection",
+        "program": "Bobbleheads",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "20"
+        }, {
+            "requirement_type": "W",
+            "goal": "1"
+        }]
     }]
 }

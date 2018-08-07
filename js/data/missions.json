@@ -10344,5 +10344,22 @@
             "requirement_type": "SB",
             "goal": "1"
         }]
+    }, {
+        "id": 558,
+        "player": "Robb Nen",
+        "rating": "92",
+        "series": "IV",
+        "duration": "Multi-Game",
+        "team": "Giants",
+        "position": "CP",
+        "program_type": "Career Arcs",
+        "program": "Robb Nen",
+        "requirements": [{
+            "requirement_type": "SV",
+            "goal": "41"
+        }, {
+            "requirement_type": "K",
+            "goal": "92"
+        }]
     }]
 }

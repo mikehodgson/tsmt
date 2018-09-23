@@ -1,6 +1,6 @@
 {
     "version": "1.3.1",
-    "last_update": "2018-08-07",
+    "last_update": "2018-09-23",
     "program_types": [
         "Team Epic",
         "Conquest",
@@ -10392,5 +10392,890 @@
             "requirement_type": "W",
             "goal": "1"
         }]
-    }]
+    }, {
+        "id": 561,
+        "player": "Mike Piazza",
+        "rating": "88",
+        "series": "AS",
+        "duration": "Multi-Game",
+        "team": "Mets",
+        "position": "C",
+        "program_type": "Immortals",
+        "program": "Mike Piazza",
+        "requirements": [{
+            "requirement_type": "TPA",
+            "goal": "150"
+        }, {
+            "requirement_type": "R",
+            "goal": "20"
+        }, {
+            "requirement_type": "H",
+            "goal": "40"
+        }, {
+            "requirement_type": "2B",
+            "goal": "15"
+        }, {
+            "requirement_type": "HR",
+            "goal": "10"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "25"
+        }]
+    }, {
+        "id": 562,
+        "player": "Jason Hammel",
+        "rating": "83",
+        "series": "IV",
+        "duration": "Single Game",
+        "team": "Cubs",
+        "position": "SP",
+        "program_type": "Starting Pitchers",
+        "program": "Jason Hammel",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "7"
+        }, {
+            "requirement_type": "K",
+            "goal": "8"
+        }]
+    }, {
+        "id": 563,
+        "player": "Fergie Jenkins",
+        "rating": "78",
+        "series": "R",
+        "duration": "Multi-Game",
+        "team": "Cubs",
+        "position": "RP",
+        "program_type": "Career Arcs",
+        "program": "Fergie Jenkins",
+        "requirements": [{
+            "requirement_type": "K",
+            "goal": "20"
+        }]
+    }, {
+        "id": 564,
+        "player": "Frank Thomas",
+        "rating": "84",
+        "series": "IV",
+        "duration": "Multi-Game",
+        "team": "Athelics",
+        "position": "1B",
+        "program_type": "Career Arcs",
+        "program": "Frank Thomas",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "24"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "9"    
+        }, {
+            "requirement_type": "HR",
+            "goal": "7"
+        }, {
+            "requirement_type": "R",
+            "goal": "14"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "20"
+        }]
+    }, {
+        "id": 565,
+        "player": "Bob Gibson",
+        "rating": "85",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Cardinals",
+        "position": "SP",
+        "program_type": "Immortals",
+        "program": "Bob Gibson",
+        "requirements": [{
+            "requirement_type": "CG",
+            "goal": "15"
+        }, {
+            "requirement_type": "CG SHO",
+            "goal": "5"
+        }, {
+            "requirement_type": "K",
+            "goal": "100"
+        }]
+    }, {
+        "id": 566,
+        "player": "Robin Yount",
+        "rating": "87",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Brewers",
+        "position": "SS",
+        "program_type": "Conquest",
+        "program": "Conquest Destiny",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "10"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "2"    
+        }, {
+            "requirement_type": "SB",
+            "goal": "3"
+		}]
+    }, {
+        "id": 567,
+        "player": "Sergio Romo",
+        "rating": "89",
+        "series": "PS",
+        "duration": "Multi-Game",
+        "team": "Giants",
+        "position": "CP",
+        "program_type": "Conquest",
+        "program": "Conquest Destiny",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "10"
+        }, {
+            "requirement_type": "S",
+            "goal": "4"    
+        }, {
+            "requirement_type": "K",
+            "goal": "9"
+		}]	
+    }, {
+        "id": 568,
+        "player": "Salvador Perez",
+        "rating": "87",
+        "series": "PS",
+        "duration": "Multi-Game",
+        "team": "Royals",
+        "position": "C",
+        "program_type": "Conquest",
+        "program": "Conquest Destiny",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "15"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "5"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "8"
+        }]
+    }, {
+        "id": 569,
+        "player": "Whitey Ford",
+        "rating": "89",
+        "series": "PS",
+        "duration": "Multi-Game",
+        "team": "Yankees",
+        "position": "SP",
+        "program_type": "Conquest",
+        "program": "Conquest Destiny",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "2"
+        }, {
+            "requirement_type": "K",
+            "goal": "7"    
+		}]
+    }, {
+        "id": 570,
+        "player": "Albert Belle",
+        "rating": "79",
+        "series": "IV",
+        "duration": "Multi-Game",
+        "team": "Orioles",
+        "position": "RF",
+        "program_type": "Career Arcs",
+        "program": "Albert Belle",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "30"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "20"
+        }, {
+            "requirement_type": "HR",
+            "goal": "10"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "25"
+		}]
+    }, {
+        "id": 571,
+        "player": "Al Kaline",
+        "rating": "93",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Tigers",
+        "position": "RF",
+        "program_type": "Conquest",
+        "program": "Conquest Destiny",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "21"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "7"    
+        }, {
+            "requirement_type": "RBI",
+            "goal": "11"
+        }]
+    }, {
+        "id": 572,
+        "player": "C.C. Sabathia",
+        "rating": "86",
+        "series": "PS",
+        "duration": "Multi-Game",
+        "team": "Yankees",
+        "position": "SP",
+        "program_type": "Career Arcs",
+        "program": "C.C. Sabathia",
+        "requirements": [{
+            "requirement_type": "IP",
+            "goal": "36"
+        }, {
+            "requirement_type": "W",
+            "goal": "3"
+        }, {
+            "requirement_type": "K",
+            "goal": "32"      
+        }]
+    }, {
+        "id": 573,
+        "player": "Roberto Alomar",
+        "rating": "81",
+        "series": "R",
+        "duration": "Multi-Game",
+        "team": "Padres",
+        "position": "2B",
+        "program_type": "Career Arcs",
+        "program": "Roberto Alomar",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "30"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "7"
+        }, {
+            "requirement_type": "R",
+            "goal": "15"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "10"
+        }, {
+            "requirement_type": "SB",
+            "goal": "10"
+        }]
+    }, {
+        "id": 574,
+        "player": "Duke Snider",
+        "rating": "82",
+        "series": "BO",
+        "duration": "Multi-Game",
+        "team": "Dodgers",
+        "position": "CF",
+        "program_type": "Career Arcs",
+        "program": "Duke Snider",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "20"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "8"
+        }, {
+            "requirement_type": "HR",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "10"
+        }, {
+            "requirement_type": "SB",
+            "goal": "2"
+        }]
+    }, {
+        "id": 575,
+        "player": "Eddie Murray",
+        "rating": "94",
+        "series": "PS",
+        "duration": "Multi-Game",
+        "team": "Orioles",
+        "position": "1B",
+        "program_type": "Conquest",
+        "program": "Conquest Destiny",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "9"
+        }, {
+            "requirement_type": "R",
+            "goal": "7"    
+        }, {
+            "requirement_type": "HR",
+            "goal": "3"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "6"
+        }]
+    }, {
+        "id": 576,
+        "player": "Sam Travis",
+        "rating": "80",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Red Sox",
+        "position": "1B",
+        "program_type": "Future Stars",
+        "program": "A.L. East",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "1"
+        }]
+    }, {
+        "id": 577,
+        "player": "Dawel Lugo",
+        "rating": "81",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Tigers",
+        "position": "3B",
+        "program_type": "Future Stars",
+        "program": "A.L. Central",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "1"
+        }, {
+            "requirement_type": "R",
+            "goal": "1"
+        }]
+    }, {
+        "id": 578,
+        "player": "Victor Caratini",
+        "rating": "80",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Cubs",
+        "position": "C",
+        "program_type": "Future Stars",
+        "program": "N.L. Central",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "1"
+        }]
+    }, {
+        "id": 579,
+        "player": "Max Povse",
+        "rating": "80",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Mariners",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "A.L. West",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "6"
+        }, {
+            "requirement_type": "K",
+            "goal": "5"
+        }]
+    }, {
+        "id": 580,
+        "player": "Enyel De Los Santos",
+        "rating": "80",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Philies",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "N.L. East",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "6"
+        }, {
+            "requirement_type": "K",
+            "goal": "5"
+        }]
+    }, {
+        "id": 581,
+        "player": "Andrew Suarez",
+        "rating": "80",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Giants",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "N.L. West",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "5"
+        }]
+    }, {
+        "id": 582,
+        "player": "Jesse Winker",
+        "rating": "83",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Reds",
+        "position": "LF",
+        "program_type": "Future Stars",
+        "program": "N.L. Central",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "3"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "2"
+        }]
+    }, {
+        "id": 583,
+        "player": "Stephen Gonsalves",
+        "rating": "82",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Twins",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "A.L. Central",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "7"
+        }, {
+            "requirement_type": "K",
+            "goal": "8"
+        }]
+    }, {
+        "id": 584,
+        "player": "Ryan Borucki",
+        "rating": "81",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Blue Jays",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "A.L. East",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "7"
+        }]
+    }, {
+        "id": 585,
+        "player": "Socrates Brito",
+        "rating": "81",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Diamondbacks",
+        "position": "RF",
+        "program_type": "Future Stars",
+        "program": "N.L. West",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "1"
+        }, {
+            "requirement_type": "R",
+            "goal": "1"
+        }, {
+            "requirement_type": "SB",
+            "goal": "1"
+        }]
+    }, {
+        "id": 586,
+        "player": "Garrett Hampson",
+        "rating": "83",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Rockies",
+        "position": "2B",
+        "program_type": "Future Stars",
+        "program": "N.L. West",
+        "requirements": [{
+            "requirement_type": "R",
+            "goal": "1"
+        }, {
+            "requirement_type": "SB",
+            "goal": "2"
+        }]
+    }, {
+        "id": 587,
+        "player": "Johnathan Loaisiga",
+        "rating": "82",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Yankees",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "A.L. East",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "8"
+        }, {
+            "requirement_type": "K",
+            "goal": "9"
+        }]
+    }, {
+        "id": 588,
+        "player": "Jaime Barria",
+        "rating": "81",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Angels",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "A.L. West",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "7"
+        }, {
+            "requirement_type": "K",
+            "goal": "5"
+        }]
+    }, {
+        "id": 589,
+        "player": "Joey Lucchesi",
+        "rating": "85",
+        "series": "FS",
+        "duration": "Multi-Game",
+        "team": "Padres",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "N.L. West",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "3"
+        }, {
+            "requirement_type": "K",
+            "goal": "25"
+        }]
+    }, {
+        "id": 590,
+        "player": "Austin Hays",
+        "rating": "83",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Orioles",
+        "position": "RF",
+        "program_type": "Future Stars",
+        "program": "A.L. East",
+        "requirements": [{
+            "requirement_type": "HR",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "2"
+        }]
+    }, {
+        "id": 591,
+        "player": "Willy Adames",
+        "rating": "85",
+        "series": "FS",
+        "duration": "Multi-Game",
+        "team": "Rays",
+        "position": "SS",
+        "program_type": "Future Stars",
+        "program": "A.L. East",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "10"
+        }, {
+            "requirement_type": "R",
+            "goal": "5"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "4"
+        }, {
+            "requirement_type": "SB",
+            "goal": "2"
+        }]
+    }, {
+        "id": 592,
+        "player": "Ronald Guzman",
+        "rating": "82",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Rangers",
+        "position": "1B",
+        "program_type": "Future Stars",
+        "program": "A.L. West",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "1"
+        }]
+    }, {
+        "id": 593,
+        "player": "Brett Phillips",
+        "rating": "82",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Royals",
+        "position": "CF",
+        "program_type": "Future Stars",
+        "program": "A.L. Central",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2"
+        }, {
+            "requirement_type": "R",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "1"
+        }]
+    }, {
+        "id": 594,
+        "player": "Andrew Stevenson",
+        "rating": "80",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Nationals",
+        "position": "CF",
+        "program_type": "Future Stars",
+        "program": "N.L. East",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "1"
+        }, {
+            "requirement_type": "R",
+            "goal": "1"
+        }, {
+            "requirement_type": "SB",
+            "goal": "1"
+        }]
+    }, {
+        "id": 595,
+        "player": "Dustin Fowler",
+        "rating": "83",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Athletics",
+        "position": "CF",
+        "program_type": "Future Stars",
+        "program": "A.L. West",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2"
+        }, {
+            "requirement_type": "R",
+            "goal": "2"
+        }, {
+            "requirement_type": "SB",
+            "goal": "1"
+        }]
+    }, {
+        "id": 596,
+        "player": "Thomas Nido",
+        "rating": "81",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Mets",
+        "position": "C",
+        "program_type": "Future Stars",
+        "program": "N.L. East",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "1"
+        }]
+    }, {
+        "id": 597,
+        "player": "Kyle Tucker",
+        "rating": "86",
+        "series": "FS",
+        "duration": "Multi-Game",
+        "team": "Astros",
+        "position": "RF",
+        "program_type": "Future Stars",
+        "program": "A.L. West",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "10"
+        }, {
+            "requirement_type": "HR",
+            "goal": "4"
+        }, {
+            "requirement_type": "R",
+            "goal": "8"
+        }]
+    }, {
+        "id": 598,
+        "player": "Tyler O'Neil",
+        "rating": "85",
+        "series": "FS",
+        "duration": "Multi-Game",
+        "team": "Cardinals",
+        "position": "RF",
+        "program_type": "Future Stars",
+        "program": "N.L. Central",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "8"
+        }, {
+            "requirement_type": "HR",
+            "goal": "5"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "15"
+        }]
+    }, {
+        "id": 599,
+        "player": "Shane Bieber",
+        "rating": "83",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Indians",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "A.L. Central",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "8"
+        }, {
+            "requirement_type": "K",
+            "goal": "6"
+        }]
+    }, {
+        "id": 600,
+        "player": "Sandy Alcantara",
+        "rating": "83",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Marlins",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "N.L. East",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "IP",
+            "goal": "7"
+        }, {
+            "requirement_type": "K",
+            "goal": "8"
+        }]
+    }, {
+        "id": 601,
+        "player": "Micheal Kopech",
+        "rating": "87",
+        "series": "FS",
+        "duration": "Multi-Game",
+        "team": "White Sox",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "A.L. Central",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "3"
+        }, {
+            "requirement_type": "K",
+            "goal": "25"
+        }, {
+            "requirement_type": "CG",
+            "goal": "1"
+        }]
+    }, {
+        "id": 602,
+        "player": "Kolby Allard",
+        "rating": "85",
+        "series": "FS",
+        "duration": "Multi-Game",
+        "team": "Braves",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "N.L. East",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "3"
+        }, {
+            "requirement_type": "K",
+            "goal": "25"
+        }]
+    }, {
+        "id": 603,
+        "player": "Brandon Woodruff",
+        "rating": "82",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Brewers",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "N.L. Central",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "6"
+        }]
+    }, {
+        "id": 604,
+        "player": "Dennis Santana",
+        "rating": "83",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Dodgers",
+        "position": "SP",
+        "program_type": "Future Stars",
+        "program": "N.L. West",
+        "requirements": [{
+            "requirement_type": "W",
+            "goal": "1"
+        }, {
+            "requirement_type": "K",
+            "goal": "8"
+        }]
+    }, {
+        "id": 605,
+        "player": "Colin Moran",
+        "rating": "82",
+        "series": "FS",
+        "duration": "Single Game",
+        "team": "Pirates",
+        "position": "3B",
+        "program_type": "Future Stars",
+        "program": "N.L. Central",
+        "requirements": [{
+            "requirement_type": "XBH",
+            "goal": "1"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "2"
+        }]
+	}]
 }

@@ -1,10 +1,11 @@
 {
     "version": "1.3.1",
-    "last_update": "2018-09-23",
+    "last_update": "2018-09-24",
     "program_types": [
         "Team Epic",
         "Conquest",
         "Conquest Extreme",
+        "Conquest Destiny",
         "Catcher",
         "First Basemen",
         "Second Basemen",
@@ -20,7 +21,8 @@
         "Career Arcs",
         "Monthly",
         "Daily",
-        "Player of the Month"
+        "Player of the Month",
+        "Future Stars"
     ],
     "durations": [
         "Single Game",
@@ -10509,7 +10511,7 @@
         "duration": "Multi-Game",
         "team": "Brewers",
         "position": "SS",
-        "program_type": "Conquest",
+        "program_type": "Conquest Destiny",
         "program": "Conquest Destiny",
         "requirements": [{
             "requirement_type": "H",
@@ -10529,7 +10531,7 @@
         "duration": "Multi-Game",
         "team": "Giants",
         "position": "CP",
-        "program_type": "Conquest",
+        "program_type": "Conquest Destiny",
         "program": "Conquest Destiny",
         "requirements": [{
             "requirement_type": "IP",
@@ -10549,7 +10551,7 @@
         "duration": "Multi-Game",
         "team": "Royals",
         "position": "C",
-        "program_type": "Conquest",
+        "program_type": "Conquest Destiny",
         "program": "Conquest Destiny",
         "requirements": [{
             "requirement_type": "H",
@@ -10569,7 +10571,7 @@
         "duration": "Multi-Game",
         "team": "Yankees",
         "position": "SP",
-        "program_type": "Conquest",
+        "program_type": "Conquest Destiny",
         "program": "Conquest Destiny",
         "requirements": [{
             "requirement_type": "W",
@@ -10609,7 +10611,7 @@
         "duration": "Multi-Game",
         "team": "Tigers",
         "position": "RF",
-        "program_type": "Conquest",
+        "program_type": "Conquest Destiny",
         "program": "Conquest Destiny",
         "requirements": [{
             "requirement_type": "H",
@@ -10701,7 +10703,7 @@
         "duration": "Multi-Game",
         "team": "Orioles",
         "position": "1B",
-        "program_type": "Conquest",
+        "program_type": "Conquest Destiny",
         "program": "Conquest Destiny",
         "requirements": [{
             "requirement_type": "H",

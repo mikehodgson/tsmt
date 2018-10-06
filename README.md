@@ -1,2 +1,21 @@
 # tsmt
-The Show Mission Tracker - Small app to track mission progress in MLB The Show while in-game
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```

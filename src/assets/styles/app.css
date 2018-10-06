@@ -1,0 +1,70 @@
+@media only screen and (min-width: 1024px) {
+    #app {
+        max-width: 75vw;
+        margin: auto;
+        float: none;
+    }
+}
+
+[v-cloak] {
+    display: none;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.card-header {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.8em;
+    opacity: 0.70;
+}
+
+.v-select .dropdown-toggle .clear {
+     visibility: hidden;
+}
+
+.dropdown-menu {
+    background-color: #343a40 !important;
+}
+
+.dropdown-menu li.active, .dropdown-menu li.active > a {
+    background-color: rgb(255,255,255,0.1) !important;
+    color: rgb(233,236,239) !important;
+}
+
+.dropdown-toggle .selected-tag {
+    color: rgb(233,236,239) !important;
+}
+
+body {
+    background: none !important;
+}
+
+html {
+    min-height: 100vh;
+    background-color: #343a40;
+    background-image: linear-gradient(rgb(0,0,0,1), rgb(0,0,0,0));
+}
+
+.btn-danger, .btn-warning, .btn-primary, .btn-secondary {
+    background-color: #343a40;
+    border-width: 2px;
+    color: #ced4da;
+}
+
+.modal-dialog, .modal-content {
+   max-height: 95vh;
+}
+
+.modal-dialog {
+    overflow-y: initial !important;
+}
+
+.modal-body {
+    height: 95vh;
+    overflow-y: auto;
+}

@@ -4,7 +4,7 @@
       <b-input type="text" class="w-100" placeholder="Filter Results"></b-input>
     </b-form-row>
     <ul class="list-unstyled mb-1 mt-3 pr-3" id="missionList">
-      <li v-for="mission in missions" v-bind:mission="mission" v-bind:key="mission.id" class="media border rounded mb-2">
+      <li v-for="mission in missions" v-bind:mission="mission" v-bind:key="mission.id" class="media border rounded mb-2" @click="selectMission(mission)">
         <img class="mr-3">
         <div class="media-body p-2">
           <h6 class="mt-0 mb-1">{{ mission.program }}</h6>
@@ -21,5 +21,11 @@
       selectedMission: Object,
       modalID: String
     },
+    methods: {
+      selectMission(mission) {
+        console.log('selectMission()');        
+        this.$eventHub.$emit('mission-selected', mission);
+      }
+    }
   }
 </script>

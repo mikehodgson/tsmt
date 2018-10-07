@@ -69,6 +69,7 @@ export default {
     this.$eventHub.$on('requirement-update', this.persistMissions);
     this.$eventHub.$on('active-mission-reset', this.persistMissions);
     this.$eventHub.$on('active-mission-removed', this.removeMission);
+    this.$eventHub.$on('mission-selected', this.handleSelectedMission);
   },
   mounted() {
     if (localStorage.getItem("activeMissions"))
@@ -112,8 +113,9 @@ export default {
       }
       return mission;
     },
-    handleSelectedMission() {
-      if (this.missions.selected != null) {
+    handleSelectedMission(mission) {
+      if (mission != null) {
+        this.missions.selected = mission;
         if (!this.hasActiveMission(this.missions.active, this.missions.selected)) {
           this.missions.active.push(this.createActiveMission(this.missions.selected));
           this.persistMissions();

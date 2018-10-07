@@ -9,7 +9,6 @@
                 </b-card>
             </b-col>
         </b-row>
-        <mission v-for="mission in missions.active" v-bind:mission="mission" v-bind:key="mission.id" v-bind:mission_label="getMissionLabel(mission)"></mission>
         <b-row class="mb-3">
           <b-col class="mt-3">
             <b-btn v-b-modal="'selectModal'" class="w-100" size="lg" variant="primary">
@@ -22,6 +21,7 @@
             </b-btn>
           </b-col>
         </b-row>
+        <mission v-for="mission in missions.active" v-bind:mission="mission" v-bind:key="mission.id"></mission>
         <b-row id="pageFooter" class="mt-3">
           <b-col>
             <p class="text-center">
@@ -95,16 +95,6 @@ export default {
         JSON.stringify(this.missions.active)
       );
     },
-    getMissionLabel(mission) {
-      let label = `${mission.program}`;
-      let card_info = '';
-      if (mission.program != mission.player) label += ` - ${mission.player}`;
-      card_info += (mission.rating != '') ? `${mission.rating}/` : '-/';
-      card_info += (mission.series != '') ? `${mission.series}/` : '-/'; 
-      card_info += (mission.position != '') ? `${mission.position}` : '-';
-      if (card_info != '-/-/-')  label += ` (${card_info})`;
-      return label;
-    },
     createActiveMission(mission) {
       for (var i = 0; i < mission.requirements.length; i++)
       {
@@ -117,7 +107,7 @@ export default {
       if (mission != null) {
         this.missions.selected = mission;
         if (!this.hasActiveMission(this.missions.active, this.missions.selected)) {
-          this.missions.active.push(this.createActiveMission(this.missions.selected));
+          this.missions.active.unshift(this.createActiveMission(this.missions.selected));
           this.persistMissions();
         }
       this.missions.selected = null;

@@ -3,11 +3,11 @@
     <b-form-row>
       <b-input type="text" class="w-100" placeholder="Filter Results"></b-input>
     </b-form-row>
-    <ul class="list-unstyled">
-      <li v-for="mission in missions" v-bind:mission="mission" v-bind:key="mission.id" class="media">
+    <ul class="list-unstyled mb-1 mt-3 pr-3" id="missionList">
+      <li v-for="mission in missions" v-bind:mission="mission" v-bind:key="mission.id" class="media border rounded mb-2">
         <img class="mr-3">
-        <div class="media-body">
-          <h5 class="mt-0 mb-1">{{ mission.program }}</h5>
+        <div class="media-body p-2">
+          <h6 class="mt-0 mb-1">{{ mission.program }}</h6>
         </div>
       </li>
     </ul>

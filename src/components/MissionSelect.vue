@@ -1,13 +1,14 @@
 <template>
-  <b-modal :id="modalID" size="lg" title="Add Mission" backdrop="static">
+  <b-modal :id="modalId" size="lg" title="Add Mission" backdrop="static" :ok-title="'Done'">
     <b-form-row>
       <b-input type="text" class="w-100" placeholder="Filter Results"></b-input>
     </b-form-row>
     <ul class="list-unstyled mb-1 mt-3 pr-3" id="missionList">
-      <li v-for="mission in missions" v-bind:mission="mission" v-bind:key="mission.id" class="media border rounded mb-2" @click="selectMission(mission)">
-        <img class="mr-3">
+      <li v-for="mission in missions" :mission="mission" :key="mission.id" :class="{'media' : true, 'border' : true, 'rounded' : true, 'mb-2' : true, 'border-success' : hasActiveMission(mission)}" @click="selectMission(mission)">
+        <i style="font-size: 1.5em" :class="{'octicon octicon-check ml-2 mt-2' : true, 'text-success' : hasActiveMission(mission), 'text-muted' : !hasActiveMission(mission)}"></i>
         <div class="media-body p-2">
-          <h6 class="mt-0 mb-1">{{ getMissionLabel(mission) }}</h6>
+          <h6 class="mt-0 mb-1">{{ getMissionLabel(mission) }}<span class="float-right">{{ mission.duration }}</span></h6>
+          <p>Requirements: <span>{{ requirementsToString(mission.requirements) }}</span></p>
         </div>
       </li>
     </ul>
@@ -18,7 +19,8 @@
     name: 'MissionSelect',
     props: {
       missions: Array,
-      modalID: String
+      activeMissions: Array,
+      modalId: String
     },
     methods: {
       getMissionLabel(mission) {
@@ -32,7 +34,23 @@
         return label;
       },
       selectMission(mission) {
-        this.$eventHub.$emit('mission-selected', mission);
+        if (!this.hasActiveMission(mission))
+          this.$eventHub.$emit('mission-selected', mission);
+      },
+      hasActiveMission(mission) {
+        if (this.activeMissions.filter(function(m) { return m.id === mission.id; }).length > 0) {
+          return true;
+        } else {
+          return false;
+        }
+      },
+      requirementsToString(requirements) {
+        let result = [];
+        requirements.forEach(function(requirement) {
+          result.push(requirement.requirement_type + ": " + requirement.goal)
+        })
+        return result.join(', ')
+        //return result;
       }
     }
   }

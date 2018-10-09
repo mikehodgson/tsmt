@@ -3,17 +3,17 @@
     <div class="card mb-2">
       <div class="card-header text-truncate pt-1 pb-1">
         <div class="row pt-0">
-          <div class="col-75 text-truncate w-75 mission-label">{{ getMissionLabel() }}</div>
+          <div class="col-75 text-truncate w-75 mission-label">{{ getLabel() }}</div>
           <div class="col-25 w-25 text-right">{{ mission.duration }}</div>
         </div>
       </div>
       <div class="card-body pt-2 pb-2">
         <div class="row">
           <div class="col-75 w-75">
-            <requirement v-for="requirement in mission.requirements" v-bind:requirement="requirement" v-bind:key="requirement.id"></requirement>
+            <requirement v-for="requirement in mission.requirements" :requirement="requirement" :key="requirement.id"></requirement>
           </div>
           <div class="col-25 w-25 text-right">
-            <b-btn :class="{'ml-2': true, 'mb-1': true, 'float-right' : true, 'btn-success' : areAllRequirementsComplete(), 'btn-danger' : !areAllRequirementsComplete()}" size="md" @click="removeMission()">
+            <b-btn :class="{'ml-2': true, 'mb-1': true, 'float-right' : true, 'btn-success' : areAllRequirementsComplete(), 'btn-danger' : !areAllRequirementsComplete()}" size="md" @click="remove()">
               &nbsp;<i :class="{'octicon' : true, 'octicon-check' : areAllRequirementsComplete(), 'octicon-x': !areAllRequirementsComplete()}"></i>
             </b-btn>
             <b-btn :class="{'ml-2': true, 'mb-1': true, 'float-right' : true, 'btn-danger' : true}" size="md" @click="resetRequirements()">
@@ -52,7 +52,7 @@
       Requirement
     },
     methods: {
-      getMissionLabel() {
+      getLabel() {
         let mission = this.mission;
         let label = `${mission.program}`;
         let card_info = '';
@@ -63,7 +63,7 @@
         if (card_info != '-/-/-')  label += ` (${card_info})`;
         return label;
       },
-      removeMission() {
+      remove() {
         this.$eventHub.$emit('active-mission-removed', this.mission);
       },
       areAllRequirementsComplete() {

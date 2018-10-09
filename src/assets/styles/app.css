@@ -79,6 +79,10 @@ html {
   overflow-y: scroll;
 }
 
+#missionList li {
+  cursor: pointer;
+}
+
 #missionList::-webkit-scrollbar {
   background-color: black;
 }

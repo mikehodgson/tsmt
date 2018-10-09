@@ -2,13 +2,6 @@
   <transition name="fade">
     <div id="app" v-cloak>
       <b-container fluid class="pt-3">
-        <b-row v-if="missions.active.length == 0">
-            <b-col>
-                <b-card title="Welcome" class="mb-2">
-                        <p class="card-text">Welcome to The Show Mission Tracker. This app uses cookies and local storage to save your settings. Click the <strong>Add Mission</strong> button to get started.</p>
-                </b-card>
-            </b-col>
-        </b-row>
         <b-row class="mb-3">
           <b-col class="mt-3">
             <b-btn v-b-modal="'selectModal'" class="w-100" size="lg" variant="primary">
@@ -21,18 +14,25 @@
             </b-btn>
           </b-col>
         </b-row>
+        <b-row v-if="missions.active.length == 0">
+            <b-col>
+                <b-card title="Welcome" class="mb-2">
+                        <p class="card-text">Welcome to The Show Mission Tracker. This app uses cookies and local storage to save your settings. Click the <strong>Add Mission</strong> button to get started.</p>
+                </b-card>
+            </b-col>
+        </b-row>
         <mission v-for="mission in missions.active" v-bind:mission="mission" v-bind:key="mission.id"></mission>
         <b-row id="pageFooter" class="mt-3">
           <b-col>
             <p class="text-center">
               Created by <a href="https://twitter.com/mhodgson">Mike Hodgson</a> | <a href="https://paypal.me/mhodgson">Send a tip</a> | <a href="https://github.com/mikehodgson/tsmt">github</a> | v{{ settings.version }}<br>
-              MLB The Show 18 is &copy; 2018 Sony Interactive Entertainment LLC.<br>
+              MLB The Show 18 is &copy; 2019 Sony Interactive Entertainment LLC.<br>
               Mission data last updated: {{ settings.last_update }}
             </p>
           </b-col>
         </b-row>
       </b-container>
-        <mission-select v-bind:selectedMission="missions.selected" v-bind:modalID="'selectModal'" v-bind:missions="missions.default"></mission-select>
+        <mission-select :modal-id="'selectModal'" :missions="missions.default" :active-missions="missions.active"></mission-select>
         <!--
         <b-modal id="addModal" size="lg" title="Add Mission" @ok="handleSelectedMission">
           <b-form-row>

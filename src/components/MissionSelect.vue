@@ -1,10 +1,11 @@
 <template>
   <b-modal :id="modalId" size="lg" title="Add Mission" backdrop="static" :ok-title="'Done'">
     <b-form-row>
-      <b-input type="text" class="w-100" placeholder="Filter Results"></b-input>
+      <vue-fuse :threshold=0.4 :distance=50 :minMatchCharLength=2 :tokenize=true :matchAllTokens=true :keys="keys" :list="missions" :defaultAll=true eventName="searchResultsUpdated" @searchResultsUpdated="filterMissions($event)" placeholder="Filter Results" class="w-100"></vue-fuse>
+      <!-- <b-input type="text" class="w-100" placeholder="Filter Results"></b-input> -->
     </b-form-row>
     <ul class="list-unstyled mb-1 mt-3 pr-3" id="missionList">
-      <li v-for="mission in missions" :mission="mission" :key="mission.id" :class="{'media' : true, 'border' : true, 'rounded' : true, 'mb-2' : true, 'border-success' : hasActiveMission(mission)}" @click="selectMission(mission)">
+      <li v-for="mission in filteredMissions" :mission="mission" :key="mission.id" :class="{'media' : true, 'border' : true, 'rounded' : true, 'mb-2' : true, 'border-success' : hasActiveMission(mission)}" @click="selectMission(mission)">
         <i style="font-size: 1.5em" :class="{'octicon octicon-check ml-2 mt-2' : true, 'text-success' : hasActiveMission(mission), 'text-muted' : !hasActiveMission(mission)}"></i>
         <div class="media-body p-2">
           <h6 class="mt-0 mb-1">{{ getMissionLabel(mission) }}<span class="float-right">{{ mission.duration }}</span></h6>
@@ -21,6 +22,9 @@
       missions: Array,
       activeMissions: Array,
       modalId: String
+    },
+    data () {
+      return { keys: ["program", "player","team","program_type"], filteredMissions: this.missions }
     },
     methods: {
       getMissionLabel(mission) {
@@ -51,6 +55,10 @@
         })
         return result.join(', ')
         //return result;
+      },
+      filterMissions(result) {
+        console.log('in here!!!');
+        this.filteredMissions = result;
       }
     }
   }

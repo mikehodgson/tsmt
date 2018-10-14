@@ -47,8 +47,6 @@
 <script>
 import Mission from "./components/Mission.vue";
 import MissionSelect from "./components/MissionSelect.vue";
-import vSelect from "vue-select";
-
 import SettingsData from "./assets/data/settings.json";
 import MissionsData from "./assets/data/missions.json";
 
@@ -62,8 +60,7 @@ export default {
   },
   components: {
     Mission,
-    MissionSelect,
-    vSelect
+    MissionSelect
   },
   created() {
     this.$eventHub.$on('requirement-update', this.persistMissions);
@@ -99,7 +96,6 @@ export default {
       for (var i = 0; i < mission.requirements.length; i++)
       {
         this.$set(mission.requirements[i], 'current', 0);
-        // mission.requirements[i].current = 0;
       }
       return mission;
     },

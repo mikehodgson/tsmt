@@ -24,18 +24,6 @@
             </b-btn>
           </div>
         </div>
-        <!--
-        <div class="row">
-          <div class="col-25 w-25 text-right">
-            <b-btn :class="{'ml-2': true, 'mb-1': true, 'float-right' : true, 'btn-danger' : true}" size="md" @click="requirementResetAll(mission)">
-              &nbsp;<i class="octicon octicon-sync"></i>
-            </b-btn>
-            <b-btn :class="{'float-right' : true, 'btn-secondary' : true}" size="md" @click="editMission(mission)">
-              &nbsp;<i class="octicon octicon-pencil"></i>
-            </b-btn>
-          </div>
-        </div>
-        -->
       </div>
     </div>
   </transition>

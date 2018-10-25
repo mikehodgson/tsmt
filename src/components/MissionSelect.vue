@@ -7,7 +7,7 @@
       <li v-for="mission in filteredMissions" :mission="mission" :key="mission.id" :class="{'media' : true, 'border' : true, 'rounded' : true, 'mb-2' : true, 'border-success' : hasActiveMission(mission)}" @click="selectMission(mission)">
         <i style="font-size: 1.5em" :class="{'octicon octicon-check ml-2 mt-2' : true, 'text-success' : hasActiveMission(mission), 'text-muted' : !hasActiveMission(mission)}"></i>
         <div class="media-body p-2">
-          <h6 class="mt-0 mb-1">{{ getLabel(mission) }}<span class="float-right">{{ mission.duration }}</span></h6>
+          <h6 class="mt-0 mb-1">{{ getMissionLabel(mission) }}<span class="float-right">{{ mission.duration }}</span></h6>
           <p>Requirements: <span>{{ requirementsToString(mission.requirements) }}</span></p>
         </div>
       </li>
@@ -29,16 +29,6 @@
       }
     },
     methods: {
-      getLabel(mission) {
-        let label = `${mission.program}`;
-        let card_info = '';
-        if (mission.program != mission.player) label += ` - ${mission.player}`;
-        card_info += (mission.rating != '') ? `${mission.rating}/` : '-/';
-        card_info += (mission.series != '') ? `${mission.series}/` : '-/'; 
-        card_info += (mission.position != '') ? `${mission.position}` : '-';
-        if (card_info != '-/-/-')  label += ` (${card_info})`;
-        return label;
-      },
       selectMission(mission) {
         if (!this.hasActiveMission(mission))
           this.$eventHub.$emit('mission-selected', mission);

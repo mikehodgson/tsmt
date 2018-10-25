@@ -1,11 +1,11 @@
 {
   "version": "2.0.0",
-  "last_update": "2018-08-07",
+  "last_update": "2018-09-27",
   "program_types": [
     "Team Epic",
     "Conquest",
     "Conquest Extreme",
-    "Conquest Dynasty",
+    "Conquest Destiny",
     "Catcher",
     "First Basemen",
     "Second Basemen",
@@ -23,7 +23,7 @@
     "Daily",
     "Player of the Month",
     "Future Stars"
-  ],
+],
   "durations": [
     "Single Game",
     "Multi-Game"
@@ -38,8 +38,9 @@
     "HW",
     "PS",
     "POTM",
-    "FS"
-  ],
+    "FS",
+    "Finest"
+],
   "teams": [
     "Orioles",
     "Red Sox",

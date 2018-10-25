@@ -3,7 +3,7 @@
     <div class="card mb-2">
       <div class="card-header text-truncate pt-1 pb-1">
         <div class="row pt-0">
-          <div class="col-75 text-truncate w-75 mission-label">{{ getLabel() }}</div>
+          <div class="col-75 text-truncate w-75 mission-label">{{ getMissionLabel(mission) }}</div>
           <div class="col-25 w-25 text-right">{{ mission.duration }}</div>
         </div>
       </div>
@@ -40,17 +40,6 @@
       Requirement
     },
     methods: {
-      getLabel() {
-        let mission = this.mission;
-        let label = `${mission.program}`;
-        let card_info = '';
-        if (mission.program != mission.player) label += ` - ${mission.player}`;
-        card_info += (mission.rating != '') ? `${mission.rating}/` : '-/';
-        card_info += (mission.series != '') ? `${mission.series}/` : '-/'; 
-        card_info += (mission.position != '') ? `${mission.position}` : '-';
-        if (card_info != '-/-/-')  label += ` (${card_info})`;
-        return label;
-      },
       remove() {
         this.$eventHub.$emit('active-mission-removed', this.mission);
       },
